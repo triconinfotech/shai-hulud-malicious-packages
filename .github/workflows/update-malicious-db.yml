@@ -84,7 +84,7 @@ jobs:
             git config user.email "github-actions@github.com"
 
             git add malicious_npm_packages.json CHANGELOG.md README.md malicious_npm_packages_chunked
-            git commit -m "$TIMESTAMP: Updated database with $TOTAL_CHANGES malicious packages (New: $NEW_PKGS, Updated Versions: $NEW_VERS)"
+            git commit -m "[bot] $TIMESTAMP: Updated database with $TOTAL_CHANGES malicious packages (New: $NEW_PKGS, Updated Versions: $NEW_VERS)"
             git push
           else
             echo "No changes detected — skipping commit."
