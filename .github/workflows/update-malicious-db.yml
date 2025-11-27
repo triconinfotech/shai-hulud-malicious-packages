@@ -13,6 +13,10 @@ on:
     branches:
       - main
 
+concurrency:
+  group: update-malicious-db
+  cancel-in-progress: false
+
 jobs:
   update-malicious-db:
     runs-on: ubuntu-latest
@@ -39,7 +43,7 @@ jobs:
           if [ -n "${{ github.event.inputs.days }}" ]; then
             RANGE="${{ github.event.inputs.days }} days ago"
           else
-            RANGE="2 hours ago"
+            RANGE="2 days ago"
           fi
           git log --since="$RANGE" \
             --pretty=format: --name-only -- osv/malicious/npm \
