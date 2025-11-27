@@ -102,11 +102,7 @@ jobs:
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          add: |
-            malicious_npm_packages.json
-            CHANGELOG.md
-            README.md
-            malicious_npm_packages_chunked
+          file_pattern: "malicious_npm_packages.json CHANGELOG.md README.md malicious_npm_packages_chunked/**"
           commit_message: "${{ env.TIMESTAMP }}: Updated database with ${{ env.TOTAL_CHANGES }} malicious packages (New: ${{ env.NEW_PKGS }}, Updated Versions: ${{ env.NEW_VERS }})"
           commit_options: "--no-verify"
           branch: main
