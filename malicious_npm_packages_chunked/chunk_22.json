@@ -1,4 +1,10 @@
 {
+  "mini-css-extract-plugin-passport-centaurus-eslint-plugin": {
+    "versions": []
+  },
+  "mini-css-extract-plugin-pino-changelog-adonis": {
+    "versions": []
+  },
   "mini-css-extract-plugin-postcss-hapi-protractor": {
     "versions": []
   },
@@ -11122,15 +11128,6 @@
     "versions": []
   },
   "nabuf-otginagaf-dofajuagi": {
-    "versions": []
-  },
-  "nabuf-otginagaf-dofajugi": {
-    "versions": []
-  },
-  "nabuf-otginagaf-dofju": {
-    "versions": []
-  },
-  "nabuf-otgnaf-dofpohjau": {
     "versions": []
   }
 }

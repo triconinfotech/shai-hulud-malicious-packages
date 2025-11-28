@@ -1,4 +1,10 @@
 {
+  "lookingan-konami38": {
+    "versions": []
+  },
+  "lookingan-konami39": {
+    "versions": []
+  },
   "lookingan-konami4": {
     "versions": []
   },
@@ -11402,12 +11408,6 @@
     "versions": []
   },
   "mammoth_crab_z3n": {
-    "versions": []
-  },
-  "mammoth_damselfly_z3n": {
-    "versions": []
-  },
-  "mammoth_dragon_z3n": {
     "versions": []
   }
 }

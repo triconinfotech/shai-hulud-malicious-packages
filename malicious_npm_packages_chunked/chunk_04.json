@@ -8792,6 +8792,11 @@
   "browning-wallet-store": {
     "versions": []
   },
+  "browser-client-neptune": {
+    "versions": [
+      "99.99.91"
+    ]
+  },
   "browser-direct-import": {
     "versions": [
       "99.1.9"
@@ -11419,12 +11424,6 @@
     "versions": []
   },
   "buis-manuidais-btayad": {
-    "versions": []
-  },
-  "buis-manuidais-btyad": {
-    "versions": []
-  },
-  "buis-manuidais-manauddida": {
     "versions": []
   }
 }

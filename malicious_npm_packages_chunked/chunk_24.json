@@ -1,4 +1,13 @@
 {
+  "nnnur-zidan-tea": {
+    "versions": []
+  },
+  "nnqxay-devapp": {
+    "versions": []
+  },
+  "nnrqtl-devapptea": {
+    "versions": []
+  },
   "nnur-zidan-tea": {
     "versions": []
   },
@@ -11705,15 +11714,6 @@
     "versions": []
   },
   "nuxtjs-aurora-bellatrix-jekyll": {
-    "versions": []
-  },
-  "nuxtjs-backend-whitedwarf-bootes": {
-    "versions": []
-  },
-  "nuxtjs-bellatrix-zenith-uninstall": {
-    "versions": []
-  },
-  "nuxtjs-bunyan-semantic-ui-warp": {
     "versions": []
   }
 }

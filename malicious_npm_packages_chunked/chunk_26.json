@@ -1,4 +1,16 @@
 {
+  "oral_koi-teagooddev": {
+    "versions": []
+  },
+  "oral_locust-apptea": {
+    "versions": []
+  },
+  "oral_mandrill_z3n": {
+    "versions": []
+  },
+  "oral_mockingbird_z3n": {
+    "versions": []
+  },
   "oral_mollusk_z3n": {
     "versions": []
   },
@@ -10869,15 +10881,6 @@
     "versions": []
   },
   "polaris-transform-firebase-quasar": {
-    "versions": []
-  },
-  "polaris-typeorm-carina-solarnebula": {
-    "versions": []
-  },
-  "polaris-wasat-grunt-puppeteer": {
-    "versions": []
-  },
-  "polaris-weywot-ganymede-start": {
     "versions": []
   }
 }

@@ -1,4 +1,19 @@
 {
+  "xo-tracking": {
+    "versions": [
+      "88.8.9"
+    ]
+  },
+  "xo-tray-height": {
+    "versions": [
+      "99.0.99"
+    ]
+  },
+  "xo-typescript": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "xo-ui-components": {
     "versions": [
       "88.8.9"
@@ -11359,18 +11374,6 @@
     "versions": []
   },
   "zaki-sate64-breki": {
-    "versions": []
-  },
-  "zaki-sate96-ruro": {
-    "versions": []
-  },
-  "zaki-sego1-riris": {
-    "versions": []
-  },
-  "zaki-sego40-riris": {
-    "versions": []
-  },
-  "zaki-sego50-sukiwir": {
     "versions": []
   }
 }

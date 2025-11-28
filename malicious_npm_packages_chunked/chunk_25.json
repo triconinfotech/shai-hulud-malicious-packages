@@ -1,4 +1,13 @@
 {
+  "nuxtjs-backend-whitedwarf-bootes": {
+    "versions": []
+  },
+  "nuxtjs-bellatrix-zenith-uninstall": {
+    "versions": []
+  },
+  "nuxtjs-bunyan-semantic-ui-warp": {
+    "versions": []
+  },
   "nuxtjs-chalk-start-jovian": {
     "versions": []
   },
@@ -11254,18 +11263,6 @@
     "versions": []
   },
   "oral_kangaroo_z3n": {
-    "versions": []
-  },
-  "oral_koi-teagooddev": {
-    "versions": []
-  },
-  "oral_locust-apptea": {
-    "versions": []
-  },
-  "oral_mandrill_z3n": {
-    "versions": []
-  },
-  "oral_mockingbird_z3n": {
     "versions": []
   }
 }

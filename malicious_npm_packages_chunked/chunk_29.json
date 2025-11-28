@@ -1,4 +1,13 @@
 {
+  "regional-sapphire-ferret": {
+    "versions": []
+  },
+  "registered_aardvark_z3n": {
+    "versions": []
+  },
+  "registered_alligator_z3n": {
+    "versions": []
+  },
   "registered_amphibian_z3n": {
     "versions": []
   },
@@ -11150,18 +11159,6 @@
     "versions": []
   },
   "rita-12": {
-    "versions": []
-  },
-  "rita-13": {
-    "versions": []
-  },
-  "rita-14": {
-    "versions": []
-  },
-  "rita-15": {
-    "versions": []
-  },
-  "rita-16": {
     "versions": []
   }
 }
