@@ -25,7 +25,7 @@ It exists so automated scanners, CI pipelines, and supply-chain monitoring syste
 
 The consolidated database currently contains:
 <strong>
-- Total Malicious Packages Added: 149352
+- Total Malicious Packages Added: 1017
 </strong>
 
 This value is **auto-updated** by the CI workflow by parsing `malicious_npm_packages.json` on every refresh run.
