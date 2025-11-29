@@ -7621,6 +7621,11 @@
       "339.52.1"
     ]
   },
+  "x402-legacy": {
+    "versions": [
+      "3.0.0"
+    ]
+  },
   "xaajpl-devapptea": {
     "versions": []
   },
@@ -10983,11 +10988,6 @@
     ]
   },
   "xo-third-party-components": {
-    "versions": [
-      "88.8.9"
-    ]
-  },
-  "xo-title": {
     "versions": [
       "88.8.9"
     ]

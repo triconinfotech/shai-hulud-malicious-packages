@@ -1,4 +1,9 @@
 {
+  "xo-title": {
+    "versions": [
+      "88.8.9"
+    ]
+  },
   "xo-tracking": {
     "versions": [
       "88.8.9"
@@ -11371,9 +11376,6 @@
     "versions": []
   },
   "zaki-sate55-sluey": {
-    "versions": []
-  },
-  "zaki-sate64-breki": {
     "versions": []
   }
 }
