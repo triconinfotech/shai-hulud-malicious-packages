@@ -1,8 +1,13 @@
 export function extractNpmMalicious(jsonData, filePath) {
   const summary = jsonData.summary || "";
   const lower = summary.toLowerCase();
+  const details = (jsonData.details || "").toLowerCase();
 
-  if (!summary.startsWith("Malicious code in") || !lower.includes("npm")) {
+  if (
+    !summary.startsWith("Malicious code in") ||
+    !lower.includes("npm") ||
+    (!details.includes("the package was compromised and malicious code added") && !details.includes("hulud") && !details.includes("worm"))
+  ) {
     return [];
   }
 
@@ -10,7 +15,6 @@ export function extractNpmMalicious(jsonData, filePath) {
 
   const modified = jsonData.modified || "";
   const published = jsonData.published || "";
-  const details = jsonData.details || "";
 
   const results = [];
 
@@ -22,7 +26,7 @@ export function extractNpmMalicious(jsonData, filePath) {
         versions: aff.versions || [],
         modified,
         published,
-        details
+        details,
       });
     }
   }
