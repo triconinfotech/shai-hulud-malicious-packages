@@ -6,7 +6,7 @@ export function extractNpmMalicious(jsonData, filePath) {
   if (
     !summary.startsWith("Malicious code in") ||
     !lower.includes("npm") ||
-    (!details.includes("the package was compromised and malicious code added") && !details.includes("hulud") && !details.includes("worm"))
+    (!details.includes("the package was compromised") && !details.includes("hulud") && !details.includes("worm") && !details.includes("contain malicious code"))
   ) {
     return [];
   }

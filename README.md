@@ -21,17 +21,6 @@ It exists so automated scanners, CI pipelines, and supply-chain monitoring syste
 
 ---
 
-## 📊 Database Statistics
-
-The consolidated database currently contains:
-<strong>
-- Total Malicious Packages Added: 1017
-</strong>
-
-This value is **auto-updated** by the CI workflow by parsing `malicious_npm_packages.json` on every refresh run.
-
----
-
 ## 🔥 Why This Project Exists
 
 OSV and related feeds publish high-quality malicious-package advisories — but not in a format that is trivial for automation, scanners, or monitoring systems to consume.
@@ -43,6 +32,26 @@ This repository solves that by providing:
 - Frequent automated updates  
 
 It provides the **simplest possible interface** for integrating malicious-package intelligence into automated tooling.
+
+---
+
+## 📊 Database Statistics
+
+The consolidated database currently contains:
+<strong>
+- Total Malicious Packages Added: 1017
+</strong>
+
+This value is **auto-updated** by the CI workflow by parsing `malicious_npm_packages.json` on every refresh run.
+
+
+### 🛑 Disclaimer
+Some packages flagged by this tool may not belong to the Shai-Hulud worm specifically.
+This is expected.
+
+Because advisories are inconsistent, delayed, and fragmented, we err on the side of safety. Any package flagged here shows confirmed malicious behavior, even if it originates from a different supply-chain incident.
+
+The scanner intentionally uses broader detection criteria to avoid missing newly-emerging variants or unreported malicious versions.
 
 ---
 
@@ -97,13 +106,6 @@ For maintaining the advisories that power this consolidated feed.
 
 ### 🤖 ChatGPT  
 For helping bring this project to life rapidly — from concept to automation pipeline.
-
----
-
-## ⚠️ Disclaimer
-
-This repository does **not independently verify or audit** malicious package reports.  
-Use it as an intelligence feed alongside broader SCA & security tooling.
 
 ---
 
