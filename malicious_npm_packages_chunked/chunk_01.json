@@ -6012,6 +6012,11 @@
       "1.0.0"
     ]
   },
+  "elf-stats-festive-workshop-566": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-festive-wreath-502": {
     "versions": [
       "1.0.0",
@@ -6028,6 +6033,11 @@
   "elf-stats-flickering-fir-572": {
     "versions": [
       "1.0.0",
+      "1.0.1"
+    ]
+  },
+  "elf-stats-flickering-ornament-344": {
+    "versions": [
       "1.0.1"
     ]
   },
@@ -6271,6 +6281,11 @@
       "1.0.0"
     ]
   },
+  "elf-stats-joyous-hollyberry-121": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-joyous-hollyberry-379": {
     "versions": [
       "1.0.0"
@@ -6489,6 +6504,11 @@
       "1.0.0"
     ]
   },
+  "elf-stats-midnight-saddlebag-720": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-midnight-star-734": {
     "versions": [
       "2.0.0"
@@ -6617,6 +6637,12 @@
       "1.0.1"
     ]
   },
+  "elf-stats-nutmeg-garland-645": {
+    "versions": [
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
   "elf-stats-nutmeg-giftbox-398": {
     "versions": [
       "1.0.0"
@@ -6707,6 +6733,16 @@
   "elf-stats-rooftop-candy-837": {
     "versions": [
       "1.0.0"
+    ]
+  },
+  "elf-stats-rooftop-cocoa-966": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "elf-stats-rooftop-fireplace-499": {
+    "versions": [
+      "1.0.1"
     ]
   },
   "elf-stats-rooftop-garland-184": {
@@ -6830,6 +6866,11 @@
       "999.0.0"
     ]
   },
+  "elf-stats-silvered-star-676": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-silvered-stocking-120": {
     "versions": [
       "999.0.0"
@@ -6902,6 +6943,12 @@
       "1.0.0"
     ]
   },
+  "elf-stats-snowdusted-lantern-234": {
+    "versions": [
+      "1.0.2",
+      "1.0.4"
+    ]
+  },
   "elf-stats-snowdusted-saddlebag-790": {
     "versions": [
       "1.0.0"
@@ -6915,6 +6962,11 @@
       "2.5.2",
       "2.7.2",
       "2.8.2"
+    ]
+  },
+  "elf-stats-snowdusted-train-837": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "elf-stats-snowdusted-wishlist-166": {
@@ -11229,53 +11281,5 @@
   },
   "honeydew-uniform-india-molfp": {
     "versions": []
-  },
-  "honeydew-watermelon-golf-zungw": {
-    "versions": []
-  },
-  "hongse-huanghou": {
-    "versions": []
-  },
-  "hongwan-juexing-v3": {
-    "versions": []
-  },
-  "hope-mapboxdraw": {
-    "versions": [
-      "0.1.1"
-    ]
-  },
-  "hopedraw": {
-    "versions": [
-      "1.0.3"
-    ]
-  },
-  "horizon_1pxfg_lxkto_limestone": {
-    "versions": []
-  },
-  "horizon-nebula-xhj744-project": {
-    "versions": []
-  },
-  "hot-buried-mental": {
-    "versions": []
-  },
-  "hotel-elderberry-romeo-saxfp": {
-    "versions": []
-  },
-  "hotel-lima-charlie-gwkmz": {
-    "versions": []
-  },
-  "hotel-november-orange-teqks": {
-    "versions": []
-  },
-  "hotel-sierra-charlie-agdeg": {
-    "versions": []
-  },
-  "hotel-ugli-oscar-ylhqa": {
-    "versions": []
-  },
-  "hover-design-prototype": {
-    "versions": [
-      "0.0.5"
-    ]
   }
 }
