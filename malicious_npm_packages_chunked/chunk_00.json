@@ -581,7 +581,9 @@
     ]
   },
   "@bhyolken/echotest": {
-    "versions": []
+    "versions": [
+      "1.1.0"
+    ]
   },
   "@bingads-webui-clientcenter/instrumentation": {
     "versions": []

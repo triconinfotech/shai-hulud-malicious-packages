@@ -5755,6 +5755,11 @@
       "999.0.0"
     ]
   },
+  "elf-stats-candystriped-chimney-879": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
   "elf-stats-candystriped-hollyberry-986": {
     "versions": [
       "99.9.9",
@@ -5978,6 +5983,11 @@
       "1.0.1",
       "1.0.2",
       "1.0.3"
+    ]
+  },
+  "elf-stats-evergreen-pantry-410": {
+    "versions": [
+      "99.0.0"
     ]
   },
   "elf-stats-evergreen-sled-681": {
@@ -6353,6 +6363,11 @@
       "1.0.0"
     ]
   },
+  "elf-stats-joyous-train-754": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-jubilant-bow-187": {
     "versions": [
       "1.0.0"
@@ -6579,6 +6594,11 @@
     "versions": [
       "2.2.0",
       "2.2.1"
+    ]
+  },
+  "elf-stats-mulled-nightcap-782": {
+    "versions": [
+      "1.0.1"
     ]
   },
   "elf-stats-mulled-rocket-415": {
@@ -6931,6 +6951,11 @@
       "1.0.0"
     ]
   },
+  "elf-stats-sleighing-mailbag-621": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-sleighing-nutcracker-806": {
     "versions": [
       "10.0.0"
@@ -7020,7 +7045,8 @@
   },
   "elf-stats-snowy-northstar-860": {
     "versions": [
-      "1.0.0"
+      "1.0.0",
+      "2.0.0"
     ]
   },
   "elf-stats-snowy-sleigh-766": {
@@ -7082,6 +7108,12 @@
       "1.2.0"
     ]
   },
+  "elf-stats-sparkly-candy-805": {
+    "versions": [
+      "1.0.0",
+      "2.0.0"
+    ]
+  },
   "elf-stats-sparkly-cocoa-863": {
     "versions": [
       "1.0.0"
@@ -7106,6 +7138,12 @@
   "elf-stats-sparkly-snowflake-139": {
     "versions": [
       "1.0.0"
+    ]
+  },
+  "elf-stats-sprucey-fireplace-355": {
+    "versions": [
+      "1.0.4",
+      "1.0.5"
     ]
   },
   "elf-stats-sprucey-icicle-606": {
@@ -7243,6 +7281,11 @@
       "1.0.0",
       "1.0.1",
       "1.0.2"
+    ]
+  },
+  "elf-stats-sugarplum-cookiejar-287": {
+    "versions": [
+      "99.0.0"
     ]
   },
   "elf-stats-sugarplum-fireplace-278": {
@@ -11248,46 +11291,6 @@
     "versions": []
   },
   "hendra-tumis47-breki": {
-    "versions": []
-  },
-  "heoubonuobonuode-xingfu-qiji": {
-    "versions": []
-  },
-  "hercules-grus-css-loader-package": {
-    "versions": []
-  },
-  "hex-stablecoin": {
-    "versions": []
-  },
-  "higgs-server-avior-yildun": {
-    "versions": []
-  },
-  "high-perhaps-final": {
-    "versions": []
-  },
-  "hill-bound-write": {
-    "versions": []
-  },
-  "hilton-ui": {
-    "versions": [
-      "296.8.0"
-    ]
-  },
-  "hiro-experience-map": {
-    "versions": []
-  },
-  "hisnameisjc": {
-    "versions": []
-  },
-  "hisnameisloopy": {
-    "versions": []
-  },
-  "hl-naduccio": {
-    "versions": [
-      "1.0.7"
-    ]
-  },
-  "hollow-iceberg-uif020-project": {
     "versions": []
   }
 }
