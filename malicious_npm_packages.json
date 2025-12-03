@@ -5649,6 +5649,13 @@
       "0.9.10"
     ]
   },
+  "@testfei/hallo-word": {
+    "versions": [
+      "1.0.4",
+      "1.0.5",
+      "1.0.7"
+    ]
+  },
   "@tezign/html-webpack-plugin": {
     "versions": []
   },
@@ -11292,6 +11299,9 @@
     "versions": []
   },
   "buffalo-yonder-sru375-project": {
+    "versions": []
+  },
+  "buffer-envjs": {
     "versions": []
   },
   "buffer-express-eslint-plugin-halley": {
@@ -16992,7 +17002,8 @@
       "2.1.0",
       "2.2.0",
       "3.0.0",
-      "4.0.0"
+      "4.0.0",
+      "5.0.0"
     ]
   },
   "elf-stats-bright-garland-287": {
@@ -17044,6 +17055,11 @@
       "1.0.3"
     ]
   },
+  "elf-stats-caroling-mailbag-397": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-caroling-sleigh-970": {
     "versions": [
       "1.0.0",
@@ -17076,6 +17092,16 @@
       "1.0.0"
     ]
   },
+  "elf-stats-cocoa-cocoa-280": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-cocoa-fir-846": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
   "elf-stats-cocoa-muffin-395": {
     "versions": [
       "1.0.0"
@@ -17101,6 +17127,11 @@
       "1.0.0"
     ]
   },
+  "elf-stats-cocoa-train-606-pwn2": {
+    "versions": [
+      "999.999.999"
+    ]
+  },
   "elf-stats-cosy-pantry-344": {
     "versions": [
       "1.0.0"
@@ -17118,6 +17149,11 @@
   "elf-stats-cosy-wishlist-811": {
     "versions": [
       "1.0.2"
+    ]
+  },
+  "elf-stats-cranberry-hollyberry-804": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "elf-stats-cranberry-icicle-864": {
@@ -17155,6 +17191,11 @@
     "versions": [
       "1.0.0",
       "1.0.1"
+    ]
+  },
+  "elf-stats-ember-reindeer-211": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "elf-stats-ember-stockpile-641": {
@@ -17280,6 +17321,11 @@
       "1.0.0"
     ]
   },
+  "elf-stats-frostbitten-reindeer-875": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-frostbitten-ribbon-950": {
     "versions": [
       "1.0.0"
@@ -17306,6 +17352,11 @@
       "1.0.6"
     ]
   },
+  "elf-stats-frosty-candy-393": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-frosty-toy-870": {
     "versions": [
       "1.0.0"
@@ -17320,6 +17371,11 @@
   "elf-stats-fuzzy-fir-973": {
     "versions": [
       "1.0.3"
+    ]
+  },
+  "elf-stats-fuzzy-hollyberry-736": {
+    "versions": [
+      "5.0.0"
     ]
   },
   "elf-stats-fuzzy-marshmallow-280": {
@@ -17379,9 +17435,22 @@
       "1.0.1"
     ]
   },
+  "elf-stats-ginger-reindeer-411": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
   "elf-stats-ginger-workshop-948": {
     "versions": [
       "1.0.0"
+    ]
+  },
+  "elf-stats-gingersnap-ornament-469": {
+    "versions": [
+      "9.0.0",
+      "9.0.1",
+      "9.1.1",
+      "9.2.1"
     ]
   },
   "elf-stats-gingersnap-pinecone-440": {
@@ -17404,6 +17473,11 @@
       "1.0.0"
     ]
   },
+  "elf-stats-glittering-fir-252": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-glittering-lantern-418": {
     "versions": [
       "1.0.0"
@@ -17415,6 +17489,16 @@
     ]
   },
   "elf-stats-glittering-nutcracker-591": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-glittering-nutcracker-709": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-glittering-reindeer-615": {
     "versions": [
       "1.0.0"
     ]
@@ -17500,6 +17584,11 @@
       "1.0.0"
     ]
   },
+  "elf-stats-jubilant-bow-187": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-jubilant-chimney-189": {
     "versions": [
       "1.0.0"
@@ -17523,6 +17612,7 @@
   },
   "elf-stats-magical-sleigh-777": {
     "versions": [
+      "1.0.0",
       "1.0.1",
       "1.0.2",
       "1.0.3",
@@ -17577,6 +17667,21 @@
       "9.9.9"
     ]
   },
+  "elf-stats-merry-cookiejar-442": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "elf-stats-merry-cookiejar-511": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-merry-cookiejar-646": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-merry-cookiejar-754": {
     "versions": [
       "1.0.0"
@@ -17604,6 +17709,13 @@
   "elf-stats-merry-stocking-539": {
     "versions": [
       "1.1.11"
+    ]
+  },
+  "elf-stats-midnight-chimney-291": {
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.5"
     ]
   },
   "elf-stats-midnight-drum-606": {
@@ -17680,6 +17792,12 @@
       "1.0.0"
     ]
   },
+  "elf-stats-mulled-stocking-538": {
+    "versions": [
+      "1.0.0",
+      "1.0.1"
+    ]
+  },
   "elf-stats-mulled-stockpile-411": {
     "versions": [
       "1.999.0"
@@ -17732,6 +17850,12 @@
       "1.0.6"
     ]
   },
+  "elf-stats-nutmeg-cookie-584": {
+    "versions": [
+      "1.0.0",
+      "1.0.1"
+    ]
+  },
   "elf-stats-nutmeg-giftbox-398": {
     "versions": [
       "1.0.0"
@@ -17748,6 +17872,11 @@
     ]
   },
   "elf-stats-peppermint-candy-233": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-peppermint-hollyberry-893": {
     "versions": [
       "1.0.0"
     ]
@@ -17776,6 +17905,11 @@
       "999.0.0"
     ]
   },
+  "elf-stats-piney-icicle-383": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
   "elf-stats-piney-icicle-501": {
     "versions": [
       "1.0.1",
@@ -17790,6 +17924,11 @@
     ]
   },
   "elf-stats-piney-ledger-864": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-piney-nightcap-782": {
     "versions": [
       "1.0.0"
     ]
@@ -17855,6 +17994,11 @@
     ]
   },
   "elf-stats-shimmering-icicle-214": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-shimmering-lantern-668": {
     "versions": [
       "1.0.0"
     ]
@@ -17941,9 +18085,24 @@
       "1.1.3"
     ]
   },
+  "elf-stats-sleighing-nutcracker-806": {
+    "versions": [
+      "10.0.0"
+    ]
+  },
   "elf-stats-snowdusted-bauble-104": {
     "versions": [
       "1.0.0"
+    ]
+  },
+  "elf-stats-snowdusted-cocoa-694": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-snowdusted-drum-647": {
+    "versions": [
+      "1.0.1"
     ]
   },
   "elf-stats-snowdusted-fireplace-396": {
@@ -17968,6 +18127,16 @@
   },
   "elf-stats-snowdusted-wishlist-166": {
     "versions": []
+  },
+  "elf-stats-snowy-bow-730": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-snowy-candy-518": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "elf-stats-snowy-candy-850": {
     "versions": [
@@ -18007,6 +18176,11 @@
       "2.2.0",
       "2.2.1",
       "2.2.2"
+    ]
+  },
+  "elf-stats-snuggly-ornament-764": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "elf-stats-snuggly-rocket-941": {
@@ -18075,6 +18249,11 @@
       "1.0.0"
     ]
   },
+  "elf-stats-sprucey-stockpile-628": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-sprucey-train-471": {
     "versions": [
       "1.0.1"
@@ -18117,7 +18296,14 @@
   },
   "elf-stats-starlit-northstar-873": {
     "versions": [
+      "1.0.2",
+      "9.9.9",
       "99.9.9"
+    ]
+  },
+  "elf-stats-starlit-ribbon-255": {
+    "versions": [
+      "1.0.1"
     ]
   },
   "elf-stats-starlit-rocket-905": {
@@ -18151,6 +18337,11 @@
   "elf-stats-storybook-cookiejar-880": {
     "versions": []
   },
+  "elf-stats-storybook-marshmallow-471": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-storybook-marshmallow-729": {
     "versions": [
       "1.0.0"
@@ -18167,6 +18358,11 @@
       "2.2.0"
     ]
   },
+  "elf-stats-storybook-snowglobe-157": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-storybook-stocking-662": {
     "versions": [
       "1.0.0",
@@ -18179,6 +18375,11 @@
       "1.0.0",
       "1.0.1",
       "1.0.2"
+    ]
+  },
+  "elf-stats-sugarplum-muffin-944": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "elf-stats-sugarplum-saddlebag-236": {
@@ -18222,6 +18423,11 @@
       "1.0.0"
     ]
   },
+  "elf-stats-tinsel-train-397": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-twinkling-ledger-863": {
     "versions": [
       "1.0.0"
@@ -18261,9 +18467,28 @@
   "elf-stats-velvet-fir-824": {
     "versions": []
   },
+  "elf-stats-velvet-ornament-148": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
   "elf-stats-velvet-ornament-935": {
     "versions": [
       "99.0.0"
+    ]
+  },
+  "elf-stats-velvet-snowman-470": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4"
+    ]
+  },
+  "elf-stats-whimsical-chimney-949": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "elf-stats-whimsical-lantern-823": {
@@ -18311,6 +18536,11 @@
       "3.0.0"
     ]
   },
+  "elf-stats-wintry-cocoa-831": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
   "elf-stats-wintry-fir-892": {
     "versions": [
       "999.0.0"
@@ -18344,7 +18574,9 @@
   },
   "elf-stats-wintry-satchel-723": {
     "versions": [
-      "2.0.0"
+      "2.0.0",
+      "2.0.1",
+      "2.0.2"
     ]
   },
   "elf-stats-wintry-sled-578": {
@@ -21944,6 +22176,11 @@
   "hash-guard": {
     "versions": []
   },
+  "hast-util-to-mdast9": {
+    "versions": [
+      "9.0.0"
+    ]
+  },
   "haufe-axera-api-client": {
     "versions": [
       "0.0.1",
@@ -23228,8 +23465,58 @@
   "kardashevscale-accretion-borealis-archaeometry": {
     "versions": []
   },
+  "karem1": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "karem10": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "karem4": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "karem5": {
     "versions": []
+  },
+  "karem7": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "karemm1": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "karemm2": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "karemm3": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "karemm5": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "karemm6": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "karemm7": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "karemv1": {
     "versions": [
@@ -23432,6 +23719,13 @@
   "kkkarem": {
     "versions": [
       "4.0.0"
+    ]
+  },
+  "kkkaremn": {
+    "versions": [
+      "6.0.0",
+      "9.0.0",
+      "11.0.0"
     ]
   },
   "kmf-cookieservice": {
@@ -23695,6 +23989,12 @@
     "versions": [
       "1.5.9",
       "1.5.10"
+    ]
+  },
+  "kwp-router": {
+    "versions": [
+      "1.0.0",
+      "1.0.1"
     ]
   },
   "kyjnzu": {
@@ -28524,6 +28824,12 @@
     "versions": []
   },
   "remark-exoplanetology-meissa-astro": {
+    "versions": []
+  },
+  "remark-mdx2.3": {
+    "versions": []
+  },
+  "remark-parse10": {
     "versions": []
   },
   "remark-preset-lint-crowdstrike": {

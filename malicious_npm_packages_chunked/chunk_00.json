@@ -5649,6 +5649,13 @@
       "0.9.10"
     ]
   },
+  "@testfei/hallo-word": {
+    "versions": [
+      "1.0.4",
+      "1.0.5",
+      "1.0.7"
+    ]
+  },
   "@tezign/html-webpack-plugin": {
     "versions": []
   },
@@ -11265,12 +11272,6 @@
     "versions": []
   },
   "budi-tempe28-breki": {
-    "versions": []
-  },
-  "budi-tempe42-sluey": {
-    "versions": []
-  },
-  "budi-toge17-sukiwir": {
     "versions": []
   }
 }
