@@ -29994,7 +29994,9 @@
     "versions": []
   },
   "sd-notexsit": {
-    "versions": []
+    "versions": [
+      "999.0.41"
+    ]
   },
   "sdk-ethers": {
     "versions": []
