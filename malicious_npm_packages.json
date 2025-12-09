@@ -26504,7 +26504,9 @@
     "versions": []
   },
   "native-component-list": {
-    "versions": []
+    "versions": [
+      "99.1.0"
+    ]
   },
   "native-despina-version-kardashevscale": {
     "versions": []
