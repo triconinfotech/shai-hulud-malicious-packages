@@ -1,4 +1,361 @@
 {
+  "tuti-lengko23-breki": {
+    "versions": []
+  },
+  "tuti-lengko51-sukiwir": {
+    "versions": []
+  },
+  "tuti-liwet26-sluey": {
+    "versions": []
+  },
+  "tuti-lumpur25-sluey": {
+    "versions": []
+  },
+  "tuti-lumpur76-riris": {
+    "versions": []
+  },
+  "tuti-lupis86-sukiwir": {
+    "versions": []
+  },
+  "tuti-mangut77-breki": {
+    "versions": []
+  },
+  "tuti-martabak70-ruro": {
+    "versions": []
+  },
+  "tuti-martabak94-sluey": {
+    "versions": []
+  },
+  "tuti-moci49-kyuki": {
+    "versions": []
+  },
+  "tuti-ongol-ongol38-riris": {
+    "versions": []
+  },
+  "tuti-ongol-ongol46-sluey": {
+    "versions": []
+  },
+  "tuti-pecel26-ruro": {
+    "versions": []
+  },
+  "tuti-rojak6-miaww": {
+    "versions": []
+  },
+  "tuti-sambel97-ruro": {
+    "versions": []
+  },
+  "tuti-sate54-ruro": {
+    "versions": []
+  },
+  "tuti-semur13-miaww": {
+    "versions": []
+  },
+  "tuti-semur94-miaww": {
+    "versions": []
+  },
+  "tuti-serabi72-ruro": {
+    "versions": []
+  },
+  "tuti-soto42-breki": {
+    "versions": []
+  },
+  "tuti-taiwan77-breki": {
+    "versions": []
+  },
+  "tuti-taiwan87-breki": {
+    "versions": []
+  },
+  "tuti-takokak4-sukiwir": {
+    "versions": []
+  },
+  "tuti-takokak49-sluey": {
+    "versions": []
+  },
+  "tuti-tapai15-miaww": {
+    "versions": []
+  },
+  "tuti-tek100-sukiwir": {
+    "versions": []
+  },
+  "tuti-telur51-breki": {
+    "versions": []
+  },
+  "tuti-tempe23-breki": {
+    "versions": []
+  },
+  "tuti-toge50-ruro": {
+    "versions": []
+  },
+  "tuti-toge8-breki": {
+    "versions": []
+  },
+  "tuti-tomat24-breki": {
+    "versions": []
+  },
+  "tuti-wajit19-sluey": {
+    "versions": []
+  },
+  "tuti-wajit31-riris": {
+    "versions": []
+  },
+  "tutorialandexample-zh": {
+    "versions": []
+  },
+  "tutorialkart-zh": {
+    "versions": []
+  },
+  "tutorialsclass-zh": {
+    "versions": []
+  },
+  "tvi-cli": {
+    "versions": [
+      "0.1.5"
+    ]
+  },
+  "typeface-antonio-complete": {
+    "versions": [
+      "1.0.5"
+    ]
+  },
+  "typefence": {
+    "versions": [
+      "1.2.2",
+      "1.2.3"
+    ]
+  },
+  "typeorm-lynx-playwright-convict": {
+    "versions": []
+  },
+  "typeorm-orbit": {
+    "versions": [
+      "0.2.27"
+    ]
+  },
+  "typeorm-saturnology-carina-chalk": {
+    "versions": []
+  },
+  "types-lodash.es": {
+    "versions": [
+      "0.0.1-security",
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.6",
+      "1.0.7"
+    ]
+  },
+  "typescript-airbnb-prettier": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "typescript-airbnb-prettier-svelte": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "typespec-validation": {
+    "versions": []
+  },
+  "u8ymp15aglfp7y": {
+    "versions": [
+      "0.0.1"
+    ]
+  },
+  "uba-plugins": {
+    "versions": []
+  },
+  "uber-ui": {
+    "versions": [
+      "95.6.0"
+    ]
+  },
+  "ucbuzz-web-common": {
+    "versions": []
+  },
+  "udin-bika32-riris": {
+    "versions": []
+  },
+  "udin-bika78-riris": {
+    "versions": []
+  },
+  "udin-brongkos71-sukiwir": {
+    "versions": []
+  },
+  "udin-dodol22-miaww": {
+    "versions": []
+  },
+  "udin-dodol42-breki": {
+    "versions": []
+  },
+  "udin-empal63-ruro": {
+    "versions": []
+  },
+  "udin-esdoger29-breki": {
+    "versions": []
+  },
+  "udin-gandul59-sluey": {
+    "versions": []
+  },
+  "udin-gembus3-miaww": {
+    "versions": []
+  },
+  "udin-getuk49-miaww": {
+    "versions": []
+  },
+  "udin-getuk82-sukiwir": {
+    "versions": []
+  },
+  "udin-gulai5-riris": {
+    "versions": []
+  },
+  "udin-ikan84-riris": {
+    "versions": []
+  },
+  "udin-jus45-ruro": {
+    "versions": []
+  },
+  "udin-kemplang15-ruro": {
+    "versions": []
+  },
+  "udin-kentang97-miaww": {
+    "versions": []
+  },
+  "udin-kentang99-sukiwir": {
+    "versions": []
+  },
+  "udin-kepok63-sluey": {
+    "versions": []
+  },
+  "udin-keraktelor47-breki": {
+    "versions": []
+  },
+  "udin-keraktelor48-riris": {
+    "versions": []
+  },
+  "udin-keripik28-sukiwir": {
+    "versions": []
+  },
+  "udin-keripik51-riris": {
+    "versions": []
+  },
+  "udin-klentik45-sukiwir": {
+    "versions": []
+  },
+  "udin-kue17-riris": {
+    "versions": []
+  },
+  "udin-kue73-breki": {
+    "versions": []
+  },
+  "udin-kue87-pore": {
+    "versions": []
+  },
+  "udin-kue87-sukiwir": {
+    "versions": []
+  },
+  "udin-lepet98-miaww": {
+    "versions": []
+  },
+  "udin-liwet37-breki": {
+    "versions": []
+  },
+  "udin-lontong47-breki": {
+    "versions": []
+  },
+  "udin-lontong77-kyuki": {
+    "versions": []
+  },
+  "udin-martabak87-kyuki": {
+    "versions": []
+  },
+  "udin-mendoan100-breki": {
+    "versions": []
+  },
+  "udin-mendut96-breki": {
+    "versions": []
+  },
+  "udin-miemee32-devapp": {
+    "versions": []
+  },
+  "udin-naget98-sluey": {
+    "versions": []
+  },
+  "udin-nasi13-breki": {
+    "versions": []
+  },
+  "udin-nasi49-riris": {
+    "versions": []
+  },
+  "udin-nasipecel23-riris": {
+    "versions": []
+  },
+  "udin-nasisayur48-breki": {
+    "versions": []
+  },
+  "udin-papeda90-sluey": {
+    "versions": []
+  },
+  "udin-peyek62-sluey": {
+    "versions": []
+  },
+  "udin-rangi52-breki": {
+    "versions": []
+  },
+  "udin-rangi66-ruro": {
+    "versions": []
+  },
+  "udin-rangi79-breki": {
+    "versions": []
+  },
+  "udin-rawon74-breki": {
+    "versions": []
+  },
+  "udin-saguer93-sukiwir": {
+    "versions": []
+  },
+  "udin-sambel42-breki": {
+    "versions": []
+  },
+  "udin-sambel46-apidev": {
+    "versions": []
+  },
+  "udin-sate14-miaww": {
+    "versions": []
+  },
+  "udin-semur41-breki": {
+    "versions": []
+  },
+  "udin-soto50-wekto": {
+    "versions": []
+  },
+  "udin-sroto16-breki": {
+    "versions": []
+  },
+  "udin-teh28-sluey": {
+    "versions": []
+  },
+  "udin-teh52-ruro": {
+    "versions": []
+  },
+  "udin-tek47-miaww": {
+    "versions": []
+  },
+  "udin-tek8-breki": {
+    "versions": []
+  },
+  "udin-tempe25-sukiwir": {
+    "versions": []
+  },
+  "udin-tempe43-kyuki": {
+    "versions": []
+  },
+  "udin-tempe62-breki": {
+    "versions": []
+  },
   "uglify-js-forever-equinox-nodejs": {
     "versions": []
   },
@@ -385,6 +742,9 @@
   "ursa-phoenix-hadron-terser-webpack-plugin": {
     "versions": []
   },
+  "usage-tracker-janus": {
+    "versions": []
+  },
   "usb_dev": {
     "versions": []
   },
@@ -398,6 +758,13 @@
   },
   "user-trace-fingerprint": {
     "versions": []
+  },
+  "utif-updated": {
+    "versions": [
+      "99.0.1",
+      "99.0.3",
+      "99.0.4"
+    ]
   },
   "utomo-bakwan72-ruro": {
     "versions": []
@@ -616,6 +983,9 @@
     ]
   },
   "vdepen": {
+    "versions": []
+  },
+  "vdous": {
     "versions": []
   },
   "ve-bamreader": {
@@ -1075,6 +1445,36 @@
   "vida-tongseng70-sluey": {
     "versions": []
   },
+  "viktor-xml-parser": {
+    "versions": []
+  },
+  "viktorparserctf": {
+    "versions": []
+  },
+  "viktorparserctf2": {
+    "versions": []
+  },
+  "viktorparserctf3": {
+    "versions": []
+  },
+  "viktorparserctf4": {
+    "versions": []
+  },
+  "viktorparserctf5": {
+    "versions": []
+  },
+  "viktorparserctf6": {
+    "versions": []
+  },
+  "viktorparserctf7": {
+    "versions": []
+  },
+  "viktorparserctf8": {
+    "versions": []
+  },
+  "viktorparserctf9": {
+    "versions": []
+  },
   "vina-bakwan44-riris": {
     "versions": []
   },
@@ -1335,6 +1735,9 @@
       "5.0.0"
     ]
   },
+  "vitor-js": {
+    "versions": []
+  },
   "vity-toolkit": {
     "versions": []
   },
@@ -1366,6 +1769,11 @@
   },
   "vortex-logger": {
     "versions": []
+  },
+  "vscode-azure-mcp-server": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "vscode-js-profile-flame": {
     "versions": []
@@ -2135,6 +2543,9 @@
   "wibowo-wajit87-sukiwir": {
     "versions": []
   },
+  "wifi-killer-xnet": {
+    "versions": []
+  },
   "winbox2025": {
     "versions": []
   },
@@ -2421,6 +2832,15 @@
   "xbalingxbaliu-huibian-yuyan-yujisuanji-tixi-jiegou": {
     "versions": []
   },
+  "xbox-bottomnav": {
+    "versions": [
+      "99.99.11",
+      "99.99.99"
+    ]
+  },
+  "xboxlive-auth": {
+    "versions": []
+  },
   "xdater": {
     "versions": [
       "6.1.9",
@@ -2631,6 +3051,15 @@
   "xmlparserruntime": {
     "versions": []
   },
+  "xmlwtf3": {
+    "versions": []
+  },
+  "xnetgpt": {
+    "versions": []
+  },
+  "xnetgpt-lite": {
+    "versions": []
+  },
   "xo-address-components": {
     "versions": [
       "88.8.9"
@@ -2702,6 +3131,9 @@
     "versions": []
   },
   "xuexing-shengxiao-xingzuo-quanshu": {
+    "versions": []
+  },
+  "xvxx": {
     "versions": []
   },
   "xwusanjiu-dangan-vol1": {
@@ -3183,6 +3615,9 @@
   "yq-go": {
     "versions": []
   },
+  "yt-smm": {
+    "versions": []
+  },
   "yuchengdaoren-tianmu-qimen": {
     "versions": []
   },
@@ -3644,6 +4079,9 @@
     ]
   },
   "zcash-easy-miner": {
+    "versions": []
+  },
+  "zebracros-bahlil": {
     "versions": []
   },
   "zenith-kaus-global-dendrochronology": {

@@ -1,4 +1,76 @@
 {
+  "budi-rawon46-sluey": {
+    "versions": []
+  },
+  "budi-rawon66-kyuki": {
+    "versions": []
+  },
+  "budi-rendang31-sluey": {
+    "versions": []
+  },
+  "budi-rojak53-breki": {
+    "versions": []
+  },
+  "budi-rojak66-miaww": {
+    "versions": []
+  },
+  "budi-rujak98-breki": {
+    "versions": []
+  },
+  "budi-rujaksoto8-ruro": {
+    "versions": []
+  },
+  "budi-ruwet47-breki": {
+    "versions": []
+  },
+  "budi-saguer52-ruro": {
+    "versions": []
+  },
+  "budi-sambalado30-ruro": {
+    "versions": []
+  },
+  "budi-sate31-sluey": {
+    "versions": []
+  },
+  "budi-sego51-sluey": {
+    "versions": []
+  },
+  "budi-semur26-miaww": {
+    "versions": []
+  },
+  "budi-semur84-ruro": {
+    "versions": []
+  },
+  "budi-soto34-ruro": {
+    "versions": []
+  },
+  "budi-soto7-riris": {
+    "versions": []
+  },
+  "budi-soto81-riris": {
+    "versions": []
+  },
+  "budi-soto87-breki": {
+    "versions": []
+  },
+  "budi-tahu55-sukiwir": {
+    "versions": []
+  },
+  "budi-tahu88-breki": {
+    "versions": []
+  },
+  "budi-tahutek23-breki": {
+    "versions": []
+  },
+  "budi-tahutek71-ruro": {
+    "versions": []
+  },
+  "budi-tahutek9-riris": {
+    "versions": []
+  },
+  "budi-tahutek95-ruro": {
+    "versions": []
+  },
   "budi-taiwan51-breki": {
     "versions": []
   },
@@ -162,6 +234,9 @@
     "versions": []
   },
   "callisto-testcafe-css-minimizer-webpack-plugin-version": {
+    "versions": []
+  },
+  "camscanner-seo": {
     "versions": []
   },
   "candra-bika85-sukiwir": {
@@ -839,13 +914,22 @@
   "cfan-erlingyiyi-part2": {
     "versions": []
   },
+  "cfruitmaliciousxmlparser": {
+    "versions": []
+  },
   "cg-scratch-zh": {
+    "versions": []
+  },
+  "chai-as-awaited": {
     "versions": []
   },
   "chai-as-deployed": {
     "versions": []
   },
   "chai-as-sorted": {
+    "versions": []
+  },
+  "chai-async": {
     "versions": []
   },
   "chai-async-chain": {
@@ -872,6 +956,9 @@
     "versions": []
   },
   "chai-leda-pavo-mongoose": {
+    "versions": []
+  },
+  "chai-nerd": {
     "versions": []
   },
   "chai-prettier-plugin-markdown-weywot-ichnology": {
@@ -2288,6 +2375,11 @@
   "cloud-zephyr-oaw109-project": {
     "versions": []
   },
+  "cloudy-uvi-sense-v11": {
+    "versions": [
+      "99.9.9"
+    ]
+  },
   "club-shop-rope": {
     "versions": []
   },
@@ -2295,6 +2387,12 @@
     "versions": []
   },
   "cluster-slidev-acamar-enceladus": {
+    "versions": []
+  },
+  "cms_comp": {
+    "versions": []
+  },
+  "cms_comp_static": {
     "versions": []
   },
   "co-in-mas-ter-free-spins-2023-dflme": {
@@ -2472,6 +2570,11 @@
       "0.5.4"
     ]
   },
+  "commander-stable": {
+    "versions": [
+      "15.100.101"
+    ]
+  },
   "commitizen-fomalhaut-slidev-mocha": {
     "versions": []
   },
@@ -2643,6 +2746,9 @@
   "cors-validator": {
     "versions": []
   },
+  "cos-js-sdk-v6": {
+    "versions": []
+  },
   "cosmiconfig-build-javascript-ini": {
     "versions": []
   },
@@ -2785,10 +2891,28 @@
       "0.30.2"
     ]
   },
+  "ctfepakageflgs": {
+    "versions": []
+  },
+  "ctfparsertna": {
+    "versions": []
+  },
+  "ctfvamp": {
+    "versions": []
+  },
+  "ctfvampir": {
+    "versions": []
+  },
+  "ctfxmlflgcheck": {
+    "versions": []
+  },
   "cursor-ai-fork": {
     "versions": []
   },
   "cursor-bypass": {
+    "versions": []
+  },
+  "cursorparserfruit": {
     "versions": []
   },
   "curve-duck-possible": {
@@ -2977,6 +3101,9 @@
       "1.1.4",
       "1.1.5"
     ]
+  },
+  "ddos-gacor-v2": {
+    "versions": []
   },
   "ddos-l7": {
     "versions": []
@@ -3574,6 +3701,9 @@
     "versions": []
   },
   "dezelwash-pkg": {
+    "versions": []
+  },
+  "dfruitmaliciousxmlparser": {
     "versions": []
   },
   "dhchukyso": {
@@ -5175,6 +5305,9 @@
   "dsidospsodlks": {
     "versions": []
   },
+  "dubbo-js-private-workspace": {
+    "versions": []
+  },
   "duixnshu-gongxinshu-kuanxinshu-daquanji": {
     "versions": []
   },
@@ -5274,6 +5407,9 @@
     "versions": []
   },
   "effector-react-kws": {
+    "versions": []
+  },
+  "efruitmaliciousxmlparser": {
     "versions": []
   },
   "eg4-fangfa": {
@@ -5792,6 +5928,9 @@
       "1.0.0"
     ]
   },
+  "elf-stats-aurora-cocoa-911": {
+    "versions": []
+  },
   "elf-stats-aurora-garland-513": {
     "versions": [
       "1.0.1"
@@ -6126,6 +6265,9 @@
     "versions": [
       "999.999.999"
     ]
+  },
+  "elf-stats-cocoa-workshop-459": {
+    "versions": []
   },
   "elf-stats-cosy-chimney-268": {
     "versions": [
@@ -6562,6 +6704,9 @@
     "versions": [
       "2.0.0"
     ]
+  },
+  "elf-stats-fuzzy-wreath-278": {
+    "versions": []
   },
   "elf-stats-ginger-bell-819": {
     "versions": [
@@ -7231,6 +7376,9 @@
     "versions": [
       "9.9.9"
     ]
+  },
+  "elf-stats-nutmeg-sleigh-350": {
+    "versions": []
   },
   "elf-stats-nutmeg-stocking-515": {
     "versions": [
@@ -7948,6 +8096,9 @@
       "99.0.0"
     ]
   },
+  "elf-stats-sugarplum-fir-770": {
+    "versions": []
+  },
   "elf-stats-sugarplum-fireplace-278": {
     "versions": [
       "1.0.0",
@@ -8198,6 +8349,9 @@
     "versions": [
       "3.0.0"
     ]
+  },
+  "elf-stats-wintry-chimney-348": {
+    "versions": []
   },
   "elf-stats-wintry-cocoa-831": {
     "versions": [
@@ -9164,6 +9318,11 @@
       "0.4.1"
     ]
   },
+  "escaux-scrumboard-api": {
+    "versions": [
+      "999.0.0"
+    ]
+  },
   "esg-odf-common": {
     "versions": []
   },
@@ -9215,6 +9374,9 @@
     "versions": [
       "1.0.4"
     ]
+  },
+  "eslint-config-zoo": {
+    "versions": []
   },
   "eslint-css-minimizer-webpack-plugin-metabolomics-centaurus": {
     "versions": []
@@ -9353,6 +9515,9 @@
     "versions": [
       "99.0.0"
     ]
+  },
+  "example-vue2-micro": {
+    "versions": []
   },
   "exchange-liquid-higher": {
     "versions": []
@@ -10195,6 +10360,9 @@
   "fetch-request-hyperion-kardashevscale": {
     "versions": []
   },
+  "ffruitmaliciousxmlparser": {
+    "versions": []
+  },
   "fifira": {
     "versions": []
   },
@@ -10480,6 +10648,9 @@
   "fjord-vulture-zxg871-project": {
     "versions": []
   },
+  "flagstealerfinal": {
+    "versions": []
+  },
   "flapstacks": {
     "versions": [
       "1.0.1",
@@ -10564,6 +10735,9 @@
     "versions": []
   },
   "foundary": {
+    "versions": []
+  },
+  "foundations-theming-base": {
     "versions": []
   },
   "foundrey": {
@@ -10735,6 +10909,9 @@
     "versions": [
       "1.0.1"
     ]
+  },
+  "fruit-malicious-xml-parser": {
+    "versions": []
   },
   "fullscriptsexploit": {
     "versions": []
@@ -11190,182 +11367,13 @@
   "geyser_rbsl0_phg49_molecule": {
     "versions": []
   },
+  "gfruitmaliciousxmlparser": {
+    "versions": []
+  },
   "gi-ft-ca-rds-fortnite-2023-zdkzld": {
     "versions": []
   },
   "gibertserct12": {
-    "versions": []
-  },
-  "gibertserctf6": {
-    "versions": []
-  },
-  "gibertserctf7": {
-    "versions": []
-  },
-  "giffgaff-help-site": {
-    "versions": [
-      "339.52.1"
-    ]
-  },
-  "giffgaff-status": {
-    "versions": [
-      "339.52.1"
-    ]
-  },
-  "gilang-brengkes91-breki": {
-    "versions": []
-  },
-  "gilang-brongkos83-breki": {
-    "versions": []
-  },
-  "gilang-bubur53-sukiwir": {
-    "versions": []
-  },
-  "gilang-bubursumsum9-breki": {
-    "versions": []
-  },
-  "gilang-dodol29-apidev": {
-    "versions": []
-  },
-  "gilang-dodol7-sukiwir": {
-    "versions": []
-  },
-  "gilang-empal50-riris": {
-    "versions": []
-  },
-  "gilang-enting53-sluey": {
-    "versions": []
-  },
-  "gilang-enting95-miaww": {
-    "versions": []
-  },
-  "gilang-gandul29-riris": {
-    "versions": []
-  },
-  "gilang-jamblang54-breki": {
-    "versions": []
-  },
-  "gilang-jengkol33-kyuki": {
-    "versions": []
-  },
-  "gilang-jengkol89-sluey": {
-    "versions": []
-  },
-  "gilang-jus94-sluey": {
-    "versions": []
-  },
-  "gilang-kembang11-ruro": {
-    "versions": []
-  },
-  "gilang-keripik50-miaww": {
-    "versions": []
-  },
-  "gilang-keripik95-ruro": {
-    "versions": []
-  },
-  "gilang-ketan33-miaww": {
-    "versions": []
-  },
-  "gilang-ketoprak70-riris": {
-    "versions": []
-  },
-  "gilang-klipo24-riris": {
-    "versions": []
-  },
-  "gilang-klipo66-breki": {
-    "versions": []
-  },
-  "gilang-lepet30-riris": {
-    "versions": []
-  },
-  "gilang-lodeh84-apidev": {
-    "versions": []
-  },
-  "gilang-mangut13-breki": {
-    "versions": []
-  },
-  "gilang-mangut17-riris": {
-    "versions": []
-  },
-  "gilang-moci80-miaww": {
-    "versions": []
-  },
-  "gilang-nasipecel81-sluey": {
-    "versions": []
-  },
-  "gilang-nasipecel89-miaww": {
-    "versions": []
-  },
-  "gilang-nasiuduk21-sukiwir": {
-    "versions": []
-  },
-  "gilang-oncom85-sukiwir": {
-    "versions": []
-  },
-  "gilang-ongol-ongol70-riris": {
-    "versions": []
-  },
-  "gilang-peyek66-sluey": {
-    "versions": []
-  },
-  "gilang-rojak28-miaww": {
-    "versions": []
-  },
-  "gilang-ronde87-sluey": {
-    "versions": []
-  },
-  "gilang-sambel26-sukiwir": {
-    "versions": []
-  },
-  "gilang-sate29-breki": {
-    "versions": []
-  },
-  "gilang-sate61-miaww": {
-    "versions": []
-  },
-  "gilang-sroto43-miaww": {
-    "versions": []
-  },
-  "gilang-sroto90-sluey": {
-    "versions": []
-  },
-  "gilang-tahu44-sukiwir": {
-    "versions": []
-  },
-  "gilang-tahu65-miaww": {
-    "versions": []
-  },
-  "gilang-tapai12-sukiwir": {
-    "versions": []
-  },
-  "gilang-tapai69-riris": {
-    "versions": []
-  },
-  "gilang-tomat36-miaww": {
-    "versions": []
-  },
-  "giraffe_nfho6_gkgu8_opal": {
-    "versions": []
-  },
-  "giraffe-butterfly-ktn656-project": {
-    "versions": []
-  },
-  "giraffe-cliff-pbn989-project": {
-    "versions": []
-  },
-  "giraffe-undertow-wtx566-project": {
-    "versions": []
-  },
-  "gita-asinan49-breki": {
-    "versions": []
-  },
-  "gita-asinan93-breki": {
-    "versions": []
-  },
-  "gita-bakwan91-breki": {
-    "versions": []
-  },
-  "gita-botok82-kyuki": {
     "versions": []
   }
 }

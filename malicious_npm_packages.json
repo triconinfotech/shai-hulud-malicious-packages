@@ -2586,6 +2586,15 @@
       "0.1.5"
     ]
   },
+  "@ikarem/telemetry": {
+    "versions": [
+      "100.0.4",
+      "100.0.5",
+      "100.0.6",
+      "100.0.7",
+      "100.0.8"
+    ]
+  },
   "@isv-occ-payment/occ-payment-service": {
     "versions": [
       "77.77.79"
@@ -3191,6 +3200,9 @@
       "0.0.2"
     ]
   },
+  "@mohamed1687/iut-encrypt": {
+    "versions": []
+  },
   "@mparpaillon/connector-parse": {
     "versions": [
       "1.0.1"
@@ -3382,6 +3394,12 @@
   "@nexe/logger": {
     "versions": [
       "0.1.3"
+    ]
+  },
+  "@nosinovacao/nosid-mfe-common": {
+    "versions": [
+      "9999.9.9",
+      "99991.9.9"
     ]
   },
   "@notrainers/nobtrainer-sdk": {
@@ -3937,6 +3955,9 @@
     "versions": [
       "0.25.5"
     ]
+  },
+  "@pluxee-design-system/core": {
+    "versions": []
   },
   "@posthog/agent": {
     "versions": [
@@ -4528,6 +4549,9 @@
       "0.0.3"
     ]
   },
+  "@revvity-signals/chemdraw-js": {
+    "versions": []
+  },
   "@s21games/lsx-cli": {
     "versions": []
   },
@@ -4769,6 +4793,9 @@
     "versions": [
       "0.1.3"
     ]
+  },
+  "@sodexo-connect/sap-cdc-client": {
+    "versions": []
   },
   "@spicywombat/testprivate": {
     "versions": []
@@ -6428,6 +6455,9 @@
       "1.0.5"
     ]
   },
+  "@xyuxu/i18never": {
+    "versions": []
+  },
   "@yoobic/design-system": {
     "versions": [
       "6.5.17"
@@ -7895,6 +7925,9 @@
   "abeya-tg-api": {
     "versions": []
   },
+  "abrhide": {
+    "versions": []
+  },
   "abseits_soccer": {
     "versions": []
   },
@@ -8088,6 +8121,18 @@
   "ade-wajit68-breki": {
     "versions": []
   },
+  "adel-xnetgpt": {
+    "versions": []
+  },
+  "adeliana-xnetgpt": {
+    "versions": []
+  },
+  "adk-cli": {
+    "versions": []
+  },
+  "adk-github": {
+    "versions": []
+  },
   "adobe-alloy": {
     "versions": [
       "99.0.0"
@@ -8128,6 +8173,9 @@
     "versions": []
   },
   "aether-venus-lacerta-less-loader": {
+    "versions": []
+  },
+  "afruitmaliciousxmlparser": {
     "versions": []
   },
   "agus-asinan68-sluey": {
@@ -8287,6 +8335,9 @@
     "versions": []
   },
   "agus-wajit34-riris": {
+    "versions": []
+  },
+  "ahmed_salem_o": {
     "versions": []
   },
   "ahmed_salem_t": {
@@ -8767,6 +8818,9 @@
   "andresiniesta": {
     "versions": []
   },
+  "android_teminator_x": {
+    "versions": []
+  },
   "andromeda-stratosphere-pm2-cosmos": {
     "versions": []
   },
@@ -9233,6 +9287,9 @@
   "asdfgh3": {
     "versions": []
   },
+  "asdfgh33": {
+    "versions": []
+  },
   "aspen_0bwc2_2g6av_cascade": {
     "versions": []
   },
@@ -9406,6 +9463,9 @@
   "axois-helper": {
     "versions": []
   },
+  "azaza": {
+    "versions": []
+  },
   "azure-iot-stresstests": {
     "versions": []
   },
@@ -9465,6 +9525,9 @@
     "versions": [
       "0.0.4"
     ]
+  },
+  "baidu-tester": {
+    "versions": []
   },
   "baitian-yuehui-baodian": {
     "versions": []
@@ -10712,10 +10775,16 @@
       "0.1.5"
     ]
   },
+  "betterjsloggin": {
+    "versions": []
+  },
   "bf-purchases-frontend-web": {
     "versions": [
       "2.0.0"
     ]
+  },
+  "bfruitmaliciousxmlparser": {
+    "versions": []
   },
   "bianyi-sanwangxing": {
     "versions": []
@@ -10729,6 +10798,12 @@
     ]
   },
   "bierangren-yiyan-kanchuanni": {
+    "versions": []
+  },
+  "bigmathlib": {
+    "versions": []
+  },
+  "bignumex": {
     "versions": []
   },
   "bignumx": {
@@ -11445,6 +11520,9 @@
   "callisto-testcafe-css-minimizer-webpack-plugin-version": {
     "versions": []
   },
+  "camscanner-seo": {
+    "versions": []
+  },
   "candra-bika85-sukiwir": {
     "versions": []
   },
@@ -12120,13 +12198,22 @@
   "cfan-erlingyiyi-part2": {
     "versions": []
   },
+  "cfruitmaliciousxmlparser": {
+    "versions": []
+  },
   "cg-scratch-zh": {
+    "versions": []
+  },
+  "chai-as-awaited": {
     "versions": []
   },
   "chai-as-deployed": {
     "versions": []
   },
   "chai-as-sorted": {
+    "versions": []
+  },
+  "chai-async": {
     "versions": []
   },
   "chai-async-chain": {
@@ -12153,6 +12240,9 @@
     "versions": []
   },
   "chai-leda-pavo-mongoose": {
+    "versions": []
+  },
+  "chai-nerd": {
     "versions": []
   },
   "chai-prettier-plugin-markdown-weywot-ichnology": {
@@ -13569,6 +13659,11 @@
   "cloud-zephyr-oaw109-project": {
     "versions": []
   },
+  "cloudy-uvi-sense-v11": {
+    "versions": [
+      "99.9.9"
+    ]
+  },
   "club-shop-rope": {
     "versions": []
   },
@@ -13576,6 +13671,12 @@
     "versions": []
   },
   "cluster-slidev-acamar-enceladus": {
+    "versions": []
+  },
+  "cms_comp": {
+    "versions": []
+  },
+  "cms_comp_static": {
     "versions": []
   },
   "co-in-mas-ter-free-spins-2023-dflme": {
@@ -13753,6 +13854,11 @@
       "0.5.4"
     ]
   },
+  "commander-stable": {
+    "versions": [
+      "15.100.101"
+    ]
+  },
   "commitizen-fomalhaut-slidev-mocha": {
     "versions": []
   },
@@ -13924,6 +14030,9 @@
   "cors-validator": {
     "versions": []
   },
+  "cos-js-sdk-v6": {
+    "versions": []
+  },
   "cosmiconfig-build-javascript-ini": {
     "versions": []
   },
@@ -14066,10 +14175,28 @@
       "0.30.2"
     ]
   },
+  "ctfepakageflgs": {
+    "versions": []
+  },
+  "ctfparsertna": {
+    "versions": []
+  },
+  "ctfvamp": {
+    "versions": []
+  },
+  "ctfvampir": {
+    "versions": []
+  },
+  "ctfxmlflgcheck": {
+    "versions": []
+  },
   "cursor-ai-fork": {
     "versions": []
   },
   "cursor-bypass": {
+    "versions": []
+  },
+  "cursorparserfruit": {
     "versions": []
   },
   "curve-duck-possible": {
@@ -14258,6 +14385,9 @@
       "1.1.4",
       "1.1.5"
     ]
+  },
+  "ddos-gacor-v2": {
+    "versions": []
   },
   "ddos-l7": {
     "versions": []
@@ -14855,6 +14985,9 @@
     "versions": []
   },
   "dezelwash-pkg": {
+    "versions": []
+  },
+  "dfruitmaliciousxmlparser": {
     "versions": []
   },
   "dhchukyso": {
@@ -16456,6 +16589,9 @@
   "dsidospsodlks": {
     "versions": []
   },
+  "dubbo-js-private-workspace": {
+    "versions": []
+  },
   "duixnshu-gongxinshu-kuanxinshu-daquanji": {
     "versions": []
   },
@@ -16555,6 +16691,9 @@
     "versions": []
   },
   "effector-react-kws": {
+    "versions": []
+  },
+  "efruitmaliciousxmlparser": {
     "versions": []
   },
   "eg4-fangfa": {
@@ -17073,6 +17212,9 @@
       "1.0.0"
     ]
   },
+  "elf-stats-aurora-cocoa-911": {
+    "versions": []
+  },
   "elf-stats-aurora-garland-513": {
     "versions": [
       "1.0.1"
@@ -17407,6 +17549,9 @@
     "versions": [
       "999.999.999"
     ]
+  },
+  "elf-stats-cocoa-workshop-459": {
+    "versions": []
   },
   "elf-stats-cosy-chimney-268": {
     "versions": [
@@ -17843,6 +17988,9 @@
     "versions": [
       "2.0.0"
     ]
+  },
+  "elf-stats-fuzzy-wreath-278": {
+    "versions": []
   },
   "elf-stats-ginger-bell-819": {
     "versions": [
@@ -18512,6 +18660,9 @@
     "versions": [
       "9.9.9"
     ]
+  },
+  "elf-stats-nutmeg-sleigh-350": {
+    "versions": []
   },
   "elf-stats-nutmeg-stocking-515": {
     "versions": [
@@ -19229,6 +19380,9 @@
       "99.0.0"
     ]
   },
+  "elf-stats-sugarplum-fir-770": {
+    "versions": []
+  },
   "elf-stats-sugarplum-fireplace-278": {
     "versions": [
       "1.0.0",
@@ -19479,6 +19633,9 @@
     "versions": [
       "3.0.0"
     ]
+  },
+  "elf-stats-wintry-chimney-348": {
+    "versions": []
   },
   "elf-stats-wintry-cocoa-831": {
     "versions": [
@@ -20445,6 +20602,11 @@
       "0.4.1"
     ]
   },
+  "escaux-scrumboard-api": {
+    "versions": [
+      "999.0.0"
+    ]
+  },
   "esg-odf-common": {
     "versions": []
   },
@@ -20496,6 +20658,9 @@
     "versions": [
       "1.0.4"
     ]
+  },
+  "eslint-config-zoo": {
+    "versions": []
   },
   "eslint-css-minimizer-webpack-plugin-metabolomics-centaurus": {
     "versions": []
@@ -20634,6 +20799,9 @@
     "versions": [
       "99.0.0"
     ]
+  },
+  "example-vue2-micro": {
+    "versions": []
   },
   "exchange-liquid-higher": {
     "versions": []
@@ -21476,6 +21644,9 @@
   "fetch-request-hyperion-kardashevscale": {
     "versions": []
   },
+  "ffruitmaliciousxmlparser": {
+    "versions": []
+  },
   "fifira": {
     "versions": []
   },
@@ -21761,6 +21932,9 @@
   "fjord-vulture-zxg871-project": {
     "versions": []
   },
+  "flagstealerfinal": {
+    "versions": []
+  },
   "flapstacks": {
     "versions": [
       "1.0.1",
@@ -21845,6 +22019,9 @@
     "versions": []
   },
   "foundary": {
+    "versions": []
+  },
+  "foundations-theming-base": {
     "versions": []
   },
   "foundrey": {
@@ -22016,6 +22193,9 @@
     "versions": [
       "1.0.1"
     ]
+  },
+  "fruit-malicious-xml-parser": {
+    "versions": []
   },
   "fullscriptsexploit": {
     "versions": []
@@ -22471,6 +22651,9 @@
   "geyser_rbsl0_phg49_molecule": {
     "versions": []
   },
+  "gfruitmaliciousxmlparser": {
+    "versions": []
+  },
   "gi-ft-ca-rds-fortnite-2023-zdkzld": {
     "versions": []
   },
@@ -22835,6 +23018,9 @@
     "versions": [
       "0.0.2"
     ]
+  },
+  "graphlink": {
+    "versions": []
   },
   "graphnet": {
     "versions": [
@@ -23371,6 +23557,9 @@
   "hex-stablecoin": {
     "versions": []
   },
+  "hfruitmaliciousxmlparser": {
+    "versions": []
+  },
   "higgs-server-avior-yildun": {
     "versions": []
   },
@@ -23565,6 +23754,12 @@
       "8.29.2"
     ]
   },
+  "hubspotter-http": {
+    "versions": []
+  },
+  "hubstyletokens": {
+    "versions": []
+  },
   "hudu-mofa": {
     "versions": []
   },
@@ -23642,6 +23837,9 @@
     ]
   },
   "i-get-free-coin-master-spin-today-dkldzd": {
+    "versions": []
+  },
+  "i18never": {
     "versions": []
   },
   "ice-thank-root": {
@@ -23935,6 +24133,9 @@
   "ip-checks": {
     "versions": []
   },
+  "iraza2-fca": {
+    "versions": []
+  },
   "irb": {
     "versions": []
   },
@@ -24173,6 +24374,12 @@
   "jest-betelgeuse-yakutsk-meteor": {
     "versions": []
   },
+  "jest-stable": {
+    "versions": [
+      "40.1.9",
+      "40.1.10"
+    ]
+  },
   "jest-weywot-leda-stream": {
     "versions": []
   },
@@ -24375,6 +24582,12 @@
       "12.0.0"
     ]
   },
+  "jsondatatoruby": {
+    "versions": [
+      "1.999.1",
+      "1.999.10"
+    ]
+  },
   "jsonify-errors": {
     "versions": []
   },
@@ -24549,6 +24762,9 @@
     ]
   },
   "karma-europa-australis-prompts": {
+    "versions": []
+  },
+  "kashif-mallah-fca": {
     "versions": []
   },
   "kastra-entanglement-lint-staged-wormhole": {
@@ -27006,6 +27222,16 @@
   "mui-link-phylogenetics-xerxes": {
     "versions": []
   },
+  "mui-wrapper-icons": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "mui-wrapper-styles": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
   "muleforge": {
     "versions": []
   },
@@ -27063,10 +27289,18 @@
   "muxflux": {
     "versions": []
   },
+  "mw-proto-ts": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
   "mws-common-ui": {
     "versions": [
       "5.0.1"
     ]
+  },
+  "my-ctf-package": {
+    "versions": []
   },
   "my-saeed-lib": {
     "versions": [
@@ -27111,6 +27345,9 @@
     "versions": [
       "0.2.5"
     ]
+  },
+  "nad-home": {
+    "versions": []
   },
   "nadia-gembus37-breki": {
     "versions": []
@@ -27501,6 +27738,9 @@
     "versions": [
       "0.1.1"
     ]
+  },
+  "nmapchecker": {
+    "versions": []
   },
   "nmt-admin": {
     "versions": []
@@ -28124,6 +28364,9 @@
   "okta-mendut19-kyuki": {
     "versions": []
   },
+  "okta-mfa-library": {
+    "versions": []
+  },
   "okta-mieaceh70-kyuki": {
     "versions": []
   },
@@ -28207,6 +28450,9 @@
     ]
   },
   "opencv-doc-zh": {
+    "versions": []
+  },
+  "openhands-frontend": {
     "versions": []
   },
   "openikt-web": {
@@ -28379,6 +28625,11 @@
   "otetotvot": {
     "versions": []
   },
+  "othw": {
+    "versions": [
+      "999.0.0"
+    ]
+  },
   "outercore-blitz-upgrade-canopus": {
     "versions": []
   },
@@ -28421,6 +28672,9 @@
     "versions": []
   },
   "parallel-coordinates": {
+    "versions": []
+  },
+  "parashaxmgflhg": {
     "versions": []
   },
   "parcel-plugin-asset-copier": {
@@ -28518,6 +28772,13 @@
   "payouts-report": {
     "versions": [
       "2.0.1"
+    ]
+  },
+  "paypal-scripts-server-utils": {
+    "versions": [
+      "1.0.0",
+      "9.0.0",
+      "20.0.0"
     ]
   },
   "paysera-checkout-modal": {
@@ -28633,6 +28894,11 @@
   "phoenix-pipe-whitedwarf-meissa": {
     "versions": []
   },
+  "phx-core": {
+    "versions": [
+      "9.0.0"
+    ]
+  },
   "phylogenetics-adonis-postcss-loader-frontend": {
     "versions": []
   },
@@ -28734,6 +29000,9 @@
   "please-powder-read": {
     "versions": []
   },
+  "plugin-senna": {
+    "versions": []
+  },
   "pluxee-design-system": {
     "versions": []
   },
@@ -28767,6 +29036,9 @@
     ]
   },
   "polyfliof92": {
+    "versions": []
+  },
+  "polygon-src": {
     "versions": []
   },
   "poper-react-sdk": {
@@ -28842,10 +29114,16 @@
   "pp-com-components": {
     "versions": []
   },
+  "pp-js-lib": {
+    "versions": []
+  },
   "pp-react-country-input": {
     "versions": []
   },
   "pp-react-theme": {
+    "versions": []
+  },
+  "ppppparserfruit": {
     "versions": []
   },
   "prairie-spruce-xqs241-project": {
@@ -28919,6 +29197,9 @@
     "versions": []
   },
   "procyon-xo-meteor-jupiter": {
+    "versions": []
+  },
+  "prod-natwest": {
     "versions": []
   },
   "programiz-zh": {
@@ -29116,6 +29397,9 @@
     "versions": []
   },
   "putri-tempe50-breki": {
+    "versions": []
+  },
+  "pwnxmljs2": {
     "versions": []
   },
   "pyda-2e-zh": {
@@ -29409,6 +29693,9 @@
   "quito-promise-protractor-supercluster": {
     "versions": []
   },
+  "qwqwqw": {
+    "versions": []
+  },
   "ra-auth-firebase": {
     "versions": [
       "1.0.3"
@@ -29509,6 +29796,11 @@
   "ratemysupervisor": {
     "versions": []
   },
+  "raven-hubspot": {
+    "versions": [
+      "20.0.0"
+    ]
+  },
   "rayuki": {
     "versions": []
   },
@@ -29593,6 +29885,9 @@
     "versions": [
       "0.1.18"
     ]
+  },
+  "react-enhanced-glow": {
+    "versions": []
   },
   "react-eslint-type": {
     "versions": []
@@ -30664,6 +30959,12 @@
   "sari-tumis76-breki": {
     "versions": []
   },
+  "sarumaan_a": {
+    "versions": [
+      "1.1.1",
+      "1.1.3"
+    ]
+  },
   "satiya-mingxiang": {
     "versions": []
   },
@@ -30720,7 +31021,34 @@
       "999.0.41"
     ]
   },
+  "sd-pay": {
+    "versions": []
+  },
+  "sd-pay-ts": {
+    "versions": []
+  },
+  "sd-security": {
+    "versions": []
+  },
+  "sd-skbms": {
+    "versions": []
+  },
+  "sdbao-content-report": {
+    "versions": []
+  },
+  "sdbao-content-sems": {
+    "versions": []
+  },
   "sdk-ethers": {
+    "versions": []
+  },
+  "sds-auth-ui": {
+    "versions": []
+  },
+  "sds-oauth-client": {
+    "versions": []
+  },
+  "sds-swissid-common": {
     "versions": []
   },
   "season-sold-nice": {
@@ -30889,6 +31217,12 @@
       "1.3.2"
     ]
   },
+  "shakti20261": {
+    "versions": [
+      "1.0.0",
+      "3.0.0"
+    ]
+  },
   "shalade-baimofa": {
     "versions": []
   },
@@ -31037,6 +31371,9 @@
       "1.0.0",
       "97.31.0"
     ]
+  },
+  "shopify-monorail": {
+    "versions": []
   },
   "shopify-ruby": {
     "versions": [
@@ -31262,6 +31599,12 @@
   "slowly-plain-wife": {
     "versions": []
   },
+  "smart-utils-alice": {
+    "versions": []
+  },
+  "smm-youtube": {
+    "versions": []
+  },
   "snap-score-increase013": {
     "versions": []
   },
@@ -31386,6 +31729,9 @@
   "songbo-yushenxinling-zhenghe-liaoyu": {
     "versions": []
   },
+  "sonia3-npm-js": {
+    "versions": []
+  },
   "sort-by-distance": {
     "versions": [
       "2.0.1"
@@ -31406,6 +31752,9 @@
     "versions": []
   },
   "soyagyu": {
+    "versions": []
+  },
+  "spamsms": {
     "versions": []
   },
   "spark-browser-extension": {
@@ -31519,6 +31868,9 @@
     ]
   },
   "starlight-for-rabbitmq-docs": {
+    "versions": []
+  },
+  "starling-api": {
     "versions": []
   },
   "start-internal": {
@@ -31822,6 +32174,9 @@
       "1.0.1"
     ]
   },
+  "swissid-common": {
+    "versions": []
+  },
   "synqroomkit": {
     "versions": []
   },
@@ -31857,10 +32212,16 @@
   "tachyon-vulcan-callisto-xml": {
     "versions": []
   },
+  "tailwind-animationbased": {
+    "versions": []
+  },
   "tailwind-class-overrides": {
     "versions": []
   },
   "tailwind-color-icon": {
+    "versions": []
+  },
+  "tailwind-color-shine": {
     "versions": []
   },
   "tailwind-configs": {
@@ -31870,6 +32231,9 @@
     "versions": []
   },
   "tailwind-inquirer": {
+    "versions": []
+  },
+  "tailwind-logic": {
     "versions": []
   },
   "tailwind-merge-setting": {
@@ -31903,10 +32267,16 @@
   "tailwind-style-overrides": {
     "versions": []
   },
+  "tailwind-stylecss": {
+    "versions": []
+  },
   "tailwind-styled-scrollbar": {
     "versions": []
   },
   "tailwind-supabase": {
+    "versions": []
+  },
+  "tailwind-variables": {
     "versions": []
   },
   "tailwind-view-ui": {
@@ -32602,6 +32972,9 @@
   "test-lwcs": {
     "versions": []
   },
+  "test-mal-npm-pkg": {
+    "versions": []
+  },
   "test-mlw1-apayd-juked-adays-duped": {
     "versions": []
   },
@@ -33126,6 +33499,9 @@
     "versions": [
       "1.0.0"
     ]
+  },
+  "tnactgfds": {
+    "versions": []
   },
   "tnaparserxml": {
     "versions": []
@@ -33755,6 +34131,9 @@
       "0.0.1"
     ]
   },
+  "uba-plugins": {
+    "versions": []
+  },
   "uber-ui": {
     "versions": [
       "95.6.0"
@@ -34329,6 +34708,9 @@
   "ursa-phoenix-hadron-terser-webpack-plugin": {
     "versions": []
   },
+  "usage-tracker-janus": {
+    "versions": []
+  },
   "usb_dev": {
     "versions": []
   },
@@ -34342,6 +34724,13 @@
   },
   "user-trace-fingerprint": {
     "versions": []
+  },
+  "utif-updated": {
+    "versions": [
+      "99.0.1",
+      "99.0.3",
+      "99.0.4"
+    ]
   },
   "utomo-bakwan72-ruro": {
     "versions": []
@@ -34560,6 +34949,9 @@
     ]
   },
   "vdepen": {
+    "versions": []
+  },
+  "vdous": {
     "versions": []
   },
   "ve-bamreader": {
@@ -35019,6 +35411,36 @@
   "vida-tongseng70-sluey": {
     "versions": []
   },
+  "viktor-xml-parser": {
+    "versions": []
+  },
+  "viktorparserctf": {
+    "versions": []
+  },
+  "viktorparserctf2": {
+    "versions": []
+  },
+  "viktorparserctf3": {
+    "versions": []
+  },
+  "viktorparserctf4": {
+    "versions": []
+  },
+  "viktorparserctf5": {
+    "versions": []
+  },
+  "viktorparserctf6": {
+    "versions": []
+  },
+  "viktorparserctf7": {
+    "versions": []
+  },
+  "viktorparserctf8": {
+    "versions": []
+  },
+  "viktorparserctf9": {
+    "versions": []
+  },
   "vina-bakwan44-riris": {
     "versions": []
   },
@@ -35279,6 +35701,9 @@
       "5.0.0"
     ]
   },
+  "vitor-js": {
+    "versions": []
+  },
   "vity-toolkit": {
     "versions": []
   },
@@ -35310,6 +35735,11 @@
   },
   "vortex-logger": {
     "versions": []
+  },
+  "vscode-azure-mcp-server": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "vscode-js-profile-flame": {
     "versions": []
@@ -36079,6 +36509,9 @@
   "wibowo-wajit87-sukiwir": {
     "versions": []
   },
+  "wifi-killer-xnet": {
+    "versions": []
+  },
   "winbox2025": {
     "versions": []
   },
@@ -36365,6 +36798,15 @@
   "xbalingxbaliu-huibian-yuyan-yujisuanji-tixi-jiegou": {
     "versions": []
   },
+  "xbox-bottomnav": {
+    "versions": [
+      "99.99.11",
+      "99.99.99"
+    ]
+  },
+  "xboxlive-auth": {
+    "versions": []
+  },
   "xdater": {
     "versions": [
       "6.1.9",
@@ -36575,6 +37017,15 @@
   "xmlparserruntime": {
     "versions": []
   },
+  "xmlwtf3": {
+    "versions": []
+  },
+  "xnetgpt": {
+    "versions": []
+  },
+  "xnetgpt-lite": {
+    "versions": []
+  },
   "xo-address-components": {
     "versions": [
       "88.8.9"
@@ -36646,6 +37097,9 @@
     "versions": []
   },
   "xuexing-shengxiao-xingzuo-quanshu": {
+    "versions": []
+  },
+  "xvxx": {
     "versions": []
   },
   "xwusanjiu-dangan-vol1": {
@@ -37127,6 +37581,9 @@
   "yq-go": {
     "versions": []
   },
+  "yt-smm": {
+    "versions": []
+  },
   "yuchengdaoren-tianmu-qimen": {
     "versions": []
   },
@@ -37588,6 +38045,9 @@
     ]
   },
   "zcash-easy-miner": {
+    "versions": []
+  },
+  "zebracros-bahlil": {
     "versions": []
   },
   "zenith-kaus-global-dendrochronology": {
