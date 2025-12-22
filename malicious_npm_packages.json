@@ -6056,6 +6056,9 @@
       "0.2.4"
     ]
   },
+  "@vienna_cancer_center_portal/js": {
+    "versions": []
+  },
   "@viihdeonline/react-app": {
     "versions": [
       "99.49.50",
@@ -8440,6 +8443,9 @@
     "versions": [
       "0.8.8"
     ]
+  },
+  "airslate-dep-webpack": {
+    "versions": []
   },
   "aishi-weiyide-zhenxiang": {
     "versions": []
@@ -14385,6 +14391,9 @@
       "1.1.4",
       "1.1.5"
     ]
+  },
+  "dc-extras": {
+    "versions": []
   },
   "ddos-gacor-v2": {
     "versions": []
@@ -24217,6 +24226,9 @@
   "itself-country-orange": {
     "versions": []
   },
+  "ivx-cloud-client-v1": {
+    "versions": []
+  },
   "ivy_mrbx5_tv2ls_yarn": {
     "versions": []
   },
@@ -27222,6 +27234,9 @@
   "mui-link-phylogenetics-xerxes": {
     "versions": []
   },
+  "mui-wrapper-core": {
+    "versions": []
+  },
   "mui-wrapper-icons": {
     "versions": [
       "99.99.1"
@@ -27287,6 +27302,9 @@
     "versions": []
   },
   "muxflux": {
+    "versions": []
+  },
+  "mw-frontend-utils": {
     "versions": []
   },
   "mw-proto-ts": {
@@ -30615,6 +30633,9 @@
     "versions": []
   },
   "riyu-xuexi-jiaming-biaozhu-erlingyiliuyier-erlingyiqilingliu": {
+    "versions": []
+  },
+  "ro-mobile": {
     "versions": []
   },
   "roar-closely-too": {
