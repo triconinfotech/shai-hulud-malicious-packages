@@ -1,4 +1,17 @@
 {
+  "generator-meteor-stock": {
+    "versions": [
+      "0.1.6"
+    ]
+  },
+  "generator-ng-itobuz": {
+    "versions": [
+      "0.0.15"
+    ]
+  },
+  "generator-roblox-robux-unlimited-codes-dkdedz": {
+    "versions": []
+  },
   "genesis-drop-actions": {
     "versions": []
   },
@@ -11279,18 +11292,6 @@
     "versions": []
   },
   "tujie-qimen-dunjia-daquan-vol2": {
-    "versions": []
-  },
-  "tujie-qimen-dunjia-daquan-vol3": {
-    "versions": []
-  },
-  "tujie-riben-shenhua": {
-    "versions": []
-  },
-  "tujie-tianguo-yudiyu": {
-    "versions": []
-  },
-  "tujie-xiangzheng-zhanxingxue-quanshu": {
     "versions": []
   }
 }
