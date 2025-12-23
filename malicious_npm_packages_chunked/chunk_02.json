@@ -1,4 +1,10 @@
 {
+  "geopost-web-component": {
+    "versions": [
+      "17.8.0",
+      "18.0.0"
+    ]
+  },
   "geren-shixiangde-benzhi": {
     "versions": []
   },
@@ -11292,9 +11298,6 @@
     "versions": []
   },
   "tuti-enting21-ruro": {
-    "versions": []
-  },
-  "tuti-enting61-kyuki": {
     "versions": []
   }
 }

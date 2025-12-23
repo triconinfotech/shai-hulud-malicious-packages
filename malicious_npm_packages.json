@@ -14096,7 +14096,9 @@
     "versions": []
   },
   "cos-js-sdk-v6": {
-    "versions": []
+    "versions": [
+      "999.0.0"
+    ]
   },
   "cosmiconfig-build-javascript-ini": {
     "versions": []
@@ -14408,7 +14410,9 @@
     "versions": []
   },
   "database-mongoose-kit": {
-    "versions": []
+    "versions": [
+      "2.1.0"
+    ]
   },
   "datadog-checks-base": {
     "versions": [
@@ -16528,7 +16532,9 @@
     "versions": []
   },
   "dotenv-intend": {
-    "versions": []
+    "versions": [
+      "3.3.5"
+    ]
   },
   "dotenv-jasmine-cosmicweb-stream": {
     "versions": []
@@ -16584,7 +16590,9 @@
     ]
   },
   "dotnetenv": {
-    "versions": []
+    "versions": [
+      "1.1.7"
+    ]
   },
   "dounvrenxiao": {
     "versions": []
@@ -17305,6 +17313,7 @@
   },
   "elf-stats-aurora-toy-659": {
     "versions": [
+      "99.9.9",
       "99.9.10",
       "99.9.11",
       "99.9.12"
