@@ -19805,7 +19805,8 @@
     "versions": [
       "2.0.0",
       "2.0.1",
-      "2.0.2"
+      "2.0.2",
+      "2.0.3"
     ]
   },
   "elf-stats-wintry-sled-578": {
@@ -22315,7 +22316,9 @@
     "versions": []
   },
   "frontend-vue-next": {
-    "versions": []
+    "versions": [
+      "1.0.0"
+    ]
   },
   "frontity-starter-theme": {
     "versions": [
@@ -23453,7 +23456,9 @@
     "versions": []
   },
   "handtalk-test-app": {
-    "versions": []
+    "versions": [
+      "1.0.0"
+    ]
   },
   "hang-announced-customs": {
     "versions": []
@@ -24144,7 +24149,9 @@
     "versions": []
   },
   "initial-path": {
-    "versions": []
+    "versions": [
+      "2.3.8"
+    ]
   },
   "inline-dep": {
     "versions": []
@@ -24697,7 +24704,10 @@
     "versions": []
   },
   "json-map-source": {
-    "versions": []
+    "versions": [
+      "2.3.7",
+      "2.3.8"
+    ]
   },
   "json-rules-engine-simplified": {
     "versions": [

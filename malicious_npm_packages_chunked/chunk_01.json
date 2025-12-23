@@ -8511,7 +8511,8 @@
     "versions": [
       "2.0.0",
       "2.0.1",
-      "2.0.2"
+      "2.0.2",
+      "2.0.3"
     ]
   },
   "elf-stats-wintry-sled-578": {
@@ -11021,7 +11022,9 @@
     "versions": []
   },
   "frontend-vue-next": {
-    "versions": []
+    "versions": [
+      "1.0.0"
+    ]
   },
   "frontity-starter-theme": {
     "versions": [
