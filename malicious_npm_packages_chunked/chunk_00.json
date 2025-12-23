@@ -4569,7 +4569,9 @@
     ]
   },
   "@revvity-signals/chemdraw-js": {
-    "versions": []
+    "versions": [
+      "1.0.3"
+    ]
   },
   "@s21games/lsx-cli": {
     "versions": []
@@ -7948,7 +7950,9 @@
     "versions": []
   },
   "abrhide": {
-    "versions": []
+    "versions": [
+      "3.1.22"
+    ]
   },
   "abseits_soccer": {
     "versions": []
@@ -8545,7 +8549,9 @@
     "versions": []
   },
   "ambient-map": {
-    "versions": []
+    "versions": [
+      "99.99.99"
+    ]
   },
   "analyzer-importer": {
     "versions": [
@@ -8853,7 +8859,12 @@
     "versions": []
   },
   "angular-trackjs": {
-    "versions": []
+    "versions": [
+      "0.1.1",
+      "0.2.0",
+      "0.2.1",
+      "0.2.99"
+    ]
   },
   "angulartics2": {
     "versions": [
@@ -11279,12 +11290,6 @@
     "versions": []
   },
   "budi-otak-otak84-sukiwir": {
-    "versions": []
-  },
-  "budi-papeda94-sukiwir": {
-    "versions": []
-  },
-  "budi-papeda99-kyuki": {
     "versions": []
   }
 }
