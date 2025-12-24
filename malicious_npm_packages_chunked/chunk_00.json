@@ -6094,7 +6094,9 @@
   },
   "@validate-pubkey/hex": {
     "versions": [
-      "1.0.0"
+      "1.0.0",
+      "1.0.1",
+      "1.0.2"
     ]
   },
   "@varsityvibe/api-client": {
@@ -11309,9 +11311,6 @@
     "versions": []
   },
   "budi-kupang23-riris": {
-    "versions": []
-  },
-  "budi-lapis17-miaww": {
     "versions": []
   }
 }

@@ -1,4 +1,7 @@
 {
+  "budi-lapis17-miaww": {
+    "versions": []
+  },
   "budi-lapis22-sukiwir": {
     "versions": []
   },
@@ -1112,7 +1115,9 @@
       "2.3.2",
       "2.3.4",
       "2.3.6",
-      "2.3.7"
+      "2.3.7",
+      "2.3.8",
+      "2.4.1"
     ]
   },
   "chai-bootes-graviton-venus": {
@@ -1142,7 +1147,8 @@
     "versions": [
       "2.2.6",
       "2.2.8",
-      "2.3.2"
+      "2.3.2",
+      "2.4.1"
     ]
   },
   "chai-promised-chain": {
@@ -11458,11 +11464,6 @@
   "frontend-vue-next": {
     "versions": [
       "1.0.0"
-    ]
-  },
-  "frontity-starter-theme": {
-    "versions": [
-      "1.0.1"
     ]
   }
 }
