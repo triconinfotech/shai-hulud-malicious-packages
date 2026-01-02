@@ -152,6 +152,14 @@
       "4.0.4"
     ]
   },
+  "@airtel-web/clickstream": {
+    "versions": [
+      "99.0.3",
+      "99.0.5",
+      "99.0.6",
+      "99.0.7"
+    ]
+  },
   "@alaan/s2s-auth": {
     "versions": [
       "2.0.3"
@@ -653,6 +661,9 @@
     "versions": [
       "1.0.1"
     ]
+  },
+  "@bugdtest/test1": {
+    "versions": []
   },
   "@bugtestester/simple-web-app-package": {
     "versions": []
@@ -3427,6 +3438,9 @@
       "0.1.3"
     ]
   },
+  "@nitaiapiiro/rand_emoji": {
+    "versions": []
+  },
   "@nosinovacao/nosid-mfe-common": {
     "versions": [
       "9999.9.9",
@@ -4017,7 +4031,13 @@
       "0.25.5"
     ]
   },
+  "@peter_wilson12091/internal-json-test-parser": {
+    "versions": []
+  },
   "@pluxee-design-system/core": {
+    "versions": []
+  },
+  "@polystream/streaming": {
     "versions": []
   },
   "@posthog/agent": {
@@ -4478,6 +4498,18 @@
     "versions": [
       "1.0.3"
     ]
+  },
+  "@ptest2535/artifactory-demo-ptest": {
+    "versions": []
+  },
+  "@ptest2535/l_woker_mal": {
+    "versions": []
+  },
+  "@ptest2535/test_package": {
+    "versions": []
+  },
+  "@ptest2535/ui-core_mal": {
+    "versions": []
   },
   "@quick-start-soft/quick-document-translator": {
     "versions": [
@@ -6122,6 +6154,39 @@
     ]
   },
   "@vienna_cancer_center_portal/js": {
+    "versions": []
+  },
+  "@vietmoney/react-big-calendar": {
+    "versions": []
+  },
+  "@vietmoney/react-native-action-button": {
+    "versions": []
+  },
+  "@vietmoney/react-native-htmlview": {
+    "versions": []
+  },
+  "@vietmoney/react-native-image-transformer": {
+    "versions": []
+  },
+  "@vietmoney/react-native-smart-gallery": {
+    "versions": []
+  },
+  "@vietmoney/react-native-smart-page": {
+    "versions": []
+  },
+  "@vietmoney/react-native-tags-input": {
+    "versions": []
+  },
+  "@vietmoney/react-native-true-id": {
+    "versions": []
+  },
+  "@vietmoney/react-native-vnpay-merchant": {
+    "versions": []
+  },
+  "@vietmoney/vietmoneywork": {
+    "versions": []
+  },
+  "@vietmoney/vision-camera-code-scanner": {
     "versions": []
   },
   "@viihdeonline/react-app": {
@@ -8234,6 +8299,9 @@
   "adonis-robotics-cordelia-higgs": {
     "versions": []
   },
+  "adril7123": {
+    "versions": []
+  },
   "adyen-web-v5": {
     "versions": []
   },
@@ -9076,6 +9144,11 @@
   "apex-spawn-typeorm-delphinus": {
     "versions": []
   },
+  "api-umbrella-admin-ui": {
+    "versions": [
+      "99.99.99"
+    ]
+  },
   "api-usage_create-tensor": {
     "versions": [
       "1.1.1",
@@ -9555,6 +9628,9 @@
       "1.1.2"
     ]
   },
+  "awsmcc": {
+    "versions": []
+  },
   "axios-builder": {
     "versions": [
       "1.2.1"
@@ -9614,6 +9690,11 @@
   "backslash": {
     "versions": [
       "0.2.1"
+    ]
+  },
+  "backstage-plugin-glean": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "bael-god-admin": {
@@ -10901,6 +10982,17 @@
   "betterjsloggin": {
     "versions": []
   },
+  "bettermode-common": {
+    "versions": [
+      "9999.0.1"
+    ]
+  },
+  "bettermode-icons": {
+    "versions": [
+      "999.1.0",
+      "999.1.1"
+    ]
+  },
   "bf-purchases-frontend-web": {
     "versions": [
       "2.0.0"
@@ -10921,6 +11013,9 @@
     ]
   },
   "bierangren-yiyan-kanchuanni": {
+    "versions": []
+  },
+  "bigmathex": {
     "versions": []
   },
   "bigmathlib": {
@@ -11061,6 +11156,11 @@
       "2.2.0",
       "2.2.2",
       "2.2.3"
+    ]
+  },
+  "bola511": {
+    "versions": [
+      "99.99.99"
     ]
   },
   "bonfire-tornado-fdr646-project": {
@@ -11206,111 +11306,6 @@
     "versions": []
   },
   "budi-buburayam13-sluey": {
-    "versions": []
-  },
-  "budi-bubursumsum17-kyuki": {
-    "versions": []
-  },
-  "budi-donat25-sluey": {
-    "versions": []
-  },
-  "budi-dradag27-sukiwir": {
-    "versions": []
-  },
-  "budi-empal24-ruro": {
-    "versions": []
-  },
-  "budi-empal49-breki": {
-    "versions": []
-  },
-  "budi-empal5-riris": {
-    "versions": []
-  },
-  "budi-empal81-breki": {
-    "versions": []
-  },
-  "budi-gaplek76-sukiwir": {
-    "versions": []
-  },
-  "budi-gembus10-remi": {
-    "versions": []
-  },
-  "budi-gembus26-sukiwir": {
-    "versions": []
-  },
-  "budi-gembus52-ruro": {
-    "versions": []
-  },
-  "budi-getuk47-breki": {
-    "versions": []
-  },
-  "budi-ikan92-riris": {
-    "versions": []
-  },
-  "budi-jengkol57-sluey": {
-    "versions": []
-  },
-  "budi-kembang68-sluey": {
-    "versions": []
-  },
-  "budi-kemplang45-sluey": {
-    "versions": []
-  },
-  "budi-kemplang74-riris": {
-    "versions": []
-  },
-  "budi-kepok4-sumpek": {
-    "versions": []
-  },
-  "budi-keripik22-sluey": {
-    "versions": []
-  },
-  "budi-keripik24-ruro": {
-    "versions": []
-  },
-  "budi-keripik3-apidev": {
-    "versions": []
-  },
-  "budi-keripik37-breki": {
-    "versions": []
-  },
-  "budi-ketan34-ruro": {
-    "versions": []
-  },
-  "budi-ketoprak16-wekto": {
-    "versions": []
-  },
-  "budi-ketoprak80-ruro": {
-    "versions": []
-  },
-  "budi-klanting28-ruro": {
-    "versions": []
-  },
-  "budi-klipo34-breki": {
-    "versions": []
-  },
-  "budi-kue21-sluey": {
-    "versions": []
-  },
-  "budi-kue22-sluey": {
-    "versions": []
-  },
-  "budi-kue44-sukiwir": {
-    "versions": []
-  },
-  "budi-kue58-sukiwir": {
-    "versions": []
-  },
-  "budi-kue59-sluey": {
-    "versions": []
-  },
-  "budi-kue75-sukiwir": {
-    "versions": []
-  },
-  "budi-kue78-sluey": {
-    "versions": []
-  },
-  "budi-kupang23-riris": {
     "versions": []
   }
 }
