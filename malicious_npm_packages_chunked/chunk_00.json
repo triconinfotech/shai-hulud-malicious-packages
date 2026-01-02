@@ -8022,6 +8022,9 @@
   "50000-free-coin-master-spins-updated-kfekdz": {
     "versions": []
   },
+  "511fola": {
+    "versions": []
+  },
   "60000-coin-master-free-spins-rflmre": {
     "versions": []
   },
@@ -9679,6 +9682,9 @@
       "5.2.0"
     ]
   },
+  "babel-preset-ibm-cloud-cognitive": {
+    "versions": []
+  },
   "babel-preset-kinvey-flex-service": {
     "versions": [
       "0.1.1"
@@ -11300,12 +11306,6 @@
     "versions": []
   },
   "budi-bika46-riris": {
-    "versions": []
-  },
-  "budi-brengkes7-sluey": {
-    "versions": []
-  },
-  "budi-buburayam13-sluey": {
     "versions": []
   }
 }
