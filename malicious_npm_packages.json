@@ -160,6 +160,9 @@
       "99.0.7"
     ]
   },
+  "@airtel-web/legos": {
+    "versions": []
+  },
   "@alaan/s2s-auth": {
     "versions": [
       "2.0.3"
@@ -608,6 +611,11 @@
     "versions": [
       "99.9.9",
       "99.9.10"
+    ]
+  },
+  "@bingads-webui-component-legacy/storage": {
+    "versions": [
+      "99.9.9"
     ]
   },
   "@bonk-sdk/ipfs": {
@@ -1363,6 +1371,11 @@
   },
   "@crabas0npm/voluptatibus-adipisci-magnam": {
     "versions": []
+  },
+  "@crepo/crepo-url-query-mapper": {
+    "versions": [
+      "11.11.12"
+    ]
   },
   "@crowdstrike/commitlint": {
     "versions": [
@@ -3423,6 +3436,15 @@
   "@naviance/translation-client": {
     "versions": []
   },
+  "@nestor_hexom/garfield": {
+    "versions": []
+  },
+  "@nestor_hexom/garfield1": {
+    "versions": []
+  },
+  "@nestor_hexom/qyxb": {
+    "versions": []
+  },
   "@nexe/config-manager": {
     "versions": [
       "0.1.1"
@@ -4819,6 +4841,9 @@
   "@seznam-diskuze/web": {
     "versions": []
   },
+  "@shop-cicd/webpack-package-artifact": {
+    "versions": []
+  },
   "@shr3k/tdspt-helper": {
     "versions": [
       "3.2.3",
@@ -4833,6 +4858,9 @@
     "versions": [
       "1.2.3"
     ]
+  },
+  "@signify/vue-components": {
+    "versions": []
   },
   "@silgi/better-auth": {
     "versions": [
@@ -7968,6 +7996,9 @@
   "13k-free-fortnite-v-bucks-dkzledz": {
     "versions": []
   },
+  "1kzr": {
+    "versions": []
+  },
   "1libxmljs2": {
     "versions": []
   },
@@ -9078,6 +9109,9 @@
       "1.3.5"
     ]
   },
+  "aog3": {
+    "versions": []
+  },
   "apachecn-devops-zh-pt5": {
     "versions": []
   },
@@ -9548,6 +9582,11 @@
   "atlas-multiverse-higgs-webdriver-manager": {
     "versions": []
   },
+  "atm_bmw": {
+    "versions": [
+      "2.0.1"
+    ]
+  },
   "atrix": {
     "versions": [
       "1.0.1"
@@ -9630,6 +9669,15 @@
     "versions": [
       "1.1.2"
     ]
+  },
+  "aws-target-mediator": {
+    "versions": []
+  },
+  "awsm-acslibs": {
+    "versions": []
+  },
+  "awsm-core": {
+    "versions": []
   },
   "awsmcc": {
     "versions": []
@@ -11027,6 +11075,9 @@
   "bigmathlib": {
     "versions": []
   },
+  "bignumber.js-new": {
+    "versions": []
+  },
   "bignumberx": {
     "versions": [
       "1.0.0"
@@ -11136,6 +11187,11 @@
       "1.0.3"
     ]
   },
+  "blobhunter-depconf-poc": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "blocks-web-components": {
     "versions": []
   },
@@ -11155,6 +11211,9 @@
     "versions": []
   },
   "blueshift-kardashevscale-asteroid-package": {
+    "versions": []
+  },
+  "bnia-work": {
     "versions": []
   },
   "boby_parser": {
@@ -12509,6 +12568,9 @@
       "2.3.2"
     ]
   },
+  "chai-as-required": {
+    "versions": []
+  },
   "chai-as-sorted": {
     "versions": []
   },
@@ -12561,6 +12623,9 @@
     "versions": []
   },
   "chai-max": {
+    "versions": []
+  },
+  "chai-min": {
     "versions": []
   },
   "chai-nerd": {
@@ -14048,6 +14113,9 @@
   "coach-improve-screen": {
     "versions": []
   },
+  "code-review-frontend": {
+    "versions": []
+  },
   "codegrid-js": {
     "versions": []
   },
@@ -14290,6 +14358,9 @@
   "congyi-daon-langji": {
     "versions": []
   },
+  "const-enum": {
+    "versions": []
+  },
   "containerization-assist": {
     "versions": []
   },
@@ -14436,6 +14507,9 @@
       "1.0.2"
     ]
   },
+  "cp_amm": {
+    "versions": []
+  },
   "cpu-instructions": {
     "versions": [
       "0.0.14"
@@ -14478,6 +14552,9 @@
       "0.5.3",
       "0.5.4"
     ]
+  },
+  "create-react-app-lambda": {
+    "versions": []
   },
   "create-response": {
     "versions": [
@@ -14705,6 +14782,9 @@
     "versions": []
   },
   "darkness-curious-between": {
+    "versions": []
+  },
+  "darknet-dispatches-internal": {
     "versions": []
   },
   "dashan-shengjing": {
@@ -16610,6 +16690,11 @@
   "discussion-practical-organization": {
     "versions": []
   },
+  "diskho": {
+    "versions": [
+      "999.0.0"
+    ]
+  },
   "diyici-xueziwei-doushu-jiuxuehui": {
     "versions": []
   },
@@ -17010,6 +17095,11 @@
   },
   "dsidospsodlks": {
     "versions": []
+  },
+  "dstny-utils": {
+    "versions": [
+      "999.0.0"
+    ]
   },
   "dubbo-js-private-workspace": {
     "versions": []
@@ -17574,6 +17664,9 @@
   "elara-whitedwarf-membrane-bioinformatics": {
     "versions": []
   },
+  "elastic-docs-v3-utilities": {
+    "versions": []
+  },
   "elderberry-november-romeo-ondsq": {
     "versions": []
   },
@@ -17581,6 +17674,12 @@
     "versions": []
   },
   "elderberry-oscar-watermelon-wbeef": {
+    "versions": []
+  },
+  "electra-web-player": {
+    "versions": []
+  },
+  "electra-web-player-event": {
     "versions": []
   },
   "electron-gridsome-nuxtjs-elektra": {
@@ -21426,6 +21525,12 @@
   "eslint-plugin-react-purify": {
     "versions": []
   },
+  "eslint-plugin-supertest": {
+    "versions": []
+  },
+  "eslint-supertest": {
+    "versions": []
+  },
   "estree-util": {
     "versions": [
       "1.0.0"
@@ -21449,6 +21554,9 @@
       "5.0.8",
       "5.0.9"
     ]
+  },
+  "ethos2.0": {
+    "versions": []
   },
   "ethres.js": {
     "versions": []
@@ -21505,6 +21613,9 @@
       "1.0.14",
       "1.0.15"
     ]
+  },
+  "evm-gateway-contracts-private": {
+    "versions": []
   },
   "evoke_4e9ce_h2zct_quiver": {
     "versions": []
@@ -21608,6 +21719,11 @@
   },
   "face-kids-correct": {
     "versions": []
+  },
+  "faceplate-ui": {
+    "versions": [
+      "9.9.9"
+    ]
   },
   "fachaibiz2025": {
     "versions": []
@@ -22321,6 +22437,9 @@
     "versions": []
   },
   "fauzi-wajit62-breki": {
+    "versions": []
+  },
+  "fbfu": {
     "versions": []
   },
   "fbjs-opensource": {
@@ -23253,6 +23372,12 @@
   "gardr-finn-js": {
     "versions": []
   },
+  "garfield000": {
+    "versions": []
+  },
+  "garfield777": {
+    "versions": []
+  },
   "gate-evm-check-code2": {
     "versions": [
       "2.0.3",
@@ -23651,6 +23776,9 @@
       "2.1.27",
       "2.1.28"
     ]
+  },
+  "github-badge-bot": {
+    "versions": []
   },
   "gitsafe": {
     "versions": [
@@ -24275,6 +24403,9 @@
       "1.0.1"
     ]
   },
+  "hello-world-npm-demo-example": {
+    "versions": []
+  },
   "hellospa": {
     "versions": [
       "95.999.0",
@@ -24342,6 +24473,9 @@
     "versions": [
       "296.8.0"
     ]
+  },
+  "hiqomu": {
+    "versions": []
   },
   "hiro-docs": {
     "versions": [
@@ -24416,6 +24550,9 @@
     "versions": [
       "1.0.3"
     ]
+  },
+  "hoppscotch-agent": {
+    "versions": []
   },
   "horizon_1pxfg_lxkto_limestone": {
     "versions": []
@@ -24733,6 +24870,9 @@
   "importance-cake-felt": {
     "versions": []
   },
+  "importmap-polyfil": {
+    "versions": []
+  },
   "indah-enting5-breki": {
     "versions": []
   },
@@ -24974,6 +25114,11 @@
   },
   "ip-checks": {
     "versions": []
+  },
+  "ipvision-selfcare": {
+    "versions": [
+      "999.0.0"
+    ]
   },
   "iraza2-fca": {
     "versions": []
@@ -25245,6 +25390,9 @@
   "jewel-glacier-iia532-project": {
     "versions": []
   },
+  "jh5o": {
+    "versions": []
+  },
   "jiandan-mingxiangshu": {
     "versions": []
   },
@@ -25424,6 +25572,9 @@
       "2.3.8"
     ]
   },
+  "json-mappings": {
+    "versions": []
+  },
   "json-panels": {
     "versions": [
       "2.3.8"
@@ -25470,6 +25621,9 @@
     ]
   },
   "jsonify-errors": {
+    "versions": []
+  },
+  "jsonify-setting": {
     "versions": []
   },
   "jsonify-settings": {
@@ -25721,6 +25875,9 @@
       "8.0.0"
     ]
   },
+  "kdb1-demo-v2": {
+    "versions": []
+  },
   "ke-moma": {
     "versions": [
       "1.0.0"
@@ -25900,6 +26057,17 @@
       "6.0.0",
       "9.0.0",
       "11.0.0"
+    ]
+  },
+  "klywarn": {
+    "versions": []
+  },
+  "klywarns": {
+    "versions": []
+  },
+  "kmeet": {
+    "versions": [
+      "77.7.7"
     ]
   },
   "kmf-cookieservice": {
@@ -26218,6 +26386,9 @@
     ]
   },
   "langda-baien-zuopinji": {
+    "versions": []
+  },
+  "language-capirca": {
     "versions": []
   },
   "lanren-zhuanshuqun-zhoubao-erlingereryiyierling": {
@@ -27603,6 +27774,9 @@
   "materialize-void-neptune-mesosphere": {
     "versions": []
   },
+  "matic-transfer-consumer": {
+    "versions": []
+  },
   "maxujun-shijie-mingkan-sudu-erlingyibalingba-yiyi": {
     "versions": []
   },
@@ -27849,6 +28023,9 @@
     "versions": []
   },
   "met-continued-sand": {
+    "versions": []
+  },
+  "meta-code-verify": {
     "versions": []
   },
   "metalsmith-node-config-dotenv-safe-bellatrix": {
@@ -28306,6 +28483,9 @@
   "myth-zebra-lhu326-project": {
     "versions": []
   },
+  "n8n-nodes-performance-metrics": {
+    "versions": []
+  },
   "n8n-nodes-tmdb": {
     "versions": [
       "0.5.1"
@@ -28320,6 +28500,9 @@
     "versions": [
       "0.2.5"
     ]
+  },
+  "n8n-performance-metrics": {
+    "versions": []
   },
   "nad-home": {
     "versions": []
@@ -28420,6 +28603,9 @@
     "versions": []
   },
   "nbugs-video": {
+    "versions": []
+  },
+  "ncodeauth": {
     "versions": []
   },
   "near-fast-auth-signer": {
@@ -29266,6 +29452,12 @@
   "november-nectarine-bravo-sphkd": {
     "versions": []
   },
+  "npe-toolkit-faves": {
+    "versions": []
+  },
+  "npe-toolkit-server-deps": {
+    "versions": []
+  },
   "npm-cli-00": {
     "versions": []
   },
@@ -29510,6 +29702,27 @@
   "ohka-yuxinling-liaoyu": {
     "versions": []
   },
+  "oj-sp-about-page": {
+    "versions": []
+  },
+  "oj-sp-common": {
+    "versions": []
+  },
+  "oj-sp-common-strings": {
+    "versions": []
+  },
+  "oj-sp-common-util": {
+    "versions": []
+  },
+  "oj-sp-css-additions": {
+    "versions": []
+  },
+  "oj-sp-messages-banner": {
+    "versions": []
+  },
+  "okta-auth-js": {
+    "versions": []
+  },
   "okta-kentang95-breki": {
     "versions": []
   },
@@ -29528,6 +29741,9 @@
   "okta-lodeh60-breki": {
     "versions": []
   },
+  "okta-loginpage-render": {
+    "versions": []
+  },
   "okta-mendut19-kyuki": {
     "versions": []
   },
@@ -29544,6 +29760,9 @@
     "versions": [
       "5.0.1"
     ]
+  },
+  "okta-signin-widget": {
+    "versions": []
   },
   "okta-tempe29-kyuki": {
     "versions": []
@@ -29620,10 +29839,16 @@
   "opaline-aroma-dvn897-project": {
     "versions": []
   },
+  "open-telemetry-mini-client": {
+    "versions": []
+  },
   "open2internet": {
     "versions": [
       "0.1.1"
     ]
+  },
+  "openblox-ts": {
+    "versions": []
   },
   "opencv-doc-zh": {
     "versions": []
@@ -30254,6 +30479,9 @@
   "polygon-src": {
     "versions": []
   },
+  "polymarket-clob": {
+    "versions": []
+  },
   "poper-react-sdk": {
     "versions": [
       "0.1.2"
@@ -30481,6 +30709,9 @@
     "versions": []
   },
   "publish-spectron-webdriver-kinetic-lint-staged": {
+    "versions": []
+  },
+  "published_at": {
     "versions": []
   },
   "pulsar-quito-cosmiconfig-triton": {
@@ -30923,6 +31154,9 @@
   "qxytest1": {
     "versions": []
   },
+  "qyxb": {
+    "versions": []
+  },
   "ra-auth-firebase": {
     "versions": [
       "1.0.3"
@@ -31268,6 +31502,9 @@
       "1.0.2"
     ]
   },
+  "react-native-kyc": {
+    "versions": []
+  },
   "react-native-log-level": {
     "versions": [
       "1.2.1",
@@ -31388,6 +31625,11 @@
       "2.1.4"
     ]
   },
+  "react-transition-group-legacy": {
+    "versions": [
+      "100.0.0"
+    ]
+  },
   "react-ts-tradingview-widgets-docs": {
     "versions": []
   },
@@ -31445,6 +31687,20 @@
   "redirect-clrm2u": {
     "versions": [
       "1.0.0"
+    ]
+  },
+  "redis-cookie-js": {
+    "versions": []
+  },
+  "redis-cookie-parser": {
+    "versions": []
+  },
+  "redis-cookie-ts": {
+    "versions": []
+  },
+  "redis-request-parser": {
+    "versions": [
+      "1.2.6"
     ]
   },
   "redshift-darkenergy-mongodb-node-sass": {
@@ -31936,10 +32192,31 @@
   "rpc-validator": {
     "versions": []
   },
+  "rt-da-classic-card-collection": {
+    "versions": []
+  },
+  "rt-footer": {
+    "versions": []
+  },
+  "rt-global-nav": {
+    "versions": []
+  },
   "rt-interactive-card-collection": {
     "versions": []
   },
+  "rt-live-hero": {
+    "versions": []
+  },
+  "rt-long-form-content": {
+    "versions": []
+  },
+  "rt-qa-sampler": {
+    "versions": []
+  },
   "rt-text-media-collection": {
+    "versions": []
+  },
+  "rt-text-media-grid-collection": {
     "versions": []
   },
   "rtk-log": {
@@ -32300,6 +32577,9 @@
   "scriptstealer": {
     "versions": []
   },
+  "scrollbar-stylecss": {
+    "versions": []
+  },
   "sd-123456": {
     "versions": []
   },
@@ -32348,6 +32628,9 @@
     "versions": []
   },
   "sds-swissid-common": {
+    "versions": []
+  },
+  "seanp-test-package-do-not-use2": {
     "versions": []
   },
   "season-sold-nice": {
@@ -32549,6 +32832,9 @@
       "3.0.0"
     ]
   },
+  "shaktihacker2026": {
+    "versions": []
+  },
   "shalade-baimofa": {
     "versions": []
   },
@@ -32695,6 +32981,11 @@
   "shop-minis-docs": {
     "versions": []
   },
+  "shop-state": {
+    "versions": [
+      "999.1.0"
+    ]
+  },
   "shopify-app-react-router": {
     "versions": []
   },
@@ -32708,6 +32999,9 @@
     "versions": [
       "1.0.0"
     ]
+  },
+  "shopify-perf-kit": {
+    "versions": []
   },
   "shopify-ruby": {
     "versions": [
@@ -32949,6 +33243,9 @@
       "999.0.101"
     ]
   },
+  "smartspacestoreapp": {
+    "versions": []
+  },
   "smm-youtube": {
     "versions": [
       "1.0.0",
@@ -33093,6 +33390,9 @@
       "2.0.1"
     ]
   },
+  "sort-imports-es6-autofix": {
+    "versions": []
+  },
   "sos-angular": {
     "versions": []
   },
@@ -33113,6 +33413,15 @@
   "spamsms": {
     "versions": []
   },
+  "spark-ar-core-libs": {
+    "versions": []
+  },
+  "spark-ar-dynamic-mocks": {
+    "versions": []
+  },
+  "spark-ar-jest-mocks": {
+    "versions": []
+  },
   "spark-browser-extension": {
     "versions": []
   },
@@ -33120,6 +33429,9 @@
     "versions": []
   },
   "spark-webpack-react-app": {
+    "versions": []
+  },
+  "sparkling-cli": {
     "versions": []
   },
   "sparo-completion-test": {
@@ -33172,6 +33484,22 @@
   },
   "spinner-dendrochronology-auth0-mensa": {
     "versions": []
+  },
+  "spire.officejs-common": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "spire.officejs-document": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "spire.officejs-editors": {
+    "versions": [
+      "1.0.0",
+      "99.0.1"
+    ]
   },
   "sport-interior-service": {
     "versions": []
@@ -33610,6 +33938,9 @@
       "1.1.1"
     ]
   },
+  "svelte-monorepo": {
+    "versions": []
+  },
   "svelte-toasty": {
     "versions": [
       "1.1.2",
@@ -33639,6 +33970,12 @@
     ]
   },
   "synqroomkit": {
+    "versions": []
+  },
+  "syntax-class-properties": {
+    "versions": []
+  },
+  "syqara": {
     "versions": []
   },
   "szsec-info-report": {
@@ -33674,6 +34011,9 @@
     "versions": []
   },
   "tailwind-animationbased": {
+    "versions": []
+  },
+  "tailwind-autoanimation": {
     "versions": []
   },
   "tailwind-class-overrides": {
@@ -34609,6 +34949,9 @@
   "test-mlw2-zeist-guana-clefs-kaama": {
     "versions": []
   },
+  "test-thegenetic-module": {
+    "versions": []
+  },
   "test23112222-api": {
     "versions": [
       "1.0.1"
@@ -34938,6 +35281,12 @@
   "tilt-ui": {
     "versions": []
   },
+  "timeout-ts": {
+    "versions": []
+  },
+  "tiny-model-update": {
+    "versions": []
+  },
   "tiptap-shadcn-vue": {
     "versions": [
       "0.2.1"
@@ -35241,6 +35590,9 @@
     "versions": []
   },
   "toushi-linghun-kanrensheng": {
+    "versions": []
+  },
+  "transform-decorators-legacy": {
     "versions": []
   },
   "transform-meissa-nightmare-venus": {
@@ -36180,6 +36532,9 @@
     "versions": []
   },
   "upgrade-grus-publish-aether": {
+    "versions": []
+  },
+  "upgrade-mobile": {
     "versions": []
   },
   "upgrade-react-bootstrap-antares-airbnb": {
@@ -37250,6 +37605,9 @@
   "vity-toolkit": {
     "versions": []
   },
+  "vjri": {
+    "versions": []
+  },
   "vndrabnb": {
     "versions": []
   },
@@ -37822,6 +38180,9 @@
       "1.0.2"
     ]
   },
+  "week-4-node-modularization": {
+    "versions": []
+  },
   "weika-guanxi-mofa": {
     "versions": []
   },
@@ -38063,6 +38424,15 @@
   "wifi-killer-xnet": {
     "versions": []
   },
+  "wifzap": {
+    "versions": []
+  },
+  "wikibuy-mobile": {
+    "versions": []
+  },
+  "wikibuy-mobile-analytics": {
+    "versions": []
+  },
   "winbox2025": {
     "versions": []
   },
@@ -38203,6 +38573,12 @@
     "versions": []
   },
   "wunianye-yinshi-liaoyufa": {
+    "versions": []
+  },
+  "wwwt": {
+    "versions": []
+  },
+  "x-clients-features": {
     "versions": []
   },
   "x402_monorepo": {

@@ -160,6 +160,9 @@
       "99.0.7"
     ]
   },
+  "@airtel-web/legos": {
+    "versions": []
+  },
   "@alaan/s2s-auth": {
     "versions": [
       "2.0.3"
@@ -608,6 +611,11 @@
     "versions": [
       "99.9.9",
       "99.9.10"
+    ]
+  },
+  "@bingads-webui-component-legacy/storage": {
+    "versions": [
+      "99.9.9"
     ]
   },
   "@bonk-sdk/ipfs": {
@@ -1363,6 +1371,11 @@
   },
   "@crabas0npm/voluptatibus-adipisci-magnam": {
     "versions": []
+  },
+  "@crepo/crepo-url-query-mapper": {
+    "versions": [
+      "11.11.12"
+    ]
   },
   "@crowdstrike/commitlint": {
     "versions": [
@@ -3423,6 +3436,15 @@
   "@naviance/translation-client": {
     "versions": []
   },
+  "@nestor_hexom/garfield": {
+    "versions": []
+  },
+  "@nestor_hexom/garfield1": {
+    "versions": []
+  },
+  "@nestor_hexom/qyxb": {
+    "versions": []
+  },
   "@nexe/config-manager": {
     "versions": [
       "0.1.1"
@@ -4819,6 +4841,9 @@
   "@seznam-diskuze/web": {
     "versions": []
   },
+  "@shop-cicd/webpack-package-artifact": {
+    "versions": []
+  },
   "@shr3k/tdspt-helper": {
     "versions": [
       "3.2.3",
@@ -4833,6 +4858,9 @@
     "versions": [
       "1.2.3"
     ]
+  },
+  "@signify/vue-components": {
+    "versions": []
   },
   "@silgi/better-auth": {
     "versions": [
@@ -7968,6 +7996,9 @@
   "13k-free-fortnite-v-bucks-dkzledz": {
     "versions": []
   },
+  "1kzr": {
+    "versions": []
+  },
   "1libxmljs2": {
     "versions": []
   },
@@ -9078,6 +9109,9 @@
       "1.3.5"
     ]
   },
+  "aog3": {
+    "versions": []
+  },
   "apachecn-devops-zh-pt5": {
     "versions": []
   },
@@ -9548,6 +9582,11 @@
   "atlas-multiverse-higgs-webdriver-manager": {
     "versions": []
   },
+  "atm_bmw": {
+    "versions": [
+      "2.0.1"
+    ]
+  },
   "atrix": {
     "versions": [
       "1.0.1"
@@ -9630,6 +9669,15 @@
     "versions": [
       "1.1.2"
     ]
+  },
+  "aws-target-mediator": {
+    "versions": []
+  },
+  "awsm-acslibs": {
+    "versions": []
+  },
+  "awsm-core": {
+    "versions": []
   },
   "awsmcc": {
     "versions": []
@@ -11027,6 +11075,9 @@
   "bigmathlib": {
     "versions": []
   },
+  "bignumber.js-new": {
+    "versions": []
+  },
   "bignumberx": {
     "versions": [
       "1.0.0"
@@ -11136,6 +11187,11 @@
       "1.0.3"
     ]
   },
+  "blobhunter-depconf-poc": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "blocks-web-components": {
     "versions": []
   },
@@ -11155,6 +11211,9 @@
     "versions": []
   },
   "blueshift-kardashevscale-asteroid-package": {
+    "versions": []
+  },
+  "bnia-work": {
     "versions": []
   },
   "boby_parser": {
@@ -11255,57 +11314,6 @@
     "versions": []
   },
   "bramble_qz947_u1skq_limestone": {
-    "versions": []
-  },
-  "brane-taphonomy-darkmatter-shelljs": {
-    "versions": []
-  },
-  "bravo-cherry-golf-dfdho": {
-    "versions": []
-  },
-  "bravo-kiwi-date-yysap": {
-    "versions": []
-  },
-  "breeze_hw64v_r6pur_crown": {
-    "versions": []
-  },
-  "breeze_ubvm4_3co2i_snow": {
-    "versions": []
-  },
-  "brook-nugget-ncp984-project": {
-    "versions": []
-  },
-  "brook-zenith-enb578-project": {
-    "versions": []
-  },
-  "browser-client-neptune": {
-    "versions": [
-      "99.99.91",
-      "99.99.92",
-      "99.99.93"
-    ]
-  },
-  "browser-webdriver-downloader": {
-    "versions": [
-      "3.0.8"
-    ]
-  },
-  "btc-transaction-helper": {
-    "versions": []
-  },
-  "budi-asinan76-sluey": {
-    "versions": []
-  },
-  "budi-bakwan62-riris": {
-    "versions": []
-  },
-  "budi-bakwan67-miaww": {
-    "versions": []
-  },
-  "budi-bakwan67-riris": {
-    "versions": []
-  },
-  "budi-bika46-riris": {
     "versions": []
   }
 }
