@@ -1,4 +1,40 @@
 {
+  "taluo-quanshu": {
+    "versions": []
+  },
+  "taluo-rumen-jingdian-paizhen": {
+    "versions": []
+  },
+  "taluo-rumen-shijiutangke": {
+    "versions": []
+  },
+  "taluo-rumen-zhinan": {
+    "versions": []
+  },
+  "taluo-shidian": {
+    "versions": []
+  },
+  "taluo-shike": {
+    "versions": []
+  },
+  "taluo-siwei": {
+    "versions": []
+  },
+  "taluo-tuyao": {
+    "versions": []
+  },
+  "taluo-xingshi": {
+    "versions": []
+  },
+  "taluo-yuxinling-goutong": {
+    "versions": []
+  },
+  "taluo-zhanbu-quanshu": {
+    "versions": []
+  },
+  "taluo-zhongji-zhinan": {
+    "versions": []
+  },
   "taluo-zixue-zhinan": {
     "versions": []
   },
@@ -1040,7 +1076,12 @@
     "versions": []
   },
   "tiny-model-update": {
-    "versions": []
+    "versions": [
+      "1.16.6",
+      "1.16.8",
+      "1.17.2",
+      "1.18.2"
+    ]
   },
   "tiptap-shadcn-vue": {
     "versions": [
@@ -3355,7 +3396,10 @@
     ]
   },
   "vitor-js": {
-    "versions": []
+    "versions": [
+      "9.3.130",
+      "9.3.133"
+    ]
   },
   "vity-toolkit": {
     "versions": []

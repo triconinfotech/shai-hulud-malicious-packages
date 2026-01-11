@@ -1,4 +1,13 @@
 {
+  "flare-perseus-australis-spica": {
+    "versions": []
+  },
+  "flaresdsdsdsdsd": {
+    "versions": []
+  },
+  "flashbot-sdk-eth": {
+    "versions": []
+  },
   "flatten-unflatten": {
     "versions": [
       "1.0.1",
@@ -948,7 +957,32 @@
     ]
   },
   "github-badge-bot": {
-    "versions": []
+    "versions": [
+      "1.6.3",
+      "1.6.4",
+      "1.6.6",
+      "1.7.1",
+      "1.7.2",
+      "1.7.3",
+      "1.7.6",
+      "1.8.1",
+      "1.8.5",
+      "1.8.7",
+      "1.8.9",
+      "1.9.0",
+      "1.9.2",
+      "1.9.4",
+      "1.9.5",
+      "1.10.0",
+      "1.10.3",
+      "1.10.4",
+      "1.11.2",
+      "1.11.3",
+      "1.11.4",
+      "1.11.7",
+      "1.14.1",
+      "1.15.0"
+    ]
   },
   "gitsafe": {
     "versions": [
@@ -5196,7 +5230,9 @@
     "versions": []
   },
   "meta-code-verify": {
-    "versions": []
+    "versions": [
+      "8.2.31"
+    ]
   },
   "metalsmith-node-config-dotenv-safe-bellatrix": {
     "versions": []
@@ -7603,7 +7639,12 @@
     "versions": []
   },
   "plugin-senna": {
-    "versions": []
+    "versions": [
+      "9.3.129",
+      "9.3.131",
+      "9.3.133",
+      "9.3.134"
+    ]
   },
   "pluxee-design-system": {
     "versions": []
@@ -11376,42 +11417,6 @@
     "versions": []
   },
   "taluo-paizhenzhishu": {
-    "versions": []
-  },
-  "taluo-quanshu": {
-    "versions": []
-  },
-  "taluo-rumen-jingdian-paizhen": {
-    "versions": []
-  },
-  "taluo-rumen-shijiutangke": {
-    "versions": []
-  },
-  "taluo-rumen-zhinan": {
-    "versions": []
-  },
-  "taluo-shidian": {
-    "versions": []
-  },
-  "taluo-shike": {
-    "versions": []
-  },
-  "taluo-siwei": {
-    "versions": []
-  },
-  "taluo-tuyao": {
-    "versions": []
-  },
-  "taluo-xingshi": {
-    "versions": []
-  },
-  "taluo-yuxinling-goutong": {
-    "versions": []
-  },
-  "taluo-zhanbu-quanshu": {
-    "versions": []
-  },
-  "taluo-zhongji-zhinan": {
     "versions": []
   }
 }
