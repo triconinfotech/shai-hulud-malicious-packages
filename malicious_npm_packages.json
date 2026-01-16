@@ -21909,7 +21909,9 @@
     "versions": []
   },
   "experian-design-system": {
-    "versions": []
+    "versions": [
+      "99.99.1"
+    ]
   },
   "experience-manager-apis": {
     "versions": [
