@@ -4704,6 +4704,9 @@
       "1.0.3"
     ]
   },
+  "@riag-libs/pattern-library-react-hooks": {
+    "versions": []
+  },
   "@s21games/lsx-cli": {
     "versions": []
   },
@@ -4748,6 +4751,9 @@
     "versions": [
       "1.2.9213"
     ]
+  },
+  "@servicepoint/vue-project": {
+    "versions": []
   },
   "@seung-ju/next": {
     "versions": [
@@ -4956,6 +4962,15 @@
     "versions": []
   },
   "@spicywombat/testprivate": {
+    "versions": []
+  },
+  "@spx-delivery/react": {
+    "versions": []
+  },
+  "@spx-smartsorting/vue": {
+    "versions": []
+  },
+  "@spx-workforceops/shared-vue": {
     "versions": []
   },
   "@strapbuild/react-native-date-time-picker": {
@@ -6195,6 +6210,9 @@
   "@upside/flex-common-typescript-lib": {
     "versions": []
   },
+  "@ux-foundry/palette": {
+    "versions": []
+  },
   "@validate-pubkey/hex": {
     "versions": [
       "1.0.0",
@@ -6645,6 +6663,12 @@
     "versions": [
       "2.4.9"
     ]
+  },
+  "@wb-team/uikit-myteam-web": {
+    "versions": []
+  },
+  "@wbgo/shared": {
+    "versions": []
   },
   "@wen-community/wen-new-standard": {
     "versions": []
@@ -8779,6 +8803,9 @@
   "alef-frontend": {
     "versions": []
   },
+  "alf-ui-js": {
+    "versions": []
+  },
   "algol-achernar-kastra-restart": {
     "versions": []
   },
@@ -9658,6 +9685,9 @@
       "2.3.5"
     ]
   },
+  "assurance-common-components": {
+    "versions": []
+  },
   "asteroid-bamboo-gxv109-project": {
     "versions": []
   },
@@ -9735,6 +9765,9 @@
     "versions": [
       "1.0.1"
     ]
+  },
+  "auc-2-lib": {
+    "versions": []
   },
   "augmentedreality-cz-conventional-changelog-elektra-bellatrix": {
     "versions": []
@@ -10311,6 +10344,9 @@
     "versions": []
   },
   "baryon-proxima-fermiparadox-phylogenetics": {
+    "versions": []
+  },
+  "base-ui-vue3": {
     "versions": []
   },
   "base62-58x": {
@@ -11292,41 +11328,5 @@
   },
   "black-especially-period": {
     "versions": []
-  },
-  "blackbeard-navigator-ctf": {
-    "versions": []
-  },
-  "blackgoldpvt": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "blackhole-hyperion-farout-backend": {
-    "versions": []
-  },
-  "blank-hidden-interior": {
-    "versions": []
-  },
-  "blank-sum-knowledge": {
-    "versions": []
-  },
-  "blendertools": {
-    "versions": []
-  },
-  "blinqio-executions-cli": {
-    "versions": [
-      "1.0.41"
-    ]
-  },
-  "blitz-passport-repository-venus": {
-    "versions": []
-  },
-  "blitz-rollup-scripts-cli": {
-    "versions": []
-  },
-  "blob-to-base64": {
-    "versions": [
-      "1.0.3"
-    ]
   }
 }

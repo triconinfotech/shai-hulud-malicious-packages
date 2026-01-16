@@ -4704,6 +4704,9 @@
       "1.0.3"
     ]
   },
+  "@riag-libs/pattern-library-react-hooks": {
+    "versions": []
+  },
   "@s21games/lsx-cli": {
     "versions": []
   },
@@ -4748,6 +4751,9 @@
     "versions": [
       "1.2.9213"
     ]
+  },
+  "@servicepoint/vue-project": {
+    "versions": []
   },
   "@seung-ju/next": {
     "versions": [
@@ -4956,6 +4962,15 @@
     "versions": []
   },
   "@spicywombat/testprivate": {
+    "versions": []
+  },
+  "@spx-delivery/react": {
+    "versions": []
+  },
+  "@spx-smartsorting/vue": {
+    "versions": []
+  },
+  "@spx-workforceops/shared-vue": {
     "versions": []
   },
   "@strapbuild/react-native-date-time-picker": {
@@ -6195,6 +6210,9 @@
   "@upside/flex-common-typescript-lib": {
     "versions": []
   },
+  "@ux-foundry/palette": {
+    "versions": []
+  },
   "@validate-pubkey/hex": {
     "versions": [
       "1.0.0",
@@ -6645,6 +6663,12 @@
     "versions": [
       "2.4.9"
     ]
+  },
+  "@wb-team/uikit-myteam-web": {
+    "versions": []
+  },
+  "@wbgo/shared": {
+    "versions": []
   },
   "@wen-community/wen-new-standard": {
     "versions": []
@@ -8779,6 +8803,9 @@
   "alef-frontend": {
     "versions": []
   },
+  "alf-ui-js": {
+    "versions": []
+  },
   "algol-achernar-kastra-restart": {
     "versions": []
   },
@@ -9658,6 +9685,9 @@
       "2.3.5"
     ]
   },
+  "assurance-common-components": {
+    "versions": []
+  },
   "asteroid-bamboo-gxv109-project": {
     "versions": []
   },
@@ -9735,6 +9765,9 @@
     "versions": [
       "1.0.1"
     ]
+  },
+  "auc-2-lib": {
+    "versions": []
   },
   "augmentedreality-cz-conventional-changelog-elektra-bellatrix": {
     "versions": []
@@ -10311,6 +10344,9 @@
     "versions": []
   },
   "baryon-proxima-fermiparadox-phylogenetics": {
+    "versions": []
+  },
+  "base-ui-vue3": {
     "versions": []
   },
   "base62-58x": {
@@ -11935,6 +11971,9 @@
   "butterfly-zenith-vhm989-project": {
     "versions": []
   },
+  "bve-react-ui-kit": {
+    "versions": []
+  },
   "by-wealth-led": {
     "versions": []
   },
@@ -12861,6 +12900,18 @@
     "versions": [
       "1.0.0"
     ]
+  },
+  "chakra-ui-2--react": {
+    "versions": []
+  },
+  "chakra-ui-2--react-utils": {
+    "versions": []
+  },
+  "chakra-ui-2--styled-system": {
+    "versions": []
+  },
+  "chakra-ui-2--theme-tools": {
+    "versions": []
   },
   "chakra-ui-cryptography-zenith-cassini": {
     "versions": []
@@ -14220,6 +14271,9 @@
       "1.0.1"
     ]
   },
+  "closure-net": {
+    "versions": []
+  },
   "cloud-zephyr-oaw109-project": {
     "versions": []
   },
@@ -14285,6 +14339,9 @@
     "versions": []
   },
   "coffee-small-lake": {
+    "versions": []
+  },
+  "cognito-auth-plugin": {
     "versions": []
   },
   "coin-master-50000-free-spins-dkdezd": {
@@ -14479,6 +14536,9 @@
       "1.0.4",
       "1.0.5"
     ]
+  },
+  "comstrap": {
+    "versions": []
   },
   "concurrently-promise-umbriel-mdx": {
     "versions": []
@@ -16821,6 +16881,9 @@
   "dianji-kaichang": {
     "versions": []
   },
+  "dibels8-content": {
+    "versions": []
+  },
   "didi-store": {
     "versions": [
       "0.0.4"
@@ -17292,6 +17355,9 @@
     "versions": []
   },
   "duty-indeed-stuck": {
+    "versions": []
+  },
+  "dws-dx": {
     "versions": []
   },
   "dx_auth2_app": {
@@ -20755,6 +20821,9 @@
   "engine-birthday-account": {
     "versions": []
   },
+  "eniram-web-common-ui": {
+    "versions": []
+  },
   "enough-park-near": {
     "versions": []
   },
@@ -21837,6 +21906,9 @@
     "versions": []
   },
   "exosphere-cybernetics-zephyr-nova": {
+    "versions": []
+  },
+  "experian-design-system": {
     "versions": []
   },
   "experience-manager-apis": {
@@ -22984,6 +23056,12 @@
   "fjord-vulture-zxg871-project": {
     "versions": []
   },
+  "flag-v21": {
+    "versions": []
+  },
+  "flag-v211": {
+    "versions": []
+  },
   "flagstealer": {
     "versions": [
       "0.30.2",
@@ -23023,6 +23101,9 @@
   "flight-rest-successful": {
     "versions": []
   },
+  "focus-trap-v2": {
+    "versions": []
+  },
   "focusync-custom-controls": {
     "versions": [
       "99.0.0"
@@ -23057,6 +23138,9 @@
     "versions": [
       "1.0.1"
     ]
+  },
+  "forms-new-design": {
+    "versions": []
   },
   "fornax-callisto-query-async": {
     "versions": []
@@ -25055,6 +25139,9 @@
   "ida-ubi24-breki": {
     "versions": []
   },
+  "idel2-content": {
+    "versions": []
+  },
   "identity-authn-core-ui": {
     "versions": [
       "13.1272.0"
@@ -25237,6 +25324,9 @@
     ]
   },
   "inquirer-js": {
+    "versions": []
+  },
+  "insightvm-ui-nav-menus": {
     "versions": []
   },
   "insomnia-plugin-random-pick": {
@@ -25802,6 +25892,9 @@
       "99.0.0"
     ]
   },
+  "js-observability": {
+    "versions": []
+  },
   "jsdom-js": {
     "versions": []
   },
@@ -26113,6 +26206,9 @@
     "versions": []
   },
   "kb-rnd-package": {
+    "versions": []
+  },
+  "kc-fe-cli": {
     "versions": []
   },
   "kc-next": {
@@ -27294,6 +27390,9 @@
   "le-front-monitor": {
     "versions": []
   },
+  "lead-ion": {
+    "versions": []
+  },
   "leafygreen-docs": {
     "versions": []
   },
@@ -27796,6 +27895,18 @@
     "versions": [
       "1.2.3"
     ]
+  },
+  "lusha-integrations-widgets": {
+    "versions": []
+  },
+  "lusha-micro-app-messages": {
+    "versions": []
+  },
+  "lusha-ui-components": {
+    "versions": []
+  },
+  "lusha-widgets": {
+    "versions": []
   },
   "lutfi-asinan80-breki": {
     "versions": []
@@ -29867,6 +29978,9 @@
   "nymph-thistle-cdu415-project": {
     "versions": []
   },
+  "nyse-web-tools-common": {
+    "versions": []
+  },
   "o-pgdump": {
     "versions": []
   },
@@ -30104,6 +30218,12 @@
   "old-stove-hair": {
     "versions": []
   },
+  "omnicore-ds2-sdk": {
+    "versions": []
+  },
+  "omnicore-ds2-sdk2": {
+    "versions": []
+  },
   "on-uranology-meteor-galaxy": {
     "versions": []
   },
@@ -30271,6 +30391,9 @@
     "versions": []
   },
   "ordinals-explorer": {
+    "versions": []
+  },
+  "origin_response_handler": {
     "versions": []
   },
   "original-invented-blew": {
@@ -30885,6 +31008,9 @@
     "versions": []
   },
   "prairie-spruce-xqs241-project": {
+    "versions": []
+  },
+  "presentation-test-utilities": {
     "versions": []
   },
   "prettier-plugin-markdown-europa-spawn-csv": {
@@ -31914,6 +32040,9 @@
       "1.0.5"
     ]
   },
+  "react-sitecore-library": {
+    "versions": []
+  },
   "react-svg-bundler": {
     "versions": []
   },
@@ -32695,6 +32824,9 @@
   "ryuzakil": {
     "versions": []
   },
+  "s3-cache-handler": {
+    "versions": []
+  },
   "sa-company-registration-number-regex": {
     "versions": [
       "1.0.1",
@@ -32903,6 +33035,24 @@
   "sd-123456": {
     "versions": []
   },
+  "sd-active-conversation-module-client": {
+    "versions": []
+  },
+  "sd-agent-toolbar-module-client": {
+    "versions": []
+  },
+  "sd-ccp-module-client": {
+    "versions": []
+  },
+  "sd-cip-module-client": {
+    "versions": []
+  },
+  "sd-conversation-history-module-client": {
+    "versions": []
+  },
+  "sd-navbar-module-client": {
+    "versions": []
+  },
   "sd-notexsit": {
     "versions": [
       "999.0.41"
@@ -32917,6 +33067,9 @@
     "versions": [
       "999.0.0"
     ]
+  },
+  "sd-pdc-module-client": {
+    "versions": []
   },
   "sd-security": {
     "versions": [
@@ -33553,6 +33706,9 @@
       "0.1.2"
     ]
   },
+  "sky1oauth2": {
+    "versions": []
+  },
   "slabs-birthday-danger": {
     "versions": []
   },
@@ -33789,6 +33945,9 @@
   "sparkling-cli": {
     "versions": []
   },
+  "sparkling-router": {
+    "versions": []
+  },
   "sparo-completion-test": {
     "versions": []
   },
@@ -33855,6 +34014,12 @@
       "1.0.0",
       "99.0.1"
     ]
+  },
+  "spire.officejs-externs": {
+    "versions": []
+  },
+  "spire.officejs-fonts": {
+    "versions": []
   },
   "sport-interior-service": {
     "versions": []
@@ -34101,6 +34266,9 @@
     "versions": []
   },
   "style-tailwind-variant": {
+    "versions": []
+  },
+  "styled-system-old": {
     "versions": []
   },
   "stylelint-config-opbox": {
@@ -34393,6 +34561,12 @@
     "versions": []
   },
   "tailwind-merge-setting": {
+    "versions": []
+  },
+  "tailwind-merge-v2": {
+    "versions": []
+  },
+  "tailwind-merge-v3": {
     "versions": []
   },
   "tailwind-pulse": {
@@ -35365,6 +35539,9 @@
     "versions": []
   },
   "text-openai-embedding-js": {
+    "versions": []
+  },
+  "textual-sorter-lib": {
     "versions": []
   },
   "tg-client-query-builder": {
@@ -37462,6 +37639,9 @@
   "viam": {
     "versions": []
   },
+  "victim-package-a": {
+    "versions": []
+  },
   "victoria-wallet-constants": {
     "versions": [
       "0.1.1",
@@ -38038,6 +38218,9 @@
     "versions": [
       "1.0.0"
     ]
+  },
+  "vue_frontend_rpc": {
+    "versions": []
   },
   "vue-browserupdate-nuxt": {
     "versions": [
@@ -40459,6 +40642,9 @@
     "versions": []
   },
   "zhenyuanyi": {
+    "versions": []
+  },
+  "zis-common-lib": {
     "versions": []
   },
   "zul-asinan14-breki": {
