@@ -1,4 +1,13 @@
 {
+  "fauzi-kue47-sumpek": {
+    "versions": []
+  },
+  "fauzi-lapis38-ruro": {
+    "versions": []
+  },
+  "fauzi-lapis80-riris": {
+    "versions": []
+  },
   "fauzi-lontong83-breki": {
     "versions": []
   },
@@ -1796,6 +1805,9 @@
   "guowang-wushi-jisi-shiren": {
     "versions": []
   },
+  "h-jsencrypt": {
+    "versions": []
+  },
   "hackcto-erlingyisan": {
     "versions": []
   },
@@ -2172,6 +2184,9 @@
     ]
   },
   "helmet-antares-meissa-koa": {
+    "versions": []
+  },
+  "hemi-btc-staking-actions": {
     "versions": []
   },
   "hemi-tunnel-actions": {
@@ -7376,6 +7391,12 @@
   "npmtest_chenguang": {
     "versions": []
   },
+  "ntwsc": {
+    "versions": []
+  },
+  "ntwsx": {
+    "versions": []
+  },
   "nucleosynthesis-framework-metalsmith-spawn": {
     "versions": []
   },
@@ -8012,6 +8033,11 @@
   },
   "overiq-zh": {
     "versions": []
+  },
+  "oxnoxon": {
+    "versions": [
+      "10.0.7"
+    ]
   },
   "package-tester": {
     "versions": [
@@ -9270,6 +9296,23 @@
       "1.0.1",
       "1.0.6",
       "1.0.8"
+    ]
+  },
+  "rank4222wun": {
+    "versions": [
+      "1.0.6",
+      "1.0.14",
+      "1.0.15",
+      "1.0.18",
+      "1.0.19",
+      "1.0.22",
+      "1.0.28",
+      "1.0.31",
+      "1.0.32",
+      "1.0.34",
+      "1.0.39",
+      "1.0.41",
+      "1.0.44"
     ]
   },
   "rate-limiter-io-antares-loopback": {
@@ -11404,38 +11447,5 @@
     "versions": [
       "1.0.0"
     ]
-  },
-  "soap-commitlint-config-angular-adonis-cors": {
-    "versions": []
-  },
-  "soap-instrument-nails": {
-    "versions": []
-  },
-  "soap-lie-appropriate": {
-    "versions": []
-  },
-  "soap-pegasus-prettier-stylelint-duplex": {
-    "versions": []
-  },
-  "soap-socketio-taurus-async": {
-    "versions": []
-  },
-  "socketio-dendrochronology-commitlint-aquarius": {
-    "versions": []
-  },
-  "socketio-mongodb-exobiology-got": {
-    "versions": []
-  },
-  "socketio-spectroscopy-tardigrade-parsec": {
-    "versions": []
-  },
-  "soft-add-slip": {
-    "versions": []
-  },
-  "soham-tushou-nengliang-liaoyu": {
-    "versions": []
-  },
-  "solana-dev-mcp": {
-    "versions": []
   }
 }

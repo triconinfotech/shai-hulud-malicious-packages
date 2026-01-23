@@ -1,4 +1,37 @@
 {
+  "soap-commitlint-config-angular-adonis-cors": {
+    "versions": []
+  },
+  "soap-instrument-nails": {
+    "versions": []
+  },
+  "soap-lie-appropriate": {
+    "versions": []
+  },
+  "soap-pegasus-prettier-stylelint-duplex": {
+    "versions": []
+  },
+  "soap-socketio-taurus-async": {
+    "versions": []
+  },
+  "socketio-dendrochronology-commitlint-aquarius": {
+    "versions": []
+  },
+  "socketio-mongodb-exobiology-got": {
+    "versions": []
+  },
+  "socketio-spectroscopy-tardigrade-parsec": {
+    "versions": []
+  },
+  "soft-add-slip": {
+    "versions": []
+  },
+  "soham-tushou-nengliang-liaoyu": {
+    "versions": []
+  },
+  "solana-dev-mcp": {
+    "versions": []
+  },
   "solana-dexco-basic": {
     "versions": []
   },
@@ -1667,6 +1700,14 @@
   },
   "test-mlw2-zeist-guana-clefs-kaama": {
     "versions": []
+  },
+  "test-on-other": {
+    "versions": []
+  },
+  "test-on-other-again": {
+    "versions": [
+      "99.9.8"
+    ]
   },
   "test-thegenetic-module": {
     "versions": []
