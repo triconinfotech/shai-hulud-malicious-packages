@@ -8147,7 +8147,10 @@
       "1.0.10",
       "1.0.16",
       "1.0.19",
-      "1.0.20"
+      "1.0.20",
+      "1.0.22",
+      "1.0.23",
+      "1.0.24"
     ]
   },
   "payments-notifications": {
@@ -11433,9 +11436,6 @@
     "versions": []
   },
   "solana-dev-mcp": {
-    "versions": []
-  },
-  "solana-dexco-basic": {
     "versions": []
   }
 }
