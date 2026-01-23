@@ -1,4 +1,7 @@
 {
+  "solana-dexfi-suite": {
+    "versions": []
+  },
   "solara-websocket-dll": {
     "versions": [
       "1.6.8"
