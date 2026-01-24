@@ -1,4 +1,9 @@
 {
+  "snapchat-ui": {
+    "versions": [
+      "96.8.0"
+    ]
+  },
   "snavbox": {
     "versions": [
       "1.0.0"

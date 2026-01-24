@@ -9317,7 +9317,9 @@
       "1.0.54",
       "1.0.56",
       "1.0.58",
-      "1.0.60"
+      "1.0.60",
+      "1.0.61",
+      "1.0.62"
     ]
   },
   "rate-limiter-io-antares-loopback": {
@@ -11442,10 +11444,5 @@
   },
   "snap-score-points636": {
     "versions": []
-  },
-  "snapchat-ui": {
-    "versions": [
-      "96.8.0"
-    ]
   }
 }
