@@ -1,4 +1,9 @@
 {
+  "snavbox": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "soap-commitlint-config-angular-adonis-cors": {
     "versions": []
   },
