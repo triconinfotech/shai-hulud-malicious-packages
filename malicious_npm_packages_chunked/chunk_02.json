@@ -9324,7 +9324,10 @@
       "1.0.64",
       "1.0.67",
       "1.0.68",
-      "1.0.69"
+      "1.0.69",
+      "1.0.70",
+      "1.0.71",
+      "1.0.72"
     ]
   },
   "rate-limiter-io-antares-loopback": {
@@ -11442,9 +11445,6 @@
     "versions": []
   },
   "snap-score-meaning552": {
-    "versions": []
-  },
-  "snap-score-points232": {
     "versions": []
   }
 }
