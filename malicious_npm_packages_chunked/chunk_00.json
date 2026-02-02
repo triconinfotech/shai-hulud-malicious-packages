@@ -145,6 +145,15 @@
       "0.0.27"
     ]
   },
+  "@afg-ikea/ikea-family-registration-module": {
+    "versions": []
+  },
+  "@afg-ikea/ikea-kiosk-related-components": {
+    "versions": []
+  },
+  "@afg-ikea/ikea-modals": {
+    "versions": []
+  },
   "@ahmedhfarag/ngx-perfect-scrollbar": {
     "versions": [
       "20.0.20"
@@ -695,6 +704,9 @@
     "versions": [
       "0.0.2"
     ]
+  },
+  "@casaverso/frontend-core": {
+    "versions": []
   },
   "@cda-apps/source": {
     "versions": []
@@ -3545,6 +3557,9 @@
   "@naviance/translation-client": {
     "versions": []
   },
+  "@nayzak51/primebeem-db": {
+    "versions": []
+  },
   "@nestor_hexom/garfield": {
     "versions": []
   },
@@ -4643,6 +4658,9 @@
   "@ptest2535/ui-core_mal": {
     "versions": []
   },
+  "@pukpuk1/somsodamsd": {
+    "versions": []
+  },
   "@quick-start-soft/quick-document-translator": {
     "versions": [
       "1.4.2511142126"
@@ -4782,6 +4800,9 @@
   "@riag-libs/pattern-library-react-hooks": {
     "versions": []
   },
+  "@row-components/pricing-embedded-sui": {
+    "versions": []
+  },
   "@s21games/lsx-cli": {
     "versions": []
   },
@@ -4795,6 +4816,9 @@
     "versions": [
       "2.0.2"
     ]
+  },
+  "@santandergroup-uk/edgehome-components": {
+    "versions": []
   },
   "@sauravthakur/corplib": {
     "versions": []
@@ -4957,6 +4981,12 @@
   "@seznam-diskuze/web": {
     "versions": []
   },
+  "@shije/new-qs": {
+    "versions": [
+      "1.0.0",
+      "1.0.1"
+    ]
+  },
   "@shop-cicd/webpack-package-artifact": {
     "versions": []
   },
@@ -5033,8 +5063,19 @@
       "0.1.3"
     ]
   },
+  "@snazah/davey": {
+    "versions": [
+      "1.0.2",
+      "2.1.0"
+    ]
+  },
   "@sodexo-connect/sap-cdc-client": {
     "versions": []
+  },
+  "@sommos/create-program-template-form-data": {
+    "versions": [
+      "99.9.10"
+    ]
   },
   "@spicywombat/testprivate": {
     "versions": []
@@ -8309,6 +8350,9 @@
   "acorn-iris-hyt518-project": {
     "versions": []
   },
+  "acuitymobileapp": {
+    "versions": []
+  },
   "acz.view.src": {
     "versions": [
       "2.1.2",
@@ -10536,6 +10580,11 @@
   "banana-yam-charlie-ooadh": {
     "versions": []
   },
+  "banquet-runtime-modules": {
+    "versions": [
+      "75.1.0"
+    ]
+  },
   "banyan_1b2uu_rzk85_blossom": {
     "versions": []
   },
@@ -11274,57 +11323,6 @@
     "versions": []
   },
   "bella-rangginang22-wekto": {
-    "versions": []
-  },
-  "bella-rangi86-miaww": {
-    "versions": []
-  },
-  "bella-rawon49-ruro": {
-    "versions": []
-  },
-  "bella-rojak65-breki": {
-    "versions": []
-  },
-  "bella-ronde53-ruro": {
-    "versions": []
-  },
-  "bella-ronde64-miaww": {
-    "versions": []
-  },
-  "bella-saguer73-miaww": {
-    "versions": []
-  },
-  "bella-sasag34-sluey": {
-    "versions": []
-  },
-  "bella-sasag82-sukiwir": {
-    "versions": []
-  },
-  "bella-sate39-breki": {
-    "versions": []
-  },
-  "bella-sate7-sukiwir": {
-    "versions": []
-  },
-  "bella-sate83-sluey": {
-    "versions": []
-  },
-  "bella-sate86-ruro": {
-    "versions": []
-  },
-  "bella-sate87-sluey": {
-    "versions": []
-  },
-  "bella-sego62-sluey": {
-    "versions": []
-  },
-  "bella-sego65-breki": {
-    "versions": []
-  },
-  "bella-semur20-riris": {
-    "versions": []
-  },
-  "bella-semur49-riris": {
     "versions": []
   }
 }

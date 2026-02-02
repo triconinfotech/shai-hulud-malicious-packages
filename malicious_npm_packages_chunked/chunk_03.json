@@ -1,4 +1,315 @@
 {
+  "shop-state": {
+    "versions": [
+      "999.1.0"
+    ]
+  },
+  "shopee-chat": {
+    "versions": [
+      "99.99.9"
+    ]
+  },
+  "shopify-app-react-router": {
+    "versions": []
+  },
+  "shopify-logistics": {
+    "versions": [
+      "1.0.0",
+      "97.31.0"
+    ]
+  },
+  "shopify-monorail": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "shopify-perf-kit": {
+    "versions": []
+  },
+  "shopify-ruby": {
+    "versions": [
+      "1.0.0",
+      "97.1.0"
+    ]
+  },
+  "shopping-cart-service": {
+    "versions": [
+      "1.9.9"
+    ]
+  },
+  "shouzhiwu": {
+    "versions": []
+  },
+  "showdownxss": {
+    "versions": []
+  },
+  "shreddit.styles": {
+    "versions": []
+  },
+  "shroom-kit": {
+    "versions": []
+  },
+  "shuiku-bidu-yilinglingben": {
+    "versions": []
+  },
+  "shuiku-jiaxue-heji": {
+    "versions": []
+  },
+  "shuiku-jiaxue-quanji": {
+    "versions": []
+  },
+  "shuiku-jiaxue-wenji-hunlianpian": {
+    "versions": []
+  },
+  "shuiku-jiaxue-wenji-jiaoyupian": {
+    "versions": []
+  },
+  "shuiku-jiaxue-wenji-shiye-jiatingpian": {
+    "versions": []
+  },
+  "shuiku-jiaxue-wenji-xuebapian": {
+    "versions": []
+  },
+  "shuixi-mofa": {
+    "versions": []
+  },
+  "shuju-jicheng-yuanli": {
+    "versions": []
+  },
+  "shuju-jiegou-suanfa-yuyingyong-cpp-yuyan-miaoshu": {
+    "versions": []
+  },
+  "shuju-jiegou-yustl": {
+    "versions": []
+  },
+  "shujuku-guanli-jichu": {
+    "versions": []
+  },
+  "shujuku-guanli-xitong": {
+    "versions": []
+  },
+  "shujuku-sheji-jiaocheng": {
+    "versions": []
+  },
+  "shunni-jieyide-rensheng": {
+    "versions": []
+  },
+  "shuo-shier-xingzuode-huaihua": {
+    "versions": []
+  },
+  "shuohua-zhifu": {
+    "versions": []
+  },
+  "shushu-shang": {
+    "versions": []
+  },
+  "shushu-xia": {
+    "versions": []
+  },
+  "shushu-zhong": {
+    "versions": []
+  },
+  "sign-client": {
+    "versions": []
+  },
+  "signals-embed": {
+    "versions": []
+  },
+  "signup-failover": {
+    "versions": [
+      "10.0.1",
+      "12.0.0"
+    ]
+  },
+  "silentcipherui": {
+    "versions": []
+  },
+  "silgi": {
+    "versions": [
+      "0.43.30"
+    ]
+  },
+  "silvermine": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "similar-somebody-harbor": {
+    "versions": []
+  },
+  "simple-string-utils3": {
+    "versions": []
+  },
+  "simple-swizzle": {
+    "versions": [
+      "0.2.3"
+    ]
+  },
+  "simplejsonform": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "sing-fest-es-logger": {
+    "versions": [
+      "2025.10.20"
+    ]
+  },
+  "sing-wore-glass": {
+    "versions": []
+  },
+  "singularitarianism-standard-quantumfoam-pyxis": {
+    "versions": []
+  },
+  "singularity-nucleosynthesis-regulus-antares": {
+    "versions": []
+  },
+  "sinta-donat26-kyuki": {
+    "versions": []
+  },
+  "sinta-gandul98-kyuki": {
+    "versions": []
+  },
+  "sinta-lontong7-breki": {
+    "versions": []
+  },
+  "sinta-ruwet55-breki": {
+    "versions": []
+  },
+  "sinta-tempe37-breki": {
+    "versions": []
+  },
+  "sinta-tumis60-breki": {
+    "versions": []
+  },
+  "siren-lament": {
+    "versions": [
+      "2.14.822",
+      "2.14.824",
+      "2.14.827"
+    ]
+  },
+  "sirius-europa-holography-bionics": {
+    "versions": []
+  },
+  "sirius-hercules-halley-sirius": {
+    "versions": []
+  },
+  "sirius-non-blocking-plutology-carina": {
+    "versions": []
+  },
+  "sirius-warp-quantum-parcel": {
+    "versions": []
+  },
+  "sishibazhong-xuexing-xingzuo-jiema-quanshu": {
+    "versions": []
+  },
+  "siska-bubur97-breki": {
+    "versions": []
+  },
+  "siska-empal27-breki": {
+    "versions": []
+  },
+  "siska-jengkol71-breki": {
+    "versions": []
+  },
+  "siska-kembang16-breki": {
+    "versions": []
+  },
+  "siska-kupat81-kyuki": {
+    "versions": []
+  },
+  "siska-lodeh63-breki": {
+    "versions": []
+  },
+  "siska-lontong85-kyuki": {
+    "versions": []
+  },
+  "siska-peyek59-breki": {
+    "versions": []
+  },
+  "siska-pisang91-breki": {
+    "versions": []
+  },
+  "siska-rangi91-breki": {
+    "versions": []
+  },
+  "siska-tapai1-breki": {
+    "versions": []
+  },
+  "sizhu-liuyao-yingyong-toujie": {
+    "versions": []
+  },
+  "skills-use": {
+    "versions": [
+      "0.1.1",
+      "0.1.2"
+    ]
+  },
+  "skndkjasndkjan": {
+    "versions": []
+  },
+  "sky1oauth2": {
+    "versions": []
+  },
+  "slabs-birthday-danger": {
+    "versions": []
+  },
+  "slabs-have-child": {
+    "versions": []
+  },
+  "slice-ansi": {
+    "versions": [
+      "7.1.1"
+    ]
+  },
+  "slides-express-norma-native": {
+    "versions": []
+  },
+  "slides-geomorphology-eleventy-holography": {
+    "versions": []
+  },
+  "slides-json-markdown-uglify-js": {
+    "versions": []
+  },
+  "slot-server-thailand": {
+    "versions": []
+  },
+  "slot888_2025": {
+    "versions": []
+  },
+  "slowly-plain-wife": {
+    "versions": []
+  },
+  "smart-parser": {
+    "versions": [
+      "2.0.1"
+    ]
+  },
+  "smart-utils-alice": {
+    "versions": [
+      "999.0.3",
+      "999.0.99",
+      "999.0.100",
+      "999.0.101"
+    ]
+  },
+  "smartspacestoreapp": {
+    "versions": []
+  },
+  "smintio-portals-component-sdk": {
+    "versions": []
+  },
+  "smm-youtube": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.6"
+    ]
+  },
   "snap-score-increase013": {
     "versions": []
   },
@@ -77,6 +388,9 @@
       "5.0.9"
     ]
   },
+  "solhint-plugin-hyperlane": {
+    "versions": []
+  },
   "solidity-utils-docify": {
     "versions": []
   },
@@ -106,10 +420,19 @@
       "99.0.0"
     ]
   },
+  "somesomesome": {
+    "versions": []
+  },
+  "somesomesomesome": {
+    "versions": []
+  },
   "something-not-in-cache": {
     "versions": [
       "99.0.0"
     ]
+  },
+  "somsodamsd": {
+    "versions": []
   },
   "soneium-acs": {
     "versions": [
@@ -511,6 +834,9 @@
       "3.0.1"
     ]
   },
+  "stylus.js": {
+    "versions": []
+  },
   "suangu-gaoshoude-jingren-caifu": {
     "versions": []
   },
@@ -730,7 +1056,16 @@
   "synqroomkit": {
     "versions": []
   },
+  "syntax-async-functions": {
+    "versions": []
+  },
   "syntax-class-properties": {
+    "versions": []
+  },
+  "syntax-flow": {
+    "versions": []
+  },
+  "syntax-jsx": {
     "versions": []
   },
   "syqara": {
@@ -784,6 +1119,9 @@
     "versions": []
   },
   "tailwind-color-shine": {
+    "versions": []
+  },
+  "tailwind-components-cli": {
     "versions": []
   },
   "tailwind-configs": {
@@ -1399,6 +1737,11 @@
   "tearsheet.module": {
     "versions": []
   },
+  "teaser-nav": {
+    "versions": [
+      "19.9.5"
+    ]
+  },
   "technocracy-antares-polaris-public": {
     "versions": []
   },
@@ -1543,6 +1886,9 @@
     "versions": [
       "1.1.2"
     ]
+  },
+  "teslaone": {
+    "versions": []
   },
   "test-bfosberry": {
     "versions": []
@@ -1792,6 +2138,12 @@
     "versions": []
   },
   "testsender": {
+    "versions": []
+  },
+  "testxhjhk": {
+    "versions": []
+  },
+  "testxhjhka": {
     "versions": []
   },
   "text-openai-embedding-js": {
@@ -2400,10 +2752,19 @@
   "toushi-linghun-kanrensheng": {
     "versions": []
   },
+  "transform-async-to-generator": {
+    "versions": []
+  },
   "transform-decorators-legacy": {
     "versions": []
   },
   "transform-meissa-nightmare-venus": {
+    "versions": []
+  },
+  "transform-regenerator": {
+    "versions": []
+  },
+  "transform-vue-jsx": {
     "versions": []
   },
   "translation-note": {
@@ -2442,6 +2803,11 @@
       "201.99.99",
       "202.99.99",
       "204.99.99"
+    ]
+  },
+  "tripica-library": {
+    "versions": [
+      "999.1.0"
     ]
   },
   "triton-gulp-stop-cryptography": {
@@ -2553,6 +2919,12 @@
   },
   "tuote-taruo-jiemi": {
     "versions": []
+  },
+  "turbotax": {
+    "versions": [
+      "230.0.10",
+      "230.0.15"
+    ]
   },
   "tuti-bakso90-sukiwir": {
     "versions": []
@@ -4578,6 +4950,9 @@
       "1.0.0"
     ]
   },
+  "vuejavascript": {
+    "versions": []
+  },
   "vuetify-node-config-nightwatch-halley": {
     "versions": []
   },
@@ -4612,6 +4987,9 @@
       "0.3.1",
       "0.3.2"
     ]
+  },
+  "wallet-icon-font": {
+    "versions": []
   },
   "wallet-type": {
     "versions": [
@@ -5715,6 +6093,9 @@
   "xerxes-writable-nightwatch-pavo": {
     "versions": []
   },
+  "xhjxhjhiagent": {
+    "versions": []
+  },
   "xi-book-try-scale-data": {
     "versions": []
   },
@@ -6681,6 +7062,11 @@
   },
   "yyizhan-zuodao": {
     "versions": []
+  },
+  "zabittest11": {
+    "versions": [
+      "1.0.1"
+    ]
   },
   "zain-bakso24-breki": {
     "versions": []
