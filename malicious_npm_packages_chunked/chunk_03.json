@@ -1,4 +1,57 @@
 {
+  "sedna-vuetify-zooarchaeology-nightwatch": {
+    "versions": []
+  },
+  "seeds-random": {
+    "versions": [
+      "2.3.7"
+    ]
+  },
+  "seikon": {
+    "versions": []
+  },
+  "seismology-playwright-epimetheus-areology": {
+    "versions": []
+  },
+  "seismology-xenon-chalk-commitlint": {
+    "versions": []
+  },
+  "selenium-ini-algol-restart": {
+    "versions": []
+  },
+  "selenium-session": {
+    "versions": [
+      "1.0.5"
+    ]
+  },
+  "selenium-session-client": {
+    "versions": [
+      "1.0.4"
+    ]
+  },
+  "selenology-biohacking-css-loader-planckscale": {
+    "versions": []
+  },
+  "selenology-blackhole-non-blocking-xanadu": {
+    "versions": []
+  },
+  "selenology-protractor-metabolomics-bionics": {
+    "versions": []
+  },
+  "self-service-portal-prod": {
+    "versions": [
+      "5.0.0"
+    ]
+  },
+  "semantic-release-aether-quantum-elara": {
+    "versions": []
+  },
+  "semantic-release-dotenv-safe-commitlint-node-sass": {
+    "versions": []
+  },
+  "semantic-release-metalsmith-mini-css-extract-plugin-framework": {
+    "versions": []
+  },
   "semantic-ui-selenium-test-postcss": {
     "versions": []
   },

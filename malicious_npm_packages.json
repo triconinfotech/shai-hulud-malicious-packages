@@ -2366,6 +2366,9 @@
       "1.5.1"
     ]
   },
+  "@hashicorp-internal/vault-reporting": {
+    "versions": []
+  },
   "@helloflex/widget-next-sdk": {
     "versions": []
   },
@@ -3372,6 +3375,15 @@
       "2.11.4-preview-20251124060135"
     ]
   },
+  "@meli-lint/eslint-config-base": {
+    "versions": []
+  },
+  "@meli-lint/eslint-config-base-ts": {
+    "versions": []
+  },
+  "@meli-lint/eslint-config-tests-jest": {
+    "versions": []
+  },
   "@micado-digital/stadtmarketing-kufstein-external": {
     "versions": [
       "1.9.1"
@@ -4108,6 +4120,9 @@
       "9.0.51"
     ]
   },
+  "@opposhop/nuxt-ssr-cache": {
+    "versions": []
+  },
   "@orbitgtbelgium/mapbox-gl-draw-cut-polygon-mode": {
     "versions": [
       "2.0.5"
@@ -4803,6 +4818,9 @@
       "1.5.0"
     ]
   },
+  "@rdxportal/ui-components": {
+    "versions": []
+  },
   "@relyt/claude-context-core": {
     "versions": [
       "0.1.1"
@@ -4829,6 +4847,26 @@
   "@row-components/pricing-embedded-sui": {
     "versions": []
   },
+  "@rsgweb/locale-tools": {
+    "versions": [
+      "136.3.1"
+    ]
+  },
+  "@rsgweb/modules-core-feedback": {
+    "versions": []
+  },
+  "@rsgweb/modules-core-www-page": {
+    "versions": []
+  },
+  "@rsgweb/rockstar-account": {
+    "versions": []
+  },
+  "@rsgweb/tina": {
+    "versions": []
+  },
+  "@rsgweb/utils": {
+    "versions": []
+  },
   "@s21games/lsx-cli": {
     "versions": []
   },
@@ -4847,6 +4885,9 @@
     "versions": []
   },
   "@sauravthakur/corplib": {
+    "versions": []
+  },
+  "@sbseg-plugin/qbo-web-app-ui": {
     "versions": []
   },
   "@secretcollect/identity-core": {
@@ -5105,6 +5146,16 @@
   },
   "@spicywombat/testprivate": {
     "versions": []
+  },
+  "@sporting-life/sportinglife-be": {
+    "versions": [
+      "386.3.1"
+    ]
+  },
+  "@sporting-life/sportinglife-betslip-sdk": {
+    "versions": [
+      "136.3.1"
+    ]
   },
   "@spx-delivery/react": {
     "versions": []
@@ -9151,6 +9202,9 @@
   "aligned-array": {
     "versions": []
   },
+  "aligned-arrays": {
+    "versions": []
+  },
   "aligntrue": {
     "versions": []
   },
@@ -11864,6 +11918,11 @@
   },
   "bravo-kiwi-date-yysap": {
     "versions": []
+  },
+  "breadcrumb-service": {
+    "versions": [
+      "999.9.0"
+    ]
   },
   "breeze_hw64v_r6pur_crown": {
     "versions": []
