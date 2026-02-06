@@ -40136,7 +40136,13 @@
       "5.0.9"
     ]
   },
+  "web3-chain-sinon": {
+    "versions": []
+  },
   "web3-chain-sync": {
+    "versions": []
+  },
+  "web3-sinon": {
     "versions": []
   },
   "web3-wc": {
