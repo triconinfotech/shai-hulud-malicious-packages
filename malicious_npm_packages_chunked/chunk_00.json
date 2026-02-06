@@ -1598,6 +1598,12 @@
       "1.0.93"
     ]
   },
+  "@devgandhi/cpp": {
+    "versions": []
+  },
+  "@devgandhi/healthpulse": {
+    "versions": []
+  },
   "@devtea2026/aliquam-corporis-accusantium-iure": {
     "versions": []
   },
@@ -2292,6 +2298,9 @@
       "2025.11.2-4.9.17.4962"
     ]
   },
+  "@fxinternal/netdiagnostics": {
+    "versions": []
+  },
   "@gala-analytics/core": {
     "versions": []
   },
@@ -2356,6 +2365,9 @@
     "versions": [
       "1.5.1"
     ]
+  },
+  "@helloflex/widget-next-sdk": {
+    "versions": []
   },
   "@hemihatchlings/shared": {
     "versions": [
@@ -2722,6 +2734,9 @@
   "@ikeacn/utils": {
     "versions": []
   },
+  "@ikeacnalan/icons": {
+    "versions": []
+  },
   "@isv-occ-payment/occ-payment-service": {
     "versions": [
       "77.77.79"
@@ -2767,6 +2782,9 @@
     "versions": [
       "1.0.14"
     ]
+  },
+  "@jes4l/react-pkg": {
+    "versions": []
   },
   "@joaoxxx/internallib-v325": {
     "versions": []
@@ -3393,6 +3411,9 @@
     "versions": [
       "1.0.1"
     ]
+  },
+  "@msecscc/gaia": {
+    "versions": []
   },
   "@mts-ds/icons": {
     "versions": []
@@ -4660,6 +4681,11 @@
   },
   "@pukpuk1/somsodamsd": {
     "versions": []
+  },
+  "@purecore/rabbitmq": {
+    "versions": [
+      "0.1.0"
+    ]
   },
   "@quick-start-soft/quick-document-translator": {
     "versions": [
@@ -6338,6 +6364,9 @@
   "@upside/flex-common-typescript-lib": {
     "versions": []
   },
+  "@uselagoon/ui-library": {
+    "versions": []
+  },
   "@ux-foundry/palette": {
     "versions": []
   },
@@ -6815,6 +6844,11 @@
       "1.0.3",
       "1.0.4",
       "1.0.5"
+    ]
+  },
+  "@x-clients/features": {
+    "versions": [
+      "3.1.10"
     ]
   },
   "@xyuxu/i18never": {
@@ -8188,6 +8222,9 @@
   "0e": {
     "versions": []
   },
+  "0xhash-utils": {
+    "versions": []
+  },
   "100000-coin-master-free-spins-dkfefdzd": {
     "versions": []
   },
@@ -8317,6 +8354,30 @@
     "versions": []
   },
   "abseits_soccer-888": {
+    "versions": []
+  },
+  "ac-array": {
+    "versions": []
+  },
+  "ac-checksum": {
+    "versions": []
+  },
+  "ac-dom-events": {
+    "versions": []
+  },
+  "ac-dom-nodes": {
+    "versions": []
+  },
+  "ac-dom-styles": {
+    "versions": []
+  },
+  "ac-element-engagement": {
+    "versions": []
+  },
+  "ac-feature": {
+    "versions": []
+  },
+  "ac-polyfills": {
     "versions": []
   },
   "acamar-ariel-barnard-paleoclimatology": {
@@ -8717,6 +8778,9 @@
       "4.4.48"
     ]
   },
+  "adobe_pipeline_test": {
+    "versions": []
+  },
   "adobe-alloy": {
     "versions": [
       "99.0.0"
@@ -9083,6 +9147,9 @@
     "versions": [
       "9.6.6"
     ]
+  },
+  "aligned-array": {
+    "versions": []
   },
   "aligntrue": {
     "versions": []
@@ -9487,6 +9554,9 @@
     "versions": [
       "6.2.2"
     ]
+  },
+  "ansi-universal-ui": {
+    "versions": []
   },
   "ant-gorge-oyl690-project": {
     "versions": []
@@ -10000,6 +10070,9 @@
       "1.0.2"
     ]
   },
+  "atg-atgse": {
+    "versions": []
+  },
   "atlas_1ayin_7vei7_ocean": {
     "versions": []
   },
@@ -10221,6 +10294,12 @@
     ]
   },
   "baidu-tester": {
+    "versions": []
+  },
+  "baileys-dtz": {
+    "versions": []
+  },
+  "baileys-ud": {
     "versions": []
   },
   "baitian-yuehui-baodian": {
@@ -11254,75 +11333,6 @@
     "versions": []
   },
   "bella-miebogor76-miaww": {
-    "versions": []
-  },
-  "bella-miemee34-breki": {
-    "versions": []
-  },
-  "bella-miemee76-sluey": {
-    "versions": []
-  },
-  "bella-miemee95-sluey": {
-    "versions": []
-  },
-  "bella-miemee96-sukiwir": {
-    "versions": []
-  },
-  "bella-moci49-wekto": {
-    "versions": []
-  },
-  "bella-naget40-sluey": {
-    "versions": []
-  },
-  "bella-naget76-riris": {
-    "versions": []
-  },
-  "bella-nasi55-breki": {
-    "versions": []
-  },
-  "bella-nasi61-breki": {
-    "versions": []
-  },
-  "bella-nasicampur19-sluey": {
-    "versions": []
-  },
-  "bella-nasicampur67-breki": {
-    "versions": []
-  },
-  "bella-nasisayur3-sluey": {
-    "versions": []
-  },
-  "bella-nasisayur55-breki": {
-    "versions": []
-  },
-  "bella-nasisayur96-kyuki": {
-    "versions": []
-  },
-  "bella-oblok26-sukiwir": {
-    "versions": []
-  },
-  "bella-oncom59-miaww": {
-    "versions": []
-  },
-  "bella-ongol-ongol23-miaww": {
-    "versions": []
-  },
-  "bella-otak-otak81-sluey": {
-    "versions": []
-  },
-  "bella-papeda51-sluey": {
-    "versions": []
-  },
-  "bella-papeda89-miaww": {
-    "versions": []
-  },
-  "bella-peyek48-sluey": {
-    "versions": []
-  },
-  "bella-ragi4-breki": {
-    "versions": []
-  },
-  "bella-rangginang22-wekto": {
     "versions": []
   }
 }
