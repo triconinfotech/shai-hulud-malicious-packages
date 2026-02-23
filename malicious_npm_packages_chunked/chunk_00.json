@@ -1560,6 +1560,17 @@
   "@darwinex/react-custom-scrollbars": {
     "versions": []
   },
+  "@depro0x/despicable-me": {
+    "versions": [
+      "6.0.0",
+      "8.0.0",
+      "9.0.0",
+      "11.0.0",
+      "13.0.0",
+      "14.0.0",
+      "16.0.0"
+    ]
+  },
   "@deputyapp/copilot2": {
     "versions": [
       "2.9.9",
@@ -4702,6 +4713,11 @@
       "0.1.0"
     ]
   },
+  "@qualys/react-web": {
+    "versions": [
+      "5.4.3-2"
+    ]
+  },
   "@quick-start-soft/quick-document-translator": {
     "versions": [
       "1.4.2511142126"
@@ -4819,6 +4835,9 @@
     ]
   },
   "@rdxportal/ui-components": {
+    "versions": []
+  },
+  "@reimorg/config": {
     "versions": []
   },
   "@relyt/claude-context-core": {
@@ -5124,6 +5143,9 @@
     "versions": [
       "0.7.1"
     ]
+  },
+  "@skyeng/libs": {
+    "versions": []
   },
   "@sme-ui/aoma-vevasound-metadata-lib": {
     "versions": [
@@ -6410,6 +6432,9 @@
     ]
   },
   "@undress-ai/best-undress-ai": {
+    "versions": []
+  },
+  "@uniconvex/dotenv": {
     "versions": []
   },
   "@upside/flex-common-typescript-lib": {
@@ -8393,8 +8418,18 @@
   "a5xm": {
     "versions": []
   },
+  "abcxyzz": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
   "abeya-tg-api": {
     "versions": []
+  },
+  "ably-forks": {
+    "versions": [
+      "1.0.1"
+    ]
   },
   "abrhide": {
     "versions": [
@@ -9205,6 +9240,9 @@
   "aligned-arrays": {
     "versions": []
   },
+  "aligners": {
+    "versions": []
+  },
   "aligntrue": {
     "versions": []
   },
@@ -9249,6 +9287,9 @@
       "0.0.1",
       "1.0.0"
     ]
+  },
+  "ambar-src": {
+    "versions": []
   },
   "ambient-map": {
     "versions": [
@@ -10277,6 +10318,12 @@
   "azure-open-ai-accelerator": {
     "versions": []
   },
+  "azure-postgresql-auth": {
+    "versions": [
+      "1.1.2",
+      "1.1.4"
+    ]
+  },
   "b3dtiles-sample": {
     "versions": []
   },
@@ -11291,45 +11338,6 @@
     "versions": []
   },
   "bella-keraktelor6-sluey": {
-    "versions": []
-  },
-  "bella-keraktelor74-miaww": {
-    "versions": []
-  },
-  "bella-keripik7-miaww": {
-    "versions": []
-  },
-  "bella-keripik86-riris": {
-    "versions": []
-  },
-  "bella-klanting18-riris": {
-    "versions": []
-  },
-  "bella-klanting8-kyuki": {
-    "versions": []
-  },
-  "bella-klentik80-miaww": {
-    "versions": []
-  },
-  "bella-klipo22-sluey": {
-    "versions": []
-  },
-  "bella-kue17-miaww": {
-    "versions": []
-  },
-  "bella-kue25-ruro": {
-    "versions": []
-  },
-  "bella-kue43-ruro": {
-    "versions": []
-  },
-  "bella-kue58-ruro": {
-    "versions": []
-  },
-  "bella-kue62-breki": {
-    "versions": []
-  },
-  "bella-kue83-miaww": {
     "versions": []
   }
 }

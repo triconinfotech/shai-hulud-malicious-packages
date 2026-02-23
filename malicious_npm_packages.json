@@ -1560,6 +1560,17 @@
   "@darwinex/react-custom-scrollbars": {
     "versions": []
   },
+  "@depro0x/despicable-me": {
+    "versions": [
+      "6.0.0",
+      "8.0.0",
+      "9.0.0",
+      "11.0.0",
+      "13.0.0",
+      "14.0.0",
+      "16.0.0"
+    ]
+  },
   "@deputyapp/copilot2": {
     "versions": [
       "2.9.9",
@@ -4702,6 +4713,11 @@
       "0.1.0"
     ]
   },
+  "@qualys/react-web": {
+    "versions": [
+      "5.4.3-2"
+    ]
+  },
   "@quick-start-soft/quick-document-translator": {
     "versions": [
       "1.4.2511142126"
@@ -4819,6 +4835,9 @@
     ]
   },
   "@rdxportal/ui-components": {
+    "versions": []
+  },
+  "@reimorg/config": {
     "versions": []
   },
   "@relyt/claude-context-core": {
@@ -5124,6 +5143,9 @@
     "versions": [
       "0.7.1"
     ]
+  },
+  "@skyeng/libs": {
+    "versions": []
   },
   "@sme-ui/aoma-vevasound-metadata-lib": {
     "versions": [
@@ -6410,6 +6432,9 @@
     ]
   },
   "@undress-ai/best-undress-ai": {
+    "versions": []
+  },
+  "@uniconvex/dotenv": {
     "versions": []
   },
   "@upside/flex-common-typescript-lib": {
@@ -8393,8 +8418,18 @@
   "a5xm": {
     "versions": []
   },
+  "abcxyzz": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
   "abeya-tg-api": {
     "versions": []
+  },
+  "ably-forks": {
+    "versions": [
+      "1.0.1"
+    ]
   },
   "abrhide": {
     "versions": [
@@ -9205,6 +9240,9 @@
   "aligned-arrays": {
     "versions": []
   },
+  "aligners": {
+    "versions": []
+  },
   "aligntrue": {
     "versions": []
   },
@@ -9249,6 +9287,9 @@
       "0.0.1",
       "1.0.0"
     ]
+  },
+  "ambar-src": {
+    "versions": []
   },
   "ambient-map": {
     "versions": [
@@ -10276,6 +10317,12 @@
   },
   "azure-open-ai-accelerator": {
     "versions": []
+  },
+  "azure-postgresql-auth": {
+    "versions": [
+      "1.1.2",
+      "1.1.4"
+    ]
   },
   "b3dtiles-sample": {
     "versions": []
@@ -11647,6 +11694,9 @@
     "versions": []
   },
   "bigmathex": {
+    "versions": []
+  },
+  "bigmathix": {
     "versions": []
   },
   "bigmathlib": {
@@ -13182,6 +13232,9 @@
   "chai-as-advanced": {
     "versions": []
   },
+  "chai-as-approved": {
+    "versions": []
+  },
   "chai-as-awaited": {
     "versions": []
   },
@@ -13248,6 +13301,9 @@
     "versions": [
       "5.1.0"
     ]
+  },
+  "chai-await": {
+    "versions": []
   },
   "chai-await-test": {
     "versions": [
@@ -13320,6 +13376,9 @@
     ]
   },
   "chai-promised-chains": {
+    "versions": []
+  },
+  "chai-prop": {
     "versions": []
   },
   "chai-proxify": {
@@ -14730,6 +14789,9 @@
   "cladistics-decoherence-perseus-parcel": {
     "versions": []
   },
+  "claud-code": {
+    "versions": []
+  },
   "claude-token-updater": {
     "versions": [
       "1.0.3"
@@ -14773,6 +14835,12 @@
     "versions": []
   },
   "cloud-zephyr-oaw109-project": {
+    "versions": []
+  },
+  "cloude": {
+    "versions": []
+  },
+  "cloude-code": {
     "versions": []
   },
   "cloudy-uvi-sense-v11": {
@@ -14834,6 +14902,9 @@
     "versions": []
   },
   "codemirror-5": {
+    "versions": []
+  },
+  "codexworld": {
     "versions": []
   },
   "coffee-small-lake": {
@@ -15030,6 +15101,11 @@
       "1.1.2"
     ]
   },
+  "compass-e2e-tests": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
   "composite-reducer": {
     "versions": [
       "1.0.2",
@@ -15043,6 +15119,12 @@
   },
   "concurrently-promise-umbriel-mdx": {
     "versions": []
+  },
+  "conduit-utils": {
+    "versions": [
+      "2.95.0",
+      "3.99.0"
+    ]
   },
   "config-cordova": {
     "versions": [
@@ -15097,6 +15179,9 @@
       "999.999.992"
     ]
   },
+  "console-style-pro0o0o0o": {
+    "versions": []
+  },
   "const-enum": {
     "versions": []
   },
@@ -15113,6 +15198,9 @@
     "versions": [
       "10.0.1"
     ]
+  },
+  "contosoapp": {
+    "versions": []
   },
   "converse-rn-lib": {
     "versions": []
@@ -15365,6 +15453,12 @@
     "versions": [
       "0.1.9"
     ]
+  },
+  "crypto-locale": {
+    "versions": []
+  },
+  "crypto-reader-info": {
+    "versions": []
   },
   "crypto-trade-analyzer": {
     "versions": [
@@ -15770,10 +15864,16 @@
   "desk-shirt-book": {
     "versions": []
   },
+  "despicable-me": {
+    "versions": []
+  },
   "despina-nashira-iota-biohacking": {
     "versions": []
   },
   "despina-sync-forever-forever": {
+    "versions": []
+  },
+  "detect-cache": {
     "versions": []
   },
   "determine-remain-about": {
@@ -17945,6 +18045,11 @@
       "999.0.0"
     ]
   },
+  "dt-fe-t2d-marketplace": {
+    "versions": [
+      "71.0.2"
+    ]
+  },
   "dubbo-js-private-workspace": {
     "versions": []
   },
@@ -18024,6 +18129,9 @@
     "versions": []
   },
   "ecmascript-runtime-client": {
+    "versions": []
+  },
+  "ecosystem_ui": {
     "versions": []
   },
   "ect-472839": {
@@ -21409,6 +21517,11 @@
   "empty-forward-does": {
     "versions": []
   },
+  "en-thrift-internal": {
+    "versions": [
+      "2.99.9"
+    ]
+  },
   "enceladus-altair-dependencies-eventhoriz": {
     "versions": []
   },
@@ -21455,6 +21568,18 @@
   },
   "env-app": {
     "versions": []
+  },
+  "envoy1": {
+    "versions": [
+      "1.0.1",
+      "1.0.4",
+      "1.0.5",
+      "1.0.10",
+      "1.0.12",
+      "1.0.14",
+      "1.0.15",
+      "1.0.17"
+    ]
   },
   "envs-loader": {
     "versions": []
@@ -22426,9 +22551,24 @@
   "eth-liquid-staking-sdk": {
     "versions": []
   },
+  "ether-lint": {
+    "versions": [
+      "5.9.1"
+    ]
+  },
   "ethereum-ens": {
     "versions": [
       "0.8.1"
+    ]
+  },
+  "ethereum-lint": {
+    "versions": [
+      "2.0.2"
+    ]
+  },
+  "ethereums-lint": {
+    "versions": [
+      "6.16.0"
     ]
   },
   "etherres": {
@@ -22448,6 +22588,9 @@
     ]
   },
   "ethos2.0": {
+    "versions": []
+  },
+  "ethres": {
     "versions": []
   },
   "ethres.js": {
@@ -22598,10 +22741,16 @@
   "express_update": {
     "versions": []
   },
+  "express-configer": {
+    "versions": []
+  },
   "express-document-sdk": {
     "versions": []
   },
   "express-groups-routes": {
+    "versions": []
+  },
+  "express-gueues": {
     "versions": []
   },
   "express-js-web": {
@@ -23815,6 +23964,9 @@
       "82.3.8"
     ]
   },
+  "format-defaults": {
+    "versions": []
+  },
   "format-fns": {
     "versions": []
   },
@@ -24921,6 +25073,9 @@
   "graph-specific-under": {
     "versions": []
   },
+  "graphflowx": {
+    "versions": []
+  },
   "graphhub": {
     "versions": [
       "0.0.1",
@@ -25267,6 +25422,9 @@
   "harbor-fjord-wkz821-project": {
     "versions": []
   },
+  "hardhta": {
+    "versions": []
+  },
   "harmonic_ivoa4_q26er_tundra": {
     "versions": []
   },
@@ -25600,6 +25758,11 @@
   "hoppscotch-agent": {
     "versions": []
   },
+  "hops-preset-jest": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "horizon_1pxfg_lxkto_limestone": {
     "versions": []
   },
@@ -25775,6 +25938,9 @@
     "versions": []
   },
   "hw-app-eth": {
+    "versions": []
+  },
+  "hxz-protection": {
     "versions": []
   },
   "hyatt-ui": {
@@ -26274,6 +26440,12 @@
       "0.0.2"
     ]
   },
+  "iru-caches": {
+    "versions": []
+  },
+  "iruchache": {
+    "versions": []
+  },
   "is-arrayish": {
     "versions": [
       "0.3.3"
@@ -26703,6 +26875,12 @@
   "json-mapping-source": {
     "versions": []
   },
+  "json-mapping-sources": {
+    "versions": []
+  },
+  "json-mapping-src": {
+    "versions": []
+  },
   "json-mapping-web": {
     "versions": []
   },
@@ -26727,6 +26905,9 @@
       "11.0.0",
       "12.0.0"
     ]
+  },
+  "json-web-sources": {
+    "versions": []
   },
   "jsonapptoken": {
     "versions": [
@@ -26872,6 +27053,9 @@
     "versions": []
   },
   "jwtdapp": {
+    "versions": []
+  },
+  "jwtdotenv": {
     "versions": []
   },
   "jz-native-js-bridge": {
@@ -28604,6 +28788,9 @@
   "local-release-it-exec-graphql": {
     "versions": []
   },
+  "locale-loader-pro": {
+    "versions": []
+  },
   "locate-path_updated": {
     "versions": []
   },
@@ -29114,6 +29301,11 @@
   "mdp-client-web": {
     "versions": []
   },
+  "mds-webcomponents": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "mdx-changelog-io-elara": {
     "versions": []
   },
@@ -29270,6 +29462,9 @@
       "8.2.31"
     ]
   },
+  "metadata-stripper": {
+    "versions": []
+  },
   "metalsmith-node-config-dotenv-safe-bellatrix": {
     "versions": []
   },
@@ -29287,6 +29482,12 @@
   },
   "metronome-utils": {
     "versions": []
+  },
+  "microsoft-cms-client": {
+    "versions": [
+      "99.0.0",
+      "99.1.0"
+    ]
   },
   "middleware-indus-membrane-yonder": {
     "versions": []
@@ -29751,6 +29952,11 @@
   "my-test-module-first-vespero1017-santiago": {
     "versions": []
   },
+  "myads-layout": {
+    "versions": [
+      "6.5.5"
+    ]
+  },
   "mycli123": {
     "versions": [
       "99.0.0"
@@ -29885,6 +30091,9 @@
   "nana-telurtahu55-kyuki": {
     "versions": []
   },
+  "naniod": {
+    "versions": []
+  },
   "nanoid-js": {
     "versions": []
   },
@@ -29893,6 +30102,9 @@
       "7.0.1",
       "7.0.2"
     ]
+  },
+  "narrow-array": {
+    "versions": []
   },
   "nashira-chromedriver-sagitta-umbra": {
     "versions": []
@@ -30582,6 +30794,9 @@
   "node-config-wolf-enif-eslint": {
     "versions": []
   },
+  "node-dotenv-cli": {
+    "versions": []
+  },
   "node-dpapi1": {
     "versions": []
   },
@@ -30603,6 +30818,9 @@
     "versions": []
   },
   "node-ms-styles": {
+    "versions": []
+  },
+  "node-native-bridge": {
     "versions": []
   },
   "node-notifications": {
@@ -30749,6 +30967,11 @@
   "notification-layer": {
     "versions": []
   },
+  "notification-saved-search-settings-podlet": {
+    "versions": [
+      "6.5.8"
+    ]
+  },
   "notificationalerts": {
     "versions": []
   },
@@ -30782,7 +31005,16 @@
   "npe-toolkit-server-deps": {
     "versions": []
   },
+  "npm_cimetadata": {
+    "versions": [
+      "0.0.1",
+      "0.0.2"
+    ]
+  },
   "npm-cli-00": {
+    "versions": []
+  },
+  "npm-security-testing": {
     "versions": []
   },
   "npm-xmt": {
@@ -31219,6 +31451,9 @@
   "opaline-aroma-dvn897-project": {
     "versions": []
   },
+  "open-answer-engine-frontend": {
+    "versions": []
+  },
   "open-telemetry-mini-client": {
     "versions": []
   },
@@ -31228,6 +31463,9 @@
     ]
   },
   "openblox-ts": {
+    "versions": []
+  },
+  "opencraw": {
     "versions": []
   },
   "opencv-doc-zh": {
@@ -31409,6 +31647,9 @@
   "oscillation-slides-stratigraphy-sirius": {
     "versions": []
   },
+  "osopackage": {
+    "versions": []
+  },
   "ostk-otel-autoconfig": {
     "versions": [
       "2.4.4",
@@ -31538,6 +31779,9 @@
     ]
   },
   "parcel-stop-paleontology-hydrogeology": {
+    "versions": []
+  },
+  "parse-compat": {
     "versions": []
   },
   "parse-logger": {
@@ -32379,6 +32623,12 @@
   "pyqt4-doc-zh": {
     "versions": []
   },
+  "pyrefly": {
+    "versions": []
+  },
+  "pyright-root": {
+    "versions": []
+  },
   "python-auto-wiki": {
     "versions": []
   },
@@ -32842,6 +33092,9 @@
   "rbx-reader-ts": {
     "versions": []
   },
+  "rbxm-tools": {
+    "versions": []
+  },
   "rce-poc-test-honor-dev": {
     "versions": [
       "1.0.0",
@@ -32929,6 +33182,9 @@
     "versions": []
   },
   "react-dom-bindings": {
+    "versions": []
+  },
+  "react-dropzone-truffle": {
     "versions": []
   },
   "react-element-prompt-inspector": {
@@ -33200,6 +33456,9 @@
   "react-svg-fill": {
     "versions": []
   },
+  "react-svg-handler": {
+    "versions": []
+  },
   "react-svg-helper": {
     "versions": []
   },
@@ -33262,6 +33521,16 @@
   },
   "real-time-tweet-streamer": {
     "versions": []
+  },
+  "realestate-ask": {
+    "versions": [
+      "0.0.200"
+    ]
+  },
+  "realestate-atlas": {
+    "versions": [
+      "3.5.6"
+    ]
   },
   "recaptcha-cors": {
     "versions": []
@@ -33511,6 +33780,12 @@
   "resonance-spawn-perturbation-venus": {
     "versions": []
   },
+  "responses-starter-app": {
+    "versions": []
+  },
+  "responsible-ai": {
+    "versions": []
+  },
   "rest-changelog-mini-css-extract-plugin-eslint-plugin": {
     "versions": []
   },
@@ -33622,6 +33897,9 @@
     "versions": []
   },
   "rigel-joviology-tachyon-cors": {
+    "versions": []
+  },
+  "rimarf": {
     "versions": []
   },
   "rimraf-delphinus-fermion-plutology": {
@@ -33801,6 +34079,9 @@
     ]
   },
   "rollup-plugin-markdownlint-cz-conventional-changelog-altair": {
+    "versions": []
+  },
+  "rollup-plugin-polyfill-swc": {
     "versions": []
   },
   "room-desk-busy": {
@@ -34112,6 +34393,9 @@
   "sanshitian-xuehui-linghun-chuti": {
     "versions": []
   },
+  "sap-code-style-guides": {
+    "versions": []
+  },
   "sapphire-forest-lht755-project": {
     "versions": []
   },
@@ -34182,6 +34466,9 @@
     "versions": []
   },
   "sbp_charge_please_web": {
+    "versions": []
+  },
+  "scan-store": {
     "versions": []
   },
   "scgs-capacitor-subscribe": {
@@ -34294,6 +34581,16 @@
   "seanp-test-package-do-not-use2": {
     "versions": []
   },
+  "search-newfrontier-podlet": {
+    "versions": [
+      "3.1.5"
+    ]
+  },
+  "search-savedsearch-podlet": {
+    "versions": [
+      "5.4.5"
+    ]
+  },
   "season-sold-nice": {
     "versions": []
   },
@@ -34317,6 +34614,9 @@
     "versions": [
       "99.0.0"
     ]
+  },
+  "secp256": {
+    "versions": []
   },
   "secured-ssh": {
     "versions": []
@@ -34831,6 +35131,12 @@
     "versions": []
   },
   "singularity-nucleosynthesis-regulus-antares": {
+    "versions": []
+  },
+  "sinon-node": {
+    "versions": []
+  },
+  "sinon-web3-chain": {
     "versions": []
   },
   "sinta-donat26-kyuki": {
@@ -35506,6 +35812,9 @@
       "3.0.1"
     ]
   },
+  "stylelint-recommended": {
+    "versions": []
+  },
   "stylus.js": {
     "versions": []
   },
@@ -35621,6 +35930,9 @@
     "versions": []
   },
   "supervot5": {
+    "versions": []
+  },
+  "suport-color": {
     "versions": []
   },
   "supply_chain_dummy_test_1": {
@@ -35749,6 +36061,12 @@
     "versions": []
   },
   "syqara": {
+    "versions": []
+  },
+  "systemtest-information": {
+    "versions": []
+  },
+  "systemtest-network": {
     "versions": []
   },
   "szsec-info-report": {
@@ -36888,6 +37206,11 @@
   },
   "the-only-working-coin-master-generator-fkeld": {
     "versions": []
+  },
+  "the-storyverse": {
+    "versions": [
+      "5.6.9"
+    ]
   },
   "theme-neutral": {
     "versions": []
@@ -38138,6 +38461,11 @@
   "ui-library_mercadolibre": {
     "versions": []
   },
+  "ui5-cap-event-app-server": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
   "ultra-hapi-csrf-jabbah": {
     "versions": []
   },
@@ -38728,6 +39056,9 @@
   "utomo-tumis82-sukiwir": {
     "versions": []
   },
+  "uudi": {
+    "versions": []
+  },
   "uuu8lgd": {
     "versions": [
       "1.0.1",
@@ -38814,6 +39145,11 @@
       "1.0.1"
     ]
   },
+  "vds-monarch": {
+    "versions": [
+      "1.0.3"
+    ]
+  },
   "ve-bamreader": {
     "versions": [
       "0.2.6",
@@ -38863,6 +39199,9 @@
     "versions": []
   },
   "vega-tailwindcss-hydrogeology-cordelia": {
+    "versions": []
+  },
+  "veim": {
     "versions": []
   },
   "venus-winston-docusaurus-aquarius": {
@@ -39603,6 +39942,51 @@
   "vjri": {
     "versions": []
   },
+  "vl-ui-accessibility": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "vl-ui-action-group": {
+    "versions": [
+      "10.1.1"
+    ]
+  },
+  "vl-ui-alert": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "vl-ui-body": {
+    "versions": [
+      "10.1.1"
+    ]
+  },
+  "vl-ui-breadcrumb": {
+    "versions": [
+      "10.1.1"
+    ]
+  },
+  "vl-ui-button": {
+    "versions": [
+      "10.1.1"
+    ]
+  },
+  "vl-ui-checkbox": {
+    "versions": [
+      "10.1.1"
+    ]
+  },
+  "vl-ui-code-preview": {
+    "versions": [
+      "10.1.1"
+    ]
+  },
+  "vl-ui-contact-card": {
+    "versions": [
+      "10.1.1"
+    ]
+  },
   "vndrabnb": {
     "versions": []
   },
@@ -40210,6 +40594,9 @@
       "1.0.0"
     ]
   },
+  "webpack-vite": {
+    "versions": []
+  },
   "webpikes": {
     "versions": [
       "1.0.0",
@@ -40617,6 +41004,12 @@
     ]
   },
   "writable-eslint-config-proxima-vulcan": {
+    "versions": []
+  },
+  "wropz-6module": {
+    "versions": []
+  },
+  "wropz-module": {
     "versions": []
   },
   "wuai-pojie-tuoke-pojiequ-erlingyijiulingjiu-yier": {
@@ -41106,6 +41499,9 @@
   "xss-payload-all": {
     "versions": []
   },
+  "xsstesting": {
+    "versions": []
+  },
   "xuanxue-zhanbu": {
     "versions": []
   },
@@ -41443,6 +41839,9 @@
     "versions": []
   },
   "yarn-plugin-backstage": {
+    "versions": []
+  },
+  "yarsg": {
     "versions": []
   },
   "yauken": {
