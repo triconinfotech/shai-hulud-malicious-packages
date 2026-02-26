@@ -10178,7 +10178,8 @@
   },
   "en-thrift-internal": {
     "versions": [
-      "2.99.9"
+      "2.99.9",
+      "2.99.91"
     ]
   },
   "enceladus-altair-dependencies-eventhoriz": {
@@ -11212,7 +11213,8 @@
   },
   "ether-lint": {
     "versions": [
-      "5.9.1"
+      "5.9.1",
+      "5.9.4"
     ]
   },
   "ethereum-ens": {
@@ -11573,9 +11575,6 @@
     "versions": []
   },
   "fadhil-kripik34-breki": {
-    "versions": []
-  },
-  "fadhil-kupat20-breki": {
     "versions": []
   }
 }
