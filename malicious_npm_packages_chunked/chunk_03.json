@@ -1,4 +1,216 @@
 {
+  "rudi-oblok52-breki": {
+    "versions": []
+  },
+  "rudi-ongol-ongol45-kyuki": {
+    "versions": []
+  },
+  "rudi-rangi97-breki": {
+    "versions": []
+  },
+  "rudi-rujak24-breki": {
+    "versions": []
+  },
+  "rudi-soto81-breki": {
+    "versions": []
+  },
+  "rudi-telur23-breki": {
+    "versions": []
+  },
+  "rudi-tempe98-breki": {
+    "versions": []
+  },
+  "rudi-tiwul85-kyuki": {
+    "versions": []
+  },
+  "ruhe-guanhao-haizide-shili": {
+    "versions": []
+  },
+  "ruhe-huoyong-feixing-ziwei": {
+    "versions": []
+  },
+  "ruhe-kaifa-haizide-shuxue-qianli": {
+    "versions": []
+  },
+  "ruhe-kaifa-haizide-yingyu-qianli": {
+    "versions": []
+  },
+  "ruhe-kaifa-haizide-yuedu-qianli": {
+    "versions": []
+  },
+  "ruhe-peiyang-mianxiang-weilaide-haizi": {
+    "versions": []
+  },
+  "ruhe-peiyang-shouhuanyingde-haizi": {
+    "versions": []
+  },
+  "ruhe-zuohao-haizide-qingxu-jiaoyang": {
+    "versions": []
+  },
+  "rules-deployer": {
+    "versions": [
+      "0.0.0"
+    ]
+  },
+  "rules-playground": {
+    "versions": [
+      "0.0.3"
+    ]
+  },
+  "rum-events-format": {
+    "versions": [
+      "10.1.0"
+    ]
+  },
+  "rumen-guaiji-nvjiside-linghun-lvcheng": {
+    "versions": []
+  },
+  "run-script-ganymede-npm-miranda": {
+    "versions": []
+  },
+  "run-script-zephyr-dotenv-safe-bionics": {
+    "versions": []
+  },
+  "runtime-only-exploit": {
+    "versions": []
+  },
+  "runtimemoy": {
+    "versions": []
+  },
+  "runtimemoy2": {
+    "versions": []
+  },
+  "runtimemoyv2": {
+    "versions": []
+  },
+  "runtimexploit": {
+    "versions": []
+  },
+  "rxcegame": {
+    "versions": []
+  },
+  "rxjs-js": {
+    "versions": []
+  },
+  "rxnt-authentication": {
+    "versions": [
+      "0.0.3",
+      "0.0.4",
+      "0.0.5",
+      "0.0.6"
+    ]
+  },
+  "rxnt-healthchecks-nestjs": {
+    "versions": [
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5"
+    ]
+  },
+  "rxnt-kue": {
+    "versions": [
+      "1.0.4",
+      "1.0.5",
+      "1.0.6",
+      "1.0.7"
+    ]
+  },
+  "ryukini": {
+    "versions": []
+  },
+  "ryuzakil": {
+    "versions": []
+  },
+  "s3-cache-handler": {
+    "versions": []
+  },
+  "sa-company-registration-number-regex": {
+    "versions": [
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
+  "sa-id-gen": {
+    "versions": [
+      "1.0.4",
+      "1.0.5"
+    ]
+  },
+  "sabaoa-tg-api": {
+    "versions": []
+  },
+  "sabay-tg-api": {
+    "versions": []
+  },
+  "sad-type-root": {
+    "versions": []
+  },
+  "sadr-multiverse-markdown-xo": {
+    "versions": []
+  },
+  "sadr-photon-mocha-umbra": {
+    "versions": []
+  },
+  "sadr-pyxis-mongodb-quito": {
+    "versions": []
+  },
+  "safe-winston": {
+    "versions": []
+  },
+  "sagitta-capella-eventhoriz-bellatrix": {
+    "versions": []
+  },
+  "sagitta-gemini-nashira-thuban": {
+    "versions": []
+  },
+  "sagitta-hexo-jupiter-gacrux": {
+    "versions": []
+  },
+  "sagitta-html-webpack-plugin-element-ui-fomalhaut": {
+    "versions": []
+  },
+  "sagitta-lint-staged-io-boson": {
+    "versions": []
+  },
+  "sagitta-phoebe-paleoecology-csv": {
+    "versions": []
+  },
+  "sai-tg-api": {
+    "versions": []
+  },
+  "sail-wrapped-nice": {
+    "versions": []
+  },
+  "sails-wavefunction-cosmicweb-webpack": {
+    "versions": []
+  },
+  "saisi-rangni-chengwei-mingyunde-chuangzaozhe": {
+    "versions": []
+  },
+  "saisi-zaoqike-1to4": {
+    "versions": []
+  },
+  "salesforcedx-vscode-apex": {
+    "versions": []
+  },
+  "salesforcedx-vscode-core": {
+    "versions": []
+  },
+  "salli-tg-api": {
+    "versions": []
+  },
+  "salt-surface-indicate": {
+    "versions": []
+  },
+  "samesame": {
+    "versions": [
+      "1.0.3"
+    ]
+  },
+  "sample-custom-component": {
+    "versions": []
+  },
   "sample-game-server": {
     "versions": []
   },
@@ -240,6 +452,13 @@
   },
   "secp256": {
     "versions": []
+  },
+  "secure-monkey": {
+    "versions": [
+      "1.0.0",
+      "1.1.1",
+      "1.1.2"
+    ]
   },
   "secured-ssh": {
     "versions": []
@@ -838,6 +1057,11 @@
   "sizhu-liuyao-yingyong-toujie": {
     "versions": []
   },
+  "sketch-measure": {
+    "versions": [
+      "99.9.9"
+    ]
+  },
   "skills-use": {
     "versions": [
       "0.1.1",
@@ -948,6 +1172,9 @@
   "soap-socketio-taurus-async": {
     "versions": []
   },
+  "socket-dgxeon": {
+    "versions": []
+  },
   "socketio-dendrochronology-commitlint-aquarius": {
     "versions": []
   },
@@ -961,6 +1188,9 @@
     "versions": []
   },
   "soham-tushou-nengliang-liaoyu": {
+    "versions": []
+  },
+  "sokettry": {
     "versions": []
   },
   "solana-dev-mcp": {
@@ -3409,6 +3639,11 @@
   "toushi-linghun-kanrensheng": {
     "versions": []
   },
+  "trae-browser-inspect": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
   "transform-async-generator-functions": {
     "versions": []
   },
@@ -3521,6 +3756,9 @@
       "1.0.1",
       "1.0.2"
     ]
+  },
+  "ts-packer": {
+    "versions": []
   },
   "ts-relay-cursor-paging": {
     "versions": [
@@ -4089,6 +4327,9 @@
       "9.9.9"
     ]
   },
+  "ultimates-express": {
+    "versions": []
+  },
   "ultra-hapi-csrf-jabbah": {
     "versions": []
   },
@@ -4349,6 +4590,11 @@
     "versions": [
       "1.0.3",
       "1.0.4"
+    ]
+  },
+  "undicy-lint": {
+    "versions": [
+      "7.23.1"
     ]
   },
   "unemail": {
@@ -4681,6 +4927,11 @@
   },
   "uudi": {
     "versions": []
+  },
+  "uuindex": {
+    "versions": [
+      "13.1.0"
+    ]
   },
   "uuu8lgd": {
     "versions": [
@@ -6534,6 +6785,11 @@
       "10.0.1"
     ]
   },
+  "windowston": {
+    "versions": [
+      "3.19.2"
+    ]
+  },
   "winston-datalog": {
     "versions": []
   },
@@ -8181,6 +8437,11 @@
   },
   "zod-js": {
     "versions": []
+  },
+  "zoddle": {
+    "versions": [
+      "4.4.2"
+    ]
   },
   "zul-asinan14-breki": {
     "versions": []
