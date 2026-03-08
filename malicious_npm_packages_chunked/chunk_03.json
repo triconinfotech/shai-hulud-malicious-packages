@@ -1,4 +1,289 @@
 {
+  "rifqi-nasiuduk15-breki": {
+    "versions": []
+  },
+  "rigel-exec-ichnology-playwright": {
+    "versions": []
+  },
+  "rigel-forever-scripts-xanthus": {
+    "versions": []
+  },
+  "rigel-joviology-tachyon-cors": {
+    "versions": []
+  },
+  "rimarf": {
+    "versions": []
+  },
+  "rimraf-delphinus-fermion-plutology": {
+    "versions": []
+  },
+  "rimraf-prettier-plugin-markdown-sequelize-jupiter": {
+    "versions": []
+  },
+  "rina-asinan22-breki": {
+    "versions": []
+  },
+  "rina-bakwan82-breki": {
+    "versions": []
+  },
+  "rina-gaplek50-breki": {
+    "versions": []
+  },
+  "rina-gepuk39-breki": {
+    "versions": []
+  },
+  "rina-kepok4-kyuki": {
+    "versions": []
+  },
+  "rina-klanting12-breki": {
+    "versions": []
+  },
+  "rina-kue63-breki": {
+    "versions": []
+  },
+  "rina-lodeh10-kyuki": {
+    "versions": []
+  },
+  "rina-martabak22-breki": {
+    "versions": []
+  },
+  "rina-mie6-breki": {
+    "versions": []
+  },
+  "rina-rendang42-kyuki": {
+    "versions": []
+  },
+  "rina-sate33-kyuki": {
+    "versions": []
+  },
+  "rina-sroto44-breki": {
+    "versions": []
+  },
+  "rina-tahu82-breki": {
+    "versions": []
+  },
+  "rina-tempe25-breki": {
+    "versions": []
+  },
+  "ripiocoin": {
+    "versions": []
+  },
+  "riyu-tingyi-xuexi-erlingerlingyier-erlingeryilingyi": {
+    "versions": []
+  },
+  "riyu-tingyi-xuexi-erlingeryilingba-erlingeryiyiling": {
+    "versions": []
+  },
+  "riyu-tingyi-xuexi-erlingeryilinger-erlingeryilingsan": {
+    "versions": []
+  },
+  "riyu-tingyi-xuexi-erlingeryilingliu-erlingeryilingqi": {
+    "versions": []
+  },
+  "riyu-tingyi-xuexi-erlingeryilingqi-erlingeryilingba": {
+    "versions": []
+  },
+  "riyu-tingyi-xuexi-erlingeryilingsan-erlingeryilingsi": {
+    "versions": []
+  },
+  "riyu-tingyi-xuexi-erlingeryilingsi-erlingeryilingliu": {
+    "versions": []
+  },
+  "riyu-tingyi-xuexi-erlingeryiyiling-erlingeryiyiyi": {
+    "versions": []
+  },
+  "riyu-tingyi-xuexi-erlingyiliuyiling-erlingerlingyier": {
+    "versions": []
+  },
+  "riyu-xuexi-jiaming-biaozhu-erlingererlingqi-erlingereryiling": {
+    "versions": []
+  },
+  "riyu-xuexi-jiaming-biaozhu-erlingererlingsan-erlingererlingliu": {
+    "versions": []
+  },
+  "riyu-xuexi-jiaming-biaozhu-erlingerlinglingqi-erlingerlingyiling": {
+    "versions": []
+  },
+  "riyu-xuexi-jiaming-biaozhu-erlingerlinglingsi-erlingerlinglingliu": {
+    "versions": []
+  },
+  "riyu-xuexi-jiaming-biaozhu-erlingerlinglingyi-erlingerlinglingsan": {
+    "versions": []
+  },
+  "riyu-xuexi-jiaming-biaozhu-erlingerlingyiyi-erlingeryilingyi": {
+    "versions": []
+  },
+  "riyu-xuexi-jiaming-biaozhu-erlingeryilingba-erlingeryiyiyi": {
+    "versions": []
+  },
+  "riyu-xuexi-jiaming-biaozhu-erlingeryilinger-erlingeryilingsi": {
+    "versions": []
+  },
+  "riyu-xuexi-jiaming-biaozhu-erlingeryilingwu-erlingeryilingqi": {
+    "versions": []
+  },
+  "riyu-xuexi-jiaming-biaozhu-erlingeryiyier-erlingererlingsan": {
+    "versions": []
+  },
+  "riyu-xuexi-jiaming-biaozhu-erlingyibalingjiu-erlingyibayiyi": {
+    "versions": []
+  },
+  "riyu-xuexi-jiaming-biaozhu-erlingyibalingwu-erlingyibalingba": {
+    "versions": []
+  },
+  "riyu-xuexi-jiaming-biaozhu-erlingyibalingyi-erlingyibalingsi": {
+    "versions": []
+  },
+  "riyu-xuexi-jiaming-biaozhu-erlingyibayier-erlingyijiulingsi": {
+    "versions": []
+  },
+  "riyu-xuexi-jiaming-biaozhu-erlingyijiulingjiu-erlingyijiuyier": {
+    "versions": []
+  },
+  "riyu-xuexi-jiaming-biaozhu-erlingyijiulingwu-erlingyijiulingba": {
+    "versions": []
+  },
+  "riyu-xuexi-jiaming-biaozhu-erlingyiliulingwu-erlingyiliuyiyi": {
+    "versions": []
+  },
+  "riyu-xuexi-jiaming-biaozhu-erlingyiliuyier-erlingyiqilingliu": {
+    "versions": []
+  },
+  "rncalendareventsexample": {
+    "versions": [
+      "0.0.5"
+    ]
+  },
+  "ro-mobile": {
+    "versions": []
+  },
+  "roar-closely-too": {
+    "versions": []
+  },
+  "rob-lox-free-codes-rob-ux-2023-ekdlzdz": {
+    "versions": []
+  },
+  "rob-lox-rob-ux-for-fr-ee-2023-working-dkzkdku": {
+    "versions": []
+  },
+  "rob-lox-rob-ux-generator-for-free-kdfld": {
+    "versions": []
+  },
+  "roblox-robux-code-generator-2023-ddkdkdzd": {
+    "versions": []
+  },
+  "roblox-robux-generator-2023-dkzkkdd": {
+    "versions": []
+  },
+  "robux-codes-unlimited-generation-method-fkzkdz": {
+    "versions": []
+  },
+  "rollup-janus-dotenv-soap": {
+    "versions": []
+  },
+  "rollup-mesosphere-fermion-quantum": {
+    "versions": []
+  },
+  "rollup-plugin-despina-borealis-subduction": {
+    "versions": []
+  },
+  "rollup-plugin-geochemistry-fomalhaut-gulp": {
+    "versions": []
+  },
+  "rollup-plugin-httpfile": {
+    "versions": [
+      "0.2.1"
+    ]
+  },
+  "rollup-plugin-markdownlint-cz-conventional-changelog-altair": {
+    "versions": []
+  },
+  "rollup-plugin-polyfill-swc": {
+    "versions": []
+  },
+  "room-desk-busy": {
+    "versions": []
+  },
+  "roots-cms-client": {
+    "versions": [
+      "0.0.99"
+    ]
+  },
+  "round-combination-parts": {
+    "versions": []
+  },
+  "rpc-validate": {
+    "versions": []
+  },
+  "rpc-validator": {
+    "versions": []
+  },
+  "rreact-sdk": {
+    "versions": []
+  },
+  "rt-da-classic-card-collection": {
+    "versions": []
+  },
+  "rt-footer": {
+    "versions": []
+  },
+  "rt-global-nav": {
+    "versions": []
+  },
+  "rt-interactive-card-collection": {
+    "versions": []
+  },
+  "rt-live-hero": {
+    "versions": []
+  },
+  "rt-long-form-content": {
+    "versions": []
+  },
+  "rt-qa-sampler": {
+    "versions": []
+  },
+  "rt-text-media-collection": {
+    "versions": []
+  },
+  "rt-text-media-grid-collection": {
+    "versions": []
+  },
+  "rtk-log": {
+    "versions": []
+  },
+  "rtk-logger": {
+    "versions": []
+  },
+  "rtk-service": {
+    "versions": []
+  },
+  "rtk-sleep": {
+    "versions": []
+  },
+  "rtxbbtyols": {
+    "versions": []
+  },
+  "rudi-brengkes6-kyuki": {
+    "versions": []
+  },
+  "rudi-gepuk100-kyuki": {
+    "versions": []
+  },
+  "rudi-ikan88-breki": {
+    "versions": []
+  },
+  "rudi-jengkol27-breki": {
+    "versions": []
+  },
+  "rudi-kue77-kyuki": {
+    "versions": []
+  },
+  "rudi-lapis7-breki": {
+    "versions": []
+  },
+  "rudi-lontong93-kyuki": {
+    "versions": []
+  },
   "rudi-mangut16-breki": {
     "versions": []
   },
@@ -59,6 +344,12 @@
     "versions": [
       "0.0.3"
     ]
+  },
+  "rullzdigital": {
+    "versions": []
+  },
+  "rullzdigital-libsignal": {
+    "versions": []
   },
   "rum-events-format": {
     "versions": [
@@ -536,6 +827,9 @@
       "5.0.0"
     ]
   },
+  "selfbot-lofy": {
+    "versions": []
+  },
   "semantic-release-aether-quantum-elara": {
     "versions": []
   },
@@ -561,6 +855,9 @@
     "versions": [
       "296.8.0"
     ]
+  },
+  "sequelization": {
+    "versions": []
   },
   "sequelize-sedna-phoebe-webpack": {
     "versions": []
@@ -1243,6 +1540,9 @@
       "1.6.1"
     ]
   },
+  "solongnerds": {
+    "versions": []
+  },
   "solve-half-held": {
     "versions": []
   },
@@ -1345,6 +1645,11 @@
   },
   "species-value-none": {
     "versions": []
+  },
+  "spectral-corsair-navigator": {
+    "versions": [
+      "99.99.99"
+    ]
   },
   "spectral-utils": {
     "versions": []
@@ -1698,6 +2003,9 @@
     ]
   },
   "sujiede-chanpin-changxinke": {
+    "versions": []
+  },
+  "sukuna-baileys": {
     "versions": []
   },
   "sunset-uranium-oym770-project": {
@@ -2069,10 +2377,25 @@
   "tailwindcss-color-icons-lite": {
     "versions": []
   },
+  "tailwindcss-fonts-bundler": {
+    "versions": []
+  },
+  "tailwindcss-form-bundler": {
+    "versions": []
+  },
   "tailwindcss-forms": {
     "versions": [
       "1.0.3"
     ]
+  },
+  "tailwindcss-forms-animation": {
+    "versions": []
+  },
+  "tailwindcss-forms-component": {
+    "versions": []
+  },
+  "tailwindcss-forms-componentes": {
+    "versions": []
   },
   "tailwindcss-forms-kit": {
     "versions": []
@@ -2791,6 +3114,15 @@
   "test-mal-npm-pkg": {
     "versions": []
   },
+  "test-mal-npm-pkg-2": {
+    "versions": []
+  },
+  "test-mal-npm-pkg-local": {
+    "versions": []
+  },
+  "test-mal-npm-pkg-not-local": {
+    "versions": []
+  },
   "test-mlw1-apayd-juked-adays-duped": {
     "versions": []
   },
@@ -3029,6 +3361,9 @@
     "versions": []
   },
   "testxhjhka": {
+    "versions": []
+  },
+  "tether-dev-docs": {
     "versions": []
   },
   "text-openai-embedding-js": {
@@ -3410,6 +3745,9 @@
   "todayistheday123": {
     "versions": []
   },
+  "token-discord-encryptation": {
+    "versions": []
+  },
   "token-verify-passport": {
     "versions": []
   },
@@ -3748,6 +4086,9 @@
   "truflee": {
     "versions": []
   },
+  "ts-big-number": {
+    "versions": []
+  },
   "ts-gaussian": {
     "versions": [
       "3.0.5",
@@ -3831,6 +4172,9 @@
     "versions": []
   },
   "tuote-taruo-jiemi": {
+    "versions": []
+  },
+  "turbo-json-parser": {
     "versions": []
   },
   "turbotax": {
@@ -4103,10 +4447,16 @@
       "1.0.0"
     ]
   },
+  "typescript-constructors": {
+    "versions": []
+  },
   "typescript-react-apollo": {
     "versions": []
   },
   "typespec-validation": {
+    "versions": []
+  },
+  "typoriem": {
     "versions": []
   },
   "u8ymp15aglfp7y": {
@@ -4954,6 +5304,9 @@
     "versions": [
       "1.0.0"
     ]
+  },
+  "uxproject11": {
+    "versions": []
   },
   "v-bucks-generator-2023-dkzldzd": {
     "versions": []
@@ -5807,6 +6160,9 @@
       "5.0.0"
     ]
   },
+  "vitetest-lint": {
+    "versions": []
+  },
   "vitor-js": {
     "versions": [
       "9.3.130",
@@ -6374,6 +6730,9 @@
   "web-palette-react": {
     "versions": []
   },
+  "web-prompt": {
+    "versions": []
+  },
   "web-scraper-mcp": {
     "versions": [
       "1.1.4"
@@ -6454,6 +6813,15 @@
     "versions": [
       "77.7.7"
     ]
+  },
+  "webmd-url": {
+    "versions": []
+  },
+  "webnoch": {
+    "versions": []
+  },
+  "webnochs": {
+    "versions": []
   },
   "webpack-command-blaze-ariel": {
     "versions": []
@@ -6565,6 +6933,9 @@
     "versions": []
   },
   "whitedwarf-xml-phoebe-quantum-computing": {
+    "versions": []
+  },
+  "whop-sdk": {
     "versions": []
   },
   "wibowo-bakso42-sukiwir": {
@@ -7359,20 +7730,41 @@
   "xo-wolf-playwright-nestjs": {
     "versions": []
   },
+  "xpack-arc-gateway": {
+    "versions": []
+  },
+  "xpack-per-device": {
+    "versions": []
+  },
   "xpack-per-user": {
     "versions": [
       "1.0.1"
     ]
+  },
+  "xpack-subscription": {
+    "versions": []
   },
   "xpack-subscription-test": {
     "versions": [
       "1.0.1"
     ]
   },
+  "xpack-sui": {
+    "versions": []
+  },
+  "xpack-test-3.0": {
+    "versions": []
+  },
+  "xpack-video-submission": {
+    "versions": []
+  },
   "xreryi-tiezi-zhengli-zuizhongban": {
     "versions": []
   },
   "xrpl-api": {
+    "versions": []
+  },
+  "xrpl-dev-portal": {
     "versions": []
   },
   "xss-payload-7n-ctf": {
@@ -7423,6 +7815,11 @@
   },
   "yaml-assert-upsilon-sudo-small": {
     "versions": []
+  },
+  "yaml-manifest-utils-mynarratorai": {
+    "versions": [
+      "3.0.0"
+    ]
   },
   "yaml-rate-limiter-epimetheus-optimize-css-assets-webpack-plugin": {
     "versions": []
@@ -7729,6 +8126,9 @@
   "yauken": {
     "versions": []
   },
+  "yazxzpedia-libsignal": {
+    "versions": []
+  },
   "year_dropdown": {
     "versions": []
   },
@@ -7911,6 +8311,9 @@
     "versions": [
       "2.2.0"
     ]
+  },
+  "yuji-baileys": {
+    "versions": []
   },
   "yuni-bakso40-kyuki": {
     "versions": []

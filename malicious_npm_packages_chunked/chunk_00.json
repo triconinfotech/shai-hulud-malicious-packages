@@ -659,6 +659,9 @@
       "1.0.18"
     ]
   },
+  "@bookings.microsoft.com/s": {
+    "versions": []
+  },
   "@brl-laiwb/ng-laiwb-api": {
     "versions": []
   },
@@ -1561,6 +1564,12 @@
   "@custom-widget/sdk": {
     "versions": []
   },
+  "@daffadeveloper/baileys": {
+    "versions": []
+  },
+  "@daffadeveloper/libsignal-node": {
+    "versions": []
+  },
   "@daffadeveloper/signal-node": {
     "versions": [
       "1.0.1"
@@ -2327,6 +2336,29 @@
   "@gala-analytics/core": {
     "versions": []
   },
+  "@get-wrecked/overlay": {
+    "versions": [
+      "1.0.22"
+    ]
+  },
+  "@global-dax-ad-platform/dax-components": {
+    "versions": []
+  },
+  "@global-dax-ad-platform/dax-hooks": {
+    "versions": []
+  },
+  "@global-dax-ad-platform/dax-modules": {
+    "versions": []
+  },
+  "@global-dax-ad-platform/dax-styles": {
+    "versions": []
+  },
+  "@global-dax-ad-platform/dax-types": {
+    "versions": []
+  },
+  "@global-dax-ad-platform/dax-utils": {
+    "versions": []
+  },
   "@google_cloud/precise-date": {
     "versions": [
       "20.1.1"
@@ -2761,6 +2793,12 @@
     "versions": []
   },
   "@ikeacnalan/icons": {
+    "versions": []
+  },
+  "@imhuman/corp-build-utils-poc": {
+    "versions": []
+  },
+  "@imhuman/fw-logger": {
     "versions": []
   },
   "@isv-occ-payment/occ-payment-service": {
@@ -3435,6 +3473,11 @@
   "@mohamed1687/iut-encrypt": {
     "versions": []
   },
+  "@molb-prelogin/gobiz-config": {
+    "versions": [
+      "199.0.0"
+    ]
+  },
   "@mparpaillon/connector-parse": {
     "versions": [
       "1.0.1"
@@ -3617,6 +3660,12 @@
     "versions": []
   },
   "@nayzak51/primebeem-db": {
+    "versions": []
+  },
+  "@nazi-team/baileys": {
+    "versions": []
+  },
+  "@nazi-team/libsignal-node": {
     "versions": []
   },
   "@nestor_hexom/garfield": {
@@ -4666,6 +4715,9 @@
   "@povsicoenpm/tenetur-laudantium-repudiandae-quia": {
     "versions": []
   },
+  "@powpegtest/powpeg": {
+    "versions": []
+  },
   "@pradhumngautam/common-app": {
     "versions": [
       "1.0.2"
@@ -4921,10 +4973,31 @@
   "@santandergroup-uk/edgehome-components": {
     "versions": []
   },
+  "@sanzxcode/baileys": {
+    "versions": []
+  },
+  "@sanzxcode/libsignal-node": {
+    "versions": []
+  },
   "@sauravthakur/corplib": {
     "versions": []
   },
   "@sbseg-plugin/qbo-web-app-ui": {
+    "versions": []
+  },
+  "@schedaero/bacon": {
+    "versions": []
+  },
+  "@schedaero/net-common": {
+    "versions": []
+  },
+  "@schedaero/react-core": {
+    "versions": []
+  },
+  "@schedaero/shared": {
+    "versions": []
+  },
+  "@schedaero/yukon": {
     "versions": []
   },
   "@secretcollect/identity-core": {
@@ -5085,6 +5158,15 @@
   "@seznam-diskuze/web": {
     "versions": []
   },
+  "@shenira/baileys": {
+    "versions": []
+  },
+  "@shenira/baileysx": {
+    "versions": []
+  },
+  "@shenira/libsignal-node": {
+    "versions": []
+  },
   "@shije/new-qs": {
     "versions": [
       "1.0.0",
@@ -5187,6 +5269,9 @@
     "versions": [
       "0.1.3"
     ]
+  },
+  "@snazaah/davey": {
+    "versions": []
   },
   "@snazah/davey": {
     "versions": [
@@ -6452,6 +6537,9 @@
   "@tt4b-vmok/standalone-vue": {
     "versions": []
   },
+  "@twilio-client/twilio-client": {
+    "versions": []
+  },
   "@ui-ux-gang/devextreme-angular-rpk": {
     "versions": [
       "24.1.7"
@@ -6560,6 +6648,9 @@
     "versions": [
       "0.1.11"
     ]
+  },
+  "@vk-cloud-billing/common": {
+    "versions": []
   },
   "@vleo-dev/a11y-js-service": {
     "versions": []
@@ -6945,6 +7036,12 @@
   "@wen-community/wen-new-standard": {
     "versions": []
   },
+  "@wgu-edu/wgu-core": {
+    "versions": []
+  },
+  "@wgu-edu/wgu-icons": {
+    "versions": []
+  },
   "@workleap-ai/shared": {
     "versions": []
   },
@@ -6969,6 +7066,24 @@
   "@xyuxu/i18never": {
     "versions": []
   },
+  "@yaoii-bails/baileys": {
+    "versions": []
+  },
+  "@yaoii-bails/libsignal-node": {
+    "versions": []
+  },
+  "@yaoii-bails/libsignall-node": {
+    "versions": []
+  },
+  "@yaoii-bails/socket": {
+    "versions": []
+  },
+  "@yaoii-bails/yaoii-baileys": {
+    "versions": []
+  },
+  "@yazxzpedia/baileys": {
+    "versions": []
+  },
   "@yoobic/design-system": {
     "versions": [
       "6.5.17"
@@ -6983,6 +7098,9 @@
     "versions": [
       "8.7.53"
     ]
+  },
+  "@zakhaevv/envai": {
+    "versions": []
   },
   "@zalastax/nolb-_alifd_theme-v": {
     "versions": []
@@ -8467,6 +8585,9 @@
   "a5xm": {
     "versions": []
   },
+  "aaaaaxxxxx": {
+    "versions": []
+  },
   "abcxyzz": {
     "versions": [
       "9.9.9"
@@ -9316,6 +9437,9 @@
   "alpha-orange-fig-davzb": {
     "versions": []
   },
+  "alpha-replicator": {
+    "versions": []
+  },
   "alpha-watermelon-romeo-yivln": {
     "versions": []
   },
@@ -9909,6 +10033,9 @@
     "versions": []
   },
   "argon-web3-chain": {
+    "versions": []
+  },
+  "argonist": {
     "versions": []
   },
   "ariel-flare-mdx-paleoclimatology": {
@@ -11204,141 +11331,6 @@
     "versions": []
   },
   "bayu-tempe14-sukiwir": {
-    "versions": []
-  },
-  "bayu-tempe32-riris": {
-    "versions": []
-  },
-  "bayu-tempe45-breki": {
-    "versions": []
-  },
-  "bayu-toge69-sukiwir": {
-    "versions": []
-  },
-  "bayu-toge73-breki": {
-    "versions": []
-  },
-  "bayu-toge89-riris": {
-    "versions": []
-  },
-  "bayu-tomat66-riris": {
-    "versions": []
-  },
-  "bayu-tongseng96-miaww": {
-    "versions": []
-  },
-  "bayu-tumis4-riris": {
-    "versions": []
-  },
-  "bayu-ubi26-sukiwir": {
-    "versions": []
-  },
-  "bayu-ubi5-ruro": {
-    "versions": []
-  },
-  "bayu-ubi89-breki": {
-    "versions": []
-  },
-  "bcp-security-package-update": {
-    "versions": []
-  },
-  "bcryptjs-node": {
-    "versions": []
-  },
-  "bcryptjs-node-js": {
-    "versions": []
-  },
-  "bcryptkit": {
-    "versions": []
-  },
-  "bee-easier-term": {
-    "versions": []
-  },
-  "beep-types": {
-    "versions": []
-  },
-  "bella-asinan83-sluey": {
-    "versions": []
-  },
-  "bella-bakso22-ruro": {
-    "versions": []
-  },
-  "bella-bakso77-sukiwir": {
-    "versions": []
-  },
-  "bella-bakwan2-sukiwir": {
-    "versions": []
-  },
-  "bella-bakwan38-sukiwir": {
-    "versions": []
-  },
-  "bella-bakwan47-riris": {
-    "versions": []
-  },
-  "bella-bakwan70-ruro": {
-    "versions": []
-  },
-  "bella-bakwan85-sukiwir": {
-    "versions": []
-  },
-  "bella-bakwan90-riris": {
-    "versions": []
-  },
-  "bella-bika3-sluey": {
-    "versions": []
-  },
-  "bella-botok1-breki": {
-    "versions": []
-  },
-  "bella-brengkes4-miaww": {
-    "versions": []
-  },
-  "bella-brongkos35-breki": {
-    "versions": []
-  },
-  "bella-brongkos57-pore": {
-    "versions": []
-  },
-  "bella-bubur24-breki": {
-    "versions": []
-  },
-  "bella-bubur5-breki": {
-    "versions": []
-  },
-  "bella-dodol28-ruro": {
-    "versions": []
-  },
-  "bella-dodol8-ruro": {
-    "versions": []
-  },
-  "bella-donat44-breki": {
-    "versions": []
-  },
-  "bella-empal1-tititugel": {
-    "versions": []
-  },
-  "bella-empal6-miaww": {
-    "versions": []
-  },
-  "bella-empal60-breki": {
-    "versions": []
-  },
-  "bella-empal71-miaww": {
-    "versions": []
-  },
-  "bella-gado-gado37-sluey": {
-    "versions": []
-  },
-  "bella-gaplek85-sluey": {
-    "versions": []
-  },
-  "bella-gaplek88-miaww": {
-    "versions": []
-  },
-  "bella-gepuk73-riris": {
-    "versions": []
-  },
-  "bella-getuk24-ruro": {
     "versions": []
   }
 }
