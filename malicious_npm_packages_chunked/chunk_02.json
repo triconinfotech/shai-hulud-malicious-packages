@@ -8816,6 +8816,11 @@
       "99.0.0"
     ]
   },
+  "octo-translations": {
+    "versions": [
+      "7.7.7"
+    ]
+  },
   "octopus-butterfly-vcy767-project": {
     "versions": []
   },
@@ -11550,9 +11555,6 @@
     "versions": []
   },
   "rifqi-lepet54-kyuki": {
-    "versions": []
-  },
-  "rifqi-lodeh22-breki": {
     "versions": []
   }
 }

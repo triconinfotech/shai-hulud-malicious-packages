@@ -6571,7 +6571,9 @@
     "versions": []
   },
   "@upside/flex-common-typescript-lib": {
-    "versions": []
+    "versions": [
+      "1.11.0"
+    ]
   },
   "@uselagoon/ui-library": {
     "versions": []
@@ -31749,6 +31751,11 @@
   "oclif-typescript": {
     "versions": [
       "99.0.0"
+    ]
+  },
+  "octo-translations": {
+    "versions": [
+      "7.7.7"
     ]
   },
   "octopus-butterfly-vcy767-project": {

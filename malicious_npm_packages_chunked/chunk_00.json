@@ -6571,7 +6571,9 @@
     "versions": []
   },
   "@upside/flex-common-typescript-lib": {
-    "versions": []
+    "versions": [
+      "1.11.0"
+    ]
   },
   "@uselagoon/ui-library": {
     "versions": []
@@ -11331,9 +11333,6 @@
     "versions": []
   },
   "bayu-telurtahu17-breki": {
-    "versions": []
-  },
-  "bayu-tempe14-miaww": {
     "versions": []
   }
 }
