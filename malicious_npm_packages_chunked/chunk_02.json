@@ -1,4 +1,7 @@
 {
+  "event-atlas-selenium-jest": {
+    "versions": []
+  },
   "event-centaurus-unuk-aquarius": {
     "versions": []
   },
@@ -11550,9 +11553,6 @@
     "versions": []
   },
   "rifqi-lodeh22-breki": {
-    "versions": []
-  },
-  "rifqi-lontong75-breki": {
     "versions": []
   }
 }

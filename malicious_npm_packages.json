@@ -5270,6 +5270,12 @@
       "0.1.3"
     ]
   },
+  "@snapon/design-system-react": {
+    "versions": [
+      "1.0.0",
+      "131.0.0"
+    ]
+  },
   "@snazaah/davey": {
     "versions": []
   },
