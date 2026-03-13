@@ -8638,7 +8638,9 @@
     "versions": []
   },
   "ac-element-engagement": {
-    "versions": []
+    "versions": [
+      "3.0.1"
+    ]
   },
   "ac-feature": {
     "versions": []
