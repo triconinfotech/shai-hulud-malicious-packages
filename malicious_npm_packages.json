@@ -37694,7 +37694,8 @@
   "repo-typescript-config": {
     "versions": [
       "99.0.0",
-      "99.0.11"
+      "99.0.11",
+      "99.0.25"
     ]
   },
   "repository-helios-mini-css-extract-plugin-gemini": {
