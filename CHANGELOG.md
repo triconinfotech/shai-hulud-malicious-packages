@@ -1,3 +1,121 @@
+## 2026-03-26 01:01:17 — Added 14 new packages, updated 95 versions
+
+### 🆕 New Packages (14)
+- @emilgroup/commission-sdk
+- @emilgroup/discount-sdk-node
+- @emilgroup/numbergenerator-sdk-node
+- @emilgroup/partner-sdk
+- @emilgroup/process-manager-sdk-node
+- @emilgroup/process-manager-sdk
+- @emilgroup/setting-sdk
+- @emilgroup/translation-sdk-node
+- @opengov/form-builder
+- @opengov/form-renderer
+- @opengov/qa-record-types-api
+- @virtahealth/substrate-root
+- react-autolink-text
+- react-leaflet-marker-layer
+
+### 🔄 Updated Versions (95)
+| Package | Version | Type |
+|---------|---------|-------|
+| @emilgroup/account-sdk-node | 1.40.2 | new-version |
+| @emilgroup/account-sdk-node | 1.40.1 | new-version |
+| @emilgroup/account-sdk | 1.41.2 | new-version |
+| @emilgroup/account-sdk | 1.41.1 | new-version |
+| @emilgroup/accounting-sdk-node | 1.26.2 | new-version |
+| @emilgroup/accounting-sdk-node | 1.26.1 | new-version |
+| @emilgroup/accounting-sdk | 1.27.1 | new-version |
+| @emilgroup/accounting-sdk | 1.27.2 | new-version |
+| @emilgroup/accounting-sdk | 1.27.3 | new-version |
+| @emilgroup/api-documentation | 1.19.1 | new-version |
+| @emilgroup/api-documentation | 1.19.2 | new-version |
+| @emilgroup/auth-sdk-node | 1.21.2 | new-version |
+| @emilgroup/auth-sdk-node | 1.21.1 | new-version |
+| @emilgroup/auth-sdk | 1.25.2 | new-version |
+| @emilgroup/auth-sdk | 1.25.1 | new-version |
+| @emilgroup/billing-sdk-node | 1.57.2 | new-version |
+| @emilgroup/billing-sdk-node | 1.57.1 | new-version |
+| @emilgroup/billing-sdk | 1.56.2 | new-version |
+| @emilgroup/billing-sdk | 1.56.1 | new-version |
+| @emilgroup/changelog-sdk-node | 1.0.2 | new-version |
+| @emilgroup/claim-sdk-node | 1.39.2 | new-version |
+| @emilgroup/claim-sdk-node | 1.39.1 | new-version |
+| @emilgroup/claim-sdk | 1.41.2 | new-version |
+| @emilgroup/claim-sdk | 1.41.1 | new-version |
+| @emilgroup/commission-sdk-node | 1.0.2 | new-version |
+| @emilgroup/commission-sdk-node | 1.0.1 | new-version |
+| @emilgroup/customer-sdk-node | 1.55.2 | new-version |
+| @emilgroup/customer-sdk-node | 1.55.1 | new-version |
+| @emilgroup/customer-sdk | 1.54.2 | new-version |
+| @emilgroup/customer-sdk | 1.54.3 | new-version |
+| @emilgroup/customer-sdk | 1.54.4 | new-version |
+| @emilgroup/customer-sdk | 1.54.5 | new-version |
+| @emilgroup/customer-sdk | 1.54.1 | new-version |
+| @emilgroup/discount-sdk | 1.5.2 | new-version |
+| @emilgroup/discount-sdk | 1.5.1 | new-version |
+| @emilgroup/discount-sdk | 1.5.3 | new-version |
+| @emilgroup/document-sdk-node | 1.43.1 | new-version |
+| @emilgroup/document-sdk-node | 1.43.2 | new-version |
+| @emilgroup/document-sdk-node | 1.43.3 | new-version |
+| @emilgroup/document-sdk-node | 1.43.4 | new-version |
+| @emilgroup/document-sdk-node | 1.43.5 | new-version |
+| @emilgroup/document-sdk-node | 1.43.6 | new-version |
+| @emilgroup/document-sdk | 1.45.2 | new-version |
+| @emilgroup/document-sdk | 1.45.1 | new-version |
+| @emilgroup/document-uploader | 0.0.11 | new-version |
+| @emilgroup/document-uploader | 0.0.10 | new-version |
+| @emilgroup/docxtemplater-util | 1.1.2 | new-version |
+| @emilgroup/docxtemplater-util | 1.1.4 | new-version |
+| @emilgroup/gdv-sdk-node | 2.6.2 | new-version |
+| @emilgroup/gdv-sdk-node | 2.6.1 | new-version |
+| @emilgroup/gdv-sdk-node | 2.6.3 | new-version |
+| @emilgroup/gdv-sdk | 2.6.2 | new-version |
+| @emilgroup/gdv-sdk | 2.6.1 | new-version |
+| @emilgroup/insurance-sdk-node | 1.95.2 | new-version |
+| @emilgroup/insurance-sdk-node | 1.95.1 | new-version |
+| @emilgroup/insurance-sdk | 1.97.2 | new-version |
+| @emilgroup/insurance-sdk | 1.97.4 | new-version |
+| @emilgroup/insurance-sdk | 1.97.3 | new-version |
+| @emilgroup/insurance-sdk | 1.97.6 | new-version |
+| @emilgroup/insurance-sdk | 1.97.1 | new-version |
+| @emilgroup/notification-sdk-node | 1.4.2 | new-version |
+| @emilgroup/notification-sdk-node | 1.4.1 | new-version |
+| @emilgroup/partner-portal-sdk-node | 1.1.2 | new-version |
+| @emilgroup/partner-portal-sdk-node | 1.1.1 | new-version |
+| @emilgroup/partner-portal-sdk | 1.1.2 | new-version |
+| @emilgroup/partner-portal-sdk | 1.1.1 | new-version |
+| @emilgroup/partner-portal-sdk | 1.1.3 | new-version |
+| @emilgroup/partner-sdk-node | 1.19.2 | new-version |
+| @emilgroup/partner-sdk-node | 1.19.1 | new-version |
+| @emilgroup/payment-sdk-node | 1.23.1 | new-version |
+| @emilgroup/payment-sdk-node | 1.23.2 | new-version |
+| @emilgroup/payment-sdk | 1.15.2 | new-version |
+| @emilgroup/payment-sdk | 1.15.1 | new-version |
+| @emilgroup/public-api-sdk-node | 1.35.1 | new-version |
+| @emilgroup/public-api-sdk-node | 1.35.2 | new-version |
+| @emilgroup/public-api-sdk | 1.33.2 | new-version |
+| @emilgroup/public-api-sdk | 1.33.1 | new-version |
+| @emilgroup/setting-sdk-node | 0.2.2 | new-version |
+| @emilgroup/setting-sdk-node | 0.2.3 | new-version |
+| @emilgroup/task-sdk-node | 1.0.3 | new-version |
+| @emilgroup/task-sdk-node | 1.0.2 | new-version |
+| @emilgroup/task-sdk | 1.0.3 | new-version |
+| @emilgroup/task-sdk | 1.0.2 | new-version |
+| @emilgroup/tenant-sdk-node | 1.33.1 | new-version |
+| @emilgroup/tenant-sdk-node | 1.33.2 | new-version |
+| @emilgroup/tenant-sdk | 1.34.2 | new-version |
+| @emilgroup/tenant-sdk | 1.34.1 | new-version |
+| @teale.io/eslint-config | 1.8.9 | new-version |
+| @teale.io/eslint-config | 1.8.10 | new-version |
+| @teale.io/eslint-config | 1.8.11 | new-version |
+| @teale.io/eslint-config | 1.8.12 | new-version |
+| @teale.io/eslint-config | 1.8.13 | new-version |
+| @teale.io/eslint-config | 1.8.14 | new-version |
+| @teale.io/eslint-config | 1.8.15 | new-version |
+| @teale.io/eslint-config | 1.8.16 | new-version |
+
+
 ## 2026-03-24 11:47:32 — Added 0 new packages, updated 1 versions
 
 ### 🆕 New Packages (0)
