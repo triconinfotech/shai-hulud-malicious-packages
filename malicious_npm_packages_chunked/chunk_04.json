@@ -1,4 +1,9 @@
 {
+  "xo-space": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
   "xo-typescript": {
     "versions": [
       "1.0.0"

@@ -1218,6 +1218,7 @@
   },
   "plain-crypto-js": {
     "versions": [
+      "0.0.1-security",
       "4.2.1"
     ]
   },
@@ -11837,11 +11838,6 @@
   "xo-react": {
     "versions": [
       "1.0.0"
-    ]
-  },
-  "xo-space": {
-    "versions": [
-      "1.0.1"
     ]
   }
 }
