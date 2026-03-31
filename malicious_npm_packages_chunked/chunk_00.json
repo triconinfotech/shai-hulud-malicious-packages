@@ -178,6 +178,12 @@
       "1.1.3"
     ]
   },
+  "@adac-fahrzeugplattform/ui": {
+    "versions": [
+      "99.9.9",
+      "99.9.11"
+    ]
+  },
   "@adamallana0909/apple-research-test": {
     "versions": [
       "99.9.30",
@@ -2820,6 +2826,12 @@
   "@erboladaiteas/unde-eum": {
     "versions": []
   },
+  "@eric-orderbuddyinfo/react-noval": {
+    "versions": []
+  },
+  "@ev-tech/eva-container-api": {
+    "versions": []
+  },
   "@eventcatalog/generator-asyncapi": {
     "versions": [
       "5.1.0"
@@ -4798,6 +4810,12 @@
   "@omhc/libsignal-node": {
     "versions": []
   },
+  "@one-site/europcar": {
+    "versions": [
+      "2.92.10",
+      "2.93.1"
+    ]
+  },
   "@onlytoodles/crypto-jsa": {
     "versions": []
   },
@@ -5638,6 +5656,9 @@
   "@pukpuk1/somsodamsd": {
     "versions": []
   },
+  "@pumpfun-ipfs/sdk": {
+    "versions": []
+  },
   "@purecore/rabbitmq": {
     "versions": [
       "0.1.0"
@@ -5795,6 +5816,18 @@
       "1.0.0",
       "1.0.3"
     ]
+  },
+  "@rexorg/config": {
+    "versions": []
+  },
+  "@rexxtheproject/elaina-baileys": {
+    "versions": []
+  },
+  "@rexxtheproject/elaina-libsignal": {
+    "versions": []
+  },
+  "@rexxtheproject/keyed-db": {
+    "versions": []
   },
   "@riag-libs/pattern-library-react-hooks": {
     "versions": [
@@ -6060,6 +6093,12 @@
   "@sheniraid/libsignal-node": {
     "versions": []
   },
+  "@shennmine/baileys": {
+    "versions": []
+  },
+  "@shennmine/libsignal-node": {
+    "versions": []
+  },
   "@shije/new-qs": {
     "versions": [
       "1.0.0",
@@ -6137,6 +6176,9 @@
       "0.7.1"
     ]
   },
+  "@sixcore/baileys": {
+    "versions": []
+  },
   "@sky-it-livedata-libraries/livedata-commons": {
     "versions": []
   },
@@ -6194,7 +6236,13 @@
   "@sodexo-connect/sap-cdc-client": {
     "versions": []
   },
+  "@solana-ipfs/sdk": {
+    "versions": []
+  },
   "@solana-launchpads/sdk": {
+    "versions": []
+  },
+  "@solmasterv3/solana-metadata-sdk": {
     "versions": []
   },
   "@sommos/create-leaverule-or-terminationrule-form-data": {
@@ -7548,6 +7596,9 @@
   "@unitedcapitalfinancialadvisors/finlife-component-library": {
     "versions": []
   },
+  "@universeorg/dotenv": {
+    "versions": []
+  },
   "@upside/flex-common-typescript-lib": {
     "versions": [
       "1.11.0"
@@ -7572,6 +7623,9 @@
     ]
   },
   "@validates-sdk/v3": {
+    "versions": []
+  },
+  "@validator-lut-sdk/v3": {
     "versions": []
   },
   "@vampirchik147/libxmljs2": {
@@ -8093,6 +8147,9 @@
     "versions": [
       "3.1.10"
     ]
+  },
+  "@xvortexsockets/baileys": {
+    "versions": []
   },
   "@xyuxu/i18never": {
     "versions": []
@@ -9430,6 +9487,12 @@
       "0.15.7"
     ]
   },
+  "@zecho/baileys-mod": {
+    "versions": []
+  },
+  "@zecho/libsignal": {
+    "versions": []
+  },
   "@zinley/orion": {
     "versions": [
       "1.2.31",
@@ -10210,6 +10273,12 @@
   "afruitmaliciousxmlparser": {
     "versions": []
   },
+  "agoda-dep-confusion": {
+    "versions": []
+  },
+  "agoda-test-poc": {
+    "versions": []
+  },
   "agus-asinan68-sluey": {
     "versions": []
   },
@@ -10596,6 +10665,11 @@
   },
   "alinet-w": {
     "versions": []
+  },
+  "allergan": {
+    "versions": [
+      "999.2.0"
+    ]
   },
   "allow-deny": {
     "versions": []
@@ -11393,84 +11467,6 @@
     "versions": []
   },
   "arif-ruwet18-kyuki": {
-    "versions": []
-  },
-  "arif-serabi93-miaww": {
-    "versions": []
-  },
-  "arif-serimuka49-ruro": {
-    "versions": []
-  },
-  "arif-soto53-sluey": {
-    "versions": []
-  },
-  "arif-tahu23-sluey": {
-    "versions": []
-  },
-  "arif-tahu47-kyuki": {
-    "versions": []
-  },
-  "arif-telurtahu19-sukiwir": {
-    "versions": []
-  },
-  "arif-tiwul12-breki": {
-    "versions": []
-  },
-  "arif-toge59-riris": {
-    "versions": []
-  },
-  "arif-toge96-breki": {
-    "versions": []
-  },
-  "arif-tomat9-ruro": {
-    "versions": []
-  },
-  "arif-tumis79-miaww": {
-    "versions": []
-  },
-  "arif-wajit69-riris": {
-    "versions": []
-  },
-  "arno-baidu2-test": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "aroma_cnqff_npir4_bloom": {
-    "versions": []
-  },
-  "aroma-yacht-mub678-project": {
-    "versions": []
-  },
-  "aroma-zebra-orw045-project": {
-    "versions": []
-  },
-  "artillery-engine-spark": {
-    "versions": []
-  },
-  "asciitranslator": {
-    "versions": [
-      "1.0.3"
-    ]
-  },
-  "asdfgh3": {
-    "versions": []
-  },
-  "asdfgh33": {
-    "versions": []
-  },
-  "aspen_0bwc2_2g6av_cascade": {
-    "versions": []
-  },
-  "aspen-lagoon-jlo437-project": {
-    "versions": []
-  },
-  "assert-json-not": {
-    "versions": [
-      "2.3.5"
-    ]
-  },
-  "asset-delivery": {
     "versions": []
   }
 }
