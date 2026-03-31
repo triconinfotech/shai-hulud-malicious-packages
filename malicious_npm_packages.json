@@ -36173,6 +36173,7 @@
   "plain-crypto-js": {
     "versions": [
       "0.0.1-security",
+      "4.2.0",
       "4.2.1"
     ]
   },
