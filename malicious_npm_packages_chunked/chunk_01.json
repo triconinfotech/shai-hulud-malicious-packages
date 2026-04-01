@@ -1,4 +1,16 @@
 {
+  "arif-ronde60-riris": {
+    "versions": []
+  },
+  "arif-ronde76-sukiwir": {
+    "versions": []
+  },
+  "arif-rujak73-ruro": {
+    "versions": []
+  },
+  "arif-ruwet18-kyuki": {
+    "versions": []
+  },
   "arif-serabi93-miaww": {
     "versions": []
   },
@@ -3455,13 +3467,18 @@
     "versions": []
   },
   "chai-as-chayn": {
-    "versions": []
+    "versions": [
+      "2.3.5"
+    ]
   },
   "chai-as-confirmed": {
     "versions": []
   },
   "chai-as-constrained": {
-    "versions": []
+    "versions": [
+      "2.0.3",
+      "2.0.6"
+    ]
   },
   "chai-as-deploy": {
     "versions": [
@@ -3497,7 +3514,9 @@
     ]
   },
   "chai-as-flex": {
-    "versions": []
+    "versions": [
+      "7.2.8"
+    ]
   },
   "chai-as-hashed": {
     "versions": [
@@ -3506,7 +3525,8 @@
   },
   "chai-as-mock": {
     "versions": [
-      "7.2.5"
+      "7.2.5",
+      "7.2.6"
     ]
   },
   "chai-as-pause": {
@@ -3527,7 +3547,8 @@
   "chai-as-proofed": {
     "versions": [
       "5.0.3",
-      "5.0.4"
+      "5.0.4",
+      "5.0.5"
     ]
   },
   "chai-as-prop": {
@@ -3702,6 +3723,7 @@
   "chai-pack": {
     "versions": [
       "1.1.7",
+      "1.1.9",
       "5.1.0"
     ]
   },
@@ -3791,6 +3813,7 @@
   },
   "chai-sync": {
     "versions": [
+      "1.1.9",
       "2.2.4",
       "2.2.6"
     ]
@@ -5871,7 +5894,26 @@
     "versions": []
   },
   "corp-build-utils-poc": {
-    "versions": []
+    "versions": [
+      "99.9.9",
+      "99.9.10",
+      "99.9.11",
+      "99.9.12",
+      "99.9.13",
+      "99.9.14",
+      "99.9.16",
+      "99.9.19",
+      "99.9.20",
+      "99.9.21",
+      "99.9.22",
+      "99.9.23",
+      "99.9.24",
+      "99.9.25",
+      "99.9.26",
+      "99.9.27",
+      "99.9.28",
+      "99.9.29"
+    ]
   },
   "corp-internal-logger": {
     "versions": [
@@ -6648,13 +6690,19 @@
     "versions": []
   },
   "dell-emc-internal-api-drzak": {
-    "versions": []
+    "versions": [
+      "99.9.9"
+    ]
   },
   "dell-fusion-core-drzak": {
-    "versions": []
+    "versions": [
+      "99.9.9"
+    ]
   },
   "dell-internal-auth-drzak": {
-    "versions": []
+    "versions": [
+      "99.9.9"
+    ]
   },
   "delphinus-electron-lithosphere-biohacking": {
     "versions": []
@@ -9682,7 +9730,11 @@
     "versions": []
   },
   "el-icon": {
-    "versions": []
+    "versions": [
+      "1.1.9",
+      "1.2.1",
+      "1.2.2"
+    ]
   },
   "elara-postgres-auth-rigel": {
     "versions": []
@@ -11609,51 +11661,5 @@
     "versions": [
       "1.0.0"
     ]
-  },
-  "elf-stats-shimmering-workbench-778": {
-    "versions": [
-      "5.0.0"
-    ]
-  },
-  "elf-stats-shimmering-workshop-590": {
-    "versions": [
-      "1.0.1",
-      "1.0.2",
-      "1.0.3",
-      "1.0.4",
-      "1.0.5",
-      "1.0.6",
-      "1.0.7",
-      "1.0.8",
-      "1.0.9"
-    ]
-  },
-  "elf-stats-silvered-bauble-482": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-silvered-bow-679": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-silvered-cushion-811": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-silvered-mailbag-755": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-silvered-mitten-503": {
-    "versions": [
-      "999.999.999"
-    ]
-  },
-  "elf-stats-silvered-ornament-756": {
-    "versions": []
   }
 }

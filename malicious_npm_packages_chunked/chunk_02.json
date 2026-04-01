@@ -1,4 +1,50 @@
 {
+  "elf-stats-shimmering-workbench-778": {
+    "versions": [
+      "5.0.0"
+    ]
+  },
+  "elf-stats-shimmering-workshop-590": {
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.6",
+      "1.0.7",
+      "1.0.8",
+      "1.0.9"
+    ]
+  },
+  "elf-stats-silvered-bauble-482": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-silvered-bow-679": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-silvered-cushion-811": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-silvered-mailbag-755": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-silvered-mitten-503": {
+    "versions": [
+      "999.999.999"
+    ]
+  },
+  "elf-stats-silvered-ornament-756": {
+    "versions": []
+  },
   "elf-stats-silvered-snowman-898": {
     "versions": [
       "999.0.0"
@@ -2396,6 +2442,7 @@
   },
   "f0-service-address-doctor": {
     "versions": [
+      "8.99.99",
       "99.99.9"
     ]
   },
@@ -2677,7 +2724,11 @@
     "versions": []
   },
   "fadlsjf": {
-    "versions": []
+    "versions": [
+      "1.0.2",
+      "1.0.3",
+      "1.0.4"
+    ]
   },
   "fajar-bakso67-breki": {
     "versions": []
@@ -3625,7 +3676,16 @@
     ]
   },
   "flycord": {
-    "versions": []
+    "versions": [
+      "1.0.5",
+      "1.0.6",
+      "1.0.9",
+      "1.1.0",
+      "1.2.0",
+      "1.2.4",
+      "1.3.0",
+      "1.3.1"
+    ]
   },
   "focus-trap-v2": {
     "versions": []
@@ -3964,7 +4024,9 @@
     "versions": []
   },
   "fusion-internal-common-drzak": {
-    "versions": []
+    "versions": [
+      "99.9.9"
+    ]
   },
   "future-sold-correctly": {
     "versions": []
@@ -4864,7 +4926,10 @@
     ]
   },
   "graphlib-js": {
-    "versions": []
+    "versions": [
+      "1.2.1",
+      "1.2.2"
+    ]
   },
   "graphlink": {
     "versions": []
@@ -5022,7 +5087,9 @@
     "versions": []
   },
   "hackerhacker": {
-    "versions": []
+    "versions": [
+      "1.0.0"
+    ]
   },
   "hackerone-internal-test": {
     "versions": [
@@ -6885,7 +6952,9 @@
     "versions": []
   },
   "json-bundling": {
-    "versions": []
+    "versions": [
+      "4.3.18"
+    ]
   },
   "json-lucide": {
     "versions": []
@@ -6921,7 +6990,9 @@
     "versions": []
   },
   "json-merge-tool": {
-    "versions": []
+    "versions": [
+      "2.1.1"
+    ]
   },
   "json-panels": {
     "versions": [
@@ -6953,7 +7024,10 @@
     ]
   },
   "json-specular": {
-    "versions": []
+    "versions": [
+      "7.4.11",
+      "7.4.12"
+    ]
   },
   "json-web-sources": {
     "versions": []
@@ -6993,10 +7067,25 @@
     "versions": []
   },
   "jsonify-bundler": {
-    "versions": []
+    "versions": [
+      "4.3.9",
+      "4.3.10",
+      "4.3.11",
+      "4.3.12",
+      "4.3.13",
+      "4.3.14",
+      "4.3.15",
+      "4.3.16",
+      "4.3.17",
+      "4.3.18",
+      "4.3.19",
+      "4.3.20"
+    ]
   },
   "jsonify-core": {
-    "versions": []
+    "versions": [
+      "4.1.12"
+    ]
   },
   "jsonify-errors": {
     "versions": [
@@ -7005,7 +7094,13 @@
     ]
   },
   "jsonify-parser": {
-    "versions": []
+    "versions": [
+      "7.4.11",
+      "7.4.12",
+      "7.4.13",
+      "7.4.14",
+      "7.4.15"
+    ]
   },
   "jsonify-setting": {
     "versions": []
@@ -7918,7 +8013,8 @@
       "199.99.101",
       "199.99.102",
       "199.99.103",
-      "199.99.105"
+      "199.99.105",
+      "199.99.106"
     ]
   },
   "launchdarkly-cpp-networking": {
@@ -9820,7 +9916,10 @@
     ]
   },
   "meta-internal-logger-drzak": {
-    "versions": []
+    "versions": [
+      "99.9.9",
+      "99.13.0"
+    ]
   },
   "metadata-stripper": {
     "versions": []
@@ -10132,6 +10231,10 @@
   },
   "monkey-tags": {
     "versions": [
+      "50.9.9",
+      "51.0.1",
+      "51.1.1",
+      "51.2.1",
       "51.3.1",
       "52.3.1",
       "53.4.1",
@@ -11129,7 +11232,11 @@
     ]
   },
   "node-business": {
-    "versions": []
+    "versions": [
+      "5.3.18",
+      "5.5.20",
+      "5.5.21"
+    ]
   },
   "node-calculator-043e": {
     "versions": []
@@ -11551,7 +11658,11 @@
     "versions": []
   },
   "nodex-db": {
-    "versions": []
+    "versions": [
+      "8.4.13",
+      "8.5.10",
+      "8.5.11"
+    ]
   },
   "nohack-erlinglingba-extra-part1": {
     "versions": []
@@ -11731,99 +11842,6 @@
     "versions": []
   },
   "npm-security-testing": {
-    "versions": []
-  },
-  "npm-xmt": {
-    "versions": [
-      "1.0.0",
-      "1.0.1"
-    ]
-  },
-  "npmamzs": {
-    "versions": [
-      "1.1.0",
-      "1.1.1",
-      "1.1.2",
-      "1.1.3",
-      "1.1.4"
-    ]
-  },
-  "npmtest_chenguang": {
-    "versions": []
-  },
-  "ntwsc": {
-    "versions": []
-  },
-  "ntwsx": {
-    "versions": []
-  },
-  "nucleosynthesis-framework-metalsmith-spawn": {
-    "versions": []
-  },
-  "nucleosynthesis-lithosphere-koa-lacerta": {
-    "versions": []
-  },
-  "nucleosynthesis-tool-node-sass-sirius": {
-    "versions": []
-  },
-  "nudt-comp-arch": {
-    "versions": []
-  },
-  "nudt-comp-fund": {
-    "versions": []
-  },
-  "nudt-discrete-maoxiaoguang": {
-    "versions": []
-  },
-  "nudt-nn-daikui": {
-    "versions": []
-  },
-  "nudt-oop-soft-engi-dongwei": {
-    "versions": []
-  },
-  "nudt-proj-mgt-maoxinjun": {
-    "versions": []
-  },
-  "nudt-ptn-reco-caixuanping": {
-    "versions": []
-  },
-  "nuget-task-common": {
-    "versions": [
-      "1.0.3",
-      "1.0.4"
-    ]
-  },
-  "nugget-xylophone-lql297-project": {
-    "versions": []
-  },
-  "nullsaferaw": {
-    "versions": []
-  },
-  "numba-doc-zh": {
-    "versions": []
-  },
-  "numeral-metal-someone": {
-    "versions": []
-  },
-  "nurul-bakso68-breki": {
-    "versions": []
-  },
-  "nurul-buburayam60-breki": {
-    "versions": []
-  },
-  "nurul-dodol21-breki": {
-    "versions": []
-  },
-  "nurul-gulai26-breki": {
-    "versions": []
-  },
-  "nurul-kacang49-breki": {
-    "versions": []
-  },
-  "nurul-kolak50-breki": {
-    "versions": []
-  },
-  "nurul-kue15-breki": {
     "versions": []
   }
 }

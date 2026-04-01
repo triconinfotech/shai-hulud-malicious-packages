@@ -3483,7 +3483,10 @@
     ]
   },
   "@imhuman/corp-build-utils-poc": {
-    "versions": []
+    "versions": [
+      "99.9.33",
+      "99.9.34"
+    ]
   },
   "@imhuman/fw-logger": {
     "versions": []
@@ -4219,7 +4222,11 @@
     ]
   },
   "@metaplex-foundations/umi-public-keys": {
-    "versions": []
+    "versions": [
+      "1.5.2",
+      "1.5.3",
+      "1.5.4"
+    ]
   },
   "@micado-digital/stadtmarketing-kufstein-external": {
     "versions": [
@@ -7623,7 +7630,10 @@
     ]
   },
   "@validates-sdk/v3": {
-    "versions": []
+    "versions": [
+      "1.22.16",
+      "1.22.17"
+    ]
   },
   "@validator-lut-sdk/v3": {
     "versions": []
@@ -9690,7 +9700,9 @@
     "versions": []
   },
   "aaaaaxxxxx": {
-    "versions": []
+    "versions": [
+      "1.0.0"
+    ]
   },
   "abcxyzz": {
     "versions": [
@@ -10259,7 +10271,10 @@
     ]
   },
   "aesdecryptor": {
-    "versions": []
+    "versions": [
+      "1.0.0",
+      "1.1.0"
+    ]
   },
   "aether-hyperion-proteomics-ophiuchus": {
     "versions": []
@@ -11455,18 +11470,6 @@
     "versions": []
   },
   "arif-rangi68-miaww": {
-    "versions": []
-  },
-  "arif-ronde60-riris": {
-    "versions": []
-  },
-  "arif-ronde76-sukiwir": {
-    "versions": []
-  },
-  "arif-rujak73-ruro": {
-    "versions": []
-  },
-  "arif-ruwet18-kyuki": {
     "versions": []
   }
 }

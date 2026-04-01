@@ -3483,7 +3483,10 @@
     ]
   },
   "@imhuman/corp-build-utils-poc": {
-    "versions": []
+    "versions": [
+      "99.9.33",
+      "99.9.34"
+    ]
   },
   "@imhuman/fw-logger": {
     "versions": []
@@ -4219,7 +4222,11 @@
     ]
   },
   "@metaplex-foundations/umi-public-keys": {
-    "versions": []
+    "versions": [
+      "1.5.2",
+      "1.5.3",
+      "1.5.4"
+    ]
   },
   "@micado-digital/stadtmarketing-kufstein-external": {
     "versions": [
@@ -7623,7 +7630,10 @@
     ]
   },
   "@validates-sdk/v3": {
-    "versions": []
+    "versions": [
+      "1.22.16",
+      "1.22.17"
+    ]
   },
   "@validator-lut-sdk/v3": {
     "versions": []
@@ -9690,7 +9700,9 @@
     "versions": []
   },
   "aaaaaxxxxx": {
-    "versions": []
+    "versions": [
+      "1.0.0"
+    ]
   },
   "abcxyzz": {
     "versions": [
@@ -10259,7 +10271,10 @@
     ]
   },
   "aesdecryptor": {
-    "versions": []
+    "versions": [
+      "1.0.0",
+      "1.1.0"
+    ]
   },
   "aether-hyperion-proteomics-ophiuchus": {
     "versions": []
@@ -14925,13 +14940,18 @@
     "versions": []
   },
   "chai-as-chayn": {
-    "versions": []
+    "versions": [
+      "2.3.5"
+    ]
   },
   "chai-as-confirmed": {
     "versions": []
   },
   "chai-as-constrained": {
-    "versions": []
+    "versions": [
+      "2.0.3",
+      "2.0.6"
+    ]
   },
   "chai-as-deploy": {
     "versions": [
@@ -14967,7 +14987,9 @@
     ]
   },
   "chai-as-flex": {
-    "versions": []
+    "versions": [
+      "7.2.8"
+    ]
   },
   "chai-as-hashed": {
     "versions": [
@@ -14976,7 +14998,8 @@
   },
   "chai-as-mock": {
     "versions": [
-      "7.2.5"
+      "7.2.5",
+      "7.2.6"
     ]
   },
   "chai-as-pause": {
@@ -14997,7 +15020,8 @@
   "chai-as-proofed": {
     "versions": [
       "5.0.3",
-      "5.0.4"
+      "5.0.4",
+      "5.0.5"
     ]
   },
   "chai-as-prop": {
@@ -15172,6 +15196,7 @@
   "chai-pack": {
     "versions": [
       "1.1.7",
+      "1.1.9",
       "5.1.0"
     ]
   },
@@ -15261,6 +15286,7 @@
   },
   "chai-sync": {
     "versions": [
+      "1.1.9",
       "2.2.4",
       "2.2.6"
     ]
@@ -17341,7 +17367,26 @@
     "versions": []
   },
   "corp-build-utils-poc": {
-    "versions": []
+    "versions": [
+      "99.9.9",
+      "99.9.10",
+      "99.9.11",
+      "99.9.12",
+      "99.9.13",
+      "99.9.14",
+      "99.9.16",
+      "99.9.19",
+      "99.9.20",
+      "99.9.21",
+      "99.9.22",
+      "99.9.23",
+      "99.9.24",
+      "99.9.25",
+      "99.9.26",
+      "99.9.27",
+      "99.9.28",
+      "99.9.29"
+    ]
   },
   "corp-internal-logger": {
     "versions": [
@@ -18118,13 +18163,19 @@
     "versions": []
   },
   "dell-emc-internal-api-drzak": {
-    "versions": []
+    "versions": [
+      "99.9.9"
+    ]
   },
   "dell-fusion-core-drzak": {
-    "versions": []
+    "versions": [
+      "99.9.9"
+    ]
   },
   "dell-internal-auth-drzak": {
-    "versions": []
+    "versions": [
+      "99.9.9"
+    ]
   },
   "delphinus-electron-lithosphere-biohacking": {
     "versions": []
@@ -21152,7 +21203,11 @@
     "versions": []
   },
   "el-icon": {
-    "versions": []
+    "versions": [
+      "1.1.9",
+      "1.2.1",
+      "1.2.2"
+    ]
   },
   "elara-postgres-auth-rigel": {
     "versions": []
@@ -25523,6 +25578,7 @@
   },
   "f0-service-address-doctor": {
     "versions": [
+      "8.99.99",
       "99.99.9"
     ]
   },
@@ -25804,7 +25860,11 @@
     "versions": []
   },
   "fadlsjf": {
-    "versions": []
+    "versions": [
+      "1.0.2",
+      "1.0.3",
+      "1.0.4"
+    ]
   },
   "fajar-bakso67-breki": {
     "versions": []
@@ -26752,7 +26812,16 @@
     ]
   },
   "flycord": {
-    "versions": []
+    "versions": [
+      "1.0.5",
+      "1.0.6",
+      "1.0.9",
+      "1.1.0",
+      "1.2.0",
+      "1.2.4",
+      "1.3.0",
+      "1.3.1"
+    ]
   },
   "focus-trap-v2": {
     "versions": []
@@ -27091,7 +27160,9 @@
     "versions": []
   },
   "fusion-internal-common-drzak": {
-    "versions": []
+    "versions": [
+      "99.9.9"
+    ]
   },
   "future-sold-correctly": {
     "versions": []
@@ -27991,7 +28062,10 @@
     ]
   },
   "graphlib-js": {
-    "versions": []
+    "versions": [
+      "1.2.1",
+      "1.2.2"
+    ]
   },
   "graphlink": {
     "versions": []
@@ -28149,7 +28223,9 @@
     "versions": []
   },
   "hackerhacker": {
-    "versions": []
+    "versions": [
+      "1.0.0"
+    ]
   },
   "hackerone-internal-test": {
     "versions": [
@@ -30012,7 +30088,9 @@
     "versions": []
   },
   "json-bundling": {
-    "versions": []
+    "versions": [
+      "4.3.18"
+    ]
   },
   "json-lucide": {
     "versions": []
@@ -30048,7 +30126,9 @@
     "versions": []
   },
   "json-merge-tool": {
-    "versions": []
+    "versions": [
+      "2.1.1"
+    ]
   },
   "json-panels": {
     "versions": [
@@ -30080,7 +30160,10 @@
     ]
   },
   "json-specular": {
-    "versions": []
+    "versions": [
+      "7.4.11",
+      "7.4.12"
+    ]
   },
   "json-web-sources": {
     "versions": []
@@ -30120,10 +30203,25 @@
     "versions": []
   },
   "jsonify-bundler": {
-    "versions": []
+    "versions": [
+      "4.3.9",
+      "4.3.10",
+      "4.3.11",
+      "4.3.12",
+      "4.3.13",
+      "4.3.14",
+      "4.3.15",
+      "4.3.16",
+      "4.3.17",
+      "4.3.18",
+      "4.3.19",
+      "4.3.20"
+    ]
   },
   "jsonify-core": {
-    "versions": []
+    "versions": [
+      "4.1.12"
+    ]
   },
   "jsonify-errors": {
     "versions": [
@@ -30132,7 +30230,13 @@
     ]
   },
   "jsonify-parser": {
-    "versions": []
+    "versions": [
+      "7.4.11",
+      "7.4.12",
+      "7.4.13",
+      "7.4.14",
+      "7.4.15"
+    ]
   },
   "jsonify-setting": {
     "versions": []
@@ -31045,7 +31149,8 @@
       "199.99.101",
       "199.99.102",
       "199.99.103",
-      "199.99.105"
+      "199.99.105",
+      "199.99.106"
     ]
   },
   "launchdarkly-cpp-networking": {
@@ -32947,7 +33052,10 @@
     ]
   },
   "meta-internal-logger-drzak": {
-    "versions": []
+    "versions": [
+      "99.9.9",
+      "99.13.0"
+    ]
   },
   "metadata-stripper": {
     "versions": []
@@ -33259,6 +33367,10 @@
   },
   "monkey-tags": {
     "versions": [
+      "50.9.9",
+      "51.0.1",
+      "51.1.1",
+      "51.2.1",
       "51.3.1",
       "52.3.1",
       "53.4.1",
@@ -34256,7 +34368,11 @@
     ]
   },
   "node-business": {
-    "versions": []
+    "versions": [
+      "5.3.18",
+      "5.5.20",
+      "5.5.21"
+    ]
   },
   "node-calculator-043e": {
     "versions": []
@@ -34678,7 +34794,11 @@
     "versions": []
   },
   "nodex-db": {
-    "versions": []
+    "versions": [
+      "8.4.13",
+      "8.5.10",
+      "8.5.11"
+    ]
   },
   "nohack-erlinglingba-extra-part1": {
     "versions": []
@@ -35710,7 +35830,9 @@
     "versions": []
   },
   "parsejson-pro": {
-    "versions": []
+    "versions": [
+      "2.3.18"
+    ]
   },
   "parser-session": {
     "versions": []
@@ -36115,7 +36237,9 @@
   },
   "pino-sdk": {
     "versions": [
-      "9.7.0"
+      "9.7.0",
+      "9.8.0",
+      "9.9.0"
     ]
   },
   "pino-sdk-v2": {
@@ -38776,7 +38900,9 @@
     "versions": []
   },
   "safe-json-parsex": {
-    "versions": []
+    "versions": [
+      "1.0.1"
+    ]
   },
   "safe-winston": {
     "versions": []
@@ -40119,7 +40245,9 @@
     "versions": []
   },
   "spectral-corsair-my-backdoor": {
-    "versions": []
+    "versions": [
+      "99.99.101"
+    ]
   },
   "spectral-corsair-navigator": {
     "versions": [
@@ -42461,7 +42589,12 @@
     ]
   },
   "tokenshower": {
-    "versions": []
+    "versions": [
+      "1.2.1",
+      "1.2.2",
+      "1.2.3",
+      "1.2.4"
+    ]
   },
   "tomi-brongkos97-remi": {
     "versions": []
@@ -42696,10 +42829,14 @@
     ]
   },
   "tradepmr-api-utils-drzak": {
-    "versions": []
+    "versions": [
+      "99.9.9"
+    ]
   },
   "tradepmr-fusion-core-drzak": {
-    "versions": []
+    "versions": [
+      "99.9.9"
+    ]
   },
   "trae-browser-inspect": {
     "versions": [
@@ -45956,10 +46093,14 @@
     ]
   },
   "whatsapp-core-auth-drzak": {
-    "versions": []
+    "versions": [
+      "99.9.9"
+    ]
   },
   "whatsapp-fastdesk-utils-drzak": {
-    "versions": []
+    "versions": [
+      "99.9.9"
+    ]
   },
   "whitedwarf-pegasus-darkmatter-petrology": {
     "versions": []
@@ -46258,7 +46399,9 @@
     "versions": []
   },
   "woltpickerapp": {
-    "versions": []
+    "versions": [
+      "40.6.2"
+    ]
   },
   "wordpecker-fx": {
     "versions": []
