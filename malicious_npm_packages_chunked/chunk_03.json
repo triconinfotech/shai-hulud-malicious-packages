@@ -1,4 +1,7 @@
 {
+  "npm-security-testing": {
+    "versions": []
+  },
   "npm-xmt": {
     "versions": [
       "1.0.0",
@@ -11850,9 +11853,6 @@
     "versions": []
   },
   "xingzuo-jueding-woaini": {
-    "versions": []
-  },
-  "xingzuowuyu-tuxiang": {
     "versions": []
   }
 }

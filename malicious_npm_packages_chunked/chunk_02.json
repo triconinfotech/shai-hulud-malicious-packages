@@ -8004,7 +8004,8 @@
   },
   "laserlogsink": {
     "versions": [
-      "2.1.0"
+      "2.1.0",
+      "9000.0.1"
     ]
   },
   "launch-darkly-js": {
@@ -11839,9 +11840,6 @@
     ]
   },
   "npm-doc-builder": {
-    "versions": []
-  },
-  "npm-security-testing": {
     "versions": []
   }
 }
