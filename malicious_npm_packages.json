@@ -41106,7 +41106,10 @@
     "versions": []
   },
   "strapi-plugin-api": {
-    "versions": []
+    "versions": [
+      "3.6.8",
+      "3.6.9"
+    ]
   },
   "strapi-plugin-blurhash": {
     "versions": []
@@ -41115,25 +41118,35 @@
     "versions": []
   },
   "strapi-plugin-config": {
-    "versions": []
+    "versions": [
+      "3.6.8"
+    ]
   },
   "strapi-plugin-content-sync": {
     "versions": []
   },
   "strapi-plugin-core": {
-    "versions": []
+    "versions": [
+      "3.6.8"
+    ]
   },
   "strapi-plugin-cron": {
-    "versions": []
+    "versions": [
+      "3.6.8"
+    ]
   },
   "strapi-plugin-database": {
-    "versions": []
+    "versions": [
+      "3.6.8"
+    ]
   },
   "strapi-plugin-debug-tools": {
     "versions": []
   },
   "strapi-plugin-events": {
-    "versions": []
+    "versions": [
+      "3.6.8"
+    ]
   },
   "strapi-plugin-finseven": {
     "versions": []
@@ -41145,7 +41158,9 @@
     "versions": []
   },
   "strapi-plugin-health": {
-    "versions": []
+    "versions": [
+      "3.6.8"
+    ]
   },
   "strapi-plugin-health-check": {
     "versions": []
@@ -41154,13 +41169,17 @@
     "versions": []
   },
   "strapi-plugin-hooks": {
-    "versions": []
+    "versions": [
+      "3.6.8"
+    ]
   },
   "strapi-plugin-locale": {
     "versions": []
   },
   "strapi-plugin-logger": {
-    "versions": []
+    "versions": [
+      "3.6.8"
+    ]
   },
   "strapi-plugin-monitor": {
     "versions": []
@@ -41208,7 +41227,9 @@
     "versions": []
   },
   "strapi-plugin-sync": {
-    "versions": []
+    "versions": [
+      "3.6.8"
+    ]
   },
   "strapi-plugin-workspace-plugin": {
     "versions": []
