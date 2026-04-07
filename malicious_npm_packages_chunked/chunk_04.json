@@ -1,4 +1,635 @@
 {
+  "wibowo-nasipecel47-breki": {
+    "versions": []
+  },
+  "wibowo-pecel22-riris": {
+    "versions": []
+  },
+  "wibowo-peyek53-sukiwir": {
+    "versions": []
+  },
+  "wibowo-peyek55-miaww": {
+    "versions": []
+  },
+  "wibowo-pisang99-breki": {
+    "versions": []
+  },
+  "wibowo-rangginang76-sumpek": {
+    "versions": []
+  },
+  "wibowo-ronde25-breki": {
+    "versions": []
+  },
+  "wibowo-ronde7-ruro": {
+    "versions": []
+  },
+  "wibowo-rujaksoto62-breki": {
+    "versions": []
+  },
+  "wibowo-saguer59-sluey": {
+    "versions": []
+  },
+  "wibowo-sate49-miaww": {
+    "versions": []
+  },
+  "wibowo-serabi62-breki": {
+    "versions": []
+  },
+  "wibowo-serabi75-breki": {
+    "versions": []
+  },
+  "wibowo-serimuka55-breki": {
+    "versions": []
+  },
+  "wibowo-soto29-sluey": {
+    "versions": []
+  },
+  "wibowo-soto49-sluey": {
+    "versions": []
+  },
+  "wibowo-soto91-kyuki": {
+    "versions": []
+  },
+  "wibowo-sroto74-breki": {
+    "versions": []
+  },
+  "wibowo-tahu31-breki": {
+    "versions": []
+  },
+  "wibowo-tahutek73-sluey": {
+    "versions": []
+  },
+  "wibowo-tek50-riris": {
+    "versions": []
+  },
+  "wibowo-telur19-sukiwir": {
+    "versions": []
+  },
+  "wibowo-toge55-kyuki": {
+    "versions": []
+  },
+  "wibowo-toge85-kyuki": {
+    "versions": []
+  },
+  "wibowo-wajit87-sukiwir": {
+    "versions": []
+  },
+  "wifi-killer-xnet": {
+    "versions": []
+  },
+  "wifzap": {
+    "versions": []
+  },
+  "wikibuy-mobile": {
+    "versions": []
+  },
+  "wikibuy-mobile-analytics": {
+    "versions": []
+  },
+  "wildhunter": {
+    "versions": []
+  },
+  "winbox2025": {
+    "versions": []
+  },
+  "winbox882025": {
+    "versions": []
+  },
+  "winbox88casino": {
+    "versions": []
+  },
+  "winbox88my3": {
+    "versions": []
+  },
+  "winbox88my3_2025": {
+    "versions": []
+  },
+  "winbox88trust1": {
+    "versions": []
+  },
+  "winboxcasino2025": {
+    "versions": []
+  },
+  "winboxmy": {
+    "versions": []
+  },
+  "winboxmy2025": {
+    "versions": []
+  },
+  "wind-decode-serialize-balance-xml": {
+    "versions": []
+  },
+  "windows_registry_editor": {
+    "versions": []
+  },
+  "windows-sdks": {
+    "versions": [
+      "10.0.1"
+    ]
+  },
+  "windowston": {
+    "versions": [
+      "3.19.2"
+    ]
+  },
+  "winston-datalog": {
+    "versions": []
+  },
+  "winston-elara-semantic-release-tethys": {
+    "versions": []
+  },
+  "winston-global-proxima-metalsmith": {
+    "versions": []
+  },
+  "winston-log": {
+    "versions": []
+  },
+  "winston-loopback-nodejs-bulma": {
+    "versions": []
+  },
+  "winston-sequelize-augmentedreality-eris": {
+    "versions": []
+  },
+  "winston-yakutsk-aldebaran-hydra": {
+    "versions": []
+  },
+  "wishlist_dropdown": {
+    "versions": [
+      "97.1.0"
+    ]
+  },
+  "wiz-dev": {
+    "versions": [
+      "1.0.2",
+      "1.0.3"
+    ]
+  },
+  "wiz-prod": {
+    "versions": [
+      "1.0.5"
+    ]
+  },
+  "wiz-production": {
+    "versions": [
+      "1.0.6"
+    ]
+  },
+  "wiz-redirects": {
+    "versions": [
+      "99.999.99"
+    ]
+  },
+  "wn-idv-persona-client": {
+    "versions": [
+      "99.0.4"
+    ]
+  },
+  "wode-tongling-haoyou": {
+    "versions": []
+  },
+  "wokao-xiyinli-faze-zhuandao-sanqianwan": {
+    "versions": []
+  },
+  "woltpickerapp": {
+    "versions": [
+      "40.6.2"
+    ]
+  },
+  "wordpecker-fx": {
+    "versions": []
+  },
+  "working-april-co-in-mas-ter-free-spins-rthrtg": {
+    "versions": []
+  },
+  "working-april-coin-master-free-spins-rfkel": {
+    "versions": []
+  },
+  "working-april-coin-master-free-spins-yrhgre": {
+    "versions": []
+  },
+  "working-fortnite-vbucks-gener-tor-2023-fejzkdlz": {
+    "versions": []
+  },
+  "working-free-coin-master-spins-2023-sddkdlz": {
+    "versions": []
+  },
+  "working-free-spins-coin-master-2023-fjekde": {
+    "versions": []
+  },
+  "workingstealer": {
+    "versions": []
+  },
+  "workspacestealer": {
+    "versions": []
+  },
+  "workvivo-anniversary-automation": {
+    "versions": [
+      "0.0.1"
+    ]
+  },
+  "workvivo-chatbot": {
+    "versions": [
+      "0.0.1",
+      "1.0.0"
+    ]
+  },
+  "workvivo-layout-extension": {
+    "versions": [
+      "0.0.1",
+      "1.0.0"
+    ]
+  },
+  "worldnormal": {
+    "versions": []
+  },
+  "worldposition": {
+    "versions": []
+  },
+  "worldskills": {
+    "versions": [
+      "1.0.6"
+    ]
+  },
+  "wormhole-iota-hologram-resonance": {
+    "versions": []
+  },
+  "wpt-client": {
+    "versions": [
+      "100.0.0"
+    ]
+  },
+  "wraith-module": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
+  "wrap-ansi": {
+    "versions": [
+      "9.0.1"
+    ]
+  },
+  "writable-eslint-config-proxima-vulcan": {
+    "versions": []
+  },
+  "wropz-6module": {
+    "versions": []
+  },
+  "wropz-module": {
+    "versions": []
+  },
+  "wuai-pojie-tuoke-pojiequ-erlingyijiulingjiu-yier": {
+    "versions": []
+  },
+  "wuai-pojie-tuoke-pojiequ-erlingyijiulingqi-lingba": {
+    "versions": []
+  },
+  "wuai-pojie-tuoke-pojiequ-erlingyijiulingwu-lingliu": {
+    "versions": []
+  },
+  "wuciyuande-linghun-yangsheng": {
+    "versions": []
+  },
+  "wunianye-yinshi-liaoyufa": {
+    "versions": []
+  },
+  "wwwt": {
+    "versions": []
+  },
+  "x-clients-features": {
+    "versions": []
+  },
+  "x402_monorepo": {
+    "versions": [
+      "339.52.1"
+    ]
+  },
+  "x402-legacy": {
+    "versions": [
+      "3.0.0",
+      "5.0.0"
+    ]
+  },
+  "xanadu-csrf-module-npm": {
+    "versions": []
+  },
+  "xanthus-polaris-hapi-nova": {
+    "versions": []
+  },
+  "xanthus-rest-package-rocket": {
+    "versions": []
+  },
+  "xaver-bakso10-sukiwir": {
+    "versions": []
+  },
+  "xaver-bika37-ruro": {
+    "versions": []
+  },
+  "xaver-brongkos22-breki": {
+    "versions": []
+  },
+  "xaver-bubur81-ruro": {
+    "versions": []
+  },
+  "xaver-bubur82-sluey": {
+    "versions": []
+  },
+  "xaver-buburayam35-riris": {
+    "versions": []
+  },
+  "xaver-donat56-sluey": {
+    "versions": []
+  },
+  "xaver-empal38-sluey": {
+    "versions": []
+  },
+  "xaver-empal45-breki": {
+    "versions": []
+  },
+  "xaver-gulai30-kyuki": {
+    "versions": []
+  },
+  "xaver-jengkol36-breki": {
+    "versions": []
+  },
+  "xaver-kentang17-breki": {
+    "versions": []
+  },
+  "xaver-kepok39-breki": {
+    "versions": []
+  },
+  "xaver-keraktelor4-kyuki": {
+    "versions": []
+  },
+  "xaver-kue6-breki": {
+    "versions": []
+  },
+  "xaver-kupat56-sluey": {
+    "versions": []
+  },
+  "xaver-lapis39-sluey": {
+    "versions": []
+  },
+  "xaver-lengko72-ruro": {
+    "versions": []
+  },
+  "xaver-lengko72-sukiwir": {
+    "versions": []
+  },
+  "xaver-lepet99-breki": {
+    "versions": []
+  },
+  "xaver-liwet82-sluey": {
+    "versions": []
+  },
+  "xaver-lontong32-kyuki": {
+    "versions": []
+  },
+  "xaver-lontong85-riris": {
+    "versions": []
+  },
+  "xaver-mendoan15-ruro": {
+    "versions": []
+  },
+  "xaver-mendut37-breki": {
+    "versions": []
+  },
+  "xaver-mieayam43-sukiwir": {
+    "versions": []
+  },
+  "xaver-mieayam60-breki": {
+    "versions": []
+  },
+  "xaver-nasi55-sluey": {
+    "versions": []
+  },
+  "xaver-nasicampur67-sluey": {
+    "versions": []
+  },
+  "xaver-nasipecel45-sluey": {
+    "versions": []
+  },
+  "xaver-nasiuduk93-ruro": {
+    "versions": []
+  },
+  "xaver-oblok46-breki": {
+    "versions": []
+  },
+  "xaver-ragi96-riris": {
+    "versions": []
+  },
+  "xaver-rangi21-sluey": {
+    "versions": []
+  },
+  "xaver-rawon60-devapp": {
+    "versions": []
+  },
+  "xaver-saguer67-riris": {
+    "versions": []
+  },
+  "xaver-sambel36-devapp": {
+    "versions": []
+  },
+  "xaver-sate14-breki": {
+    "versions": []
+  },
+  "xaver-soto1-breki": {
+    "versions": []
+  },
+  "xaver-soto60-riris": {
+    "versions": []
+  },
+  "xaver-taiwan4-ruro": {
+    "versions": []
+  },
+  "xaver-takokak90-sluey": {
+    "versions": []
+  },
+  "xaver-tempe51-breki": {
+    "versions": []
+  },
+  "xaver-tiwul51-sukiwir": {
+    "versions": []
+  },
+  "xaver-toge92-breki": {
+    "versions": []
+  },
+  "xavialonzo": {
+    "versions": []
+  },
+  "xbalingxbaliu-huibian-yuyan-yujisuanji-tixi-jiegou": {
+    "versions": []
+  },
+  "xbox-bottomnav": {
+    "versions": [
+      "99.99.11",
+      "99.99.99"
+    ]
+  },
+  "xboxlive-auth": {
+    "versions": []
+  },
+  "xc-input-toggle": {
+    "versions": []
+  },
+  "xdater": {
+    "versions": [
+      "6.1.9",
+      "6.2.0"
+    ]
+  },
+  "xenobiology-nashira-gulp-bootes": {
+    "versions": []
+  },
+  "xenobiology-telesto-eleventy-nestjs": {
+    "versions": []
+  },
+  "xenon-auth-jabbah-materialize": {
+    "versions": []
+  },
+  "xenon-hydra-react-bootstrap-leda": {
+    "versions": []
+  },
+  "xenon-impulse-elektra-ophiuchus": {
+    "versions": []
+  },
+  "xenos-configstore-arcturus-cosmiconfig": {
+    "versions": []
+  },
+  "xerxes-writable-nightwatch-pavo": {
+    "versions": []
+  },
+  "xhjxhjhiagent": {
+    "versions": [
+      "0.0.1-security",
+      "1.6.0"
+    ]
+  },
+  "xi-book-try-scale-data": {
+    "versions": []
+  },
+  "xi-tau-query-virtualize-user": {
+    "versions": []
+  },
+  "xiandai-bazi-minglixue-gangyao": {
+    "versions": []
+  },
+  "xiandai-shujuku-guanli": {
+    "versions": []
+  },
+  "xiandai-tixi-jiegoue-youhua-bianyiqi": {
+    "versions": []
+  },
+  "xiandai-xbaliu-huibian-yuyan-chengxu-sheji": {
+    "versions": []
+  },
+  "xiandai-xinxi-jiansuo": {
+    "versions": []
+  },
+  "xiandai-yiciyuan-vol1": {
+    "versions": []
+  },
+  "xiandai-yiciyuan-vol2": {
+    "versions": []
+  },
+  "xiandai-yiciyuan-vol3": {
+    "versions": []
+  },
+  "xiangguang-dakai": {
+    "versions": []
+  },
+  "xiangxin-jiushi-liliang": {
+    "versions": []
+  },
+  "xiangyuzhou-xiadingdan": {
+    "versions": []
+  },
+  "xianhua-yingyu-erlingyiliulingsan-erlingyiliulingwu": {
+    "versions": []
+  },
+  "xianhua-yingyu-erlingyiqilingba-erlingyiqiyier": {
+    "versions": []
+  },
+  "xianhua-yingyu-erlingyiqilingwu-erlingyiqilingqi": {
+    "versions": []
+  },
+  "xianhua-yingyu-erlingyiqilingyi-erlingyiqilingsi": {
+    "versions": []
+  },
+  "xianhua-yingyu-erlingyisilingqi-erlingyisilingjiu": {
+    "versions": []
+  },
+  "xianhua-yingyu-erlingyisiyiling-erlingyisiyier": {
+    "versions": []
+  },
+  "xianhua-yingyu-erlingyiwulingqi-erlingyiwuyiling": {
+    "versions": []
+  },
+  "xianhua-yingyu-erlingyiwulingyi-erlingyiwulingsan": {
+    "versions": []
+  },
+  "xianhua-yingyu-erlingyiwuyiyi-erlingyiliulinger": {
+    "versions": []
+  },
+  "xiaodao-xiaoxi-erlingyijiulingqi": {
+    "versions": []
+  },
+  "xiaojie-biannvshen": {
+    "versions": []
+  },
+  "xiaomasong-shangye-guancha-erlingyijiulingjiu": {
+    "versions": []
+  },
+  "xiayizhan-shenzhen-erlingyijiulingjiu": {
+    "versions": []
+  },
+  "xiegang-xingqiu-erlingyijiulingqi": {
+    "versions": []
+  },
+  "xifang-shenmixue-zhijin": {
+    "versions": []
+  },
+  "xila-shenhua-zhanxing-taluo": {
+    "versions": []
+  },
+  "xinaode-zuigao-jingjie": {
+    "versions": []
+  },
+  "xinban-shier-xingzuo-doushi-pianrende": {
+    "versions": []
+  },
+  "xincheng-shixiang": {
+    "versions": []
+  },
+  "xinde-lianjinshu": {
+    "versions": []
+  },
+  "xingdu-wuyu": {
+    "versions": []
+  },
+  "xinghai-tanmi": {
+    "versions": []
+  },
+  "xingmingxue-rumen": {
+    "versions": []
+  },
+  "xingnan-lianchengshu": {
+    "versions": []
+  },
+  "xingshang-nanrenlian": {
+    "versions": []
+  },
+  "xingshang-nvrenpian": {
+    "versions": []
+  },
+  "xingxing-kecheng-1to3": {
+    "versions": []
+  },
+  "xingyun-zhanxing-quanshu": {
+    "versions": []
+  },
+  "xingzuo-jueding-woaini": {
+    "versions": []
+  },
   "xingzuowuyu-tuxiang": {
     "versions": []
   },
@@ -186,6 +817,11 @@
   },
   "xrpl-dev-portal": {
     "versions": []
+  },
+  "xrpl-hooks-ide": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "xss-payload-7n-ctf": {
     "versions": []

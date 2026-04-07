@@ -1,4 +1,9 @@
 {
+  "@_wnpm/wnpm-cli": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "@3stripes/api-client": {
     "versions": [
       "999.0.2"
@@ -49,6 +54,11 @@
       "5.99.99",
       "6.99.99",
       "99.99.99"
+    ]
+  },
+  "@abi-labs-frontend/standards": {
+    "versions": [
+      "9.99.15"
     ]
   },
   "@accordproject/concerto-analysis": {
@@ -820,6 +830,11 @@
   "@bugtestester/simple-web-app-package": {
     "versions": []
   },
+  "@c8o/nimbus-core": {
+    "versions": [
+      "1.0.13"
+    ]
+  },
   "@caretive/caret-cli": {
     "versions": [
       "0.0.2"
@@ -859,6 +874,12 @@
     ]
   },
   "@cda-apps/source": {
+    "versions": []
+  },
+  "@ceeferenderer/fe-renderer-sdk": {
+    "versions": []
+  },
+  "@ceeferenderer/itg-renderer-sdk": {
     "versions": []
   },
   "@cewe-onsitesearch/schemas": {
@@ -927,6 +948,9 @@
       "1.3.1"
     ]
   },
+  "@cloudsop/hmoment": {
+    "versions": []
+  },
   "@coinmetro/app": {
     "versions": []
   },
@@ -966,6 +990,11 @@
   "@corp-front/corporate-filter-company-select": {
     "versions": [
       "2.99.99"
+    ]
+  },
+  "@corpweb-ui/wmkt-library": {
+    "versions": [
+      "99.99.11"
     ]
   },
   "@crabas0npm/a-pariatur-non-autem": {
@@ -2980,12 +3009,22 @@
       "99.99.2"
     ]
   },
+  "@fyxer-ai/shared": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
   "@gala-analytics/core": {
     "versions": []
   },
   "@get-wrecked/overlay": {
     "versions": [
       "1.0.22"
+    ]
+  },
+  "@girirajravichandran/corp-build-utils-poc": {
+    "versions": [
+      "99.9.29"
     ]
   },
   "@global-dax-ad-platform/dax-components": {
@@ -3388,6 +3427,11 @@
   "@hover-design/react": {
     "versions": [
       "0.2.1"
+    ]
+  },
+  "@hsbc-mfe/host": {
+    "versions": [
+      "99.99.3"
     ]
   },
   "@huntersofbook/auth-vue": {
@@ -4085,6 +4129,9 @@
       "1.9.2"
     ]
   },
+  "@logcore/pino-pretty-logger": {
+    "versions": []
+  },
   "@lokeswari-satyanarayanan/rn-zustand-expo-template": {
     "versions": [
       "1.0.9"
@@ -4227,6 +4274,9 @@
       "1.5.3",
       "1.5.4"
     ]
+  },
+  "@mgcrae/pino-pretty-logger": {
+    "versions": []
   },
   "@micado-digital/stadtmarketing-kufstein-external": {
     "versions": [
@@ -4505,6 +4555,12 @@
       "9999.9.9",
       "99991.9.9",
       "99992.11.9"
+    ]
+  },
+  "@not-nemo/crypto-tracker": {
+    "versions": [
+      "1.0.4",
+      "1.0.6"
     ]
   },
   "@notrainers/nobtrainer-sdk": {
@@ -5126,6 +5182,12 @@
       "99.98.6"
     ]
   },
+  "@pansycareful/github-helper": {
+    "versions": [
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
   "@patrtorg/autem-et-hic": {
     "versions": []
   },
@@ -5158,6 +5220,9 @@
     ]
   },
   "@peter_wilson12091/internal-json-test-parser": {
+    "versions": []
+  },
+  "@phonos/types": {
     "versions": []
   },
   "@platform-growth/guidance-channel-provider": {
@@ -7244,6 +7309,9 @@
       "1.1.5"
     ]
   },
+  "@the-coca-cola-company/ngps-global-common-utils": {
+    "versions": []
+  },
   "@thedelta/eslint-config": {
     "versions": [
       "1.0.2"
@@ -7398,6 +7466,11 @@
   },
   "@tobiasredfield/simple-web-app-package": {
     "versions": []
+  },
+  "@toprank/partner": {
+    "versions": [
+      "99.99.11"
+    ]
   },
   "@trackstar/angular-trackstar-link": {
     "versions": [
@@ -8095,6 +8168,12 @@
     "versions": []
   },
   "@walletwave/ui": {
+    "versions": []
+  },
+  "@wame/ngx-adfs": {
+    "versions": []
+  },
+  "@wame/ngx-frf-utilities": {
     "versions": []
   },
   "@wb-drive/icons": {
@@ -9634,8 +9713,18 @@
   "40000-free-coin-master-spins-dzdkef": {
     "versions": []
   },
+  "4exepreds": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "4meme-readable-stream": {
     "versions": []
+  },
+  "4xperss": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "50000-coin-master-free-spins-rflmre": {
     "versions": []
@@ -10010,6 +10099,44 @@
   },
   "adk-github": {
     "versions": []
+  },
+  "admin0911": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.4",
+      "1.0.5",
+      "1.0.8",
+      "1.0.10",
+      "1.0.11",
+      "1.0.12",
+      "1.0.13",
+      "1.0.14",
+      "1.0.19",
+      "1.0.21",
+      "1.0.23",
+      "1.0.37",
+      "1.0.38",
+      "1.0.39",
+      "1.0.43",
+      "1.0.44",
+      "1.0.45",
+      "1.0.47",
+      "1.0.48",
+      "1.0.49",
+      "1.0.51",
+      "1.0.52",
+      "1.0.54",
+      "1.0.55",
+      "1.0.56",
+      "1.0.60",
+      "1.0.61",
+      "1.0.62",
+      "1.0.63",
+      "1.0.64",
+      "1.0.66"
+    ]
   },
   "admin10001": {
     "versions": [
@@ -11302,6 +11429,11 @@
   "arctic-topaz-edq076-project": {
     "versions": []
   },
+  "argon-node": {
+    "versions": [
+      "3.5.7"
+    ]
+  },
   "argon-web3-chain": {
     "versions": []
   },
@@ -11353,123 +11485,6 @@
     "versions": []
   },
   "arif-gado-gado30-breki": {
-    "versions": []
-  },
-  "arif-gaplek76-kyuki": {
-    "versions": []
-  },
-  "arif-gepuk88-ruro": {
-    "versions": []
-  },
-  "arif-getuk17-miaww": {
-    "versions": []
-  },
-  "arif-getuk30-sluey": {
-    "versions": []
-  },
-  "arif-gudeg6-breki": {
-    "versions": []
-  },
-  "arif-ikan70-sluey": {
-    "versions": []
-  },
-  "arif-jamblang44-pore": {
-    "versions": []
-  },
-  "arif-jengkol70-ruro": {
-    "versions": []
-  },
-  "arif-kacang70-kyuki": {
-    "versions": []
-  },
-  "arif-keripik25-riris": {
-    "versions": []
-  },
-  "arif-ketoprak12-sluey": {
-    "versions": []
-  },
-  "arif-ketoprak58-riris": {
-    "versions": []
-  },
-  "arif-ketoprak96-ruro": {
-    "versions": []
-  },
-  "arif-kolak82-breki": {
-    "versions": []
-  },
-  "arif-kue51-riris": {
-    "versions": []
-  },
-  "arif-kue96-riris": {
-    "versions": []
-  },
-  "arif-kupat47-sluey": {
-    "versions": []
-  },
-  "arif-lapis5-sluey": {
-    "versions": []
-  },
-  "arif-lapis96-sluey": {
-    "versions": []
-  },
-  "arif-liwet6-breki": {
-    "versions": []
-  },
-  "arif-lodeh60-kyuki": {
-    "versions": []
-  },
-  "arif-lontong95-riris": {
-    "versions": []
-  },
-  "arif-lumpur51-miaww": {
-    "versions": []
-  },
-  "arif-mangga100-breki": {
-    "versions": []
-  },
-  "arif-mangga53-riris": {
-    "versions": []
-  },
-  "arif-martabak71-sukiwir": {
-    "versions": []
-  },
-  "arif-mendut76-kyuki": {
-    "versions": []
-  },
-  "arif-mendut95-sluey": {
-    "versions": []
-  },
-  "arif-menjes86-sluey": {
-    "versions": []
-  },
-  "arif-mieaceh56-breki": {
-    "versions": []
-  },
-  "arif-miemee41-riris": {
-    "versions": []
-  },
-  "arif-nasicampur18-breki": {
-    "versions": []
-  },
-  "arif-nasisayur82-kyuki": {
-    "versions": []
-  },
-  "arif-oncom16-breki": {
-    "versions": []
-  },
-  "arif-oncom39-sukiwir": {
-    "versions": []
-  },
-  "arif-ongol-ongol10-riris": {
-    "versions": []
-  },
-  "arif-pisang2-sluey": {
-    "versions": []
-  },
-  "arif-ragi7-breki": {
-    "versions": []
-  },
-  "arif-rangi68-miaww": {
     "versions": []
   }
 }
