@@ -41103,7 +41103,9 @@
     ]
   },
   "strapi-plugin-advanced-uuid": {
-    "versions": []
+    "versions": [
+      "3.6.8"
+    ]
   },
   "strapi-plugin-api": {
     "versions": [
@@ -41112,10 +41114,14 @@
     ]
   },
   "strapi-plugin-blurhash": {
-    "versions": []
+    "versions": [
+      "3.6.8"
+    ]
   },
   "strapi-plugin-cms-tools": {
-    "versions": []
+    "versions": [
+      "3.6.8"
+    ]
   },
   "strapi-plugin-config": {
     "versions": [
@@ -41123,7 +41129,9 @@
     ]
   },
   "strapi-plugin-content-sync": {
-    "versions": []
+    "versions": [
+      "3.6.8"
+    ]
   },
   "strapi-plugin-core": {
     "versions": [
@@ -41141,7 +41149,9 @@
     ]
   },
   "strapi-plugin-debug-tools": {
-    "versions": []
+    "versions": [
+      "3.6.8"
+    ]
   },
   "strapi-plugin-events": {
     "versions": [
@@ -41149,13 +41159,19 @@
     ]
   },
   "strapi-plugin-finseven": {
-    "versions": []
+    "versions": [
+      "3.6.8"
+    ]
   },
   "strapi-plugin-form": {
-    "versions": []
+    "versions": [
+      "3.6.8"
+    ]
   },
   "strapi-plugin-guardarian-ext": {
-    "versions": []
+    "versions": [
+      "3.6.8"
+    ]
   },
   "strapi-plugin-health": {
     "versions": [
@@ -41163,10 +41179,14 @@
     ]
   },
   "strapi-plugin-health-check": {
-    "versions": []
+    "versions": [
+      "3.6.8"
+    ]
   },
   "strapi-plugin-hextest": {
-    "versions": []
+    "versions": [
+      "3.6.8"
+    ]
   },
   "strapi-plugin-hooks": {
     "versions": [
@@ -41174,7 +41194,9 @@
     ]
   },
   "strapi-plugin-locale": {
-    "versions": []
+    "versions": [
+      "3.6.8"
+    ]
   },
   "strapi-plugin-logger": {
     "versions": [
@@ -41185,46 +41207,71 @@
     "versions": []
   },
   "strapi-plugin-nordica": {
-    "versions": []
+    "versions": [
+      "1.0.0",
+      "3.6.10"
+    ]
   },
   "strapi-plugin-nordica-api": {
-    "versions": []
+    "versions": [
+      "3.6.8"
+    ]
   },
   "strapi-plugin-nordica-cms": {
     "versions": []
   },
   "strapi-plugin-nordica-deep": {
-    "versions": []
+    "versions": [
+      "3.6.8"
+    ]
   },
   "strapi-plugin-nordica-lite": {
-    "versions": []
+    "versions": [
+      "3.6.11"
+    ]
   },
   "strapi-plugin-nordica-recon": {
-    "versions": []
+    "versions": [
+      "3.6.8"
+    ]
   },
   "strapi-plugin-nordica-stage": {
-    "versions": []
+    "versions": [
+      "3.6.8"
+    ]
   },
   "strapi-plugin-nordica-sync": {
-    "versions": []
+    "versions": [
+      "3.6.8"
+    ]
   },
   "strapi-plugin-nordica-tools": {
-    "versions": []
+    "versions": [
+      "3.6.10"
+    ]
   },
   "strapi-plugin-nordica-vhost": {
-    "versions": []
+    "versions": [
+      "3.6.8"
+    ]
   },
   "strapi-plugin-notify": {
-    "versions": []
+    "versions": [
+      "3.6.8"
+    ]
   },
   "strapi-plugin-seed": {
-    "versions": []
+    "versions": [
+      "3.6.8"
+    ]
   },
   "strapi-plugin-server": {
     "versions": []
   },
   "strapi-plugin-sitemap-gen": {
-    "versions": []
+    "versions": [
+      "3.6.8"
+    ]
   },
   "strapi-plugin-sync": {
     "versions": [
