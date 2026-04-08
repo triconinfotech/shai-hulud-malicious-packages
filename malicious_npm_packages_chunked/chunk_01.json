@@ -1,4 +1,7 @@
 {
+  "arif-brongkos10-sluey": {
+    "versions": []
+  },
   "arif-buburayam35-ruro": {
     "versions": []
   },
@@ -11673,12 +11676,5 @@
   },
   "elf-stats-northbound-candy-916": {
     "versions": []
-  },
-  "elf-stats-northbound-cocoa-368": {
-    "versions": [
-      "1.0.0",
-      "1.0.1",
-      "1.0.2"
-    ]
   }
 }

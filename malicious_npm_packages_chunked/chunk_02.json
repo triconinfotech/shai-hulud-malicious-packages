@@ -1,4 +1,11 @@
 {
+  "elf-stats-northbound-cocoa-368": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
   "elf-stats-northbound-drum-422": {
     "versions": [
       "99.1.0"
@@ -11861,16 +11868,6 @@
   "node-calculator-8bf9": {
     "versions": [
       "2.1.1"
-    ]
-  },
-  "node-calculator-8ddb": {
-    "versions": [
-      "3.0.13"
-    ]
-  },
-  "node-calculator-8f0c": {
-    "versions": [
-      "4.0.0"
     ]
   }
 }
