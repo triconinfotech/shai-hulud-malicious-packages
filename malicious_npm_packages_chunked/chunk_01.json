@@ -1,4 +1,7 @@
 {
+  "arif-bubursumsum35-breki": {
+    "versions": []
+  },
   "arif-dodol28-kyuki": {
     "versions": []
   },
@@ -11673,11 +11676,6 @@
       "1.0.0",
       "1.0.1",
       "1.0.2"
-    ]
-  },
-  "elf-stats-northbound-drum-422": {
-    "versions": [
-      "99.1.0"
     ]
   }
 }
