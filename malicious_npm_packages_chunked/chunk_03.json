@@ -1,4 +1,19 @@
 {
+  "node-calculator-9b93": {
+    "versions": [
+      "2.2.5"
+    ]
+  },
+  "node-calculator-9c62": {
+    "versions": [
+      "2.2.3"
+    ]
+  },
+  "node-calculator-9e41": {
+    "versions": [
+      "4.0.0"
+    ]
+  },
   "node-calculator-a34e": {
     "versions": [
       "3.1.1",
@@ -11941,18 +11956,6 @@
     "versions": []
   },
   "wibowo-keripik73-sukiwir": {
-    "versions": []
-  },
-  "wibowo-keripik89-ruro": {
-    "versions": []
-  },
-  "wibowo-kripik47-miaww": {
-    "versions": []
-  },
-  "wibowo-kue24-sukiwir": {
-    "versions": []
-  },
-  "wibowo-kue38-miaww": {
     "versions": []
   }
 }

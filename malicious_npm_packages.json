@@ -2924,6 +2924,24 @@
       "99.0.0"
     ]
   },
+  "@fairwords/encryption": {
+    "versions": [
+      "0.0.5",
+      "0.0.6"
+    ]
+  },
+  "@fairwords/loopback-connector-es": {
+    "versions": [
+      "1.4.3",
+      "1.4.4"
+    ]
+  },
+  "@fairwords/websocket": {
+    "versions": [
+      "1.0.38",
+      "1.0.39"
+    ]
+  },
   "@faq-component/core": {
     "versions": [
       "0.0.4"

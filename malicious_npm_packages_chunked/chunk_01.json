@@ -1,4 +1,19 @@
 {
+  "arif-dodol77-sluey": {
+    "versions": []
+  },
+  "arif-donat52-kyuki": {
+    "versions": []
+  },
+  "arif-empal5-ruro": {
+    "versions": []
+  },
+  "arif-gado-gado13-breki": {
+    "versions": []
+  },
+  "arif-gado-gado30-breki": {
+    "versions": []
+  },
   "arif-gaplek76-kyuki": {
     "versions": []
   },
@@ -11665,20 +11680,6 @@
   "elf-stats-northbound-garland-782": {
     "versions": [
       "1.0.0"
-    ]
-  },
-  "elf-stats-northbound-icicle-485": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-northbound-ledger-135": {
-    "versions": []
-  },
-  "elf-stats-northbound-sparkler-410": {
-    "versions": [
-      "2.0.0",
-      "3.0.0"
     ]
   }
 }

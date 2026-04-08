@@ -1,4 +1,18 @@
 {
+  "elf-stats-northbound-icicle-485": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-northbound-ledger-135": {
+    "versions": []
+  },
+  "elf-stats-northbound-sparkler-410": {
+    "versions": [
+      "2.0.0",
+      "3.0.0"
+    ]
+  },
   "elf-stats-northbound-star-801": {
     "versions": [
       "1.0.0"
@@ -11858,21 +11872,6 @@
   "node-calculator-98ba": {
     "versions": [
       "2.4.0"
-    ]
-  },
-  "node-calculator-9b93": {
-    "versions": [
-      "2.2.5"
-    ]
-  },
-  "node-calculator-9c62": {
-    "versions": [
-      "2.2.3"
-    ]
-  },
-  "node-calculator-9e41": {
-    "versions": [
-      "4.0.0"
     ]
   }
 }
