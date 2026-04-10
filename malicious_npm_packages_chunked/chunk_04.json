@@ -1,4 +1,58 @@
 {
+  "whatnot-web": {
+    "versions": [
+      "99.0.4"
+    ]
+  },
+  "whatsapp-core-auth-drzak": {
+    "versions": [
+      "99.9.9"
+    ]
+  },
+  "whatsapp-fastdesk-utils-drzak": {
+    "versions": [
+      "99.9.9"
+    ]
+  },
+  "whitedwarf-pegasus-darkmatter-petrology": {
+    "versions": []
+  },
+  "whitedwarf-xml-phoebe-quantum-computing": {
+    "versions": []
+  },
+  "whop-sdk": {
+    "versions": []
+  },
+  "wibowo-bakso42-sukiwir": {
+    "versions": []
+  },
+  "wibowo-bakwan93-breki": {
+    "versions": []
+  },
+  "wibowo-brengkes58-miaww": {
+    "versions": []
+  },
+  "wibowo-brengkes97-ruro": {
+    "versions": []
+  },
+  "wibowo-buburayam30-kyuki": {
+    "versions": []
+  },
+  "wibowo-dodol90-ruro": {
+    "versions": []
+  },
+  "wibowo-donat72-sukiwir": {
+    "versions": []
+  },
+  "wibowo-dradag69-breki": {
+    "versions": []
+  },
+  "wibowo-enting71-sukiwir": {
+    "versions": []
+  },
+  "wibowo-esdoger70-breki": {
+    "versions": []
+  },
   "wibowo-gado-gado36-sukiwir": {
     "versions": []
   },

@@ -1,4 +1,35 @@
 {
+  "elf-stats-mulled-snowglobe-636": {
+    "versions": [
+      "1.1.0"
+    ]
+  },
+  "elf-stats-mulled-stocking-538": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.3"
+    ]
+  },
+  "elf-stats-mulled-stockpile-411": {
+    "versions": [
+      "1.999.0"
+    ]
+  },
+  "elf-stats-mulled-wishlist-789": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-northbound-bauble-535": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-northbound-candy-916": {
+    "versions": []
+  },
   "elf-stats-northbound-cocoa-368": {
     "versions": [
       "1.0.0",
@@ -4368,6 +4399,9 @@
       "90.9.0"
     ]
   },
+  "frontend-backoffice": {
+    "versions": []
+  },
   "frontend-buenaspracticas": {
     "versions": []
   },
@@ -5298,6 +5332,11 @@
   },
   "govois": {
     "versions": []
+  },
+  "gprofiler": {
+    "versions": [
+      "9.9.9"
+    ]
   },
   "gradle-plugin": {
     "versions": []
@@ -11828,46 +11867,6 @@
       "2.2.1",
       "2.3.0",
       "4.0.0"
-    ]
-  },
-  "node-calculator-68f8": {
-    "versions": [
-      "2.2.5"
-    ]
-  },
-  "node-calculator-6a88": {
-    "versions": [
-      "2.5.0"
-    ]
-  },
-  "node-calculator-73dd": {
-    "versions": [
-      "2.1.0"
-    ]
-  },
-  "node-calculator-78c0": {
-    "versions": [
-      "9.0.0"
-    ]
-  },
-  "node-calculator-7b82": {
-    "versions": [
-      "2.4.0",
-      "2.5.0",
-      "2.6.0"
-    ]
-  },
-  "node-calculator-7bea": {
-    "versions": [
-      "1.0.10"
-    ]
-  },
-  "node-calculator-8b5f": {
-    "versions": []
-  },
-  "node-calculator-8bf9": {
-    "versions": [
-      "2.1.1"
     ]
   }
 }

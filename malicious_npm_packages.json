@@ -476,6 +476,9 @@
   "@asarioglo/npm-ghost-htb": {
     "versions": []
   },
+  "@aspect-security/argon2": {
+    "versions": []
+  },
   "@asyncapi/avro-schema-parser": {
     "versions": [
       "3.0.25",
@@ -715,6 +718,11 @@
   "@axinom/mosaic-cli": {
     "versions": [
       "0.52.0-rc.2"
+    ]
+  },
+  "@b2b-portal/form": {
+    "versions": [
+      "4.1.8"
     ]
   },
   "@basic-ui-components-stc/basic-ui-components": {
@@ -3969,6 +3977,9 @@
   "@landing-platform/data-bridge": {
     "versions": []
   },
+  "@langgraphjs/toolkit": {
+    "versions": []
+  },
   "@laposte-okapi/okapi-developpeur-web": {
     "versions": []
   },
@@ -6213,6 +6224,11 @@
       "1.2.3"
     ]
   },
+  "@signals-notebook/utils": {
+    "versions": [
+      "0.0.1"
+    ]
+  },
   "@signify/vue-components": {
     "versions": []
   },
@@ -7242,6 +7258,11 @@
   "@teasource/voluptatum-esse-ducimus": {
     "versions": []
   },
+  "@telekom-wfa/auth-core": {
+    "versions": [
+      "99.9.11"
+    ]
+  },
   "@teselagen/bio-parsers": {
     "versions": [
       "0.4.29",
@@ -7751,6 +7772,11 @@
     "versions": [
       "0.6.7",
       "0.6.8"
+    ]
+  },
+  "@velora-dex/sdk": {
+    "versions": [
+      "9.4.1"
     ]
   },
   "@viapip/eslint-config": {
@@ -9802,6 +9828,9 @@
   "90000-coin-master-free-spins-rflmre": {
     "versions": []
   },
+  "a2a-chat-canvas": {
+    "versions": []
+  },
   "a4wu": {
     "versions": []
   },
@@ -11468,6 +11497,9 @@
     ]
   },
   "argon-web3-chain": {
+    "versions": []
+  },
+  "argon2-napi": {
     "versions": []
   },
   "argonist": {
@@ -27540,6 +27572,9 @@
       "90.9.0"
     ]
   },
+  "frontend-backoffice": {
+    "versions": []
+  },
   "frontend-buenaspracticas": {
     "versions": []
   },
@@ -28470,6 +28505,11 @@
   },
   "govois": {
     "versions": []
+  },
+  "gprofiler": {
+    "versions": [
+      "9.9.9"
+    ]
   },
   "gradle-plugin": {
     "versions": []
@@ -38886,6 +38926,11 @@
   "request-fork-markdown-pdf-elektra": {
     "versions": []
   },
+  "request-js-validator": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
   "request-xerxes-orbit-jekyll": {
     "versions": []
   },
@@ -40517,6 +40562,12 @@
   "sizhu-liuyao-yingyong-toujie": {
     "versions": []
   },
+  "sjs-biginteger": {
+    "versions": []
+  },
+  "sjs-lint-build1": {
+    "versions": []
+  },
   "sketch-measure": {
     "versions": [
       "99.9.9"
@@ -41150,6 +41201,9 @@
     "versions": [
       "3.6.8"
     ]
+  },
+  "strapi-plugin-cache": {
+    "versions": []
   },
   "strapi-plugin-cms-tools": {
     "versions": [
@@ -45019,6 +45073,9 @@
   "usb_dev": {
     "versions": []
   },
+  "use-form-builder-plugin": {
+    "versions": []
+  },
   "use-unsaved-changes": {
     "versions": [
       "1.0.9"
@@ -45809,6 +45866,11 @@
       "1.0.0",
       "1.0.2",
       "1.0.4"
+    ]
+  },
+  "viewer-assets-generator": {
+    "versions": [
+      "99.9.1"
     ]
   },
   "viktor-xml-parser": {

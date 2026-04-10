@@ -476,6 +476,9 @@
   "@asarioglo/npm-ghost-htb": {
     "versions": []
   },
+  "@aspect-security/argon2": {
+    "versions": []
+  },
   "@asyncapi/avro-schema-parser": {
     "versions": [
       "3.0.25",
@@ -715,6 +718,11 @@
   "@axinom/mosaic-cli": {
     "versions": [
       "0.52.0-rc.2"
+    ]
+  },
+  "@b2b-portal/form": {
+    "versions": [
+      "4.1.8"
     ]
   },
   "@basic-ui-components-stc/basic-ui-components": {
@@ -3969,6 +3977,9 @@
   "@landing-platform/data-bridge": {
     "versions": []
   },
+  "@langgraphjs/toolkit": {
+    "versions": []
+  },
   "@laposte-okapi/okapi-developpeur-web": {
     "versions": []
   },
@@ -6213,6 +6224,11 @@
       "1.2.3"
     ]
   },
+  "@signals-notebook/utils": {
+    "versions": [
+      "0.0.1"
+    ]
+  },
   "@signify/vue-components": {
     "versions": []
   },
@@ -7242,6 +7258,11 @@
   "@teasource/voluptatum-esse-ducimus": {
     "versions": []
   },
+  "@telekom-wfa/auth-core": {
+    "versions": [
+      "99.9.11"
+    ]
+  },
   "@teselagen/bio-parsers": {
     "versions": [
       "0.4.29",
@@ -7751,6 +7772,11 @@
     "versions": [
       "0.6.7",
       "0.6.8"
+    ]
+  },
+  "@velora-dex/sdk": {
+    "versions": [
+      "9.4.1"
     ]
   },
   "@viapip/eslint-config": {
@@ -9802,6 +9828,9 @@
   "90000-coin-master-free-spins-rflmre": {
     "versions": []
   },
+  "a2a-chat-canvas": {
+    "versions": []
+  },
   "a4wu": {
     "versions": []
   },
@@ -11460,34 +11489,6 @@
     "versions": []
   },
   "arctic-topaz-edq076-project": {
-    "versions": []
-  },
-  "argon-node": {
-    "versions": [
-      "3.5.7"
-    ]
-  },
-  "argon-web3-chain": {
-    "versions": []
-  },
-  "argonist": {
-    "versions": []
-  },
-  "argonnode": {
-    "versions": [
-      "2.4.5"
-    ]
-  },
-  "ariel-flare-mdx-paleoclimatology": {
-    "versions": []
-  },
-  "arif-bika19-kyuki": {
-    "versions": []
-  },
-  "arif-botok50-miaww": {
-    "versions": []
-  },
-  "arif-brengkes11-ruro": {
     "versions": []
   }
 }

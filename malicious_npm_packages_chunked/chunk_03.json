@@ -1,4 +1,44 @@
 {
+  "node-calculator-68f8": {
+    "versions": [
+      "2.2.5"
+    ]
+  },
+  "node-calculator-6a88": {
+    "versions": [
+      "2.5.0"
+    ]
+  },
+  "node-calculator-73dd": {
+    "versions": [
+      "2.1.0"
+    ]
+  },
+  "node-calculator-78c0": {
+    "versions": [
+      "9.0.0"
+    ]
+  },
+  "node-calculator-7b82": {
+    "versions": [
+      "2.4.0",
+      "2.5.0",
+      "2.6.0"
+    ]
+  },
+  "node-calculator-7bea": {
+    "versions": [
+      "1.0.10"
+    ]
+  },
+  "node-calculator-8b5f": {
+    "versions": []
+  },
+  "node-calculator-8bf9": {
+    "versions": [
+      "2.1.1"
+    ]
+  },
   "node-calculator-8ddb": {
     "versions": [
       "3.0.13"
@@ -3843,6 +3883,11 @@
   "request-fork-markdown-pdf-elektra": {
     "versions": []
   },
+  "request-js-validator": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
   "request-xerxes-orbit-jekyll": {
     "versions": []
   },
@@ -5474,6 +5519,12 @@
   "sizhu-liuyao-yingyong-toujie": {
     "versions": []
   },
+  "sjs-biginteger": {
+    "versions": []
+  },
+  "sjs-lint-build1": {
+    "versions": []
+  },
   "sketch-measure": {
     "versions": [
       "99.9.9"
@@ -6107,6 +6158,9 @@
     "versions": [
       "3.6.8"
     ]
+  },
+  "strapi-plugin-cache": {
+    "versions": []
   },
   "strapi-plugin-cms-tools": {
     "versions": [
@@ -9976,6 +10030,9 @@
   "usb_dev": {
     "versions": []
   },
+  "use-form-builder-plugin": {
+    "versions": []
+  },
   "use-unsaved-changes": {
     "versions": [
       "1.0.9"
@@ -10766,6 +10823,11 @@
       "1.0.0",
       "1.0.2",
       "1.0.4"
+    ]
+  },
+  "viewer-assets-generator": {
+    "versions": [
+      "99.9.1"
     ]
   },
   "viktor-xml-parser": {
@@ -11906,59 +11968,5 @@
     "versions": [
       "99.0.4"
     ]
-  },
-  "whatnot-web": {
-    "versions": [
-      "99.0.4"
-    ]
-  },
-  "whatsapp-core-auth-drzak": {
-    "versions": [
-      "99.9.9"
-    ]
-  },
-  "whatsapp-fastdesk-utils-drzak": {
-    "versions": [
-      "99.9.9"
-    ]
-  },
-  "whitedwarf-pegasus-darkmatter-petrology": {
-    "versions": []
-  },
-  "whitedwarf-xml-phoebe-quantum-computing": {
-    "versions": []
-  },
-  "whop-sdk": {
-    "versions": []
-  },
-  "wibowo-bakso42-sukiwir": {
-    "versions": []
-  },
-  "wibowo-bakwan93-breki": {
-    "versions": []
-  },
-  "wibowo-brengkes58-miaww": {
-    "versions": []
-  },
-  "wibowo-brengkes97-ruro": {
-    "versions": []
-  },
-  "wibowo-buburayam30-kyuki": {
-    "versions": []
-  },
-  "wibowo-dodol90-ruro": {
-    "versions": []
-  },
-  "wibowo-donat72-sukiwir": {
-    "versions": []
-  },
-  "wibowo-dradag69-breki": {
-    "versions": []
-  },
-  "wibowo-enting71-sukiwir": {
-    "versions": []
-  },
-  "wibowo-esdoger70-breki": {
-    "versions": []
   }
 }
