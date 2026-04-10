@@ -1,3 +1,15 @@
+## 2026-04-10 02:19:24 — Added 0 new packages, updated 2 versions
+
+### 🆕 New Packages (0)
+_None_
+
+### 🔄 Updated Versions (2)
+| Package | Version | Type |
+|---------|---------|-------|
+| @toprank/partner | 99.99.12 | new-version |
+| @toprank/partner | 99.99.13 | new-version |
+
+
 ## 2026-04-08 18:54:44 — Added 0 new packages, updated 1 versions
 
 ### 🆕 New Packages (0)

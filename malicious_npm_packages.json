@@ -7487,7 +7487,9 @@
   },
   "@toprank/partner": {
     "versions": [
-      "99.99.11"
+      "99.99.11",
+      "99.99.12",
+      "99.99.13"
     ]
   },
   "@trackstar/angular-trackstar-link": {
