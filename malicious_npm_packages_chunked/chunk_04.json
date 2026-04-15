@@ -1,4 +1,9 @@
 {
+  "whatnot-manifests": {
+    "versions": [
+      "99.0.4"
+    ]
+  },
   "whatnot-web": {
     "versions": [
       "99.0.4"

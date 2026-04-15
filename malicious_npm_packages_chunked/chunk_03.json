@@ -1,4 +1,12 @@
 {
+  "node-calculator-603e": {
+    "versions": [
+      "2.2.0",
+      "2.2.1",
+      "2.3.0",
+      "4.0.0"
+    ]
+  },
   "node-calculator-68f8": {
     "versions": [
       "2.2.5"
@@ -11960,11 +11968,6 @@
     ]
   },
   "whatnot-events": {
-    "versions": [
-      "99.0.4"
-    ]
-  },
-  "whatnot-manifests": {
     "versions": [
       "99.0.4"
     ]
