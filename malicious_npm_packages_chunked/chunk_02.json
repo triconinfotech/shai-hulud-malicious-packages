@@ -1,4 +1,24 @@
 {
+  "elf-stats-mulled-drum-529": {
+    "versions": [
+      "2.0.1",
+      "2.2.0",
+      "2.2.1"
+    ]
+  },
+  "elf-stats-mulled-nightcap-782": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "elf-stats-mulled-ornament-810": {
+    "versions": []
+  },
+  "elf-stats-mulled-rocket-415": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-mulled-snowglobe-636": {
     "versions": [
       "1.1.0"
@@ -2886,7 +2906,9 @@
   },
   "f0-service-address-doctor": {
     "versions": [
+      "1.0.0",
       "8.99.99",
+      "8.99.999",
       "99.99.9"
     ]
   },
@@ -3169,6 +3191,8 @@
   },
   "fadlsjf": {
     "versions": [
+      "1.0.0",
+      "1.0.1",
       "1.0.2",
       "1.0.3",
       "1.0.4"
@@ -3376,7 +3400,10 @@
     "versions": []
   },
   "fancode-web-app": {
-    "versions": []
+    "versions": [
+      "99.0.0",
+      "99.0.38"
+    ]
   },
   "farout-adonis-tool-soap": {
     "versions": []
@@ -4413,7 +4440,9 @@
   },
   "frontend-js-state-web": {
     "versions": [
-      "2.2.3"
+      "2.2.2",
+      "2.2.3",
+      "2.2.4"
     ]
   },
   "frontend-vite": {
@@ -5387,8 +5416,12 @@
   },
   "graphlib-js": {
     "versions": [
+      "1.2.0",
       "1.2.1",
-      "1.2.2"
+      "1.2.2",
+      "1.3.2",
+      "1.3.3",
+      "1.3.4"
     ]
   },
   "graphlink": {
@@ -7423,7 +7456,13 @@
     ]
   },
   "json-lucide": {
-    "versions": []
+    "versions": [
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.7",
+      "1.0.8"
+    ]
   },
   "json-map-source": {
     "versions": [
@@ -7540,7 +7579,9 @@
     ]
   },
   "jsonify-builder": {
-    "versions": []
+    "versions": [
+      "4.3.21"
+    ]
   },
   "jsonify-bundler": {
     "versions": [
@@ -7555,7 +7596,8 @@
       "4.3.17",
       "4.3.18",
       "4.3.19",
-      "4.3.20"
+      "4.3.20",
+      "4.3.21"
     ]
   },
   "jsonify-core": {
@@ -7575,7 +7617,8 @@
       "7.4.12",
       "7.4.13",
       "7.4.14",
-      "7.4.15"
+      "7.4.15",
+      "7.4.16"
     ]
   },
   "jsonify-setting": {
@@ -9210,7 +9253,12 @@
     "versions": []
   },
   "levex-refa": {
-    "versions": []
+    "versions": [
+      "1.0.0",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4"
+    ]
   },
   "levidtcppe-levi-icons": {
     "versions": []
@@ -9646,6 +9694,7 @@
   },
   "llm-oracle": {
     "versions": [
+      "0.0.1-security",
       "1.0.0",
       "1.0.1",
       "1.0.2"
@@ -11312,7 +11361,9 @@
     "versions": []
   },
   "neanderthal-validator": {
-    "versions": []
+    "versions": [
+      "1.0.0"
+    ]
   },
   "near-fast-auth-signer": {
     "versions": [
@@ -11386,6 +11437,12 @@
   },
   "netlify-project-helper": {
     "versions": []
+  },
+  "netstruct": {
+    "versions": [
+      "2.1.6",
+      "2.1.8"
+    ]
   },
   "neutrino-antares-promise-genomics": {
     "versions": []
@@ -11780,7 +11837,9 @@
     "versions": [
       "5.3.18",
       "5.5.20",
-      "5.5.21"
+      "5.5.21",
+      "5.5.22",
+      "5.5.23"
     ]
   },
   "node-calculator-043e": {
@@ -11810,57 +11869,6 @@
   "node-calculator-1b6e": {
     "versions": [
       "3.0.11"
-    ]
-  },
-  "node-calculator-1dc0": {
-    "versions": []
-  },
-  "node-calculator-215d": {
-    "versions": []
-  },
-  "node-calculator-239a": {
-    "versions": []
-  },
-  "node-calculator-25bb": {
-    "versions": []
-  },
-  "node-calculator-290c": {
-    "versions": [
-      "7.1.1",
-      "8.1.1"
-    ]
-  },
-  "node-calculator-2eb4": {
-    "versions": [
-      "2.5.5"
-    ]
-  },
-  "node-calculator-36ae": {
-    "versions": []
-  },
-  "node-calculator-3e62": {
-    "versions": []
-  },
-  "node-calculator-40ed": {
-    "versions": [
-      "5.0.0",
-      "6.0.0"
-    ]
-  },
-  "node-calculator-4e41": {
-    "versions": [
-      "2.6.0"
-    ]
-  },
-  "node-calculator-522f": {
-    "versions": [
-      "2.2.5"
-    ]
-  },
-  "node-calculator-5b8f": {
-    "versions": [
-      "3.0.0",
-      "3.2.0"
     ]
   }
 }

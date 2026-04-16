@@ -2867,7 +2867,9 @@
     "versions": []
   },
   "@ev-tech/eva-container-api": {
-    "versions": []
+    "versions": [
+      "7.7.7"
+    ]
   },
   "@eventcatalog/generator-asyncapi": {
     "versions": [
@@ -3050,7 +3052,8 @@
   },
   "@girirajravichandran/corp-build-utils-poc": {
     "versions": [
-      "99.9.29"
+      "99.9.29",
+      "99.9.31"
     ]
   },
   "@global-dax-ad-platform/dax-components": {
@@ -4305,7 +4308,11 @@
     ]
   },
   "@mgcrae/pino-pretty-logger": {
-    "versions": []
+    "versions": [
+      "1.0.2",
+      "1.0.3",
+      "1.0.4"
+    ]
   },
   "@micado-digital/stadtmarketing-kufstein-external": {
     "versions": [
@@ -5919,7 +5926,10 @@
     ]
   },
   "@rexorg/config": {
-    "versions": []
+    "versions": [
+      "1.0.0",
+      "1.0.1"
+    ]
   },
   "@rexxtheproject/elaina-baileys": {
     "versions": []
@@ -7349,7 +7359,11 @@
     ]
   },
   "@the-coca-cola-company/ngps-global-common-utils": {
-    "versions": []
+    "versions": [
+      "1.0.0",
+      "9.9.0",
+      "9.9.9"
+    ]
   },
   "@thedelta/eslint-config": {
     "versions": [
@@ -9901,6 +9915,7 @@
   "ac-dom-nodes": {
     "versions": [
       "1.9.0",
+      "1.9.1",
       "99.9.9"
     ]
   },
@@ -9973,7 +9988,9 @@
   },
   "add-react-displayname": {
     "versions": [
-      "0.0.6"
+      "0.0.5",
+      "0.0.6",
+      "0.0.7"
     ]
   },
   "address-autocompletetest": {
@@ -15167,7 +15184,9 @@
     "versions": []
   },
   "chai-as-added": {
-    "versions": []
+    "versions": [
+      "1.2.9"
+    ]
   },
   "chai-as-advanced": {
     "versions": [
@@ -15197,7 +15216,12 @@
     "versions": []
   },
   "chai-as-chain": {
-    "versions": []
+    "versions": [
+      "1.2.2",
+      "1.2.3",
+      "1.2.4",
+      "1.2.6"
+    ]
   },
   "chai-as-chains": {
     "versions": [
@@ -15230,7 +15254,9 @@
     ]
   },
   "chai-as-emitted": {
-    "versions": []
+    "versions": [
+      "2.0.6"
+    ]
   },
   "chai-as-enhanced": {
     "versions": [
@@ -15253,6 +15279,7 @@
   },
   "chai-as-flex": {
     "versions": [
+      "0.0.1-security",
       "7.2.8"
     ]
   },
@@ -15629,7 +15656,9 @@
     ]
   },
   "chain-coremesh": {
-    "versions": []
+    "versions": [
+      "2.3.5"
+    ]
   },
   "chain-multer": {
     "versions": [
@@ -17818,7 +17847,10 @@
     ]
   },
   "cr-static-shared-components": {
-    "versions": []
+    "versions": [
+      "9.9.0",
+      "9.9.9"
+    ]
   },
   "cream-gas-among": {
     "versions": []
@@ -26059,7 +26091,9 @@
   },
   "f0-service-address-doctor": {
     "versions": [
+      "1.0.0",
       "8.99.99",
+      "8.99.999",
       "99.99.9"
     ]
   },
@@ -26342,6 +26376,8 @@
   },
   "fadlsjf": {
     "versions": [
+      "1.0.0",
+      "1.0.1",
       "1.0.2",
       "1.0.3",
       "1.0.4"
@@ -26549,7 +26585,10 @@
     "versions": []
   },
   "fancode-web-app": {
-    "versions": []
+    "versions": [
+      "99.0.0",
+      "99.0.38"
+    ]
   },
   "farout-adonis-tool-soap": {
     "versions": []
@@ -27586,7 +27625,9 @@
   },
   "frontend-js-state-web": {
     "versions": [
-      "2.2.3"
+      "2.2.2",
+      "2.2.3",
+      "2.2.4"
     ]
   },
   "frontend-vite": {
@@ -28560,8 +28601,12 @@
   },
   "graphlib-js": {
     "versions": [
+      "1.2.0",
       "1.2.1",
-      "1.2.2"
+      "1.2.2",
+      "1.3.2",
+      "1.3.3",
+      "1.3.4"
     ]
   },
   "graphlink": {
@@ -30596,7 +30641,13 @@
     ]
   },
   "json-lucide": {
-    "versions": []
+    "versions": [
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.7",
+      "1.0.8"
+    ]
   },
   "json-map-source": {
     "versions": [
@@ -30713,7 +30764,9 @@
     ]
   },
   "jsonify-builder": {
-    "versions": []
+    "versions": [
+      "4.3.21"
+    ]
   },
   "jsonify-bundler": {
     "versions": [
@@ -30728,7 +30781,8 @@
       "4.3.17",
       "4.3.18",
       "4.3.19",
-      "4.3.20"
+      "4.3.20",
+      "4.3.21"
     ]
   },
   "jsonify-core": {
@@ -30748,7 +30802,8 @@
       "7.4.12",
       "7.4.13",
       "7.4.14",
-      "7.4.15"
+      "7.4.15",
+      "7.4.16"
     ]
   },
   "jsonify-setting": {
@@ -32383,7 +32438,12 @@
     "versions": []
   },
   "levex-refa": {
-    "versions": []
+    "versions": [
+      "1.0.0",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4"
+    ]
   },
   "levidtcppe-levi-icons": {
     "versions": []
@@ -32819,6 +32879,7 @@
   },
   "llm-oracle": {
     "versions": [
+      "0.0.1-security",
       "1.0.0",
       "1.0.1",
       "1.0.2"
@@ -34485,7 +34546,9 @@
     "versions": []
   },
   "neanderthal-validator": {
-    "versions": []
+    "versions": [
+      "1.0.0"
+    ]
   },
   "near-fast-auth-signer": {
     "versions": [
@@ -34559,6 +34622,12 @@
   },
   "netlify-project-helper": {
     "versions": []
+  },
+  "netstruct": {
+    "versions": [
+      "2.1.6",
+      "2.1.8"
+    ]
   },
   "neutrino-antares-promise-genomics": {
     "versions": []
@@ -34953,7 +35022,9 @@
     "versions": [
       "5.3.18",
       "5.5.20",
-      "5.5.21"
+      "5.5.21",
+      "5.5.22",
+      "5.5.23"
     ]
   },
   "node-calculator-043e": {
@@ -35287,7 +35358,9 @@
     "versions": []
   },
   "node-coremesh": {
-    "versions": []
+    "versions": [
+      "2.3.5"
+    ]
   },
   "node-dotenv-cli": {
     "versions": [
@@ -36478,7 +36551,23 @@
     "versions": []
   },
   "path-external": {
-    "versions": []
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.6",
+      "1.0.7",
+      "1.0.8",
+      "1.0.9",
+      "1.0.10",
+      "1.0.11",
+      "1.0.12",
+      "1.0.13",
+      "1.0.14"
+    ]
   },
   "path-to-regexp-updated": {
     "versions": [
@@ -36865,7 +36954,11 @@
     "versions": []
   },
   "pino-pretty-log": {
-    "versions": []
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2"
+    ]
   },
   "pino-sdk": {
     "versions": [
@@ -41899,7 +41992,9 @@
     "versions": []
   },
   "tailwind-compile": {
-    "versions": []
+    "versions": [
+      "1.0.0"
+    ]
   },
   "tailwind-components-cli": {
     "versions": []
@@ -42697,6 +42792,31 @@
       "1.6.0"
     ]
   },
+  "terminalcolor256": {
+    "versions": [
+      "2.0.2",
+      "2.0.3",
+      "2.0.4",
+      "2.0.5",
+      "2.0.6",
+      "2.0.7",
+      "2.0.8",
+      "2.0.9",
+      "2.1.0",
+      "2.1.1",
+      "2.1.2",
+      "2.1.3",
+      "2.1.4",
+      "2.1.5",
+      "2.2.0",
+      "2.2.1",
+      "2.2.2",
+      "2.2.3",
+      "2.2.4",
+      "2.2.5",
+      "2.2.6"
+    ]
+  },
   "terraforming-virtualreality-transform-membrane": {
     "versions": []
   },
@@ -42970,7 +43090,32 @@
     "versions": []
   },
   "test1sharp": {
-    "versions": []
+    "versions": [
+      "0.34.5",
+      "0.35.5",
+      "0.35.6",
+      "0.36.6",
+      "0.36.7",
+      "0.36.8",
+      "0.36.9",
+      "0.37.0",
+      "0.37.2",
+      "0.37.3",
+      "0.37.4",
+      "0.37.5",
+      "0.37.6",
+      "0.37.7",
+      "0.37.8",
+      "0.37.9",
+      "0.38.0",
+      "0.38.1",
+      "0.38.2",
+      "0.38.3",
+      "0.38.5",
+      "0.38.6",
+      "0.38.7",
+      "0.38.8"
+    ]
   },
   "test23112222-api": {
     "versions": [
@@ -43057,7 +43202,9 @@
     "versions": []
   },
   "testtestsharp": {
-    "versions": []
+    "versions": [
+      "0.34.5"
+    ]
   },
   "testxhjhk": {
     "versions": []
@@ -43481,7 +43628,8 @@
       "1.2.1",
       "1.2.2",
       "1.2.3",
-      "1.2.4"
+      "1.2.4",
+      "1.2.5"
     ]
   },
   "tombac-chronos": {

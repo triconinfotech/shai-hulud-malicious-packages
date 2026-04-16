@@ -2867,7 +2867,9 @@
     "versions": []
   },
   "@ev-tech/eva-container-api": {
-    "versions": []
+    "versions": [
+      "7.7.7"
+    ]
   },
   "@eventcatalog/generator-asyncapi": {
     "versions": [
@@ -3050,7 +3052,8 @@
   },
   "@girirajravichandran/corp-build-utils-poc": {
     "versions": [
-      "99.9.29"
+      "99.9.29",
+      "99.9.31"
     ]
   },
   "@global-dax-ad-platform/dax-components": {
@@ -4305,7 +4308,11 @@
     ]
   },
   "@mgcrae/pino-pretty-logger": {
-    "versions": []
+    "versions": [
+      "1.0.2",
+      "1.0.3",
+      "1.0.4"
+    ]
   },
   "@micado-digital/stadtmarketing-kufstein-external": {
     "versions": [
@@ -5919,7 +5926,10 @@
     ]
   },
   "@rexorg/config": {
-    "versions": []
+    "versions": [
+      "1.0.0",
+      "1.0.1"
+    ]
   },
   "@rexxtheproject/elaina-baileys": {
     "versions": []
@@ -7349,7 +7359,11 @@
     ]
   },
   "@the-coca-cola-company/ngps-global-common-utils": {
-    "versions": []
+    "versions": [
+      "1.0.0",
+      "9.9.0",
+      "9.9.9"
+    ]
   },
   "@thedelta/eslint-config": {
     "versions": [
@@ -9901,6 +9915,7 @@
   "ac-dom-nodes": {
     "versions": [
       "1.9.0",
+      "1.9.1",
       "99.9.9"
     ]
   },
@@ -9973,7 +9988,9 @@
   },
   "add-react-displayname": {
     "versions": [
-      "0.0.6"
+      "0.0.5",
+      "0.0.6",
+      "0.0.7"
     ]
   },
   "address-autocompletetest": {
@@ -11480,15 +11497,6 @@
     "versions": []
   },
   "archaeometry-hercules-singularitarianism-style-loader": {
-    "versions": []
-  },
-  "archaeometry-parallax-polaris-glaciology": {
-    "versions": []
-  },
-  "arctic-jewel-qgf950-project": {
-    "versions": []
-  },
-  "arctic-topaz-edq076-project": {
     "versions": []
   }
 }
