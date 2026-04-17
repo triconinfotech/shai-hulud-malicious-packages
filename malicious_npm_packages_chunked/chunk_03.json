@@ -7613,7 +7613,8 @@
   },
   "teaser-nav": {
     "versions": [
-      "19.9.5"
+      "19.9.5",
+      "99.1.1"
     ]
   },
   "technical-assignment": {
@@ -11978,9 +11979,6 @@
     "versions": []
   },
   "webnoch": {
-    "versions": []
-  },
-  "webnochs": {
     "versions": []
   }
 }
