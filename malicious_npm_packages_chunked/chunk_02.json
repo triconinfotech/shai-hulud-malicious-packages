@@ -1,4 +1,13 @@
 {
+  "elf-stats-mulled-bauble-252": {
+    "versions": [
+      "1.0.3",
+      "1.0.4",
+      "1.0.8",
+      "1.0.9",
+      "1.2.9"
+    ]
+  },
   "elf-stats-mulled-drum-529": {
     "versions": [
       "2.0.1",
@@ -11859,16 +11868,6 @@
   "node-calculator-0f50": {
     "versions": [
       "10.9.9"
-    ]
-  },
-  "node-calculator-190a": {
-    "versions": [
-      "4.0.0"
-    ]
-  },
-  "node-calculator-1b6e": {
-    "versions": [
-      "3.0.11"
     ]
   }
 }

@@ -1,4 +1,15 @@
 {
+  "webmd-page-common": {
+    "versions": [
+      "77.7.7"
+    ]
+  },
+  "webmd-url": {
+    "versions": []
+  },
+  "webnoch": {
+    "versions": []
+  },
   "webnochs": {
     "versions": []
   },
