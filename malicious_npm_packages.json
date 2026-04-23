@@ -19,6 +19,27 @@
       "999.0.2"
     ]
   },
+  "@3stripes/components": {
+    "versions": [
+      "999.0.0",
+      "999.0.2",
+      "999.0.3"
+    ]
+  },
+  "@3stripes/config": {
+    "versions": [
+      "999.0.0",
+      "999.0.2",
+      "999.0.3"
+    ]
+  },
+  "@3stripes/core": {
+    "versions": [
+      "999.0.0",
+      "999.0.2",
+      "999.0.3"
+    ]
+  },
   "@3stripes/helpers": {
     "versions": [
       "999.0.2"
@@ -27,6 +48,27 @@
   "@3stripes/lib": {
     "versions": [
       "999.0.2"
+    ]
+  },
+  "@3stripes/sdk": {
+    "versions": [
+      "999.0.0",
+      "999.0.2",
+      "999.0.3"
+    ]
+  },
+  "@3stripes/shared": {
+    "versions": [
+      "999.0.0",
+      "999.0.2",
+      "999.0.3"
+    ]
+  },
+  "@3stripes/toolkit": {
+    "versions": [
+      "999.0.0",
+      "999.0.2",
+      "999.0.3"
     ]
   },
   "@3stripes/ui": {
@@ -252,6 +294,9 @@
       "4.7.2"
     ]
   },
+  "@aircall-ecosystem/integrations-msteams-frontend": {
+    "versions": []
+  },
   "@airtel-web/clickstream": {
     "versions": [
       "99.0.3",
@@ -320,6 +365,14 @@
   "@amigatechdocs/core": {
     "versions": []
   },
+  "@amplify-js/datastore": {
+    "versions": [
+      "99.9.0"
+    ]
+  },
+  "@amsterdam-local/forms-component-library": {
+    "versions": []
+  },
   "@anchor-ds/core": {
     "versions": [
       "99.9.0"
@@ -363,6 +416,11 @@
     "versions": [
       "1.0.0",
       "99.0.0"
+    ]
+  },
+  "@appleseed-apple/ac-sass-kit": {
+    "versions": [
+      "100.0.2"
     ]
   },
   "@appleseed-apple/ac-sasskit": {
@@ -475,6 +533,11 @@
   },
   "@asarioglo/npm-ghost-htb": {
     "versions": []
+  },
+  "@ascend-ops/web-client": {
+    "versions": [
+      "99.9.0"
+    ]
   },
   "@aspect-security/argon2": {
     "versions": []
@@ -706,8 +769,28 @@
       "99.99.99"
     ]
   },
+  "@ataslkit/profilecard": {
+    "versions": [
+      "99.9.1"
+    ]
+  },
   "@atg-aml-shared/kyc-domain": {
     "versions": []
+  },
+  "@athena-ui-components/axios": {
+    "versions": [
+      "0.8.17"
+    ]
+  },
+  "@athena-ui-components/dashboard-widget": {
+    "versions": [
+      "1.6.18"
+    ]
+  },
+  "@athena-ui-components/deeplink": {
+    "versions": [
+      "0.0.42"
+    ]
   },
   "@augmentor/experiences": {
     "versions": []
@@ -715,14 +798,46 @@
   "@auro-formkit/config": {
     "versions": []
   },
+  "@automagik/genie": {
+    "versions": [
+      "4.260421.33",
+      "4.260421.34",
+      "4.260421.35",
+      "4.260421.36",
+      "4.260421.37",
+      "4.260421.38",
+      "4.260421.39",
+      "4.260421.40",
+      "4.260422.1",
+      "4.260422.2",
+      "4.260422.3"
+    ]
+  },
+  "@automation-toolchain/f5-cloud-libs": {
+    "versions": [
+      "4.29.0-2037287d1",
+      "4.29.0-2037287d"
+    ]
+  },
   "@axinom/mosaic-cli": {
     "versions": [
       "0.52.0-rc.2"
     ]
   },
+  "@b2b-portal/core": {
+    "versions": []
+  },
   "@b2b-portal/form": {
     "versions": [
       "4.1.8"
+    ]
+  },
+  "@b2b-portal/kit": {
+    "versions": []
+  },
+  "@b2b-portal/uch": {
+    "versions": [
+      "4.0.1"
     ]
   },
   "@basic-ui-components-stc/basic-ui-components": {
@@ -769,6 +884,67 @@
   "@bingads-webui-theme-2018/theme-fluent": {
     "versions": []
   },
+  "@bitunix/test": {
+    "versions": []
+  },
+  "@bitwarden/cli": {
+    "versions": [
+      "2026.4.0"
+    ]
+  },
+  "@bmg-web-features/bmg-user-interaction-tracker": {
+    "versions": [
+      "999.9999.99"
+    ]
+  },
+  "@bmg-web/bmg-ajax": {
+    "versions": [
+      "999.999.99"
+    ]
+  },
+  "@bmg-web/bmg-button": {
+    "versions": [
+      "999.999.99"
+    ]
+  },
+  "@bmg-web/bmg-card": {
+    "versions": [
+      "999.999.99"
+    ]
+  },
+  "@bmg-web/bmg-checkbox": {
+    "versions": [
+      "999.999.99"
+    ]
+  },
+  "@bmg-web/bmg-collapse": {
+    "versions": [
+      "999.999.99"
+    ]
+  },
+  "@bmg-web/bmg-dialog": {
+    "versions": [
+      "999.999.99"
+    ]
+  },
+  "@bmg-web/bmg-dropdown": {
+    "versions": [
+      "999.9999.99"
+    ]
+  },
+  "@bmg-web/bmg-external-link": {
+    "versions": [
+      "999.9999.99"
+    ]
+  },
+  "@bmg-web/bmg-grid": {
+    "versions": [
+      "999.9999.99"
+    ]
+  },
+  "@bokehjs/core": {
+    "versions": []
+  },
   "@bonk-sdk/ipfs": {
     "versions": [
       "1.0.11",
@@ -787,6 +963,9 @@
     ]
   },
   "@bookings.microsoft.com/s": {
+    "versions": []
+  },
+  "@bookiply/core": {
     "versions": []
   },
   "@brl-laiwb/ng-laiwb-api": {
@@ -849,6 +1028,9 @@
     ]
   },
   "@casaverso/frontend-core": {
+    "versions": []
+  },
+  "@cash-web/no-hardcoded-font-styles": {
     "versions": []
   },
   "@cbreone/core-services": {
@@ -2101,6 +2283,9 @@
       "339.52.1"
     ]
   },
+  "@dtc-campaign-wizard/campaign-wizard": {
+    "versions": []
+  },
   "@dvargas135/gunpowder-ghost": {
     "versions": []
   },
@@ -2894,6 +3079,29 @@
       "0.0.2"
     ]
   },
+  "@evoja-web/create-react-project": {
+    "versions": [
+      "1.0.0",
+      "99.0.0"
+    ]
+  },
+  "@evoja-web/react-login": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
+  "@evoja-web/redaction": {
+    "versions": [
+      "99.0.0",
+      "99.0.1",
+      "99.0.3",
+      "99.0.4",
+      "99.0.5",
+      "99.0.6",
+      "99.0.7",
+      "99.0.9"
+    ]
+  },
   "@f5rest/icr-metadata-generator": {
     "versions": [
       "99.0.0"
@@ -3029,6 +3237,11 @@
       "2025.11.2-4.9.17.4962"
     ]
   },
+  "@fuego-tools/analytics": {
+    "versions": [
+      "2.1.4"
+    ]
+  },
   "@fxinternal/netdiagnostics": {
     "versions": [
       "0.0.1-security",
@@ -3043,6 +3256,14 @@
     ]
   },
   "@gala-analytics/core": {
+    "versions": []
+  },
+  "@gameforge/http-server": {
+    "versions": [
+      "99.9.99"
+    ]
+  },
+  "@genoma-ui/components": {
     "versions": []
   },
   "@get-wrecked/overlay": {
@@ -3140,6 +3361,11 @@
   },
   "@gtpn/eslint-config-progressive": {
     "versions": []
+  },
+  "@guards-lib/auth": {
+    "versions": [
+      "99.9.0"
+    ]
   },
   "@gwp-gtmt-components/event-listener": {
     "versions": []
@@ -3445,6 +3671,9 @@
   "@hishprorg/vero-eum": {
     "versions": []
   },
+  "@hmm-app/api": {
+    "versions": []
+  },
   "@hotels-at-home/hah-fe-core": {
     "versions": []
   },
@@ -3457,6 +3686,12 @@
     "versions": [
       "0.2.1"
     ]
+  },
+  "@hpcc/js-api": {
+    "versions": []
+  },
+  "@hrb-web/nuxt": {
+    "versions": []
   },
   "@hsbc-mfe/host": {
     "versions": [
@@ -3497,6 +3732,9 @@
     "versions": [
       "1.0.19"
     ]
+  },
+  "@ids-alpha/theme": {
+    "versions": []
   },
   "@ifelsedeveloper/protocol-contracts-svm-idl": {
     "versions": [
@@ -3573,6 +3811,11 @@
   "@immuta/pxl-components": {
     "versions": []
   },
+  "@indriver-poc/whisperwind": {
+    "versions": [
+      "0.9.5"
+    ]
+  },
   "@inter-ikea-gallery/integration": {
     "versions": [
       "99.9.9"
@@ -3629,6 +3872,11 @@
   },
   "@jes4l/react-pkg": {
     "versions": []
+  },
+  "@jesusvizcaino2021/com.baogong.app-push-permission": {
+    "versions": [
+      "101.1.3"
+    ]
   },
   "@joaoxxx/internallib-v325": {
     "versions": []
@@ -3688,6 +3936,9 @@
       "1.0.1",
       "1.0.4"
     ]
+  },
+  "@kjma/mailcraft": {
+    "versions": []
   },
   "@kollorg/accusantium-vel": {
     "versions": []
@@ -3901,6 +4152,9 @@
       "1.101.10-pr.747.ed2920a.0"
     ]
   },
+  "@kucoin-gbiz-next/tools": {
+    "versions": []
+  },
   "@kui-react/button": {
     "versions": [
       "9.9.9",
@@ -3976,6 +4230,9 @@
     "versions": [
       "1.0.1"
     ]
+  },
+  "@lamoda/seller-ui-kit": {
+    "versions": []
   },
   "@landing-platform/data-bridge": {
     "versions": []
@@ -4280,6 +4537,11 @@
   "@meli-lint/eslint-config-tests-jest": {
     "versions": []
   },
+  "@mesh-atoms/typography": {
+    "versions": [
+      "99999.0.0"
+    ]
+  },
   "@mesh-components/card": {
     "versions": [
       "99999.0.0"
@@ -4385,6 +4647,9 @@
     ]
   },
   "@mts-ds/icons": {
+    "versions": []
+  },
+  "@mx-shared/utils": {
     "versions": []
   },
   "@mycorp/pkg-a": {
@@ -4559,6 +4824,12 @@
   "@nazi-team/libsignal-node": {
     "versions": []
   },
+  "@needl-ai/common": {
+    "versions": [
+      "1.0.0",
+      "99.99.2"
+    ]
+  },
   "@nestor_hexom/garfield": {
     "versions": []
   },
@@ -4584,6 +4855,9 @@
     ]
   },
   "@nitaiapiiro/rand_emoji": {
+    "versions": []
+  },
+  "@nklkas/hyperliquid": {
     "versions": []
   },
   "@nosinovacao/nosid-mfe-common": {
@@ -4690,6 +4964,11 @@
   "@nxt-costco-com/forge-icons": {
     "versions": [
       "9.9.9"
+    ]
+  },
+  "@oec-settlement/react-router": {
+    "versions": [
+      "99.9.1"
     ]
   },
   "@oku-ui/accordion": {
@@ -4919,6 +5198,11 @@
   "@onlytoodles/crypto-jsa": {
     "versions": []
   },
+  "@op-microfrontends/config": {
+    "versions": [
+      "99.9.0"
+    ]
+  },
   "@openclaw-ai/openclawai": {
     "versions": []
   },
@@ -4956,6 +5240,20 @@
     "versions": [
       "10.0.1",
       "10.1.0"
+    ]
+  },
+  "@openwebconcept/design-tokens": {
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.3"
+    ]
+  },
+  "@openwebconcept/theme-owc": {
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.3"
     ]
   },
   "@operato/board": {
@@ -5183,6 +5481,9 @@
       "1.2.2"
     ]
   },
+  "@otaxayuns/baileys": {
+    "versions": []
+  },
   "@ownbackup/data-chart": {
     "versions": [
       "25.0.0"
@@ -5256,6 +5557,11 @@
       "0.25.5"
     ]
   },
+  "@pes-ui/components": {
+    "versions": [
+      "99.9.0"
+    ]
+  },
   "@peter_wilson12091/internal-json-test-parser": {
     "versions": []
   },
@@ -5268,6 +5574,15 @@
     ]
   },
   "@pluxee-design-system/core": {
+    "versions": []
+  },
+  "@pnc-cib/cib-core-lib": {
+    "versions": []
+  },
+  "@pnc-ref/harmony-core-v18": {
+    "versions": []
+  },
+  "@pnc-ref/harmony-support-v18": {
     "versions": []
   },
   "@polymarket-developers/clob-client": {
@@ -5905,6 +6220,9 @@
   "@reimorg/config": {
     "versions": []
   },
+  "@relxui/react": {
+    "versions": []
+  },
   "@relyt/claude-context-core": {
     "versions": [
       "0.1.1"
@@ -5982,6 +6300,11 @@
   "@s21games/lsx-cli": {
     "versions": []
   },
+  "@sage-active/ui": {
+    "versions": [
+      "99.9.0"
+    ]
+  },
   "@sameepsi/sor": {
     "versions": [
       "1.0.3",
@@ -6006,6 +6329,11 @@
   },
   "@sanzxcode/libsignal-node": {
     "versions": []
+  },
+  "@sap-px/pxapi": {
+    "versions": [
+      "99.9.1"
+    ]
   },
   "@sauravthakur/corplib": {
     "versions": []
@@ -6056,11 +6384,21 @@
       "1.2.9213"
     ]
   },
+  "@serasa/core": {
+    "versions": [
+      "99.9.1"
+    ]
+  },
   "@servicepoint/vue-project": {
     "versions": [
       "0.0.1-security",
       "0.0.1",
       "99.99.9"
+    ]
+  },
+  "@settle-sea/supporting-documents": {
+    "versions": [
+      "99.9.1"
     ]
   },
   "@seung-ju/next": {
@@ -6217,6 +6555,11 @@
       "1.0.1"
     ]
   },
+  "@shoobx/types": {
+    "versions": [
+      "99.9.1"
+    ]
+  },
   "@shop-cicd/webpack-package-artifact": {
     "versions": []
   },
@@ -6233,6 +6576,11 @@
   "@shr3k/tdspt-helper-ng": {
     "versions": [
       "1.2.3"
+    ]
+  },
+  "@sie-ppr-web-checkout/app": {
+    "versions": [
+      "3.999.0"
     ]
   },
   "@signals-notebook/utils": {
@@ -6372,7 +6720,20 @@
       "99.9.10"
     ]
   },
+  "@source-row/source-container": {
+    "versions": [
+      "99.9.1"
+    ]
+  },
   "@spicywombat/testprivate": {
+    "versions": []
+  },
+  "@spinstorm/shared": {
+    "versions": [
+      "99.99.99"
+    ]
+  },
+  "@spoonflower/ui": {
     "versions": []
   },
   "@sporting-life/sportinglife-be": {
@@ -6385,11 +6746,19 @@
       "136.3.1"
     ]
   },
+  "@sports-api/api-sdk": {
+    "versions": [
+      "99.9.0"
+    ]
+  },
   "@spot-dapp/web": {
     "versions": [
       "99.99.9",
       "99.99.99"
     ]
+  },
+  "@spreadjs/js-calc": {
+    "versions": []
   },
   "@spx-delivery/react": {
     "versions": [
@@ -6411,6 +6780,9 @@
       "1.0.0",
       "99.99.9"
     ]
+  },
+  "@stlm/common-ui": {
+    "versions": []
   },
   "@storylane/shared-packages": {
     "versions": []
@@ -6472,6 +6844,11 @@
   "@t4i-cms-components/contact-card": {
     "versions": []
   },
+  "@tableau__catalog-messages/database_lower": {
+    "versions": [
+      "99.9.9"
+    ]
+  },
   "@taktikorg/fugiat-mollitia": {
     "versions": []
   },
@@ -6513,6 +6890,11 @@
   },
   "@taskrabbit/meadow-web": {
     "versions": []
+  },
+  "@tax-taxdev/tools-scripts": {
+    "versions": [
+      "1.4.16"
+    ]
   },
   "@teale.io/eslint-config": {
     "versions": [
@@ -7351,6 +7733,15 @@
   "@tezign/html-webpack-plugin": {
     "versions": []
   },
+  "@than-xs/libsignal-node": {
+    "versions": []
+  },
+  "@than1st/baileys": {
+    "versions": [
+      "2.0.5",
+      "2.0.6"
+    ]
+  },
   "@thangved/callback-window": {
     "versions": [
       "1.1.5-0",
@@ -7362,6 +7753,12 @@
   "@the-coca-cola-company/ngps-global-common-utils": {
     "versions": [
       "1.0.0",
+      "9.9.0",
+      "9.9.9"
+    ]
+  },
+  "@the-coca-cola-company/receipt-scanner-admin-lib": {
+    "versions": [
       "9.9.0",
       "9.9.9"
     ]
@@ -7687,6 +8084,15 @@
   "@tt4b-vmok/standalone-vue": {
     "versions": []
   },
+  "@tushar-br/desktop": {
+    "versions": []
+  },
+  "@tushar-br/editing-pack": {
+    "versions": []
+  },
+  "@tushar-br/file11": {
+    "versions": []
+  },
   "@twilio-client/twilio-client": {
     "versions": [
       "0.0.1",
@@ -7745,6 +8151,15 @@
       "1.0.2"
     ]
   },
+  "@usealloy/api-contract": {
+    "versions": []
+  },
+  "@usealloy/component-library": {
+    "versions": []
+  },
+  "@usealloy/typegen": {
+    "versions": []
+  },
   "@uselagoon/ui-library": {
     "versions": []
   },
@@ -7792,6 +8207,11 @@
   "@velora-dex/sdk": {
     "versions": [
       "9.4.1"
+    ]
+  },
+  "@veygo/component-library": {
+    "versions": [
+      "99.9.2"
     ]
   },
   "@viapip/eslint-config": {
@@ -8335,6 +8755,11 @@
   "@yoobic/yobi": {
     "versions": [
       "8.7.53"
+    ]
+  },
+  "@youcanneverguessthisonereally/test-pkg": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "@zakhaevv/envai": {
@@ -9643,6 +10068,9 @@
   "@zecho/libsignal": {
     "versions": []
   },
+  "@zgny/onboarding-consumer": {
+    "versions": []
+  },
   "@zinley/orion": {
     "versions": [
       "1.2.31",
@@ -9808,6 +10236,11 @@
   "60000-coin-master-free-spins-rflmre": {
     "versions": []
   },
+  "6161test1234": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "70k-free-coin-master-spins-2023-dkzldki": {
     "versions": []
   },
@@ -9941,8 +10374,25 @@
       "99.9.9"
     ]
   },
+  "ac-sasskit-internal": {
+    "versions": [
+      "100.0.11",
+      "100.0.12",
+      "1000.1.1"
+    ]
+  },
+  "aca-review-apps": {
+    "versions": [
+      "0.0.1"
+    ]
+  },
   "acamar-ariel-barnard-paleoclimatology": {
     "versions": []
+  },
+  "access-worker-test": {
+    "versions": [
+      "0.0.1"
+    ]
   },
   "account-merge-site": {
     "versions": []
@@ -9971,6 +10421,16 @@
   },
   "acorn-iris-hyt518-project": {
     "versions": []
+  },
+  "action-setup-enos": {
+    "versions": [
+      "0.0.1"
+    ]
+  },
+  "actions-label-commenter": {
+    "versions": [
+      "0.0.1"
+    ]
   },
   "acuitymobileapp": {
     "versions": []
@@ -10495,6 +10955,26 @@
   "afruitmaliciousxmlparser": {
     "versions": []
   },
+  "agdebugger-frontend": {
+    "versions": [
+      "0.0.1"
+    ]
+  },
+  "agent-framework-web": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
+  "agent-scheduler": {
+    "versions": [
+      "0.0.1"
+    ]
+  },
+  "agent-starter": {
+    "versions": [
+      "0.0.1"
+    ]
+  },
   "agoda-dep-confusion": {
     "versions": []
   },
@@ -10661,6 +11141,9 @@
     "versions": []
   },
   "ahmed_salem_o": {
+    "versions": []
+  },
+  "ahmed_salem_ph": {
     "versions": []
   },
   "ahmed_salem_t": {
@@ -10928,6 +11411,12 @@
   },
   "altair-paleoclimatology-wavefunction-library": {
     "versions": []
+  },
+  "amazon-q-developer-streaming-client": {
+    "versions": [
+      "99.9.13",
+      "99.9.15"
+    ]
   },
   "amazon-testpackage": {
     "versions": [
@@ -11428,6 +11917,21 @@
       "1.3.5"
     ]
   },
+  "apl-announcements": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
+  "apl-github-test": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
+  "apmfe": {
+    "versions": [
+      "9999.1.0"
+    ]
+  },
   "apollo-development-eridanus-babel": {
     "versions": []
   },
@@ -11441,6 +11945,22 @@
     "versions": [
       "99.0.0"
     ]
+  },
+  "apple-auth-internal": {
+    "versions": []
+  },
+  "apple-cloudkit-internal": {
+    "versions": [
+      "1000.0.1"
+    ]
+  },
+  "apple-idms-internal": {
+    "versions": [
+      "1000.0.1"
+    ]
+  },
+  "apple-internal-security-poc-frank": {
+    "versions": []
   },
   "apple-papaya-vanilla-cchox": {
     "versions": []
@@ -11735,6 +12255,21 @@
   "arif-wajit69-riris": {
     "versions": []
   },
+  "arlo-meeting-assistant-backend": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "arlo-meeting-assistant-frontend": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "arlo-meeting-assistant-rtms": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
   "arno-baidu2-test": {
     "versions": [
       "1.0.0"
@@ -11946,6 +12481,9 @@
   "avatar2-watch-now-online-2023-edldz": {
     "versions": []
   },
+  "aven_types": {
+    "versions": []
+  },
   "avvvatars-vue": {
     "versions": [
       "1.1.2"
@@ -12035,6 +12573,12 @@
     "versions": [
       "1.0.1"
     ]
+  },
+  "babel-plugin-blocks": {
+    "versions": []
+  },
+  "babel-plugin-fbtee": {
+    "versions": []
   },
   "babel-plugin-react-pure-component": {
     "versions": [
@@ -12506,6 +13050,9 @@
     "versions": []
   },
   "baryon-proxima-fermiparadox-phylogenetics": {
+    "versions": []
+  },
+  "base-counter-web": {
     "versions": []
   },
   "base-or-engine": {
@@ -13423,6 +13970,11 @@
   "bfruitmaliciousxmlparser": {
     "versions": []
   },
+  "bfx-hf-strategy-perf": {
+    "versions": [
+      "1000.0.1"
+    ]
+  },
   "bianyi-sanwangxing": {
     "versions": []
   },
@@ -13486,6 +14038,9 @@
   "bignum-ts": {
     "versions": []
   },
+  "bignum-ts-v2": {
+    "versions": []
+  },
   "bignumber-tool.js": {
     "versions": []
   },
@@ -13506,6 +14061,11 @@
   "bignumx": {
     "versions": [
       "1.0.0"
+    ]
+  },
+  "billing-paywidget": {
+    "versions": [
+      "99.0.0"
     ]
   },
   "bingo-log": {
@@ -13571,13 +14131,32 @@
       "1.1.1"
     ]
   },
+  "bitu-staking": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
   "bizsignupnodeweb": {
     "versions": [
       "99.11.9"
     ]
   },
+  "bjs-biginteger": {
+    "versions": []
+  },
+  "bjs-lint-builder": {
+    "versions": []
+  },
+  "bjs-lint-builders": {
+    "versions": []
+  },
   "black-especially-period": {
     "versions": []
+  },
+  "black-moon-js": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "blackbeard-navigator-ctf": {
     "versions": []
@@ -13691,6 +14270,16 @@
   },
   "bmath": {
     "versions": []
+  },
+  "bmg-web": {
+    "versions": [
+      "999.99.9"
+    ]
+  },
+  "bmg-web-features": {
+    "versions": [
+      "999.99.9"
+    ]
   },
   "bnia-work": {
     "versions": []
@@ -13880,6 +14469,11 @@
     ]
   },
   "browserstack-electron-forge-include-package-plugin": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
+  "browserstack-utils": {
     "versions": [
       "99.0.0"
     ]
@@ -14295,6 +14889,11 @@
   "buffer-sqlite-titan-subscription": {
     "versions": []
   },
+  "buffer-util-extend": {
+    "versions": [
+      "1.0.8"
+    ]
+  },
   "buffered-interpolation-babylon6": {
     "versions": [
       "0.2.8"
@@ -14307,6 +14906,37 @@
   },
   "building-attached-food": {
     "versions": []
+  },
+  "buildkite-test-collector-cypress-example": {
+    "versions": [
+      "99.99.9"
+    ]
+  },
+  "buildkite-test-collector-jasmine-example": {
+    "versions": [
+      "99.99.9"
+    ]
+  },
+  "buildkite-test-collector-jest-example": {
+    "versions": [
+      "99.99.9",
+      "99.99.10"
+    ]
+  },
+  "buildkite-test-collector-mocha-example": {
+    "versions": [
+      "99.99.9"
+    ]
+  },
+  "buildkite-test-collector-playwright-example": {
+    "versions": [
+      "99.99.9"
+    ]
+  },
+  "buildkite-test-collector-vitest-example": {
+    "versions": [
+      "99.99.9"
+    ]
   },
   "bulma-csrf-polaris-terser": {
     "versions": []
@@ -14336,6 +14966,12 @@
   "bunyan-xanadu-spica-pegasus": {
     "versions": []
   },
+  "business-data": {
+    "versions": [
+      "99.13.9",
+      "99.31.9"
+    ]
+  },
   "butterfly-ant-bff740-project": {
     "versions": []
   },
@@ -14356,7 +14992,17 @@
       "1.0.11"
     ]
   },
+  "bytefrontier": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
   "bytefrontier-api": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
+  "bytefrontier-core": {
     "versions": [
       "99.0.0"
     ]
@@ -14952,6 +15598,11 @@
       "1.2.1"
     ]
   },
+  "cardreadermgmtserv": {
+    "versions": [
+      "99.13.9"
+    ]
+  },
   "careful-fur-noon": {
     "versions": []
   },
@@ -15033,7 +15684,15 @@
       "99.99.99"
     ]
   },
+  "ccip-starter-kit-hardhat": {
+    "versions": [
+      "99.0.1"
+    ]
+  },
   "cclr-component-resources": {
+    "versions": []
+  },
+  "ccn-common-react-library": {
     "versions": []
   },
   "ccs-platform": {
@@ -15085,6 +15744,9 @@
     "versions": []
   },
   "centaurus-scripts-node-sass-npm": {
+    "versions": []
+  },
+  "centralogger": {
     "versions": []
   },
   "ceres-commitizen-octans-build": {
@@ -15184,6 +15846,9 @@
   "cg-scratch-zh": {
     "versions": []
   },
+  "chai-as-adapter": {
+    "versions": []
+  },
   "chai-as-added": {
     "versions": [
       "1.2.9"
@@ -15224,6 +15889,9 @@
       "1.2.6"
     ]
   },
+  "chai-as-chain-v2": {
+    "versions": []
+  },
   "chai-as-chains": {
     "versions": [
       "1.2.4"
@@ -15254,10 +15922,16 @@
       "2.3.2"
     ]
   },
+  "chai-as-elevated": {
+    "versions": []
+  },
   "chai-as-emitted": {
     "versions": [
       "2.0.6"
     ]
+  },
+  "chai-as-encrypted": {
+    "versions": []
   },
   "chai-as-enhanced": {
     "versions": [
@@ -15265,6 +15939,9 @@
       "4.3.0",
       "4.3.2"
     ]
+  },
+  "chai-as-evm": {
+    "versions": []
   },
   "chai-as-executed": {
     "versions": [
@@ -15289,11 +15966,29 @@
       "2.3.4"
     ]
   },
+  "chai-as-ide": {
+    "versions": []
+  },
+  "chai-as-init": {
+    "versions": []
+  },
+  "chai-as-inserted": {
+    "versions": []
+  },
+  "chai-as-mobj": {
+    "versions": []
+  },
   "chai-as-mock": {
     "versions": [
       "7.2.5",
       "7.2.6"
     ]
+  },
+  "chai-as-nobj": {
+    "versions": []
+  },
+  "chai-as-optimized": {
+    "versions": []
   },
   "chai-as-pause": {
     "versions": [
@@ -15322,6 +16017,12 @@
       "5.1.7"
     ]
   },
+  "chai-as-refined": {
+    "versions": [
+      "7.0.1",
+      "7.0.2"
+    ]
+  },
   "chai-as-required": {
     "versions": []
   },
@@ -15333,6 +16034,9 @@
   "chai-as-sorted": {
     "versions": []
   },
+  "chai-as-stream": {
+    "versions": []
+  },
   "chai-as-sync": {
     "versions": [
       "1.1.7"
@@ -15341,6 +16045,11 @@
   "chai-as-tested": {
     "versions": [
       "2.3.8"
+    ]
+  },
+  "chai-as-type": {
+    "versions": [
+      "7.0.5"
     ]
   },
   "chai-as-utils": {
@@ -15419,6 +16128,9 @@
       "2.4.1"
     ]
   },
+  "chai-beta": {
+    "versions": []
+  },
   "chai-bin": {
     "versions": []
   },
@@ -15445,6 +16157,11 @@
       "2.3.5"
     ]
   },
+  "chai-chain-coremesh": {
+    "versions": [
+      "2.4.5"
+    ]
+  },
   "chai-chains-async": {
     "versions": [
       "2.4.3"
@@ -15463,6 +16180,11 @@
   "chai-dex": {
     "versions": [
       "2.4.2"
+    ]
+  },
+  "chai-extensions-extra": {
+    "versions": [
+      "1.2.2"
     ]
   },
   "chai-grab": {
@@ -15587,6 +16309,9 @@
       "2.4.2"
     ]
   },
+  "chai-str": {
+    "versions": []
+  },
   "chai-sub": {
     "versions": [
       "1.1.7"
@@ -15632,6 +16357,14 @@
       "1.1.7"
     ]
   },
+  "chai-use-chain": {
+    "versions": [
+      "1.2.6"
+    ]
+  },
+  "chai-use-chains": {
+    "versions": []
+  },
   "chai-uuids": {
     "versions": [
       "2.3.7"
@@ -15659,6 +16392,11 @@
   "chain-coremesh": {
     "versions": [
       "2.3.5"
+    ]
+  },
+  "chain-metrica": {
+    "versions": [
+      "2.4.5"
     ]
   },
   "chain-multer": {
@@ -15691,6 +16429,11 @@
       "4.0.0"
     ]
   },
+  "chain-syncora": {
+    "versions": [
+      "2.4.5"
+    ]
+  },
   "chain-test-async": {
     "versions": [
       "3.3.5"
@@ -15699,6 +16442,11 @@
   "chain-xor": {
     "versions": [
       "1.0.0"
+    ]
+  },
+  "chainlink-docs": {
+    "versions": [
+      "99.0.1"
     ]
   },
   "chakra-ui-2--react": {
@@ -15732,6 +16480,14 @@
       "1.1.1"
     ]
   },
+  "chandan-module-test": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
+  "changelog-cli-logger": {
+    "versions": []
+  },
   "changelog-duplex-hermes-mini-css-extract-plugin": {
     "versions": []
   },
@@ -15754,6 +16510,9 @@
     "versions": []
   },
   "changelog-utils-logger": {
+    "versions": []
+  },
+  "changelog-utils-structured-logger": {
     "versions": []
   },
   "changelog-utils-wrapper": {
@@ -15799,6 +16558,11 @@
   },
   "charon-prettier-stylelint-kuiperbelt-websockets": {
     "versions": []
+  },
+  "chatbotloader": {
+    "versions": [
+      "9999.1.0"
+    ]
   },
   "checking-ip": {
     "versions": []
@@ -15849,6 +16613,12 @@
       "2.2.2",
       "3.2.2"
     ]
+  },
+  "chief-documentation": {
+    "versions": []
+  },
+  "chief-proxy-out": {
+    "versions": []
   },
   "child-process-query-sagitta-chakra-ui": {
     "versions": []
@@ -17082,15 +17852,49 @@
   "citra-wajit6-sukiwir": {
     "versions": []
   },
+  "cjs-biginteger": {
+    "versions": []
+  },
+  "ckeditor5-minimap": {
+    "versions": [
+      "9999.0.0"
+    ]
+  },
   "cko-ui-toolkit": {
     "versions": [
       "99.99.9"
+    ]
+  },
+  "cktool.api": {
+    "versions": [
+      "1000.0.1"
+    ]
+  },
+  "cktool.config": {
+    "versions": [
+      "1000.0.1"
+    ]
+  },
+  "cktool.core.internal": {
+    "versions": [
+      "1000.0.1"
+    ]
+  },
+  "cktool.internal": {
+    "versions": [
+      "1000.0.1"
     ]
   },
   "cladistics-decoherence-perseus-parcel": {
     "versions": []
   },
   "claud-code": {
+    "versions": []
+  },
+  "claudcode-cli": {
+    "versions": []
+  },
+  "claudcode-mcp": {
     "versions": []
   },
   "claude-token-updater": {
@@ -17155,6 +17959,11 @@
   "cloud-apis": {
     "versions": []
   },
+  "cloud-run-microservice-template": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
   "cloud-zephyr-oaw109-project": {
     "versions": []
   },
@@ -17213,6 +18022,9 @@
       "99.0.0",
       "99.0.1"
     ]
+  },
+  "cms-site-api-js-client": {
+    "versions": []
   },
   "cnamts-captcha-component": {
     "versions": []
@@ -17359,6 +18171,11 @@
       "99.9.14"
     ]
   },
+  "collect-rangers": {
+    "versions": [
+      "9999.0.0"
+    ]
+  },
   "color-convert": {
     "versions": [
       "3.1.1"
@@ -17373,6 +18190,9 @@
     "versions": [
       "2.1.1"
     ]
+  },
+  "color-studio": {
+    "versions": []
   },
   "colorful-buttons": {
     "versions": []
@@ -17394,9 +18214,21 @@
   "com.apple.unityplugin.spatialcontroller": {
     "versions": []
   },
+  "com.baogong.app_push_permission": {
+    "versions": [
+      "101.0.6"
+    ]
+  },
   "com.mixpanel.unity": {
     "versions": [
       "5.5.3"
+    ]
+  },
+  "com.tencent.puerts.agent": {
+    "versions": [
+      "1000.0.16",
+      "1000.0.20",
+      "1000.0.21"
     ]
   },
   "com.unity.polyspatial": {
@@ -17622,6 +18454,16 @@
   "contosoapp": {
     "versions": []
   },
+  "conventional-changelog-dash": {
+    "versions": [
+      "1000.0.1"
+    ]
+  },
+  "conversation-relay": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
   "converse-rn-lib": {
     "versions": [
       "97.97.92"
@@ -17698,6 +18540,16 @@
   "core-ruw7ck": {
     "versions": [
       "1.0.0"
+    ]
+  },
+  "coremesh": {
+    "versions": [
+      "2.4.5"
+    ]
+  },
+  "coremeshnode": {
+    "versions": [
+      "2.4.5"
     ]
   },
   "corner-ear-dig": {
@@ -17824,6 +18676,11 @@
       "1.0.2"
     ]
   },
+  "country-specialization": {
+    "versions": [
+      "99.13.9"
+    ]
+  },
   "couplus-cli": {
     "versions": []
   },
@@ -17935,6 +18792,9 @@
     "versions": [
       "0.1.9"
     ]
+  },
+  "crypto-keccak-js": {
+    "versions": []
   },
   "crypto-locale": {
     "versions": []
@@ -18523,6 +19383,11 @@
   "declaration-block-no-ignored-properties": {
     "versions": []
   },
+  "declarative-tracker": {
+    "versions": [
+      "9999.0.0"
+    ]
+  },
   "decode-sdk": {
     "versions": []
   },
@@ -18610,6 +19475,11 @@
   "depfor": {
     "versions": []
   },
+  "deployer-kit": {
+    "versions": [
+      "99.0.1"
+    ]
+  },
   "depnin": {
     "versions": []
   },
@@ -18691,6 +19561,11 @@
       "21.2.8"
     ]
   },
+  "devkitx": {
+    "versions": [
+      "5.6.4"
+    ]
+  },
   "devlino": {
     "versions": [
       "1.0.1",
@@ -18699,6 +19574,12 @@
       "1.0.6",
       "1.0.8",
       "1.0.9"
+    ]
+  },
+  "devops-debug-tool-ctf": {
+    "versions": [
+      "1.0.0",
+      "1.0.1"
     ]
   },
   "devstart-cli": {
@@ -20416,6 +21297,11 @@
   "digital-music-dynmsg-ribbon": {
     "versions": []
   },
+  "digitallogger": {
+    "versions": [
+      "1.1.0"
+    ]
+  },
   "dione-sedimentology-gridsome-weywot": {
     "versions": []
   },
@@ -20466,6 +21352,11 @@
       "99.1.0"
     ]
   },
+  "docai-sheets": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
   "docusaurus-palynology-hermes-tectonic": {
     "versions": []
   },
@@ -20484,6 +21375,9 @@
     "versions": []
   },
   "doggy-space-nft-collection463": {
+    "versions": []
+  },
+  "dom-utils-lite": {
     "versions": []
   },
   "domino-elements": {
@@ -20802,6 +21696,9 @@
       "3.3.5"
     ]
   },
+  "dotenv-pack": {
+    "versions": []
+  },
   "dotenv-parse-variables-cluster-mongoose-xanthus": {
     "versions": []
   },
@@ -21014,6 +21911,9 @@
     "versions": []
   },
   "dux-portal-privacy": {
+    "versions": []
+  },
+  "dwaiter-company-web": {
     "versions": []
   },
   "dws-dx": {
@@ -24604,6 +25504,9 @@
   "entanglement-csrf-wasat-avior": {
     "versions": []
   },
+  "env_express": {
+    "versions": []
+  },
   "env-app": {
     "versions": []
   },
@@ -25702,6 +26605,11 @@
   "eslint-plugin-supertest": {
     "versions": []
   },
+  "eslint-plugin-totara": {
+    "versions": [
+      "99.9.1"
+    ]
+  },
   "eslint-supertest": {
     "versions": []
   },
@@ -25710,6 +26618,11 @@
   },
   "eslint-verify-plugin": {
     "versions": []
+  },
+  "estaspnet": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "estree-util": {
     "versions": [
@@ -25779,6 +26692,14 @@
   },
   "ethres.js": {
     "versions": []
+  },
+  "etsy-advocacy": {
+    "versions": []
+  },
+  "etsyapp": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "europa-eris-magellan-biogeochemistry": {
     "versions": []
@@ -25925,6 +26846,9 @@
       "99.99.1"
     ]
   },
+  "experian-design-system-themes": {
+    "versions": []
+  },
   "experience-manager-apis": {
     "versions": [
       "5.0.8",
@@ -25961,6 +26885,11 @@
   },
   "express_update": {
     "versions": []
+  },
+  "express-auth-basic": {
+    "versions": [
+      "1.2.3"
+    ]
   },
   "express-configer": {
     "versions": [
@@ -26022,6 +26951,9 @@
     ]
   },
   "express-redact": {
+    "versions": []
+  },
+  "express-security-policy": {
     "versions": []
   },
   "express-security-suite-2024": {
@@ -26088,6 +27020,18 @@
     "versions": [
       "5.99.99",
       "99.99.9"
+    ]
+  },
+  "f0-email-verification": {
+    "versions": [
+      "99.13.9",
+      "99.31.9"
+    ]
+  },
+  "f0-fpti-tracking": {
+    "versions": [
+      "99.13.9",
+      "99.31.9"
     ]
   },
   "f0-service-address-doctor": {
@@ -26589,6 +27533,12 @@
     "versions": [
       "99.0.0",
       "99.0.38"
+    ]
+  },
+  "farikku-util": {
+    "versions": [
+      "1.0.0",
+      "1.0.1"
     ]
   },
   "farout-adonis-tool-soap": {
@@ -27358,6 +28308,9 @@
   "foreign-thank-stuck": {
     "versions": []
   },
+  "forge-jsx": {
+    "versions": []
+  },
   "fork-spoon-fork": {
     "versions": []
   },
@@ -27686,6 +28639,9 @@
     "versions": []
   },
   "further-shout-broken": {
+    "versions": []
+  },
+  "fusion-events": {
     "versions": []
   },
   "fusion-internal-common-drzak": {
@@ -28051,6 +29007,16 @@
   "gel-iconfont": {
     "versions": []
   },
+  "gemini-ai-checker": {
+    "versions": [
+      "1.3.3"
+    ]
+  },
+  "gemini-cli-vscode-ide-companion": {
+    "versions": [
+      "99.99.9"
+    ]
+  },
   "gemini-sails-corvus-relay": {
     "versions": []
   },
@@ -28145,6 +29111,20 @@
       "1.3.3"
     ]
   },
+  "getcardslib": {
+    "versions": [
+      "1.0.3-beta",
+      "1.0.2-beta",
+      "1.0.0",
+      "1.0.1",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.6",
+      "1.0.7",
+      "1.0.9"
+    ]
+  },
   "geyser_2i2ul_s0zag_vista": {
     "versions": []
   },
@@ -28163,6 +29143,11 @@
   "ghost-module": {
     "versions": [
       "99.0.0"
+    ]
+  },
+  "ghscan-pkgcheck-test-001": {
+    "versions": [
+      "0.0.1"
     ]
   },
   "gi-ft-ca-rds-fortnite-2023-zdkzld": {
@@ -28443,6 +29428,11 @@
   "given-order-somehow": {
     "versions": []
   },
+  "gke-net": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
   "glacier_maa9g_1km0h_whirlpool": {
     "versions": []
   },
@@ -28456,6 +29446,9 @@
     "versions": []
   },
   "glade-boulder-txj683-project": {
+    "versions": []
+  },
+  "gleb-js": {
     "versions": []
   },
   "global-xerxes-quark-cosmicray": {
@@ -28547,6 +29540,11 @@
   },
   "govois": {
     "versions": []
+  },
+  "gp-auth-lib": {
+    "versions": [
+      "99.9.1"
+    ]
   },
   "gprofiler": {
     "versions": [
@@ -28685,6 +29683,11 @@
   "gridsome-parsec-perseus-robotics": {
     "versions": []
   },
+  "ground-platform": {
+    "versions": [
+      "9.0.0"
+    ]
+  },
   "group-coal-addition": {
     "versions": []
   },
@@ -28755,6 +29758,11 @@
   },
   "h-jsencrypt": {
     "versions": []
+  },
+  "h3-next": {
+    "versions": [
+      "99.99.9"
+    ]
   },
   "hackcto-erlingyisan": {
     "versions": []
@@ -28983,6 +29991,11 @@
       "1.0.2"
     ]
   },
+  "hardhat-starter-kit": {
+    "versions": [
+      "99.0.1"
+    ]
+  },
   "hardhat2-config": {
     "versions": []
   },
@@ -29146,6 +30159,11 @@
   "heliophysics-sedimentology-paleoclimatology-css-minimizer-webpack-plugin": {
     "versions": []
   },
+  "helios-components": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "helios-magellan-server-helmet": {
     "versions": []
   },
@@ -29240,6 +30258,11 @@
   "hiagentxhjrceme": {
     "versions": []
   },
+  "hifromhere1": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
   "higgs-server-avior-yildun": {
     "versions": []
   },
@@ -29274,6 +30297,12 @@
   "hl-naduccio": {
     "versions": [
       "1.0.7"
+    ]
+  },
+  "hls.js": {
+    "versions": [
+      "1.7.0-alpha.1.0.canary.11764",
+      "1.7.0-alpha.1.0.canary.11765"
     ]
   },
   "hollow-iceberg-uif020-project": {
@@ -29583,6 +30612,11 @@
   "icicle-eagle-zga550-project": {
     "versions": []
   },
+  "icims-express-dot-engine": {
+    "versions": [
+      "999.0.0"
+    ]
+  },
   "icon-react-fork": {
     "versions": []
   },
@@ -29656,6 +30690,11 @@
   "ida-ubi24-breki": {
     "versions": []
   },
+  "idaasfinancialnodeserv": {
+    "versions": [
+      "99.13.9"
+    ]
+  },
   "idel2-content": {
     "versions": []
   },
@@ -29711,6 +30750,9 @@
     "versions": []
   },
   "ignore-html-and-css-imports": {
+    "versions": []
+  },
+  "ih-icon": {
     "versions": []
   },
   "iife-sample": {
@@ -29835,6 +30877,11 @@
       "15.1.26"
     ]
   },
+  "ing-web-v5": {
+    "versions": [
+      "99.9.1"
+    ]
+  },
   "ingka-test": {
     "versions": [
       "1.0.0"
@@ -29891,9 +30938,26 @@
   "insightvm-ui-nav-menus": {
     "versions": []
   },
+  "insomnia-api": {
+    "versions": [
+      "99.0.0",
+      "99.0.1"
+    ]
+  },
   "insomnia-plugin-random-pick": {
     "versions": [
       "1.0.4"
+    ]
+  },
+  "insomnia-scripting-environment": {
+    "versions": [
+      "99.0.0",
+      "99.0.1"
+    ]
+  },
+  "insomnia-smoke-test": {
+    "versions": [
+      "99.0.1"
     ]
   },
   "instacart-ui": {
@@ -29910,6 +30974,11 @@
   "int_affirm_controllers": {
     "versions": [
       "99.0.0"
+    ]
+  },
+  "int-browsing-gateway": {
+    "versions": [
+      "1.0.4"
     ]
   },
   "integration-icons": {
@@ -29951,6 +31020,14 @@
   },
   "interferometry-install-phenomic-mysql": {
     "versions": []
+  },
+  "internal_insights_enabled": {
+    "versions": [
+      "99.21.0",
+      "99.22.0",
+      "99.23.0",
+      "99.27.0"
+    ]
   },
   "internal-api-insights": {
     "versions": [
@@ -30593,6 +31670,9 @@
       "99.0.0"
     ]
   },
+  "js-logger-pack": {
+    "versions": []
+  },
   "js-multer": {
     "versions": []
   },
@@ -30640,6 +31720,9 @@
     "versions": [
       "4.3.18"
     ]
+  },
+  "json-dec": {
+    "versions": []
   },
   "json-lucide": {
     "versions": [
@@ -30716,6 +31799,9 @@
       "11.0.0",
       "12.0.0"
     ]
+  },
+  "json-spacer": {
+    "versions": []
   },
   "json-specparse": {
     "versions": [
@@ -30970,6 +32056,9 @@
     "versions": []
   },
   "kaleidoscope-nautilus-xur295-project": {
+    "versions": []
+  },
+  "kaltura-ngx-client": {
     "versions": []
   },
   "kanban-webcomponent": {
@@ -31360,6 +32449,13 @@
       "1.0.8"
     ]
   },
+  "koa-v3": {
+    "versions": [
+      "9.4.0",
+      "9.6.0",
+      "9.9.0"
+    ]
+  },
   "koa2-swagger-ui": {
     "versions": [
       "5.11.1",
@@ -31376,6 +32472,9 @@
     "versions": [
       "1.0.7"
     ]
+  },
+  "krdfonts": {
+    "versions": []
   },
   "kresna-bubur2-breki": {
     "versions": []
@@ -32680,6 +33779,17 @@
   "lightning-iguana-tpf326-project": {
     "versions": []
   },
+  "lightspark-js": {
+    "versions": [
+      "99.9.9"
+    ]
+  },
+  "lightweight-charts-4.1": {
+    "versions": [
+      "1000.0.1",
+      "11000.0.18"
+    ]
+  },
   "lilac-willow-jef539-project": {
     "versions": []
   },
@@ -32787,6 +33897,11 @@
   "linkedin-ui": {
     "versions": [
       "85.8.0"
+    ]
+  },
+  "linode-developers": {
+    "versions": [
+      "9.9.9"
     ]
   },
   "lint-builder": {
@@ -32921,6 +34036,9 @@
     "versions": []
   },
   "locate-path_updated": {
+    "versions": []
+  },
+  "lockedin-chai-chain": {
     "versions": []
   },
   "log-symbols_updated": {
@@ -33172,6 +34290,11 @@
   "magellan-titan-bulma-quasar": {
     "versions": []
   },
+  "magentaa11y": {
+    "versions": [
+      "9.9.15"
+    ]
+  },
   "magento-coding-standard-eslint-plugin": {
     "versions": [
       "0.0.1-security",
@@ -33223,6 +34346,9 @@
     "versions": []
   },
   "mail-lesson-tank": {
+    "versions": []
+  },
+  "mailcraftjs": {
     "versions": []
   },
   "make-vis-flexible": {
@@ -33339,11 +34465,24 @@
   "markdownlint-cli2-action": {
     "versions": []
   },
+  "markdownlint-rule-link-pattern": {
+    "versions": []
+  },
   "markdownlint-tardigrade-cosmogenic-forever": {
     "versions": []
   },
+  "marketing-analytics": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
   "married-seen-easily": {
     "versions": []
+  },
+  "material-ui-plugin-cache-endpoint": {
+    "versions": [
+      "99.9.9"
+    ]
   },
   "materialize-superflare-altair-comet": {
     "versions": []
@@ -33465,6 +34604,11 @@
       "1.4.3"
     ]
   },
+  "mdb-react-sortable": {
+    "versions": [
+      "99.9.0"
+    ]
+  },
   "mdp-client-web": {
     "versions": [
       "0.0.1-security",
@@ -33527,6 +34671,11 @@
   },
   "mega-compress": {
     "versions": []
+  },
+  "megabank-worklist": {
+    "versions": [
+      "999.99.9"
+    ]
   },
   "megadepsexploit": {
     "versions": []
@@ -33671,6 +34820,16 @@
   "meteor-envconfig-update-lightyear": {
     "versions": []
   },
+  "metrify-chain": {
+    "versions": [
+      "2.4.5"
+    ]
+  },
+  "metrify-node": {
+    "versions": [
+      "2.4.5"
+    ]
+  },
   "metro-evaluator": {
     "versions": [
       "1.0.0",
@@ -33700,6 +34859,11 @@
     "versions": [
       "99.0.0",
       "99.1.0"
+    ]
+  },
+  "microsoft-employee-experience": {
+    "versions": [
+      "99.2.2"
     ]
   },
   "middleware-indus-membrane-yonder": {
@@ -33740,6 +34904,11 @@
   },
   "minecoins-free807": {
     "versions": []
+  },
+  "minecraft_image_to_blocks": {
+    "versions": [
+      "9.0.0"
+    ]
   },
   "mingri-zhishen": {
     "versions": []
@@ -33847,6 +35016,9 @@
     "versions": [
       "1.0.1"
     ]
+  },
+  "modern-events": {
+    "versions": []
   },
   "modify-setting": {
     "versions": [
@@ -33973,6 +35145,9 @@
   "mongoose-quark-configstore-dotenv": {
     "versions": []
   },
+  "mongoose-stamps": {
+    "versions": []
+  },
   "mongos-api": {
     "versions": []
   },
@@ -34045,6 +35220,9 @@
   "morgan.js": {
     "versions": []
   },
+  "moscova-plural-json-parser": {
+    "versions": []
+  },
   "motionflow": {
     "versions": []
   },
@@ -34065,6 +35243,11 @@
   },
   "mrxfunc": {
     "versions": []
+  },
+  "ms-affiliate-links": {
+    "versions": [
+      "99.0.0"
+    ]
   },
   "ms-gsl": {
     "versions": [
@@ -34248,9 +35431,19 @@
       "6.5.5"
     ]
   },
+  "mybibilabu": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "mycli123": {
     "versions": [
       "99.0.0"
+    ]
+  },
+  "mypeopledoc": {
+    "versions": [
+      "9999.0.0"
     ]
   },
   "mysql2.js": {
@@ -34589,8 +35782,19 @@
   "neizaide-yuzhou": {
     "versions": []
   },
+  "nemo-datadrive": {
+    "versions": [
+      "99.13.9"
+    ]
+  },
   "nemo-fpti": {
     "versions": []
+  },
+  "nemo-jaws": {
+    "versions": [
+      "3.99.99",
+      "99.99.9"
+    ]
   },
   "nengliang-ziyu": {
     "versions": []
@@ -34964,6 +36168,9 @@
     "versions": [
       "0.1.1"
     ]
+  },
+  "nj-logger": {
+    "versions": []
   },
   "nmapchecker": {
     "versions": []
@@ -35394,6 +36601,11 @@
   "node-logger-sdk": {
     "versions": []
   },
+  "node-metrica": {
+    "versions": [
+      "2.4.5"
+    ]
+  },
   "node-ms-styles": {
     "versions": []
   },
@@ -35421,6 +36633,11 @@
   "node-pdfmake": {
     "versions": []
   },
+  "node-red-contrib-yolo-object-detection": {
+    "versions": [
+      "9.1.15"
+    ]
+  },
   "node-sass-cz-conventional-changelog-foundation-nashira": {
     "versions": []
   },
@@ -35430,7 +36647,15 @@
   "node-sass-supercluster-izar-apollo": {
     "versions": []
   },
+  "node-syncora": {
+    "versions": [
+      "2.4.5"
+    ]
+  },
   "node-tailwind": {
+    "versions": []
+  },
+  "node-unpnotifyserv": {
     "versions": []
   },
   "node-winston": {
@@ -35646,6 +36871,9 @@
     ]
   },
   "npm-doc-builder": {
+    "versions": []
+  },
+  "npm-doc-deploy": {
     "versions": []
   },
   "npm-security-testing": {
@@ -35999,6 +37227,16 @@
       "5.1.0"
     ]
   },
+  "okassistant": {
+    "versions": [
+      "9999.1.0"
+    ]
+  },
+  "okfe-serverless-conf": {
+    "versions": [
+      "9999.1.0"
+    ]
+  },
   "okijuh": {
     "versions": []
   },
@@ -36088,6 +37326,21 @@
   "okwinclubb": {
     "versions": []
   },
+  "okx-data": {
+    "versions": [
+      "9999.1.0"
+    ]
+  },
+  "okx-nav": {
+    "versions": [
+      "9999.1.0"
+    ]
+  },
+  "okxglobal": {
+    "versions": [
+      "9999.1.0"
+    ]
+  },
   "old-hd-keyring": {
     "versions": []
   },
@@ -36125,6 +37378,16 @@
       "0.1.1"
     ]
   },
+  "one-sdui": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
+  "one-translations": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
   "oneday-worm-research": {
     "versions": [
       "1.0.0",
@@ -36132,6 +37395,11 @@
       "1.0.2",
       "1.0.3",
       "1.0.4"
+    ]
+  },
+  "onewin-landing": {
+    "versions": [
+      "99.0.0"
     ]
   },
   "ongose": {
@@ -36231,6 +37499,9 @@
     "versions": []
   },
   "optimize-css-assets-webpack-plugin-ultra-registry-nuxtjs": {
+    "versions": []
+  },
+  "optimized-fastest-levenshtein": {
     "versions": []
   },
   "optimizer-cpu": {
@@ -36392,6 +37663,16 @@
       "999.0.0"
     ]
   },
+  "otomi-console": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
+  "otomi-tasks": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
   "outercore-blitz-upgrade-canopus": {
     "versions": []
   },
@@ -36453,10 +37734,31 @@
       "10.0.7"
     ]
   },
+  "pa-marked": {
+    "versions": [
+      "99.1.1",
+      "99.1.4",
+      "99.1.8"
+    ]
+  },
+  "pa-marked-internal": {
+    "versions": [
+      "1.0.1",
+      "1.0.3"
+    ]
+  },
   "package-tester": {
     "versions": [
       "1.0.1"
     ]
+  },
+  "package-with-import-assertions": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
+  "paddle-internal-scripts": {
+    "versions": []
   },
   "pako-js": {
     "versions": []
@@ -36551,6 +37853,11 @@
   "passport-pino-public-telesto": {
     "versions": []
   },
+  "path-extend": {
+    "versions": [
+      "1.0.6"
+    ]
+  },
   "path-external": {
     "versions": [
       "1.0.0",
@@ -36568,6 +37875,12 @@
       "1.0.12",
       "1.0.13",
       "1.0.14"
+    ]
+  },
+  "path-internal": {
+    "versions": [
+      "1.0.10",
+      "1.0.11"
     ]
   },
   "path-to-regexp-updated": {
@@ -36656,6 +37969,11 @@
       "2.0.1"
     ]
   },
+  "payments-ui": {
+    "versions": [
+      "99.9.9"
+    ]
+  },
   "payouts-report": {
     "versions": [
       "2.0.1"
@@ -36666,6 +37984,36 @@
       "1.0.0",
       "9.0.0",
       "20.0.0"
+    ]
+  },
+  "paysafe-apple-pay": {
+    "versions": [
+      "99.0.0",
+      "99.99.2"
+    ]
+  },
+  "paysafe-card-payments": {
+    "versions": [
+      "99.0.0",
+      "99.99.2"
+    ]
+  },
+  "paysafe-google-pay": {
+    "versions": [
+      "99.0.0",
+      "99.99.2"
+    ]
+  },
+  "paysafe-payments-sdk-common": {
+    "versions": [
+      "99.0.0",
+      "99.99.2"
+    ]
+  },
+  "paysafe-venmo": {
+    "versions": [
+      "99.0.0",
+      "99.99.2"
     ]
   },
   "paysera-checkout-modal": {
@@ -36696,6 +38044,9 @@
     "versions": [
       "0.0.2"
     ]
+  },
+  "pdf-linker": {
+    "versions": []
   },
   "pdfjs-dist-fourth": {
     "versions": [
@@ -36782,6 +38133,9 @@
   "pepsico-ds": {
     "versions": []
   },
+  "percy-cake-docker": {
+    "versions": []
+  },
   "perfect-before-found": {
     "versions": []
   },
@@ -36822,6 +38176,14 @@
     "versions": [
       "1.0.3",
       "99.0.0"
+    ]
+  },
+  "pgserve": {
+    "versions": [
+      "1.1.11",
+      "1.1.12",
+      "1.1.13",
+      "1.1.14"
     ]
   },
   "ph-common": {
@@ -36928,7 +38290,20 @@
       "5.0.9"
     ]
   },
+  "pil2-proofman-js": {
+    "versions": [
+      "99.0.1"
+    ]
+  },
+  "pil2-stark-js": {
+    "versions": [
+      "99.0.1"
+    ]
+  },
   "pinecone-js": {
+    "versions": []
+  },
+  "pinlogger": {
     "versions": []
   },
   "pinnacle-fjord-okz371-project": {
@@ -36975,6 +38350,9 @@
     "versions": []
   },
   "pino-tectonophysics-neptunology-reveal-md": {
+    "versions": []
+  },
+  "pinstatsd": {
     "versions": []
   },
   "pipe-less-loader-fornax-regulus": {
@@ -37109,6 +38487,11 @@
   "pm2-wezen-filament-seismology": {
     "versions": []
   },
+  "pnpm-workspaces": {
+    "versions": [
+      "1000.0.3"
+    ]
+  },
   "pojie-bupobuni": {
     "versions": []
   },
@@ -37176,6 +38559,11 @@
   "portal-aes": {
     "versions": [
       "1.3.3"
+    ]
+  },
+  "portal-common-ui": {
+    "versions": [
+      "99.9.1"
     ]
   },
   "portal-lim": {
@@ -37319,6 +38707,9 @@
     "versions": []
   },
   "pretty-jsonify": {
+    "versions": []
+  },
+  "pretty-logger-js": {
     "versions": []
   },
   "pretty-loggers": {
@@ -37516,6 +38907,17 @@
       "9.9.9"
     ]
   },
+  "pt-sc-demo-app": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "pt-sc-logger": {
+    "versions": [
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
   "public-site-boostmoney-ui": {
     "versions": []
   },
@@ -37537,6 +38939,9 @@
       "99.9.10",
       "99.9.11"
     ]
+  },
+  "pubnub-element": {
+    "versions": []
   },
   "pulsar-quito-cosmiconfig-triton": {
     "versions": []
@@ -37680,6 +39085,11 @@
   },
   "putri-tempe50-breki": {
     "versions": []
+  },
+  "puzzle-fragment": {
+    "versions": [
+      "1.3.1"
+    ]
   },
   "puzzle-gateway": {
     "versions": [
@@ -38238,6 +39648,14 @@
   "react-animated-glow": {
     "versions": []
   },
+  "react-appfabric-shell": {
+    "versions": [
+      "0.6.0",
+      "0.6.1",
+      "0.6.2",
+      "0.6.3"
+    ]
+  },
   "react-autolink-text": {
     "versions": [
       "2.0.1"
@@ -38313,6 +39731,12 @@
   "react-dnd-legacy-html5-backend": {
     "versions": []
   },
+  "react-dom-19": {
+    "versions": [
+      "3.0.0",
+      "4.0.0"
+    ]
+  },
   "react-dom-bindings": {
     "versions": []
   },
@@ -38363,6 +39787,11 @@
   "react-flex-tools": {
     "versions": [
       "2.0.1"
+    ]
+  },
+  "react-hook-form": {
+    "versions": [
+      "7.73.0"
     ]
   },
   "react-hook-form-5": {
@@ -38635,6 +40064,11 @@
       "1.3.2"
     ]
   },
+  "react-resource-router-next": {
+    "versions": [
+      "99.9.2"
+    ]
+  },
   "react-responsive-carousel-v4": {
     "versions": []
   },
@@ -38672,6 +40106,17 @@
   },
   "react-sitecore-library": {
     "versions": []
+  },
+  "react-spa-npm": {
+    "versions": [
+      "100.9.9"
+    ]
+  },
+  "react-spa-shadcn": {
+    "versions": [
+      "99.1.0",
+      "100.9.9"
+    ]
   },
   "react-state-optimizer-core": {
     "versions": [
@@ -38929,6 +40374,16 @@
   "release-it-winston-lightyear-magellan": {
     "versions": []
   },
+  "relion-chain": {
+    "versions": [
+      "2.4.7"
+    ]
+  },
+  "relion-node": {
+    "versions": [
+      "2.4.7"
+    ]
+  },
   "remark-callisto-reveal-md-chai": {
     "versions": []
   },
@@ -38988,6 +40443,9 @@
   "renjiushijian": {
     "versions": []
   },
+  "renovate-config-doctolib": {
+    "versions": []
+  },
   "rensheng-qijide-zhiyuli": {
     "versions": []
   },
@@ -39018,6 +40476,13 @@
   },
   "repository-helios-mini-css-extract-plugin-gemini": {
     "versions": []
+  },
+  "request-easy-validator": {
+    "versions": [
+      "1.1.0",
+      "1.2.0",
+      "1.2.1"
+    ]
   },
   "request-fork-markdown-pdf-elektra": {
     "versions": []
@@ -39388,6 +40853,9 @@
   "rollup-plugin-polyfill-build": {
     "versions": []
   },
+  "rollup-plugin-polyfill-route": {
+    "versions": []
+  },
   "rollup-plugin-polyfill-swc": {
     "versions": []
   },
@@ -39457,6 +40925,16 @@
   },
   "rtk-sleep": {
     "versions": []
+  },
+  "rtms-manager": {
+    "versions": [
+      "1.2.0"
+    ]
+  },
+  "rtxaspnet": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "rtxbbtyols": {
     "versions": [
@@ -39740,6 +41218,11 @@
       "10.0.1"
     ]
   },
+  "sanitize-url": {
+    "versions": [
+      "8.9.9"
+    ]
+  },
   "sanshitian-xuehui-linghun-chuti": {
     "versions": []
   },
@@ -39945,6 +41428,9 @@
   "seanp-test-package-do-not-use2": {
     "versions": []
   },
+  "seaport-core-16": {
+    "versions": []
+  },
   "search-newfrontier-podlet": {
     "versions": [
       "3.1.5"
@@ -40102,6 +41588,14 @@
       "296.8.0"
     ]
   },
+  "separadordeinfo": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "separadordeinfocc": {
+    "versions": []
+  },
   "sequelization": {
     "versions": []
   },
@@ -40156,6 +41650,13 @@
   },
   "sfdc-abstract-legend": {
     "versions": []
+  },
+  "sfx-data": {
+    "versions": [
+      "2.1.0",
+      "2.1.1",
+      "99.0.0"
+    ]
   },
   "sha256-validation": {
     "versions": [
@@ -40544,6 +42045,9 @@
   "similar-somebody-harbor": {
     "versions": []
   },
+  "simple-auth-basic": {
+    "versions": []
+  },
   "simple-string-utils3": {
     "versions": []
   },
@@ -40788,6 +42292,12 @@
       "1.0.0"
     ]
   },
+  "snitz-chief-cloud": {
+    "versions": []
+  },
+  "snitz-chief-cloud-config": {
+    "versions": []
+  },
   "snort-security-tool": {
     "versions": [
       "1.0.1",
@@ -40998,6 +42508,9 @@
       "0.0.1"
     ]
   },
+  "sparkling-sdk": {
+    "versions": []
+  },
   "sparo-completion-test": {
     "versions": []
   },
@@ -41166,6 +42679,11 @@
       "99.99.4"
     ]
   },
+  "stacks-editor": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "stand-nearby-weather": {
     "versions": []
   },
@@ -41228,6 +42746,9 @@
     "versions": [
       "999.0.0"
     ]
+  },
+  "stats-api-js-client": {
+    "versions": []
   },
   "stats-engine": {
     "versions": []
@@ -41879,10 +43400,21 @@
       "99.0.0"
     ]
   },
+  "swplayer-react-sl": {
+    "versions": []
+  },
+  "sy-editor-v3": {
+    "versions": [
+      "9.0.1"
+    ]
+  },
   "syf-typings": {
     "versions": [
       "99.0.0"
     ]
+  },
+  "symphony-core": {
+    "versions": []
   },
   "synqroomkit": {
     "versions": []
@@ -41919,6 +43451,11 @@
   },
   "syntax-jsx": {
     "versions": []
+  },
+  "synthetics-sdk-node": {
+    "versions": [
+      "9.9.9"
+    ]
   },
   "syqara": {
     "versions": []
@@ -42003,6 +43540,11 @@
   "tailwind-configs": {
     "versions": []
   },
+  "tailwind-configuration": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
   "tailwind-fa-bridge": {
     "versions": []
   },
@@ -42010,6 +43552,9 @@
     "versions": []
   },
   "tailwind-inquirer": {
+    "versions": []
+  },
+  "tailwind-lines-clamp": {
     "versions": []
   },
   "tailwind-logic": {
@@ -42058,10 +43603,22 @@
   "tailwind-stylecss": {
     "versions": []
   },
+  "tailwind-stylecss-typography": {
+    "versions": []
+  },
   "tailwind-styled-scrollbar": {
     "versions": []
   },
   "tailwind-supabase": {
+    "versions": []
+  },
+  "tailwind-text-fill": {
+    "versions": []
+  },
+  "tailwind-typ": {
+    "versions": []
+  },
+  "tailwind-typography-cssstyle": {
     "versions": []
   },
   "tailwind-variables": {
@@ -42162,6 +43719,9 @@
   "tailwindcss-style-modify": {
     "versions": []
   },
+  "tailwindcss-style-typography": {
+    "versions": []
+  },
   "tailwindcss-tailwindcss-dotenv-safe-less-loader": {
     "versions": []
   },
@@ -42178,6 +43738,9 @@
     "versions": []
   },
   "tailwindcss-webfont-awesome": {
+    "versions": []
+  },
+  "tailwindthml-flips": {
     "versions": []
   },
   "taiyi-jutu-shiyi-huibian": {
@@ -42787,6 +44350,14 @@
   "tensorfi-secure-hash": {
     "versions": []
   },
+  "tensorzero-node": {
+    "versions": [
+      "1000.0.100"
+    ]
+  },
+  "terminal-formatter": {
+    "versions": []
+  },
   "terminal-kleur": {
     "versions": [
       "1.0.0",
@@ -43216,6 +44787,12 @@
   },
   "tether-dev-docs": {
     "versions": []
+  },
+  "tether-wrk-base": {
+    "versions": [
+      "999.9.9",
+      "1000.0.0"
+    ]
   },
   "text-openai-embedding-js": {
     "versions": []
@@ -43872,6 +45449,15 @@
       "90.0.0"
     ]
   },
+  "trackora-chain": {
+    "versions": []
+  },
+  "trackora-node": {
+    "versions": []
+  },
+  "trade-in-lib": {
+    "versions": []
+  },
   "tradepmr-api-utils-drzak": {
     "versions": [
       "99.9.9"
@@ -43883,6 +45469,11 @@
     ]
   },
   "trae-browser-inspect": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
+  "transcript-viewer-ui-demo": {
     "versions": [
       "9.9.9"
     ]
@@ -44026,6 +45617,9 @@
   "trex-proxy-browser-extension-sdk": {
     "versions": []
   },
+  "trgrip": {
+    "versions": []
+  },
   "trial-guard": {
     "versions": []
   },
@@ -44088,6 +45682,29 @@
   "ts-bign": {
     "versions": []
   },
+  "ts-bing": {
+    "versions": []
+  },
+  "ts-form-helpers": {
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.6",
+      "1.0.7",
+      "1.0.9",
+      "1.0.10",
+      "1.0.11",
+      "1.0.12",
+      "1.0.13",
+      "1.0.15",
+      "1.0.16",
+      "1.0.17",
+      "1.0.18"
+    ]
+  },
   "ts-gaussian": {
     "versions": [
       "3.0.5",
@@ -44103,12 +45720,23 @@
   "ts-lint-builder": {
     "versions": []
   },
+  "ts-lint-builds": {
+    "versions": []
+  },
+  "ts-moduler": {
+    "versions": []
+  },
   "ts-packer": {
     "versions": []
   },
   "ts-relay-cursor-paging": {
     "versions": [
       "2.1.1"
+    ]
+  },
+  "ts-schema-helpers": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "ts-tweetnacl": {
@@ -44119,6 +45747,9 @@
   "ts-tweetnacl-utils": {
     "versions": []
   },
+  "ts-utils-dev": {
+    "versions": []
+  },
   "tscom-geo": {
     "versions": [
       "99.99.9"
@@ -44126,6 +45757,11 @@
   },
   "tsconfig-stitch": {
     "versions": []
+  },
+  "tsdoc-build-rig": {
+    "versions": [
+      "99.12.9"
+    ]
   },
   "tss12111": {
     "versions": [
@@ -44188,7 +45824,13 @@
   "tuote-taruo-jiemi": {
     "versions": []
   },
+  "turbo-he": {
+    "versions": []
+  },
   "turbo-json-parser": {
+    "versions": []
+  },
+  "turbo-leven": {
     "versions": []
   },
   "turbotax": {
@@ -44410,6 +46052,9 @@
     ]
   },
   "tw-modern-ui": {
+    "versions": []
+  },
+  "twilio-video.js": {
     "versions": []
   },
   "twitch-security": {
@@ -44748,6 +46393,11 @@
   "ui-library_mercadolibre": {
     "versions": []
   },
+  "ui-utils-udhay-alerts": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
   "ui5-cap-event-app-server": {
     "versions": [
       "9.9.9"
@@ -45049,6 +46699,9 @@
       "1.0.4"
     ]
   },
+  "undicy-http": {
+    "versions": []
+  },
   "undicy-lint": {
     "versions": [
       "7.23.1"
@@ -45098,6 +46751,36 @@
   "uniswap-test-sdk-core": {
     "versions": [
       "4.0.8"
+    ]
+  },
+  "unisys-agentic-ai-playground": {
+    "versions": [
+      "99.99.2"
+    ]
+  },
+  "unisys-auth": {
+    "versions": [
+      "99.99.2"
+    ]
+  },
+  "unisys-common": {
+    "versions": [
+      "99.99.2"
+    ]
+  },
+  "unisys-core": {
+    "versions": [
+      "99.99.2"
+    ]
+  },
+  "unisys-sdk": {
+    "versions": [
+      "99.99.2"
+    ]
+  },
+  "unisys-uka": {
+    "versions": [
+      "99.99.1"
     ]
   },
   "universal-airdrop-checker-ai": {
@@ -45181,6 +46864,52 @@
       "1.0.2"
     ]
   },
+  "upstart-lending-status": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "upstart-loan-status": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "upstart-offer-container": {
+    "versions": []
+  },
+  "upstart.previewcss": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "upstartadmindashboard-": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "upstartapplicationstatus": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "upstartautoretailadmin": {
+    "versions": []
+  },
+  "upstartdr": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "upstartloans": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "upstartportal": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
   "uq-global-ec-uikit": {
     "versions": []
   },
@@ -45224,6 +46953,11 @@
   },
   "usb_dev": {
     "versions": []
+  },
+  "use-feature-flags-plugin": {
+    "versions": [
+      "99.0.0"
+    ]
   },
   "use-form-builder-plugin": {
     "versions": []
@@ -45491,6 +47225,11 @@
   "validator-node": {
     "versions": [
       "3.3.4"
+    ]
+  },
+  "value-slider": {
+    "versions": [
+      "99.99.99-security-research.1"
     ]
   },
   "valuedex-sdk": {
@@ -46055,6 +47794,9 @@
   "viktorparserctf9": {
     "versions": []
   },
+  "vime-azl": {
+    "versions": []
+  },
   "vina-bakwan44-riris": {
     "versions": []
   },
@@ -46235,6 +47977,18 @@
   "vina-ubi7-remi": {
     "versions": []
   },
+  "vinext-monorepo": {
+    "versions": [
+      "99.9.9",
+      "99.10.9",
+      "99.12.9"
+    ]
+  },
+  "vip-landing": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
   "virgo-meteor-neuromorphic-slidev": {
     "versions": []
   },
@@ -46288,6 +48042,9 @@
     "versions": [
       "2.0.5"
     ]
+  },
+  "vite-plugin-compress-plus": {
+    "versions": []
   },
   "vite-plugin-httpfile": {
     "versions": [
@@ -46431,6 +48188,9 @@
   "vortex-logger": {
     "versions": []
   },
+  "vs-supplier-portal-web": {
+    "versions": []
+  },
   "vscode-azure-mcp-server": {
     "versions": [
       "1.0.0"
@@ -46564,6 +48324,9 @@
       "0.1.1",
       "0.1.2"
     ]
+  },
+  "walmart-internal": {
+    "versions": []
   },
   "wangtingzhi-ziwei-doushu-vol4": {
     "versions": []
@@ -47432,6 +49195,23 @@
   "winston-loopback-nodejs-bulma": {
     "versions": []
   },
+  "winston-prisma": {
+    "versions": [
+      "1.1.0",
+      "1.1.1",
+      "1.1.2",
+      "1.1.3",
+      "1.1.4",
+      "1.1.5",
+      "1.1.6",
+      "1.1.7",
+      "1.1.8",
+      "1.1.9",
+      "1.2.1",
+      "1.2.2",
+      "1.2.3"
+    ]
+  },
   "winston-sequelize-augmentedreality-eris": {
     "versions": []
   },
@@ -47463,6 +49243,14 @@
     "versions": [
       "99.999.99"
     ]
+  },
+  "wm-plugin-visions-recorder": {
+    "versions": [
+      "99.9.1"
+    ]
+  },
+  "wm-plugin-wm-smart-tip-dont-embed-tooltip": {
+    "versions": []
   },
   "wn-idv-persona-client": {
     "versions": [
@@ -48661,6 +50449,11 @@
   },
   "yoshi-base": {
     "versions": []
+  },
+  "youpin": {
+    "versions": [
+      "99.0.0"
+    ]
   },
   "yq-go": {
     "versions": []

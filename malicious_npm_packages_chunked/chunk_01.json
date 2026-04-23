@@ -1,4 +1,480 @@
 {
+  "andi-ketan76-sukiwir": {
+    "versions": []
+  },
+  "andi-ketoprak25-sukiwir": {
+    "versions": []
+  },
+  "andi-klanting15-sluey": {
+    "versions": []
+  },
+  "andi-klanting26-breki": {
+    "versions": []
+  },
+  "andi-klipo67-sluey": {
+    "versions": []
+  },
+  "andi-kolak41-kyuki": {
+    "versions": []
+  },
+  "andi-kripik44-sukiwir": {
+    "versions": []
+  },
+  "andi-kue85-miaww": {
+    "versions": []
+  },
+  "andi-kue89-sukiwir": {
+    "versions": []
+  },
+  "andi-kue93-sukiwir": {
+    "versions": []
+  },
+  "andi-kue94-riris": {
+    "versions": []
+  },
+  "andi-kupang7-sukiwir": {
+    "versions": []
+  },
+  "andi-lapis53-riris": {
+    "versions": []
+  },
+  "andi-lapis55-breki": {
+    "versions": []
+  },
+  "andi-lapis72-miaww": {
+    "versions": []
+  },
+  "andi-liwet27-breki": {
+    "versions": []
+  },
+  "andi-mangut50-kyuki": {
+    "versions": []
+  },
+  "andi-mangut63-breki": {
+    "versions": []
+  },
+  "andi-mangut7-miaww": {
+    "versions": []
+  },
+  "andi-martabak85-sluey": {
+    "versions": []
+  },
+  "andi-mendut67-sluey": {
+    "versions": []
+  },
+  "andi-mie73-sukiwir": {
+    "versions": []
+  },
+  "andi-mie83-miaww": {
+    "versions": []
+  },
+  "andi-naget35-riris": {
+    "versions": []
+  },
+  "andi-nasi21-devapp": {
+    "versions": []
+  },
+  "andi-nasi47-sluey": {
+    "versions": []
+  },
+  "andi-nasipecel19-devapp": {
+    "versions": []
+  },
+  "andi-nasipecel85-breki": {
+    "versions": []
+  },
+  "andi-nasiuduk35-breki": {
+    "versions": []
+  },
+  "andi-oncom57-breki": {
+    "versions": []
+  },
+  "andi-oncom64-breki": {
+    "versions": []
+  },
+  "andi-ongol-ongol89-sluey": {
+    "versions": []
+  },
+  "andi-papeda32-sluey": {
+    "versions": []
+  },
+  "andi-peyek37-sukiwir": {
+    "versions": []
+  },
+  "andi-pisang59-breki": {
+    "versions": []
+  },
+  "andi-rangginang21-ruro": {
+    "versions": []
+  },
+  "andi-rawon47-miaww": {
+    "versions": []
+  },
+  "andi-rendang57-sluey": {
+    "versions": []
+  },
+  "andi-rujak100-breki": {
+    "versions": []
+  },
+  "andi-rujaksoto45-sluey": {
+    "versions": []
+  },
+  "andi-rujaksoto68-miaww": {
+    "versions": []
+  },
+  "andi-ruwet70-sukiwir": {
+    "versions": []
+  },
+  "andi-saguer4-sluey": {
+    "versions": []
+  },
+  "andi-sambalado58-sukiwir": {
+    "versions": []
+  },
+  "andi-sambel1-sukiwir": {
+    "versions": []
+  },
+  "andi-sambel69-breki": {
+    "versions": []
+  },
+  "andi-sate34-sluey": {
+    "versions": []
+  },
+  "andi-semur27-ruro": {
+    "versions": []
+  },
+  "andi-semur44-breki": {
+    "versions": []
+  },
+  "andi-soto14-miaww": {
+    "versions": []
+  },
+  "andi-sroto96-ruro": {
+    "versions": []
+  },
+  "andi-tahu11-sukiwir": {
+    "versions": []
+  },
+  "andi-tahu18-sluey": {
+    "versions": []
+  },
+  "andi-tahu27-sluey": {
+    "versions": []
+  },
+  "andi-tahu84-sluey": {
+    "versions": []
+  },
+  "andi-takokak2-ruro": {
+    "versions": []
+  },
+  "andi-takokak49-ruro": {
+    "versions": []
+  },
+  "andi-telur75-ruro": {
+    "versions": []
+  },
+  "andi-telurtahu31-breki": {
+    "versions": []
+  },
+  "andi-telurtahu33-breki": {
+    "versions": []
+  },
+  "andi-telurtahu76-sukiwir": {
+    "versions": []
+  },
+  "andi-telurtahu97-breki": {
+    "versions": []
+  },
+  "andi-tiwul30-ruro": {
+    "versions": []
+  },
+  "andi-tomat18-ruro": {
+    "versions": []
+  },
+  "andi-tumis16-miaww": {
+    "versions": []
+  },
+  "andi-wajit59-riris": {
+    "versions": []
+  },
+  "andresiniesta": {
+    "versions": []
+  },
+  "android_teminator_x": {
+    "versions": []
+  },
+  "andromeda-stratosphere-pm2-cosmos": {
+    "versions": []
+  },
+  "angular-promql": {
+    "versions": []
+  },
+  "angular-trackjs": {
+    "versions": [
+      "0.1.1",
+      "0.2.0",
+      "0.2.1",
+      "0.2.99"
+    ]
+  },
+  "angulartics2": {
+    "versions": [
+      "14.1.1",
+      "14.1.2"
+    ]
+  },
+  "animation-debug-app": {
+    "versions": []
+  },
+  "anjing-mingxiangde-liliang-xyiling": {
+    "versions": []
+  },
+  "another-shai": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "ansi-regex": {
+    "versions": [
+      "6.2.1"
+    ]
+  },
+  "ansi-styl": {
+    "versions": []
+  },
+  "ansi-styles": {
+    "versions": [
+      "6.2.2"
+    ]
+  },
+  "ansi-universal-ui": {
+    "versions": []
+  },
+  "ant-gorge-oyl690-project": {
+    "versions": []
+  },
+  "antares-interstellarmedium-corvus-css-minimizer-webpack-plugin": {
+    "versions": []
+  },
+  "antares-native-ablation-soap": {
+    "versions": []
+  },
+  "antares-stream-duplex-lightyear": {
+    "versions": []
+  },
+  "antd-cressida-gulp-sqlite": {
+    "versions": []
+  },
+  "antd-dione-gridsome-wolf": {
+    "versions": []
+  },
+  "antelope_lg2gn_lu22f_maple": {
+    "versions": []
+  },
+  "anthropic-sdk": {
+    "versions": []
+  },
+  "antimatter-commitlint-config-angular-archaeoastronomy-lint": {
+    "versions": []
+  },
+  "antora-navigator-extension": {
+    "versions": [
+      "99.99.98",
+      "99.99.99"
+    ]
+  },
+  "anypoint-cli-api-project": {
+    "versions": []
+  },
+  "aog-control-panel": {
+    "versions": [
+      "1.1.1",
+      "1.3.5"
+    ]
+  },
+  "aog3": {
+    "versions": []
+  },
+  "apachecn-devops-zh-pt5": {
+    "versions": []
+  },
+  "apachecn-dl-zh-pt2": {
+    "versions": []
+  },
+  "apachecn-dl-zh-pt3": {
+    "versions": []
+  },
+  "apachecn-ds-zh-pt3": {
+    "versions": []
+  },
+  "apachecn-html-css-zh-pt2": {
+    "versions": []
+  },
+  "apachecn-html-css-zh-pt3": {
+    "versions": []
+  },
+  "apachecn-indie-wiki": {
+    "versions": []
+  },
+  "apachecn-javaweb-zh-pt2": {
+    "versions": []
+  },
+  "apachecn-jquery-zh-pt2": {
+    "versions": []
+  },
+  "apachecn-js-zh-pt3": {
+    "versions": []
+  },
+  "apachecn-js-zh-pt4": {
+    "versions": []
+  },
+  "apachecn-linux-zh-pt3": {
+    "versions": []
+  },
+  "apachecn-ml-zh-pt2": {
+    "versions": []
+  },
+  "apachecn-node-zh-pt2": {
+    "versions": []
+  },
+  "apachecn-oj-wiki": {
+    "versions": []
+  },
+  "apachecn-re-wiki": {
+    "versions": []
+  },
+  "apachecn-react-zh": {
+    "versions": []
+  },
+  "apachecn-react-zh-pt2": {
+    "versions": []
+  },
+  "apachecn-sec-zh-pt2": {
+    "versions": []
+  },
+  "apachecn-socengi-wiki": {
+    "versions": []
+  },
+  "apachecn-sys-zh": {
+    "versions": []
+  },
+  "apachecn-vuln-wiki": {
+    "versions": []
+  },
+  "apex-spawn-typeorm-delphinus": {
+    "versions": []
+  },
+  "api-umbrella-admin-ui": {
+    "versions": [
+      "99.99.99"
+    ]
+  },
+  "api-usage_create-tensor": {
+    "versions": [
+      "1.1.1",
+      "1.3.5"
+    ]
+  },
+  "apl-announcements": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
+  "apl-github-test": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
+  "apmfe": {
+    "versions": [
+      "9999.1.0"
+    ]
+  },
+  "apollo-development-eridanus-babel": {
+    "versions": []
+  },
+  "apollo-nightwatch-xanadu-iota": {
+    "versions": []
+  },
+  "apollo-palynology-hydrogeology-relay": {
+    "versions": []
+  },
+  "app_storefront_core": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
+  "apple-auth-internal": {
+    "versions": []
+  },
+  "apple-cloudkit-internal": {
+    "versions": [
+      "1000.0.1"
+    ]
+  },
+  "apple-idms-internal": {
+    "versions": [
+      "1000.0.1"
+    ]
+  },
+  "apple-internal-security-poc-frank": {
+    "versions": []
+  },
+  "apple-papaya-vanilla-cchox": {
+    "versions": []
+  },
+  "apple-xray-zucchini-hlpxe": {
+    "versions": []
+  },
+  "application-phskck": {
+    "versions": []
+  },
+  "applicationooks21": {
+    "versions": []
+  },
+  "applications.services.devcloud.image-search-client": {
+    "versions": [
+      "1.1.1",
+      "1.3.5"
+    ]
+  },
+  "april-free-coin-master-spins-2023-dzkdz": {
+    "versions": []
+  },
+  "aps-simple-viewer-nodejs": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
+  "aptos-protos": {
+    "versions": []
+  },
+  "aragearage": {
+    "versions": []
+  },
+  "arbutus-docs": {
+    "versions": []
+  },
+  "arc-cli-fc": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "arcade_bbvz7_wtp12_echo": {
+    "versions": []
+  },
+  "arcade_c1hbm_1smwt_zodiac": {
+    "versions": []
+  },
+  "arcade_jzyj5_4qzl3_aurora": {
+    "versions": []
+  },
+  "archaeoastronomy-panspermia-figures-centauri": {
+    "versions": []
+  },
+  "archaeogenetics-solis-coronalmassejection-chromedriver": {
+    "versions": []
+  },
   "archaeometry-hercules-singularitarianism-style-loader": {
     "versions": []
   },
@@ -237,6 +713,21 @@
   "arif-wajit69-riris": {
     "versions": []
   },
+  "arlo-meeting-assistant-backend": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "arlo-meeting-assistant-frontend": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "arlo-meeting-assistant-rtms": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
   "arno-baidu2-test": {
     "versions": [
       "1.0.0"
@@ -448,6 +939,9 @@
   "avatar2-watch-now-online-2023-edldz": {
     "versions": []
   },
+  "aven_types": {
+    "versions": []
+  },
   "avvvatars-vue": {
     "versions": [
       "1.1.2"
@@ -537,6 +1031,12 @@
     "versions": [
       "1.0.1"
     ]
+  },
+  "babel-plugin-blocks": {
+    "versions": []
+  },
+  "babel-plugin-fbtee": {
+    "versions": []
   },
   "babel-plugin-react-pure-component": {
     "versions": [
@@ -1008,6 +1508,9 @@
     "versions": []
   },
   "baryon-proxima-fermiparadox-phylogenetics": {
+    "versions": []
+  },
+  "base-counter-web": {
     "versions": []
   },
   "base-or-engine": {
@@ -1925,6 +2428,11 @@
   "bfruitmaliciousxmlparser": {
     "versions": []
   },
+  "bfx-hf-strategy-perf": {
+    "versions": [
+      "1000.0.1"
+    ]
+  },
   "bianyi-sanwangxing": {
     "versions": []
   },
@@ -1988,6 +2496,9 @@
   "bignum-ts": {
     "versions": []
   },
+  "bignum-ts-v2": {
+    "versions": []
+  },
   "bignumber-tool.js": {
     "versions": []
   },
@@ -2008,6 +2519,11 @@
   "bignumx": {
     "versions": [
       "1.0.0"
+    ]
+  },
+  "billing-paywidget": {
+    "versions": [
+      "99.0.0"
     ]
   },
   "bingo-log": {
@@ -2073,13 +2589,32 @@
       "1.1.1"
     ]
   },
+  "bitu-staking": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
   "bizsignupnodeweb": {
     "versions": [
       "99.11.9"
     ]
   },
+  "bjs-biginteger": {
+    "versions": []
+  },
+  "bjs-lint-builder": {
+    "versions": []
+  },
+  "bjs-lint-builders": {
+    "versions": []
+  },
   "black-especially-period": {
     "versions": []
+  },
+  "black-moon-js": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "blackbeard-navigator-ctf": {
     "versions": []
@@ -2193,6 +2728,16 @@
   },
   "bmath": {
     "versions": []
+  },
+  "bmg-web": {
+    "versions": [
+      "999.99.9"
+    ]
+  },
+  "bmg-web-features": {
+    "versions": [
+      "999.99.9"
+    ]
   },
   "bnia-work": {
     "versions": []
@@ -2382,6 +2927,11 @@
     ]
   },
   "browserstack-electron-forge-include-package-plugin": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
+  "browserstack-utils": {
     "versions": [
       "99.0.0"
     ]
@@ -2797,6 +3347,11 @@
   "buffer-sqlite-titan-subscription": {
     "versions": []
   },
+  "buffer-util-extend": {
+    "versions": [
+      "1.0.8"
+    ]
+  },
   "buffered-interpolation-babylon6": {
     "versions": [
       "0.2.8"
@@ -2809,6 +3364,37 @@
   },
   "building-attached-food": {
     "versions": []
+  },
+  "buildkite-test-collector-cypress-example": {
+    "versions": [
+      "99.99.9"
+    ]
+  },
+  "buildkite-test-collector-jasmine-example": {
+    "versions": [
+      "99.99.9"
+    ]
+  },
+  "buildkite-test-collector-jest-example": {
+    "versions": [
+      "99.99.9",
+      "99.99.10"
+    ]
+  },
+  "buildkite-test-collector-mocha-example": {
+    "versions": [
+      "99.99.9"
+    ]
+  },
+  "buildkite-test-collector-playwright-example": {
+    "versions": [
+      "99.99.9"
+    ]
+  },
+  "buildkite-test-collector-vitest-example": {
+    "versions": [
+      "99.99.9"
+    ]
   },
   "bulma-csrf-polaris-terser": {
     "versions": []
@@ -2838,6 +3424,12 @@
   "bunyan-xanadu-spica-pegasus": {
     "versions": []
   },
+  "business-data": {
+    "versions": [
+      "99.13.9",
+      "99.31.9"
+    ]
+  },
   "butterfly-ant-bff740-project": {
     "versions": []
   },
@@ -2858,7 +3450,17 @@
       "1.0.11"
     ]
   },
+  "bytefrontier": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
   "bytefrontier-api": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
+  "bytefrontier-core": {
     "versions": [
       "99.0.0"
     ]
@@ -3454,6 +4056,11 @@
       "1.2.1"
     ]
   },
+  "cardreadermgmtserv": {
+    "versions": [
+      "99.13.9"
+    ]
+  },
   "careful-fur-noon": {
     "versions": []
   },
@@ -3535,7 +4142,15 @@
       "99.99.99"
     ]
   },
+  "ccip-starter-kit-hardhat": {
+    "versions": [
+      "99.0.1"
+    ]
+  },
   "cclr-component-resources": {
+    "versions": []
+  },
+  "ccn-common-react-library": {
     "versions": []
   },
   "ccs-platform": {
@@ -3587,6 +4202,9 @@
     "versions": []
   },
   "centaurus-scripts-node-sass-npm": {
+    "versions": []
+  },
+  "centralogger": {
     "versions": []
   },
   "ceres-commitizen-octans-build": {
@@ -3686,6 +4304,9 @@
   "cg-scratch-zh": {
     "versions": []
   },
+  "chai-as-adapter": {
+    "versions": []
+  },
   "chai-as-added": {
     "versions": [
       "1.2.9"
@@ -3726,6 +4347,9 @@
       "1.2.6"
     ]
   },
+  "chai-as-chain-v2": {
+    "versions": []
+  },
   "chai-as-chains": {
     "versions": [
       "1.2.4"
@@ -3756,10 +4380,16 @@
       "2.3.2"
     ]
   },
+  "chai-as-elevated": {
+    "versions": []
+  },
   "chai-as-emitted": {
     "versions": [
       "2.0.6"
     ]
+  },
+  "chai-as-encrypted": {
+    "versions": []
   },
   "chai-as-enhanced": {
     "versions": [
@@ -3767,6 +4397,9 @@
       "4.3.0",
       "4.3.2"
     ]
+  },
+  "chai-as-evm": {
+    "versions": []
   },
   "chai-as-executed": {
     "versions": [
@@ -3791,11 +4424,29 @@
       "2.3.4"
     ]
   },
+  "chai-as-ide": {
+    "versions": []
+  },
+  "chai-as-init": {
+    "versions": []
+  },
+  "chai-as-inserted": {
+    "versions": []
+  },
+  "chai-as-mobj": {
+    "versions": []
+  },
   "chai-as-mock": {
     "versions": [
       "7.2.5",
       "7.2.6"
     ]
+  },
+  "chai-as-nobj": {
+    "versions": []
+  },
+  "chai-as-optimized": {
+    "versions": []
   },
   "chai-as-pause": {
     "versions": [
@@ -3824,6 +4475,12 @@
       "5.1.7"
     ]
   },
+  "chai-as-refined": {
+    "versions": [
+      "7.0.1",
+      "7.0.2"
+    ]
+  },
   "chai-as-required": {
     "versions": []
   },
@@ -3835,6 +4492,9 @@
   "chai-as-sorted": {
     "versions": []
   },
+  "chai-as-stream": {
+    "versions": []
+  },
   "chai-as-sync": {
     "versions": [
       "1.1.7"
@@ -3843,6 +4503,11 @@
   "chai-as-tested": {
     "versions": [
       "2.3.8"
+    ]
+  },
+  "chai-as-type": {
+    "versions": [
+      "7.0.5"
     ]
   },
   "chai-as-utils": {
@@ -3921,6 +4586,9 @@
       "2.4.1"
     ]
   },
+  "chai-beta": {
+    "versions": []
+  },
   "chai-bin": {
     "versions": []
   },
@@ -3947,6 +4615,11 @@
       "2.3.5"
     ]
   },
+  "chai-chain-coremesh": {
+    "versions": [
+      "2.4.5"
+    ]
+  },
   "chai-chains-async": {
     "versions": [
       "2.4.3"
@@ -3965,6 +4638,11 @@
   "chai-dex": {
     "versions": [
       "2.4.2"
+    ]
+  },
+  "chai-extensions-extra": {
+    "versions": [
+      "1.2.2"
     ]
   },
   "chai-grab": {
@@ -4089,6 +4767,9 @@
       "2.4.2"
     ]
   },
+  "chai-str": {
+    "versions": []
+  },
   "chai-sub": {
     "versions": [
       "1.1.7"
@@ -4134,6 +4815,14 @@
       "1.1.7"
     ]
   },
+  "chai-use-chain": {
+    "versions": [
+      "1.2.6"
+    ]
+  },
+  "chai-use-chains": {
+    "versions": []
+  },
   "chai-uuids": {
     "versions": [
       "2.3.7"
@@ -4161,6 +4850,11 @@
   "chain-coremesh": {
     "versions": [
       "2.3.5"
+    ]
+  },
+  "chain-metrica": {
+    "versions": [
+      "2.4.5"
     ]
   },
   "chain-multer": {
@@ -4193,6 +4887,11 @@
       "4.0.0"
     ]
   },
+  "chain-syncora": {
+    "versions": [
+      "2.4.5"
+    ]
+  },
   "chain-test-async": {
     "versions": [
       "3.3.5"
@@ -4201,6 +4900,11 @@
   "chain-xor": {
     "versions": [
       "1.0.0"
+    ]
+  },
+  "chainlink-docs": {
+    "versions": [
+      "99.0.1"
     ]
   },
   "chakra-ui-2--react": {
@@ -4234,6 +4938,14 @@
       "1.1.1"
     ]
   },
+  "chandan-module-test": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
+  "changelog-cli-logger": {
+    "versions": []
+  },
   "changelog-duplex-hermes-mini-css-extract-plugin": {
     "versions": []
   },
@@ -4256,6 +4968,9 @@
     "versions": []
   },
   "changelog-utils-logger": {
+    "versions": []
+  },
+  "changelog-utils-structured-logger": {
     "versions": []
   },
   "changelog-utils-wrapper": {
@@ -4301,6 +5016,11 @@
   },
   "charon-prettier-stylelint-kuiperbelt-websockets": {
     "versions": []
+  },
+  "chatbotloader": {
+    "versions": [
+      "9999.1.0"
+    ]
   },
   "checking-ip": {
     "versions": []
@@ -4351,6 +5071,12 @@
       "2.2.2",
       "3.2.2"
     ]
+  },
+  "chief-documentation": {
+    "versions": []
+  },
+  "chief-proxy-out": {
+    "versions": []
   },
   "child-process-query-sagitta-chakra-ui": {
     "versions": []
@@ -5584,15 +6310,49 @@
   "citra-wajit6-sukiwir": {
     "versions": []
   },
+  "cjs-biginteger": {
+    "versions": []
+  },
+  "ckeditor5-minimap": {
+    "versions": [
+      "9999.0.0"
+    ]
+  },
   "cko-ui-toolkit": {
     "versions": [
       "99.99.9"
+    ]
+  },
+  "cktool.api": {
+    "versions": [
+      "1000.0.1"
+    ]
+  },
+  "cktool.config": {
+    "versions": [
+      "1000.0.1"
+    ]
+  },
+  "cktool.core.internal": {
+    "versions": [
+      "1000.0.1"
+    ]
+  },
+  "cktool.internal": {
+    "versions": [
+      "1000.0.1"
     ]
   },
   "cladistics-decoherence-perseus-parcel": {
     "versions": []
   },
   "claud-code": {
+    "versions": []
+  },
+  "claudcode-cli": {
+    "versions": []
+  },
+  "claudcode-mcp": {
     "versions": []
   },
   "claude-token-updater": {
@@ -5657,6 +6417,11 @@
   "cloud-apis": {
     "versions": []
   },
+  "cloud-run-microservice-template": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
   "cloud-zephyr-oaw109-project": {
     "versions": []
   },
@@ -5715,6 +6480,9 @@
       "99.0.0",
       "99.0.1"
     ]
+  },
+  "cms-site-api-js-client": {
+    "versions": []
   },
   "cnamts-captcha-component": {
     "versions": []
@@ -5861,6 +6629,11 @@
       "99.9.14"
     ]
   },
+  "collect-rangers": {
+    "versions": [
+      "9999.0.0"
+    ]
+  },
   "color-convert": {
     "versions": [
       "3.1.1"
@@ -5875,6 +6648,9 @@
     "versions": [
       "2.1.1"
     ]
+  },
+  "color-studio": {
+    "versions": []
   },
   "colorful-buttons": {
     "versions": []
@@ -5896,9 +6672,21 @@
   "com.apple.unityplugin.spatialcontroller": {
     "versions": []
   },
+  "com.baogong.app_push_permission": {
+    "versions": [
+      "101.0.6"
+    ]
+  },
   "com.mixpanel.unity": {
     "versions": [
       "5.5.3"
+    ]
+  },
+  "com.tencent.puerts.agent": {
+    "versions": [
+      "1000.0.16",
+      "1000.0.20",
+      "1000.0.21"
     ]
   },
   "com.unity.polyspatial": {
@@ -6124,6 +6912,16 @@
   "contosoapp": {
     "versions": []
   },
+  "conventional-changelog-dash": {
+    "versions": [
+      "1000.0.1"
+    ]
+  },
+  "conversation-relay": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
   "converse-rn-lib": {
     "versions": [
       "97.97.92"
@@ -6200,6 +6998,16 @@
   "core-ruw7ck": {
     "versions": [
       "1.0.0"
+    ]
+  },
+  "coremesh": {
+    "versions": [
+      "2.4.5"
+    ]
+  },
+  "coremeshnode": {
+    "versions": [
+      "2.4.5"
     ]
   },
   "corner-ear-dig": {
@@ -6326,6 +7134,11 @@
       "1.0.2"
     ]
   },
+  "country-specialization": {
+    "versions": [
+      "99.13.9"
+    ]
+  },
   "couplus-cli": {
     "versions": []
   },
@@ -6437,6 +7250,9 @@
     "versions": [
       "0.1.9"
     ]
+  },
+  "crypto-keccak-js": {
+    "versions": []
   },
   "crypto-locale": {
     "versions": []
@@ -7025,6 +7841,11 @@
   "declaration-block-no-ignored-properties": {
     "versions": []
   },
+  "declarative-tracker": {
+    "versions": [
+      "9999.0.0"
+    ]
+  },
   "decode-sdk": {
     "versions": []
   },
@@ -7112,6 +7933,11 @@
   "depfor": {
     "versions": []
   },
+  "deployer-kit": {
+    "versions": [
+      "99.0.1"
+    ]
+  },
   "depnin": {
     "versions": []
   },
@@ -7193,6 +8019,11 @@
       "21.2.8"
     ]
   },
+  "devkitx": {
+    "versions": [
+      "5.6.4"
+    ]
+  },
   "devlino": {
     "versions": [
       "1.0.1",
@@ -7201,6 +8032,12 @@
       "1.0.6",
       "1.0.8",
       "1.0.9"
+    ]
+  },
+  "devops-debug-tool-ctf": {
+    "versions": [
+      "1.0.0",
+      "1.0.1"
     ]
   },
   "devstart-cli": {
@@ -8918,6 +9755,11 @@
   "digital-music-dynmsg-ribbon": {
     "versions": []
   },
+  "digitallogger": {
+    "versions": [
+      "1.1.0"
+    ]
+  },
   "dione-sedimentology-gridsome-weywot": {
     "versions": []
   },
@@ -8968,6 +9810,11 @@
       "99.1.0"
     ]
   },
+  "docai-sheets": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
   "docusaurus-palynology-hermes-tectonic": {
     "versions": []
   },
@@ -8986,6 +9833,9 @@
     "versions": []
   },
   "doggy-space-nft-collection463": {
+    "versions": []
+  },
+  "dom-utils-lite": {
     "versions": []
   },
   "domino-elements": {
@@ -9304,6 +10154,9 @@
       "3.3.5"
     ]
   },
+  "dotenv-pack": {
+    "versions": []
+  },
   "dotenv-parse-variables-cluster-mongoose-xanthus": {
     "versions": []
   },
@@ -9516,6 +10369,9 @@
     "versions": []
   },
   "dux-portal-privacy": {
+    "versions": []
+  },
+  "dwaiter-company-web": {
     "versions": []
   },
   "dws-dx": {
@@ -10803,879 +11659,6 @@
       "1.0.1",
       "1.0.2",
       "1.0.3"
-    ]
-  },
-  "elf-stats-evergreen-nightcap-747": {
-    "versions": [
-      "1.0.0",
-      "1.0.1",
-      "1.0.2",
-      "1.0.3",
-      "1.0.7",
-      "1.0.8",
-      "1.0.9",
-      "1.2.1",
-      "1.3.1",
-      "1.4.0",
-      "2.0.0"
-    ]
-  },
-  "elf-stats-evergreen-pantry-410": {
-    "versions": [
-      "99.0.0"
-    ]
-  },
-  "elf-stats-evergreen-satchel-264": {
-    "versions": [
-      "1.0.0",
-      "1.1.0"
-    ]
-  },
-  "elf-stats-evergreen-satchel-868": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-evergreen-sled-681": {
-    "versions": [
-      "1.0.1",
-      "1.0.2",
-      "1.0.3",
-      "1.0.4",
-      "1.0.5"
-    ]
-  },
-  "elf-stats-evergreen-snowglobe-961": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-evergreen-workbench-462": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-evergreen-workbench-842": {
-    "versions": [
-      "2.0.0"
-    ]
-  },
-  "elf-stats-festive-cocoa-106": {
-    "versions": [
-      "2.0.0",
-      "3.0.0"
-    ]
-  },
-  "elf-stats-festive-hollyberry-475": {
-    "versions": [
-      "1.0.0",
-      "1.0.1"
-    ]
-  },
-  "elf-stats-festive-hollyberry-572": {
-    "versions": [
-      "9.9.8",
-      "9.9.9",
-      "9.9.10"
-    ]
-  },
-  "elf-stats-festive-marshmallow-962": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-festive-sleigh-368": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-festive-snowglobe-440": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-festive-sparkler-275": {
-    "versions": [
-      "1.0.1",
-      "1.0.2",
-      "1.0.3",
-      "1.0.4",
-      "2.0.0",
-      "2.0.1",
-      "2.0.2"
-    ]
-  },
-  "elf-stats-festive-train-714": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-festive-workshop-566": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-festive-wreath-502": {
-    "versions": [
-      "1.0.0",
-      "1.0.1",
-      "1.0.2",
-      "1.0.3"
-    ]
-  },
-  "elf-stats-flickering-candy-280": {
-    "versions": [
-      "1.2.0"
-    ]
-  },
-  "elf-stats-flickering-fir-572": {
-    "versions": [
-      "1.0.0",
-      "1.0.1"
-    ]
-  },
-  "elf-stats-flickering-lantern-502": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-flickering-ornament-344": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "elf-stats-flickering-saddlebag-301": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-flickering-satchel-815": {
-    "versions": [
-      "1.0.0",
-      "1.0.1",
-      "1.0.2",
-      "1.0.3",
-      "1.0.4",
-      "1.0.5"
-    ]
-  },
-  "elf-stats-flickering-wishlist-695": {
-    "versions": [
-      "9.9.9"
-    ]
-  },
-  "elf-stats-flickering-workbench-929": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-frostbitten-bow-539": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-frostbitten-cookie-757": {
-    "versions": [
-      "999.0.0"
-    ]
-  },
-  "elf-stats-frostbitten-drum-529": {
-    "versions": [
-      "1.0.0",
-      "1.0.1"
-    ]
-  },
-  "elf-stats-frostbitten-muffin-867": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-frostbitten-pantry-235": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-frostbitten-reindeer-875": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-frostbitten-ribbon-950": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-frostbitten-train-315": {
-    "versions": [
-      "1.0.0",
-      "1.0.1"
-    ]
-  },
-  "elf-stats-frostbitten-wishlist-794": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-frosty-candy-152": {
-    "versions": [
-      "1.0.1",
-      "1.0.2",
-      "1.0.3",
-      "1.0.4",
-      "1.0.5",
-      "1.0.6"
-    ]
-  },
-  "elf-stats-frosty-candy-393": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-frosty-toy-870": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-fuzzy-cushion-615": {
-    "versions": [
-      "999.0.0",
-      "999.1.0"
-    ]
-  },
-  "elf-stats-fuzzy-fir-973": {
-    "versions": [
-      "1.0.1",
-      "1.0.2",
-      "1.0.3"
-    ]
-  },
-  "elf-stats-fuzzy-fireplace-615": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-fuzzy-hollyberry-736": {
-    "versions": [
-      "5.0.0"
-    ]
-  },
-  "elf-stats-fuzzy-marshmallow-280": {
-    "versions": [
-      "99.0.1",
-      "99.0.2"
-    ]
-  },
-  "elf-stats-fuzzy-mitten-891": {
-    "versions": [
-      "3.0.0"
-    ]
-  },
-  "elf-stats-fuzzy-ornament-236": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-fuzzy-pantry-827": {
-    "versions": [
-      "999.0.0"
-    ]
-  },
-  "elf-stats-fuzzy-ribbon-205": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-fuzzy-sparkler-922": {
-    "versions": [
-      "99.9.9"
-    ]
-  },
-  "elf-stats-fuzzy-workbench-102": {
-    "versions": [
-      "2.0.0"
-    ]
-  },
-  "elf-stats-fuzzy-wreath-278": {
-    "versions": []
-  },
-  "elf-stats-ginger-bell-819": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-ginger-bow-370": {
-    "versions": [
-      "99.9.9",
-      "100.9.1",
-      "200.3.50",
-      "200.4.50",
-      "250.4.50"
-    ]
-  },
-  "elf-stats-ginger-cookiejar-383": {
-    "versions": [
-      "1.0.1",
-      "1.0.2",
-      "1.0.3",
-      "1.0.4",
-      "1.0.5"
-    ]
-  },
-  "elf-stats-ginger-hammer-326": {
-    "versions": [
-      "1.0.3",
-      "1.0.4",
-      "2.0.1"
-    ]
-  },
-  "elf-stats-ginger-hollyberry-135": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-ginger-icicle-707": {
-    "versions": [
-      "99.19.12"
-    ]
-  },
-  "elf-stats-ginger-ledger-106": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "elf-stats-ginger-reindeer-411": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "elf-stats-ginger-workshop-948": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-ginger-wreath-646": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-gingersnap-mitten-648": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-gingersnap-ornament-469": {
-    "versions": [
-      "9.0.0",
-      "9.0.1",
-      "9.1.1",
-      "9.2.1"
-    ]
-  },
-  "elf-stats-gingersnap-pinecone-440": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-gingersnap-reindeer-987": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-gingersnap-sparkler-768": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "elf-stats-glittering-cookie-772": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-glittering-cookie-844": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-glittering-fir-252": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-glittering-lantern-418": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-glittering-marshmallow-217": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "elf-stats-glittering-nutcracker-591": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-glittering-nutcracker-709": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-glittering-reindeer-615": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-glittering-wishlist-537": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-holly-candy-802": {
-    "versions": [
-      "1.0.0",
-      "1.0.1",
-      "1.0.2",
-      "1.0.3"
-    ]
-  },
-  "elf-stats-holly-fir-593": {
-    "versions": [
-      "5.0.0"
-    ]
-  },
-  "elf-stats-holly-hammer-741": {
-    "versions": [
-      "99.0.0"
-    ]
-  },
-  "elf-stats-holly-stocking-294": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-holly-stockpile-968": {
-    "versions": [
-      "999.0.0",
-      "999.0.1",
-      "999.0.2"
-    ]
-  },
-  "elf-stats-holly-wishlist-355": {
-    "versions": [
-      "1.0.0",
-      "1.0.1"
-    ]
-  },
-  "elf-stats-jolly-hammer-980": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-jolly-ornament-687": {
-    "versions": [
-      "99.9.99"
-    ]
-  },
-  "elf-stats-jolly-snowglobe-266": {
-    "versions": [
-      "99.9.0",
-      "99.9.8",
-      "99.9.82",
-      "99.9.88",
-      "200.0.0"
-    ]
-  },
-  "elf-stats-jolly-toolkit-984": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-jolly-workshop-110": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-joyous-fireplace-187": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-joyous-hollyberry-121": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-joyous-hollyberry-379": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-joyous-mailbag-164": {
-    "versions": [
-      "1.0.5",
-      "1.0.6",
-      "1.0.7",
-      "1.0.9",
-      "1.0.10",
-      "1.0.11",
-      "1.0.12",
-      "1.0.13",
-      "1.0.14",
-      "1.0.15",
-      "1.0.16",
-      "1.0.17",
-      "1.0.18",
-      "1.0.19",
-      "1.0.20"
-    ]
-  },
-  "elf-stats-joyous-pinecone-528": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-joyous-ribbon-819": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-joyous-saddlebag-967": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-joyous-sled-261": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-joyous-sparkler-347": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-joyous-sparkler-816": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-joyous-toy-475": {
-    "versions": [
-      "1.2.0"
-    ]
-  },
-  "elf-stats-joyous-toy-934": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-joyous-train-754": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-jubilant-bow-187": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-jubilant-chimney-189": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-jubilant-ornament-641": {
-    "versions": []
-  },
-  "elf-stats-jubilant-wreath-403": {
-    "versions": [
-      "5.0.0"
-    ]
-  },
-  "elf-stats-lanternlit-cocoa-651": {
-    "versions": [
-      "2.0.0"
-    ]
-  },
-  "elf-stats-lanternlit-fir-106": {
-    "versions": [
-      "2.0.0"
-    ]
-  },
-  "elf-stats-lanternlit-fir-170": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-lanternlit-saddlebag-279": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-lanternlit-sled-571": {
-    "versions": [
-      "9998.0.1",
-      "9999.0.2"
-    ]
-  },
-  "elf-stats-lanternlit-snowman-834": {
-    "versions": []
-  },
-  "elf-stats-magical-sleigh-777": {
-    "versions": [
-      "1.0.0",
-      "1.0.1",
-      "1.0.2",
-      "1.0.3",
-      "1.0.4",
-      "1.0.5",
-      "1.0.6",
-      "1.0.7",
-      "1.0.8",
-      "1.0.9",
-      "1.1.0"
-    ]
-  },
-  "elf-stats-marzipan-cocoa-562": {
-    "versions": []
-  },
-  "elf-stats-marzipan-cocoa-977": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-marzipan-cookiejar-316": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-marzipan-fir-219": {
-    "versions": [
-      "999.0.0",
-      "999.0.1",
-      "999.0.2",
-      "999.0.4",
-      "999.0.5",
-      "999.0.6",
-      "999.0.7",
-      "999.0.8"
-    ]
-  },
-  "elf-stats-marzipan-fir-795": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "elf-stats-marzipan-muffin-733": {
-    "versions": [
-      "1.0.1",
-      "1.0.2",
-      "1.0.3",
-      "1.0.4",
-      "1.0.5",
-      "1.0.6",
-      "1.0.7"
-    ]
-  },
-  "elf-stats-marzipan-nightcap-982": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-marzipan-pantry-560": {
-    "versions": [
-      "1.0.0",
-      "1.0.1",
-      "1.0.2",
-      "1.0.3"
-    ]
-  },
-  "elf-stats-merry-bell-515": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-merry-chimney-765": {
-    "versions": [
-      "9.9.9"
-    ]
-  },
-  "elf-stats-merry-cookiejar-139": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-merry-cookiejar-442": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "elf-stats-merry-cookiejar-511": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-merry-cookiejar-646": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-merry-cookiejar-754": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-merry-cookiejar-796": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-merry-cookiejar-915": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-merry-cookiejar-987": {
-    "versions": [
-      "1.0.0",
-      "1.0.1",
-      "1.0.2",
-      "1.0.3",
-      "1.0.4",
-      "2.0.0"
-    ]
-  },
-  "elf-stats-merry-garland-548": {
-    "versions": [
-      "1.0.0",
-      "1.0.1",
-      "1.0.2"
-    ]
-  },
-  "elf-stats-merry-hammer-791": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-merry-icicle-449": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-merry-sparkler-742": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "elf-stats-merry-sparkler-797": {
-    "versions": [
-      "1.0.0",
-      "1.0.1",
-      "1.0.2",
-      "1.0.3",
-      "1.0.4"
-    ]
-  },
-  "elf-stats-merry-stocking-539": {
-    "versions": [
-      "1.1.11"
-    ]
-  },
-  "elf-stats-midnight-chimney-291": {
-    "versions": [
-      "1.0.1",
-      "1.0.2",
-      "1.0.3",
-      "1.0.4",
-      "1.0.5",
-      "1.0.6"
-    ]
-  },
-  "elf-stats-midnight-drum-606": {
-    "versions": [
-      "999.0.0"
-    ]
-  },
-  "elf-stats-midnight-mitten-226": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-midnight-pinecone-982": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-midnight-rocket-499": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-midnight-rocket-813": {
-    "versions": [
-      "2.0.0",
-      "2.1.0"
-    ]
-  },
-  "elf-stats-midnight-saddlebag-720": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-midnight-star-734": {
-    "versions": [
-      "2.0.0"
-    ]
-  },
-  "elf-stats-midnight-toy-513": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-midnight-workbench-208": {
-    "versions": [
-      "999.0.0"
-    ]
-  },
-  "elf-stats-midnight-wreath-655": {
-    "versions": [
-      "1.0.0",
-      "1.0.1",
-      "1.0.2"
-    ]
-  },
-  "elf-stats-mistletoe-bell-913": {
-    "versions": [
-      "1.0.1",
-      "1.0.2"
-    ]
-  },
-  "elf-stats-mistletoe-cookie-256": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "elf-stats-mistletoe-mailbag-834": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-mistletoe-muffin-976": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-mistletoe-pinecone-620": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-mistletoe-sparkler-211": {
-    "versions": [
-      "9999.0.0",
-      "9999.1.1",
-      "9999.1.3"
     ]
   }
 }
