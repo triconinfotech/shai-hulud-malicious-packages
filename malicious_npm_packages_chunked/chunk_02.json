@@ -11659,6 +11659,7 @@
   },
   "microsoft-employee-experience": {
     "versions": [
+      "99.2.1",
       "99.2.2"
     ]
   },
@@ -11900,9 +11901,6 @@
     ]
   },
   "mongo-decimal": {
-    "versions": []
-  },
-  "mongodb-atlas-cli-toc-generator": {
     "versions": []
   }
 }

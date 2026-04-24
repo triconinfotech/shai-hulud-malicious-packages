@@ -11414,6 +11414,7 @@
   },
   "amazon-q-developer-streaming-client": {
     "versions": [
+      "99.9.11",
       "99.9.13",
       "99.9.15"
     ]
