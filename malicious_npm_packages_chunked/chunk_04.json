@@ -1,4 +1,12 @@
 {
+  "uudi": {
+    "versions": []
+  },
+  "uuidvalidatorarabis": {
+    "versions": [
+      "4.99.99"
+    ]
+  },
   "uuindex": {
     "versions": [
       "13.1.0"

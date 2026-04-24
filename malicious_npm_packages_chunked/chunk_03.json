@@ -1,4 +1,12 @@
 {
+  "mon-package-react-typescript": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "mongo-decimal": {
+    "versions": []
+  },
   "mongodb-atlas-cli-toc-generator": {
     "versions": []
   },
@@ -12045,13 +12053,5 @@
   },
   "utomo-tumis82-sukiwir": {
     "versions": []
-  },
-  "uudi": {
-    "versions": []
-  },
-  "uuidvalidatorarabis": {
-    "versions": [
-      "4.99.99"
-    ]
   }
 }
