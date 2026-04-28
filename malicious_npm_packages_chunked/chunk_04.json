@@ -1,4 +1,79 @@
 {
+  "utomo-nasisayur46-miaww": {
+    "versions": []
+  },
+  "utomo-nasiuduk81-breki": {
+    "versions": []
+  },
+  "utomo-otak-otak96-breki": {
+    "versions": []
+  },
+  "utomo-papeda85-miaww": {
+    "versions": []
+  },
+  "utomo-ragi78-kyuki": {
+    "versions": []
+  },
+  "utomo-rangginang73-sluey": {
+    "versions": []
+  },
+  "utomo-rojak33-ruro": {
+    "versions": []
+  },
+  "utomo-rujak8-apidev": {
+    "versions": []
+  },
+  "utomo-ruwet39-kyuki": {
+    "versions": []
+  },
+  "utomo-sambalado48-riris": {
+    "versions": []
+  },
+  "utomo-sambalado52-riris": {
+    "versions": []
+  },
+  "utomo-serabi22-riris": {
+    "versions": []
+  },
+  "utomo-serabi73-breki": {
+    "versions": []
+  },
+  "utomo-tahu88-miaww": {
+    "versions": []
+  },
+  "utomo-tahutek82-ruro": {
+    "versions": []
+  },
+  "utomo-taiwan19-breki": {
+    "versions": []
+  },
+  "utomo-taiwan55-breki": {
+    "versions": []
+  },
+  "utomo-takokak12-breki": {
+    "versions": []
+  },
+  "utomo-takokak96-kyuki": {
+    "versions": []
+  },
+  "utomo-tapai9-sluey": {
+    "versions": []
+  },
+  "utomo-tek42-kyuki": {
+    "versions": []
+  },
+  "utomo-telurtahu39-ruro": {
+    "versions": []
+  },
+  "utomo-telurtahu98-kyuki": {
+    "versions": []
+  },
+  "utomo-tumis36-miaww": {
+    "versions": []
+  },
+  "utomo-tumis82-sukiwir": {
+    "versions": []
+  },
   "uudi": {
     "versions": []
   },
@@ -938,7 +1013,9 @@
     ]
   },
   "vitest-globals": {
-    "versions": []
+    "versions": [
+      "9.9.0"
+    ]
   },
   "vitetest-lint": {
     "versions": []
@@ -1072,7 +1149,9 @@
     ]
   },
   "vue-scoped-css": {
-    "versions": []
+    "versions": [
+      "9.9.0"
+    ]
   },
   "vue2-amis-custom-widget-pro": {
     "versions": [
@@ -3294,7 +3373,9 @@
     ]
   },
   "yoshi-base": {
-    "versions": []
+    "versions": [
+      "4.78.0"
+    ]
   },
   "youpin": {
     "versions": [

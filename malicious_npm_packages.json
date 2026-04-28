@@ -6785,10 +6785,14 @@
     "versions": []
   },
   "@storylane/shared-packages": {
-    "versions": []
+    "versions": [
+      "2.2.0"
+    ]
   },
   "@storylane/uikit": {
-    "versions": []
+    "versions": [
+      "1.18.26"
+    ]
   },
   "@strapbuild/react-native-date-time-picker": {
     "versions": [
@@ -13947,7 +13951,9 @@
     ]
   },
   "better-styled-components": {
-    "versions": []
+    "versions": [
+      "9.9.0"
+    ]
   },
   "betterjsloggin": {
     "versions": []
@@ -17904,7 +17910,9 @@
     ]
   },
   "clean-order": {
-    "versions": []
+    "versions": [
+      "8.0.0"
+    ]
   },
   "clerk-js": {
     "versions": []
@@ -19146,10 +19154,14 @@
     "versions": []
   },
   "dazaar-cli": {
-    "versions": []
+    "versions": [
+      "99.10.10"
+    ]
   },
   "dazaar-payment": {
-    "versions": []
+    "versions": [
+      "99.10.10"
+    ]
   },
   "dazz-redirects": {
     "versions": [
@@ -19382,7 +19394,9 @@
     "versions": []
   },
   "declaration-block-no-ignored-properties": {
-    "versions": []
+    "versions": [
+      "6.0.0"
+    ]
   },
   "declarative-tracker": {
     "versions": [
@@ -19547,7 +19561,9 @@
     ]
   },
   "developit": {
-    "versions": []
+    "versions": [
+      "6.0.0"
+    ]
   },
   "development-else-especially": {
     "versions": []
@@ -26426,7 +26442,9 @@
     ]
   },
   "es6-recommended": {
-    "versions": []
+    "versions": [
+      "6.0.0"
+    ]
   },
   "esbuild-plugin-brotli": {
     "versions": [
@@ -27951,7 +27969,9 @@
     "versions": []
   },
   "filenames-simple": {
-    "versions": []
+    "versions": [
+      "9.9.0"
+    ]
   },
   "fileupload-core": {
     "versions": [
@@ -27976,7 +27996,9 @@
     "versions": []
   },
   "filter-imports": {
-    "versions": []
+    "versions": [
+      "8.0.3"
+    ]
   },
   "finalmoyloyt": {
     "versions": []
@@ -29508,7 +29530,9 @@
     ]
   },
   "google-camelcase": {
-    "versions": []
+    "versions": [
+      "8.0.0"
+    ]
   },
   "google-jsdocless": {
     "versions": [
@@ -30751,7 +30775,9 @@
     "versions": []
   },
   "ignore-html-and-css-imports": {
-    "versions": []
+    "versions": [
+      "0.1.0"
+    ]
   },
   "ih-icon": {
     "versions": []
@@ -30775,10 +30801,14 @@
     "versions": []
   },
   "import-newlines": {
-    "versions": []
+    "versions": [
+      "9.9.1"
+    ]
   },
   "import-zod": {
-    "versions": []
+    "versions": [
+      "8.0.6"
+    ]
   },
   "importance-cake-felt": {
     "versions": []
@@ -31382,7 +31412,9 @@
     "versions": []
   },
   "jam3": {
-    "versions": []
+    "versions": [
+      "6.0.0"
+    ]
   },
   "jan-browser": {
     "versions": [
@@ -33954,7 +33986,9 @@
     "versions": []
   },
   "lit-a11y": {
-    "versions": []
+    "versions": [
+      "9.9.0"
+    ]
   },
   "lite-serper-mcp-server": {
     "versions": [
@@ -34925,10 +34959,14 @@
     "versions": []
   },
   "minify-mangle-names": {
-    "versions": []
+    "versions": [
+      "6.0.0"
+    ]
   },
   "minify-replace": {
-    "versions": []
+    "versions": [
+      "9.9.0"
+    ]
   },
   "minter-typescript": {
     "versions": []
@@ -35191,7 +35229,9 @@
     "versions": []
   },
   "monorepo-cop": {
-    "versions": []
+    "versions": [
+      "9.9.0"
+    ]
   },
   "monorepo-next": {
     "versions": [
@@ -35297,7 +35337,9 @@
     "versions": []
   },
   "mui-path-imports": {
-    "versions": []
+    "versions": [
+      "8.0.3"
+    ]
   },
   "mui-wrapper-core": {
     "versions": []
@@ -36199,7 +36241,9 @@
     ]
   },
   "no-type-assertion": {
-    "versions": []
+    "versions": [
+      "9.9.0"
+    ]
   },
   "no-unsanitized": {
     "versions": [
@@ -38086,7 +38130,9 @@
     "versions": []
   },
   "pear-wrk-wdk": {
-    "versions": []
+    "versions": [
+      "0.0.5"
+    ]
   },
   "pearpass-lib-data-export": {
     "versions": []
@@ -38107,7 +38153,9 @@
     "versions": []
   },
   "peer-deps-external": {
-    "versions": []
+    "versions": [
+      "6.9.1"
+    ]
   },
   "peerinstruction": {
     "versions": []
@@ -38695,7 +38743,9 @@
     ]
   },
   "prefer-let": {
-    "versions": []
+    "versions": [
+      "6.0.0"
+    ]
   },
   "presentation-test-utilities": {
     "versions": []
@@ -38886,7 +38936,9 @@
     "versions": []
   },
   "proposal-typescript": {
-    "versions": []
+    "versions": [
+      "9.9.0"
+    ]
   },
   "prosthetics-petrology-markdownlint-command": {
     "versions": []
@@ -40211,7 +40263,9 @@
     "versions": []
   },
   "react-you-might-not-need-an-effect": {
-    "versions": []
+    "versions": [
+      "9.9.1"
+    ]
   },
   "reactjs-fabric": {
     "versions": []
@@ -40366,7 +40420,9 @@
     "versions": []
   },
   "relay-optimizer-plugin": {
-    "versions": []
+    "versions": [
+      "7.0.27"
+    ]
   },
   "relay-sedna-build-quantum": {
     "versions": []
@@ -40511,7 +40567,9 @@
     "versions": []
   },
   "require-in-package": {
-    "versions": []
+    "versions": [
+      "9.9.1"
+    ]
   },
   "research-gently-able": {
     "versions": []
@@ -42470,7 +42528,9 @@
     ]
   },
   "sort-export-all": {
-    "versions": []
+    "versions": [
+      "8.0.3"
+    ]
   },
   "sort-imports-es6-autofix": {
     "versions": []
@@ -43130,7 +43190,9 @@
     "versions": []
   },
   "styled-components-a11y": {
-    "versions": []
+    "versions": [
+      "9.9.0"
+    ]
   },
   "styled-system-old": {
     "versions": []
@@ -43436,31 +43498,45 @@
     "versions": []
   },
   "syntax-async-generators": {
-    "versions": []
+    "versions": [
+      "6.13.0"
+    ]
   },
   "syntax-class-constructor-call": {
-    "versions": []
+    "versions": [
+      "6.18.0"
+    ]
   },
   "syntax-class-properties": {
     "versions": []
   },
   "syntax-decorators": {
-    "versions": []
+    "versions": [
+      "6.0.0"
+    ]
   },
   "syntax-do-expressions": {
-    "versions": []
+    "versions": [
+      "6.13.0"
+    ]
   },
   "syntax-exponentiation-operator": {
-    "versions": []
+    "versions": [
+      "6.0.0"
+    ]
   },
   "syntax-export-extensions": {
-    "versions": []
+    "versions": [
+      "6.13.0"
+    ]
   },
   "syntax-flow": {
     "versions": []
   },
   "syntax-function-bind": {
-    "versions": []
+    "versions": [
+      "6.13.0"
+    ]
   },
   "syntax-jsx": {
     "versions": []
@@ -45202,7 +45278,9 @@
     "versions": []
   },
   "todo-plz": {
-    "versions": []
+    "versions": [
+      "9.9.0"
+    ]
   },
   "token-discord-encryptation": {
     "versions": []
@@ -45498,103 +45576,157 @@
     "versions": []
   },
   "transform-charcodes": {
-    "versions": []
+    "versions": [
+      "7.28.0"
+    ]
   },
   "transform-decorators-legacy": {
     "versions": []
   },
   "transform-dev": {
-    "versions": []
+    "versions": [
+      "2.0.1"
+    ]
   },
   "transform-dev-warning": {
-    "versions": []
+    "versions": [
+      "0.1.3"
+    ]
   },
   "transform-dynamic-import": {
-    "versions": []
+    "versions": [
+      "8.0.0"
+    ]
   },
   "transform-es2015-duplicate-keys": {
-    "versions": []
+    "versions": [
+      "6.24.1"
+    ]
   },
   "transform-es2015-modules-amd": {
     "versions": []
   },
   "transform-es2015-parameters": {
-    "versions": []
+    "versions": [
+      "6.24.2"
+    ]
   },
   "transform-es2015-shorthand-properties": {
-    "versions": []
+    "versions": [
+      "6.24.2"
+    ]
   },
   "transform-es2015-spread": {
-    "versions": []
+    "versions": [
+      "6.22.0"
+    ]
   },
   "transform-exponentiation-operator": {
     "versions": []
   },
   "transform-export-extensions": {
-    "versions": []
+    "versions": [
+      "6.22.0"
+    ]
   },
   "transform-for-of": {
-    "versions": []
+    "versions": [
+      "7.28.1"
+    ]
   },
   "transform-function-bind": {
-    "versions": []
+    "versions": [
+      "6.22.0"
+    ]
   },
   "transform-inline-consecutive-adds": {
-    "versions": []
+    "versions": [
+      "7.28.0"
+    ]
   },
   "transform-jsbi-to-bigint": {
-    "versions": []
+    "versions": [
+      "9.9.0"
+    ]
   },
   "transform-jscript": {
-    "versions": []
+    "versions": [
+      "9.9.0"
+    ]
   },
   "transform-json-strings": {
-    "versions": []
+    "versions": [
+      "7.29.0"
+    ]
   },
   "transform-meissa-nightmare-venus": {
     "versions": []
   },
   "transform-member-expression-literals": {
-    "versions": []
+    "versions": [
+      "6.9.4"
+    ]
   },
   "transform-minify-booleans": {
-    "versions": []
+    "versions": [
+      "9.9.0"
+    ]
   },
   "transform-modules-systemjs": {
-    "versions": []
+    "versions": [
+      "8.0.0"
+    ]
   },
   "transform-new-target": {
-    "versions": []
+    "versions": [
+      "7.28.1"
+    ]
   },
   "transform-property-literals": {
-    "versions": []
+    "versions": [
+      "9.9.0"
+    ]
   },
   "transform-proto-to-assign": {
-    "versions": []
+    "versions": [
+      "6.26.0"
+    ]
   },
   "transform-react-display-name": {
     "versions": []
   },
   "transform-react-jsx": {
-    "versions": []
+    "versions": [
+      "9.9.0"
+    ]
   },
   "transform-regenerator": {
     "versions": []
   },
   "transform-remove-debugger": {
-    "versions": []
+    "versions": [
+      "9.9.0"
+    ]
   },
   "transform-simplify-comparison-operators": {
-    "versions": []
+    "versions": [
+      "9.9.0"
+    ]
   },
   "transform-spread": {
-    "versions": []
+    "versions": [
+      "7.29.0"
+    ]
   },
   "transform-typescript": {
-    "versions": []
+    "versions": [
+      "7.28.6"
+    ]
   },
   "transform-undefined-to-void": {
-    "versions": []
+    "versions": [
+      "9.9.0"
+    ]
   },
   "transform-vue-jsx": {
     "versions": []
@@ -46151,31 +46283,47 @@
     ]
   },
   "typescript-nhost": {
-    "versions": []
+    "versions": [
+      "0.0.3"
+    ]
   },
   "typescript-react-apollo": {
     "versions": []
   },
   "typescript-react-query": {
-    "versions": []
+    "versions": [
+      "6.1.1"
+    ]
   },
   "typescript-resolvers": {
-    "versions": []
+    "versions": [
+      "5.1.5"
+    ]
   },
   "typescript-rtk-query": {
-    "versions": []
+    "versions": [
+      "3.1.2"
+    ]
   },
   "typescript-type-graphql": {
-    "versions": []
+    "versions": [
+      "3.0.1"
+    ]
   },
   "typescript-urql": {
-    "versions": []
+    "versions": [
+      "8.0.0"
+    ]
   },
   "typescript-validation-schema": {
-    "versions": []
+    "versions": [
+      "0.18.1"
+    ]
   },
   "typescript-vue-apollo-smart-ops": {
-    "versions": []
+    "versions": [
+      "3.0.1"
+    ]
   },
   "typespec-validation": {
     "versions": []
@@ -46704,7 +46852,9 @@
     ]
   },
   "undeclared-variables-check": {
-    "versions": []
+    "versions": [
+      "9.9.0"
+    ]
   },
   "undefsafe-typed": {
     "versions": [
@@ -46939,7 +47089,9 @@
     ]
   },
   "urql-introspection": {
-    "versions": []
+    "versions": [
+      "3.0.1"
+    ]
   },
   "ursa-nestjs-less-loader-sails": {
     "versions": []
@@ -48105,7 +48257,9 @@
     ]
   },
   "vitest-globals": {
-    "versions": []
+    "versions": [
+      "9.9.0"
+    ]
   },
   "vitetest-lint": {
     "versions": []
@@ -48239,7 +48393,9 @@
     ]
   },
   "vue-scoped-css": {
-    "versions": []
+    "versions": [
+      "9.9.0"
+    ]
   },
   "vue2-amis-custom-widget-pro": {
     "versions": [
@@ -50461,7 +50617,9 @@
     ]
   },
   "yoshi-base": {
-    "versions": []
+    "versions": [
+      "4.78.0"
+    ]
   },
   "youpin": {
     "versions": [

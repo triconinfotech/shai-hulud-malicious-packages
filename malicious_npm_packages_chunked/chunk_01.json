@@ -1,4 +1,7 @@
 {
+  "andi-ketan16-breki": {
+    "versions": []
+  },
   "andi-ketan76-sukiwir": {
     "versions": []
   },
@@ -2404,7 +2407,9 @@
     ]
   },
   "better-styled-components": {
-    "versions": []
+    "versions": [
+      "9.9.0"
+    ]
   },
   "betterjsloggin": {
     "versions": []
@@ -6361,7 +6366,9 @@
     ]
   },
   "clean-order": {
-    "versions": []
+    "versions": [
+      "8.0.0"
+    ]
   },
   "clerk-js": {
     "versions": []
@@ -7603,10 +7610,14 @@
     "versions": []
   },
   "dazaar-cli": {
-    "versions": []
+    "versions": [
+      "99.10.10"
+    ]
   },
   "dazaar-payment": {
-    "versions": []
+    "versions": [
+      "99.10.10"
+    ]
   },
   "dazz-redirects": {
     "versions": [
@@ -7839,7 +7850,9 @@
     "versions": []
   },
   "declaration-block-no-ignored-properties": {
-    "versions": []
+    "versions": [
+      "6.0.0"
+    ]
   },
   "declarative-tracker": {
     "versions": [
@@ -8004,7 +8017,9 @@
     ]
   },
   "developit": {
-    "versions": []
+    "versions": [
+      "6.0.0"
+    ]
   },
   "development-else-especially": {
     "versions": []

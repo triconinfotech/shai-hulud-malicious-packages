@@ -3221,7 +3221,9 @@
     ]
   },
   "es6-recommended": {
-    "versions": []
+    "versions": [
+      "6.0.0"
+    ]
   },
   "esbuild-plugin-brotli": {
     "versions": [
@@ -4746,7 +4748,9 @@
     "versions": []
   },
   "filenames-simple": {
-    "versions": []
+    "versions": [
+      "9.9.0"
+    ]
   },
   "fileupload-core": {
     "versions": [
@@ -4771,7 +4775,9 @@
     "versions": []
   },
   "filter-imports": {
-    "versions": []
+    "versions": [
+      "8.0.3"
+    ]
   },
   "finalmoyloyt": {
     "versions": []
@@ -6303,7 +6309,9 @@
     ]
   },
   "google-camelcase": {
-    "versions": []
+    "versions": [
+      "8.0.0"
+    ]
   },
   "google-jsdocless": {
     "versions": [
@@ -7546,7 +7554,9 @@
     "versions": []
   },
   "ignore-html-and-css-imports": {
-    "versions": []
+    "versions": [
+      "0.1.0"
+    ]
   },
   "ih-icon": {
     "versions": []
@@ -7570,10 +7580,14 @@
     "versions": []
   },
   "import-newlines": {
-    "versions": []
+    "versions": [
+      "9.9.1"
+    ]
   },
   "import-zod": {
-    "versions": []
+    "versions": [
+      "8.0.6"
+    ]
   },
   "importance-cake-felt": {
     "versions": []
@@ -8177,7 +8191,9 @@
     "versions": []
   },
   "jam3": {
-    "versions": []
+    "versions": [
+      "6.0.0"
+    ]
   },
   "jan-browser": {
     "versions": [
@@ -10749,7 +10765,9 @@
     "versions": []
   },
   "lit-a11y": {
-    "versions": []
+    "versions": [
+      "9.9.0"
+    ]
   },
   "lite-serper-mcp-server": {
     "versions": [
@@ -11720,10 +11738,14 @@
     "versions": []
   },
   "minify-mangle-names": {
-    "versions": []
+    "versions": [
+      "6.0.0"
+    ]
   },
   "minify-replace": {
-    "versions": []
+    "versions": [
+      "9.9.0"
+    ]
   },
   "minter-typescript": {
     "versions": []
@@ -11891,18 +11913,5 @@
   },
   "mofashi-xuetude-banlvshu-shang": {
     "versions": []
-  },
-  "mofashi-xuetude-banlvshu-xia": {
-    "versions": []
-  },
-  "mojio-client-lite": {
-    "versions": []
-  },
-  "mollie-api-adapter-poc": {
-    "versions": [
-      "20.0.0",
-      "25.0.0",
-      "26.0.0"
-    ]
   }
 }
