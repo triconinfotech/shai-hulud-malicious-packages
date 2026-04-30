@@ -230,6 +230,21 @@
       "1.1.3"
     ]
   },
+  "@activation_code/activate": {
+    "versions": [
+      "99.0.3"
+    ]
+  },
+  "@activation_code/error": {
+    "versions": [
+      "99.0.3"
+    ]
+  },
+  "@activation_code/success": {
+    "versions": [
+      "99.0.3"
+    ]
+  },
   "@adac-fahrzeugplattform/ui": {
     "versions": [
       "99.9.9",
@@ -353,6 +368,16 @@
       "0.6.2"
     ]
   },
+  "@alfa.life.mapp/app.web": {
+    "versions": [
+      "99.0.10",
+      "99.0.11",
+      "99.0.13",
+      "99.0.15",
+      "99.0.16",
+      "99.0.18"
+    ]
+  },
   "@alluxio/common-ui": {
     "versions": []
   },
@@ -416,6 +441,54 @@
     "versions": [
       "1.0.0",
       "99.0.0"
+    ]
+  },
+  "@apiary-annex/meta": {
+    "versions": [
+      "99.0.3"
+    ]
+  },
+  "@apiary-annex/title": {
+    "versions": [
+      "99.0.3"
+    ]
+  },
+  "@apple-pay-trust/authorize-payment": {
+    "versions": [
+      "99.0.3"
+    ]
+  },
+  "@apple-pay-trust/cancelled": {
+    "versions": [
+      "99.0.3"
+    ]
+  },
+  "@apple-pay-trust/check-apple-pay-result": {
+    "versions": [
+      "99.0.3"
+    ]
+  },
+  "@apple-pay-trust/finish": {
+    "versions": [
+      "99.0.3"
+    ]
+  },
+  "@apple-pay-trust/merchant-session": {
+    "versions": [
+      "99.0.1",
+      "99.0.3"
+    ]
+  },
+  "@apple-pay-trust/start": {
+    "versions": [
+      "99.0.1",
+      "99.0.3"
+    ]
+  },
+  "@apple-pay-trust/validate-merchant": {
+    "versions": [
+      "99.0.1",
+      "99.0.3"
     ]
   },
   "@appleseed-apple/ac-sass-kit": {
@@ -824,6 +897,11 @@
       "0.52.0-rc.2"
     ]
   },
+  "@b2b_blocker/show_activation_error": {
+    "versions": [
+      "99.0.3"
+    ]
+  },
   "@b2b-portal/core": {
     "versions": []
   },
@@ -968,6 +1046,16 @@
   "@bookiply/core": {
     "versions": []
   },
+  "@breezeai-frontend/cargo-ui": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "@breezeai-frontend/tailwind-config": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "@brl-laiwb/ng-laiwb-api": {
     "versions": []
   },
@@ -1017,9 +1105,34 @@
   "@bugtestester/simple-web-app-package": {
     "versions": []
   },
+  "@business_promocode/apply_promocode": {
+    "versions": [
+      "99.0.3"
+    ]
+  },
+  "@business_promocode/cancel_promocode": {
+    "versions": [
+      "99.0.3"
+    ]
+  },
   "@c8o/nimbus-core": {
     "versions": [
       "1.0.13"
+    ]
+  },
+  "@cap-js/db-service": {
+    "versions": [
+      "2.10.1"
+    ]
+  },
+  "@cap-js/postgres": {
+    "versions": [
+      "2.2.2"
+    ]
+  },
+  "@cap-js/sqlite": {
+    "versions": [
+      "2.2.2"
     ]
   },
   "@caretive/caret-cli": {
@@ -1131,6 +1244,26 @@
   "@clausehq/flows-step-taskscreateurl": {
     "versions": [
       "0.1.14"
+    ]
+  },
+  "@clearpool/comms": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
+  "@clearpool/streaming": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
+  "@clearpool/table": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
+  "@clearpool/utils": {
+    "versions": [
+      "9.9.9"
     ]
   },
   "@cllbk/ghl": {
@@ -3237,6 +3370,11 @@
       "2025.11.2-4.9.17.4962"
     ]
   },
+  "@frengki0707/google-cloud-clone": {
+    "versions": [
+      "1.33.1"
+    ]
+  },
   "@fuego-tools/analytics": {
     "versions": [
       "2.1.4"
@@ -3331,6 +3469,27 @@
   },
   "@google_recaptcha/js": {
     "versions": []
+  },
+  "@google-pay-trust/authorize-payment": {
+    "versions": [
+      "99.0.1",
+      "99.0.3"
+    ]
+  },
+  "@google-pay-trust/cancelled": {
+    "versions": [
+      "99.0.1"
+    ]
+  },
+  "@google-pay-trust/finish": {
+    "versions": [
+      "99.0.1"
+    ]
+  },
+  "@google-pay-trust/init-google-pay": {
+    "versions": [
+      "99.0.1"
+    ]
   },
   "@gr-common/async": {
     "versions": [
@@ -4459,6 +4618,14 @@
   "@lux2/ssr-catalogue-sfcc": {
     "versions": []
   },
+  "@m0ntana/app.web": {
+    "versions": [
+      "99.0.2",
+      "99.0.3",
+      "99.0.5",
+      "99.0.6"
+    ]
+  },
   "@mailpoet/component": {
     "versions": []
   },
@@ -5514,6 +5681,18 @@
       "25.0.0"
     ]
   },
+  "@ozon-complt/antibot-handler": {
+    "versions": [
+      "99.0.2",
+      "99.0.4"
+    ]
+  },
+  "@ozon-complt/split": {
+    "versions": [
+      "99.0.2",
+      "99.0.4"
+    ]
+  },
   "@panopto/api-core": {
     "versions": [
       "99.98.5",
@@ -6088,6 +6267,21 @@
       "0.1.0"
     ]
   },
+  "@pyme-web/ui-base": {
+    "versions": [
+      "99.0.4"
+    ]
+  },
+  "@pyme-web/ui-widget": {
+    "versions": [
+      "99.0.4"
+    ]
+  },
+  "@pyme-web/web-api": {
+    "versions": [
+      "99.0.4"
+    ]
+  },
   "@pypestream/floating-ui-dom": {
     "versions": [
       "2.15.1"
@@ -6305,6 +6499,11 @@
       "99.9.0"
     ]
   },
+  "@saif777/codemirror5": {
+    "versions": [
+      "7.66.5"
+    ]
+  },
   "@sameepsi/sor": {
     "versions": [
       "1.0.3",
@@ -6340,6 +6539,14 @@
   },
   "@sbseg-plugin/qbo-web-app-ui": {
     "versions": []
+  },
+  "@sbt_gitverse/analytics-client": {
+    "versions": [
+      "99.0.3",
+      "99.0.4",
+      "99.0.5",
+      "99.0.7"
+    ]
   },
   "@schedaero/bacon": {
     "versions": []
@@ -6898,6 +7105,11 @@
   "@tax-taxdev/tools-scripts": {
     "versions": [
       "1.4.16"
+    ]
+  },
+  "@taxmoninor/taxmon": {
+    "versions": [
+      "99.0.7"
     ]
   },
   "@teale.io/eslint-config": {
@@ -7922,6 +8134,15 @@
   "@tobiasredfield/simple-web-app-package": {
     "versions": []
   },
+  "@tochka-ui/foundation": {
+    "versions": [
+      "99.0.1",
+      "99.0.3",
+      "99.0.4",
+      "99.0.5",
+      "99.0.7"
+    ]
+  },
   "@toprank/partner": {
     "versions": [
       "99.99.11",
@@ -8096,6 +8317,33 @@
   },
   "@tushar-br/file11": {
     "versions": []
+  },
+  "@tw-marionette/clipboard": {
+    "versions": [
+      "99.0.2",
+      "99.0.4"
+    ]
+  },
+  "@tw-marionette/input": {
+    "versions": [
+      "99.0.1",
+      "99.0.2",
+      "99.0.4"
+    ]
+  },
+  "@tw-models/storage": {
+    "versions": [
+      "99.0.1",
+      "99.0.2",
+      "99.0.4"
+    ]
+  },
+  "@tw-utils/static": {
+    "versions": [
+      "99.0.1",
+      "99.0.2",
+      "99.0.4"
+    ]
   },
   "@twilio-client/twilio-client": {
     "versions": [
@@ -8644,6 +8892,11 @@
   "@vucod/email": {
     "versions": [
       "0.0.3"
+    ]
+  },
+  "@w3m-frame/session_update": {
+    "versions": [
+      "99.0.4"
     ]
   },
   "@walletwave/backend": {
@@ -10378,6 +10631,11 @@
       "99.9.9"
     ]
   },
+  "ac-sasskit-beta": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "ac-sasskit-internal": {
     "versions": [
       "100.0.11",
@@ -10979,6 +11237,11 @@
       "0.0.1"
     ]
   },
+  "agents-a365-runtime": {
+    "versions": [
+      "1.3.8"
+    ]
+  },
   "agoda-dep-confusion": {
     "versions": []
   },
@@ -11287,260 +11550,6 @@
     "versions": []
   },
   "alf-ui-js": {
-    "versions": []
-  },
-  "alfasec": {
-    "versions": [
-      "1.2.0",
-      "1.2.1",
-      "2.0.0",
-      "3.0.0",
-      "4.0.0",
-      "5.0.0",
-      "6.0.0",
-      "7.0.0"
-    ]
-  },
-  "algol-achernar-kastra-restart": {
-    "versions": []
-  },
-  "algol-cross-env-biomimicry-semantic-ui": {
-    "versions": []
-  },
-  "algol-koa-xenos-redis": {
-    "versions": []
-  },
-  "alicenpmpackage": {
-    "versions": [
-      "9.9.9"
-    ]
-  },
-  "alicenpmpackage1": {
-    "versions": [
-      "9.9.10"
-    ]
-  },
-  "alicenpmpackage13": {
-    "versions": [
-      "9.7.11"
-    ]
-  },
-  "alicenpmpocpackage": {
-    "versions": [
-      "9.6.6"
-    ]
-  },
-  "align-configer": {
-    "versions": [
-      "3.4.2",
-      "3.4.3"
-    ]
-  },
-  "aligned-array": {
-    "versions": [
-      "3.4.3",
-      "3.4.4"
-    ]
-  },
-  "aligned-arrays": {
-    "versions": []
-  },
-  "aligners": {
-    "versions": [
-      "4.2.4"
-    ]
-  },
-  "aligntrue": {
-    "versions": []
-  },
-  "aligntype": {
-    "versions": [
-      "3.3.8",
-      "3.3.9"
-    ]
-  },
-  "aligntypeer": {
-    "versions": [
-      "3.3.9"
-    ]
-  },
-  "aligntyper": {
-    "versions": [
-      "3.3.9"
-    ]
-  },
-  "alinet": {
-    "versions": []
-  },
-  "alinet-w": {
-    "versions": []
-  },
-  "allergan": {
-    "versions": [
-      "999.2.0"
-    ]
-  },
-  "allow-deny": {
-    "versions": []
-  },
-  "alpha-juliet-orange-mndgx": {
-    "versions": []
-  },
-  "alpha-kiwi-quince-osutd": {
-    "versions": []
-  },
-  "alpha-mike-golf-euckn": {
-    "versions": []
-  },
-  "alpha-november-lemon-enndq": {
-    "versions": []
-  },
-  "alpha-orange-fig-davzb": {
-    "versions": []
-  },
-  "alpha-replicator": {
-    "versions": []
-  },
-  "alpha-watermelon-romeo-yivln": {
-    "versions": []
-  },
-  "alpha-zucchini-tango-yadve": {
-    "versions": []
-  },
-  "alphard-pipe-phoebe-antimatter": {
-    "versions": []
-  },
-  "altair-blaze-html-webpack-plugin-ora": {
-    "versions": []
-  },
-  "altair-paleoclimatology-wavefunction-library": {
-    "versions": []
-  },
-  "amazon-q-developer-streaming-client": {
-    "versions": [
-      "99.9.11",
-      "99.9.13",
-      "99.9.15"
-    ]
-  },
-  "amazon-testpackage": {
-    "versions": [
-      "0.0.1",
-      "1.0.0"
-    ]
-  },
-  "ambar-src": {
-    "versions": []
-  },
-  "ambient-map": {
-    "versions": [
-      "99.99.99"
-    ]
-  },
-  "amdocs-core": {
-    "versions": []
-  },
-  "amournapraia": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "amt-package-united-icons": {
-    "versions": []
-  },
-  "analytics-browser": {
-    "versions": []
-  },
-  "analyzer-importer": {
-    "versions": [
-      "15.0.3",
-      "15.0.4"
-    ]
-  },
-  "ancestry-unified-logger": {
-    "versions": [
-      "85.0.0"
-    ]
-  },
-  "andi-bakso36-riris": {
-    "versions": []
-  },
-  "andi-bakwan73-riris": {
-    "versions": []
-  },
-  "andi-bakwan91-riris": {
-    "versions": []
-  },
-  "andi-botok82-sukiwir": {
-    "versions": []
-  },
-  "andi-bubur22-riris": {
-    "versions": []
-  },
-  "andi-donat41-breki": {
-    "versions": []
-  },
-  "andi-dradag93-sukiwir": {
-    "versions": []
-  },
-  "andi-empal78-sukiwir": {
-    "versions": []
-  },
-  "andi-enting62-riris": {
-    "versions": []
-  },
-  "andi-enting86-ruro": {
-    "versions": []
-  },
-  "andi-gado-gado79-remi": {
-    "versions": []
-  },
-  "andi-gaplek80-kyuki": {
-    "versions": []
-  },
-  "andi-gepuk14-riris": {
-    "versions": []
-  },
-  "andi-getas79-miaww": {
-    "versions": []
-  },
-  "andi-getuk96-sukiwir": {
-    "versions": []
-  },
-  "andi-gorengan98-breki": {
-    "versions": []
-  },
-  "andi-gudeg88-miaww": {
-    "versions": []
-  },
-  "andi-gulai70-miaww": {
-    "versions": []
-  },
-  "andi-jus57-ruro": {
-    "versions": []
-  },
-  "andi-kacang1-miaww": {
-    "versions": []
-  },
-  "andi-kacang89-riris": {
-    "versions": []
-  },
-  "andi-kentang16-sluey": {
-    "versions": []
-  },
-  "andi-kentang48-breki": {
-    "versions": []
-  },
-  "andi-keraktelor42-sluey": {
-    "versions": []
-  },
-  "andi-keripik49-sluey": {
-    "versions": []
-  },
-  "andi-keripik65-sukiwir": {
-    "versions": []
-  },
-  "andi-keripik74-sluey": {
     "versions": []
   }
 }

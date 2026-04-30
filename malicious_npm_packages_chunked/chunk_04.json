@@ -1,4 +1,554 @@
 {
+  "umi-kolak21-miaww": {
+    "versions": []
+  },
+  "umi-kolak54-breki": {
+    "versions": []
+  },
+  "umi-kue32-breki": {
+    "versions": []
+  },
+  "umi-kue36-sukiwir": {
+    "versions": []
+  },
+  "umi-kue47-riris": {
+    "versions": []
+  },
+  "umi-kue77-breki": {
+    "versions": []
+  },
+  "umi-lengko69-sluey": {
+    "versions": []
+  },
+  "umi-lupis28-breki": {
+    "versions": []
+  },
+  "umi-lutis64-riris": {
+    "versions": []
+  },
+  "umi-lutis73-breki": {
+    "versions": []
+  },
+  "umi-lutis77-riris": {
+    "versions": []
+  },
+  "umi-martabak49-sukiwir": {
+    "versions": []
+  },
+  "umi-martabak57-kyuki": {
+    "versions": []
+  },
+  "umi-menjes7-riris": {
+    "versions": []
+  },
+  "umi-menjes70-sumpek": {
+    "versions": []
+  },
+  "umi-menjes83-riris": {
+    "versions": []
+  },
+  "umi-mieayam67-sukiwir": {
+    "versions": []
+  },
+  "umi-naget43-miaww": {
+    "versions": []
+  },
+  "umi-nasicampur51-sukiwir": {
+    "versions": []
+  },
+  "umi-nasiuduk8-sukiwir": {
+    "versions": []
+  },
+  "umi-oblok92-riris": {
+    "versions": []
+  },
+  "umi-oncom76-miaww": {
+    "versions": []
+  },
+  "umi-papeda96-breki": {
+    "versions": []
+  },
+  "umi-pisang85-breki": {
+    "versions": []
+  },
+  "umi-rangi25-riris": {
+    "versions": []
+  },
+  "umi-rawon80-sluey": {
+    "versions": []
+  },
+  "umi-rojak24-miaww": {
+    "versions": []
+  },
+  "umi-ronde82-breki": {
+    "versions": []
+  },
+  "umi-rujaksoto35-breki": {
+    "versions": []
+  },
+  "umi-rujaksoto58-ruro": {
+    "versions": []
+  },
+  "umi-ruwet30-breki": {
+    "versions": []
+  },
+  "umi-saguer52-ruro": {
+    "versions": []
+  },
+  "umi-sambalado83-breki": {
+    "versions": []
+  },
+  "umi-sambel75-breki": {
+    "versions": []
+  },
+  "umi-sasag2-miaww": {
+    "versions": []
+  },
+  "umi-sate45-sukiwir": {
+    "versions": []
+  },
+  "umi-semur20-sluey": {
+    "versions": []
+  },
+  "umi-semur39-miaww": {
+    "versions": []
+  },
+  "umi-semur60-breki": {
+    "versions": []
+  },
+  "umi-semur74-miaww": {
+    "versions": []
+  },
+  "umi-serabi51-ruro": {
+    "versions": []
+  },
+  "umi-soto29-breki": {
+    "versions": []
+  },
+  "umi-soto95-sluey": {
+    "versions": []
+  },
+  "umi-teh45-ruro": {
+    "versions": []
+  },
+  "umi-tek22-breki": {
+    "versions": []
+  },
+  "umi-tomat13-pore": {
+    "versions": []
+  },
+  "umi-tumis17-miaww": {
+    "versions": []
+  },
+  "umi-wajit28-ruro": {
+    "versions": []
+  },
+  "un112": {
+    "versions": [
+      "1.0.2",
+      "1.0.3",
+      "1.0.5",
+      "1.0.18",
+      "1.0.24",
+      "1.0.28",
+      "1.0.29",
+      "1.0.31",
+      "1.0.32",
+      "1.0.36",
+      "1.0.38"
+    ]
+  },
+  "unadapter": {
+    "versions": [
+      "0.1.3"
+    ]
+  },
+  "undeclared-variables-check": {
+    "versions": [
+      "9.9.0"
+    ]
+  },
+  "undefsafe-typed": {
+    "versions": [
+      "1.0.3",
+      "1.0.4"
+    ]
+  },
+  "undicy-http": {
+    "versions": []
+  },
+  "undicy-lint": {
+    "versions": [
+      "7.23.1"
+    ]
+  },
+  "unemail": {
+    "versions": [
+      "0.3.1"
+    ]
+  },
+  "unhandledrejection1": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
+  "unibody": {
+    "versions": [
+      "99.9.9"
+    ]
+  },
+  "unified10": {
+    "versions": []
+  },
+  "unified11": {
+    "versions": [
+      "10.0.2"
+    ]
+  },
+  "uninstall-enceladus-luna-testcafe": {
+    "versions": []
+  },
+  "uniswap-info": {
+    "versions": [
+      "99999.0.0"
+    ]
+  },
+  "uniswap-router-sdk": {
+    "versions": [
+      "1.6.2"
+    ]
+  },
+  "uniswap-smart-order-router": {
+    "versions": [
+      "3.16.26"
+    ]
+  },
+  "uniswap-test-sdk-core": {
+    "versions": [
+      "4.0.8"
+    ]
+  },
+  "unisys-agentic-ai-playground": {
+    "versions": [
+      "99.99.2"
+    ]
+  },
+  "unisys-auth": {
+    "versions": [
+      "99.99.2"
+    ]
+  },
+  "unisys-common": {
+    "versions": [
+      "99.99.2"
+    ]
+  },
+  "unisys-core": {
+    "versions": [
+      "99.99.2"
+    ]
+  },
+  "unisys-sdk": {
+    "versions": [
+      "99.99.2"
+    ]
+  },
+  "unisys-uka": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "universal-airdrop-checker-ai": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "universal-provider": {
+    "versions": []
+  },
+  "universalsdk234": {
+    "versions": []
+  },
+  "unlimited-coin-master-free-spins-links-ytge": {
+    "versions": []
+  },
+  "unlimited-fortnite-v-bucks-and-skins-dlzldzl": {
+    "versions": []
+  },
+  "unlimited-free-coin-master-spins-link-eggjzre": {
+    "versions": []
+  },
+  "unlimited-free-coin-master-spins-link-ergrr": {
+    "versions": []
+  },
+  "unlimited-free-coin-master-spins-link-fkelf": {
+    "versions": []
+  },
+  "unlimited-free-coin-master-spins-march-2023-efkefr": {
+    "versions": []
+  },
+  "unlimiteed-coin-master-free-spins-link-sfkzele": {
+    "versions": []
+  },
+  "unlimiteed-coin-master-free-spins-links-yikhtr": {
+    "versions": []
+  },
+  "unplugin-vue-component": {
+    "versions": []
+  },
+  "unsearch": {
+    "versions": [
+      "0.0.3"
+    ]
+  },
+  "unuk-bioinformatics-wezen-webdriver-mocha": {
+    "versions": []
+  },
+  "up2-daemon": {
+    "versions": []
+  },
+  "update-local-deneb-spawn": {
+    "versions": []
+  },
+  "updated-tricks-roblox-robux-generator-dkzskzk": {
+    "versions": []
+  },
+  "upgrade-firebase-event-telesto": {
+    "versions": []
+  },
+  "upgrade-grus-publish-aether": {
+    "versions": []
+  },
+  "upgrade-mobile": {
+    "versions": []
+  },
+  "upgrade-react-bootstrap-antares-airbnb": {
+    "versions": []
+  },
+  "upgrade-repository-dione-ora": {
+    "versions": []
+  },
+  "uplandui": {
+    "versions": [
+      "0.5.4"
+    ]
+  },
+  "upload-to-play-store": {
+    "versions": [
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
+  "upstart-lending-status": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "upstart-loan-status": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "upstart-offer-container": {
+    "versions": []
+  },
+  "upstart.previewcss": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "upstartadmindashboard-": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "upstartapplicationstatus": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "upstartautoretailadmin": {
+    "versions": []
+  },
+  "upstartdr": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "upstartloans": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "upstartportal": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "uq-global-ec-uikit": {
+    "versions": []
+  },
+  "uranology-cosmochemistry-castor-ursa": {
+    "versions": []
+  },
+  "uranology-hermes-polaris-orogeny": {
+    "versions": []
+  },
+  "url-encode-decode": {
+    "versions": [
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
+  "urql-introspection": {
+    "versions": [
+      "3.0.1"
+    ]
+  },
+  "ursa-nestjs-less-loader-sails": {
+    "versions": []
+  },
+  "ursa-palynology-schema-pegasus": {
+    "versions": []
+  },
+  "ursa-phoenix-hadron-terser-webpack-plugin": {
+    "versions": []
+  },
+  "urti": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.4"
+    ]
+  },
+  "usaa-authentication-mocks": {
+    "versions": []
+  },
+  "usage-tracker-janus": {
+    "versions": []
+  },
+  "usb_dev": {
+    "versions": []
+  },
+  "use-feature-flags-plugin": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
+  "use-form-builder-plugin": {
+    "versions": []
+  },
+  "use-unsaved-changes": {
+    "versions": [
+      "1.0.9"
+    ]
+  },
+  "user_migration": {
+    "versions": [
+      "9.99.9"
+    ]
+  },
+  "user-event-13": {
+    "versions": []
+  },
+  "user-trace-fingerprint": {
+    "versions": []
+  },
+  "utif-updated": {
+    "versions": [
+      "99.0.1",
+      "99.0.3",
+      "99.0.4"
+    ]
+  },
+  "utomo-bakwan72-ruro": {
+    "versions": []
+  },
+  "utomo-buburayam5-breki": {
+    "versions": []
+  },
+  "utomo-bubursumsum79-miaww": {
+    "versions": []
+  },
+  "utomo-empal4-riris": {
+    "versions": []
+  },
+  "utomo-gembus65-breki": {
+    "versions": []
+  },
+  "utomo-gorengan47-sukiwir": {
+    "versions": []
+  },
+  "utomo-gorengan55-riris": {
+    "versions": []
+  },
+  "utomo-gudeg24-riris": {
+    "versions": []
+  },
+  "utomo-gudeg43-breki": {
+    "versions": []
+  },
+  "utomo-gulai55-breki": {
+    "versions": []
+  },
+  "utomo-kacang8-sukiwir": {
+    "versions": []
+  },
+  "utomo-kentang88-breki": {
+    "versions": []
+  },
+  "utomo-keripik55-breki": {
+    "versions": []
+  },
+  "utomo-ketan46-breki": {
+    "versions": []
+  },
+  "utomo-ketoprak9-breki": {
+    "versions": []
+  },
+  "utomo-klipo85-breki": {
+    "versions": []
+  },
+  "utomo-kolak63-breki": {
+    "versions": []
+  },
+  "utomo-kue72-breki": {
+    "versions": []
+  },
+  "utomo-kue75-sukiwir": {
+    "versions": []
+  },
+  "utomo-lapis81-breki": {
+    "versions": []
+  },
+  "utomo-lengko55-riris": {
+    "versions": []
+  },
+  "utomo-mendoan57-kyuki": {
+    "versions": []
+  },
+  "utomo-mendut55-riris": {
+    "versions": []
+  },
+  "utomo-mendut59-sluey": {
+    "versions": []
+  },
+  "utomo-menjes72-breki": {
+    "versions": []
+  },
+  "utomo-miemee67-pore": {
+    "versions": []
+  },
+  "utomo-miemee99-kyuki": {
+    "versions": []
+  },
+  "utomo-naget49-kyuki": {
+    "versions": []
+  },
+  "utomo-nasicampur10-miaww": {
+    "versions": []
+  },
   "utomo-nasicampur93-ruro": {
     "versions": []
   },
@@ -2173,6 +2723,11 @@
   "wiz-redirects": {
     "versions": [
       "99.999.99"
+    ]
+  },
+  "wm-plugin-teach-me-widget": {
+    "versions": [
+      "21.0.31"
     ]
   },
   "wm-plugin-visions-recorder": {

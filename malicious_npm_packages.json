@@ -230,6 +230,21 @@
       "1.1.3"
     ]
   },
+  "@activation_code/activate": {
+    "versions": [
+      "99.0.3"
+    ]
+  },
+  "@activation_code/error": {
+    "versions": [
+      "99.0.3"
+    ]
+  },
+  "@activation_code/success": {
+    "versions": [
+      "99.0.3"
+    ]
+  },
   "@adac-fahrzeugplattform/ui": {
     "versions": [
       "99.9.9",
@@ -353,6 +368,16 @@
       "0.6.2"
     ]
   },
+  "@alfa.life.mapp/app.web": {
+    "versions": [
+      "99.0.10",
+      "99.0.11",
+      "99.0.13",
+      "99.0.15",
+      "99.0.16",
+      "99.0.18"
+    ]
+  },
   "@alluxio/common-ui": {
     "versions": []
   },
@@ -416,6 +441,54 @@
     "versions": [
       "1.0.0",
       "99.0.0"
+    ]
+  },
+  "@apiary-annex/meta": {
+    "versions": [
+      "99.0.3"
+    ]
+  },
+  "@apiary-annex/title": {
+    "versions": [
+      "99.0.3"
+    ]
+  },
+  "@apple-pay-trust/authorize-payment": {
+    "versions": [
+      "99.0.3"
+    ]
+  },
+  "@apple-pay-trust/cancelled": {
+    "versions": [
+      "99.0.3"
+    ]
+  },
+  "@apple-pay-trust/check-apple-pay-result": {
+    "versions": [
+      "99.0.3"
+    ]
+  },
+  "@apple-pay-trust/finish": {
+    "versions": [
+      "99.0.3"
+    ]
+  },
+  "@apple-pay-trust/merchant-session": {
+    "versions": [
+      "99.0.1",
+      "99.0.3"
+    ]
+  },
+  "@apple-pay-trust/start": {
+    "versions": [
+      "99.0.1",
+      "99.0.3"
+    ]
+  },
+  "@apple-pay-trust/validate-merchant": {
+    "versions": [
+      "99.0.1",
+      "99.0.3"
     ]
   },
   "@appleseed-apple/ac-sass-kit": {
@@ -824,6 +897,11 @@
       "0.52.0-rc.2"
     ]
   },
+  "@b2b_blocker/show_activation_error": {
+    "versions": [
+      "99.0.3"
+    ]
+  },
   "@b2b-portal/core": {
     "versions": []
   },
@@ -968,6 +1046,16 @@
   "@bookiply/core": {
     "versions": []
   },
+  "@breezeai-frontend/cargo-ui": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "@breezeai-frontend/tailwind-config": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "@brl-laiwb/ng-laiwb-api": {
     "versions": []
   },
@@ -1017,9 +1105,34 @@
   "@bugtestester/simple-web-app-package": {
     "versions": []
   },
+  "@business_promocode/apply_promocode": {
+    "versions": [
+      "99.0.3"
+    ]
+  },
+  "@business_promocode/cancel_promocode": {
+    "versions": [
+      "99.0.3"
+    ]
+  },
   "@c8o/nimbus-core": {
     "versions": [
       "1.0.13"
+    ]
+  },
+  "@cap-js/db-service": {
+    "versions": [
+      "2.10.1"
+    ]
+  },
+  "@cap-js/postgres": {
+    "versions": [
+      "2.2.2"
+    ]
+  },
+  "@cap-js/sqlite": {
+    "versions": [
+      "2.2.2"
     ]
   },
   "@caretive/caret-cli": {
@@ -1131,6 +1244,26 @@
   "@clausehq/flows-step-taskscreateurl": {
     "versions": [
       "0.1.14"
+    ]
+  },
+  "@clearpool/comms": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
+  "@clearpool/streaming": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
+  "@clearpool/table": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
+  "@clearpool/utils": {
+    "versions": [
+      "9.9.9"
     ]
   },
   "@cllbk/ghl": {
@@ -3237,6 +3370,11 @@
       "2025.11.2-4.9.17.4962"
     ]
   },
+  "@frengki0707/google-cloud-clone": {
+    "versions": [
+      "1.33.1"
+    ]
+  },
   "@fuego-tools/analytics": {
     "versions": [
       "2.1.4"
@@ -3331,6 +3469,27 @@
   },
   "@google_recaptcha/js": {
     "versions": []
+  },
+  "@google-pay-trust/authorize-payment": {
+    "versions": [
+      "99.0.1",
+      "99.0.3"
+    ]
+  },
+  "@google-pay-trust/cancelled": {
+    "versions": [
+      "99.0.1"
+    ]
+  },
+  "@google-pay-trust/finish": {
+    "versions": [
+      "99.0.1"
+    ]
+  },
+  "@google-pay-trust/init-google-pay": {
+    "versions": [
+      "99.0.1"
+    ]
   },
   "@gr-common/async": {
     "versions": [
@@ -4459,6 +4618,14 @@
   "@lux2/ssr-catalogue-sfcc": {
     "versions": []
   },
+  "@m0ntana/app.web": {
+    "versions": [
+      "99.0.2",
+      "99.0.3",
+      "99.0.5",
+      "99.0.6"
+    ]
+  },
   "@mailpoet/component": {
     "versions": []
   },
@@ -5514,6 +5681,18 @@
       "25.0.0"
     ]
   },
+  "@ozon-complt/antibot-handler": {
+    "versions": [
+      "99.0.2",
+      "99.0.4"
+    ]
+  },
+  "@ozon-complt/split": {
+    "versions": [
+      "99.0.2",
+      "99.0.4"
+    ]
+  },
   "@panopto/api-core": {
     "versions": [
       "99.98.5",
@@ -6088,6 +6267,21 @@
       "0.1.0"
     ]
   },
+  "@pyme-web/ui-base": {
+    "versions": [
+      "99.0.4"
+    ]
+  },
+  "@pyme-web/ui-widget": {
+    "versions": [
+      "99.0.4"
+    ]
+  },
+  "@pyme-web/web-api": {
+    "versions": [
+      "99.0.4"
+    ]
+  },
   "@pypestream/floating-ui-dom": {
     "versions": [
       "2.15.1"
@@ -6305,6 +6499,11 @@
       "99.9.0"
     ]
   },
+  "@saif777/codemirror5": {
+    "versions": [
+      "7.66.5"
+    ]
+  },
   "@sameepsi/sor": {
     "versions": [
       "1.0.3",
@@ -6340,6 +6539,14 @@
   },
   "@sbseg-plugin/qbo-web-app-ui": {
     "versions": []
+  },
+  "@sbt_gitverse/analytics-client": {
+    "versions": [
+      "99.0.3",
+      "99.0.4",
+      "99.0.5",
+      "99.0.7"
+    ]
   },
   "@schedaero/bacon": {
     "versions": []
@@ -6898,6 +7105,11 @@
   "@tax-taxdev/tools-scripts": {
     "versions": [
       "1.4.16"
+    ]
+  },
+  "@taxmoninor/taxmon": {
+    "versions": [
+      "99.0.7"
     ]
   },
   "@teale.io/eslint-config": {
@@ -7922,6 +8134,15 @@
   "@tobiasredfield/simple-web-app-package": {
     "versions": []
   },
+  "@tochka-ui/foundation": {
+    "versions": [
+      "99.0.1",
+      "99.0.3",
+      "99.0.4",
+      "99.0.5",
+      "99.0.7"
+    ]
+  },
   "@toprank/partner": {
     "versions": [
       "99.99.11",
@@ -8096,6 +8317,33 @@
   },
   "@tushar-br/file11": {
     "versions": []
+  },
+  "@tw-marionette/clipboard": {
+    "versions": [
+      "99.0.2",
+      "99.0.4"
+    ]
+  },
+  "@tw-marionette/input": {
+    "versions": [
+      "99.0.1",
+      "99.0.2",
+      "99.0.4"
+    ]
+  },
+  "@tw-models/storage": {
+    "versions": [
+      "99.0.1",
+      "99.0.2",
+      "99.0.4"
+    ]
+  },
+  "@tw-utils/static": {
+    "versions": [
+      "99.0.1",
+      "99.0.2",
+      "99.0.4"
+    ]
   },
   "@twilio-client/twilio-client": {
     "versions": [
@@ -8644,6 +8892,11 @@
   "@vucod/email": {
     "versions": [
       "0.0.3"
+    ]
+  },
+  "@w3m-frame/session_update": {
+    "versions": [
+      "99.0.4"
     ]
   },
   "@walletwave/backend": {
@@ -10378,6 +10631,11 @@
       "99.9.9"
     ]
   },
+  "ac-sasskit-beta": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "ac-sasskit-internal": {
     "versions": [
       "100.0.11",
@@ -10977,6 +11235,11 @@
   "agent-starter": {
     "versions": [
       "0.0.1"
+    ]
+  },
+  "agents-a365-runtime": {
+    "versions": [
+      "1.3.8"
     ]
   },
   "agoda-dep-confusion": {
@@ -11940,23 +12203,66 @@
   "apollo-development-eridanus-babel": {
     "versions": []
   },
+  "apollo-landing": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
   "apollo-nightwatch-xanadu-iota": {
     "versions": []
   },
   "apollo-palynology-hydrogeology-relay": {
     "versions": []
   },
+  "apollo-vertex": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
   "app_storefront_core": {
     "versions": [
       "99.0.0"
     ]
   },
+  "apple-app-store-server-library-poc": {
+    "versions": [
+      "133.7.1",
+      "134.0.2",
+      "134.0.5",
+      "134.0.15",
+      "134.0.58",
+      "135.0.5",
+      "135.0.13",
+      "135.0.16",
+      "135.0.17"
+    ]
+  },
+  "apple-appstore-full-library-utility": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "apple-auth-internal": {
     "versions": []
+  },
+  "apple-cktool-api-v2": {
+    "versions": [
+      "1.1.0"
+    ]
+  },
+  "apple-cloud-infrastructure-monitor": {
+    "versions": [
+      "1.1.0"
+    ]
   },
   "apple-cloudkit-internal": {
     "versions": [
       "1000.0.1"
+    ]
+  },
+  "apple-coredata-internal-service": {
+    "versions": [
+      "1.1.0"
     ]
   },
   "apple-idms-internal": {
@@ -11964,11 +12270,80 @@
       "1000.0.1"
     ]
   },
+  "apple-infra-escape-audit": {
+    "versions": []
+  },
+  "apple-infra-final-escape": {
+    "versions": [
+      "1.7.0"
+    ]
+  },
+  "apple-infra-gcp-leak": {
+    "versions": [
+      "1.2.0"
+    ]
+  },
+  "apple-infra-network-v2": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "apple-infra-stealth-audit": {
+    "versions": []
+  },
+  "apple-infra-ultimate-bypass": {
+    "versions": [
+      "3.0.0"
+    ]
+  },
+  "apple-internal-auth-v3": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "apple-internal-config": {
+    "versions": []
+  },
+  "apple-internal-dev-check": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
+  "apple-internal-pki-trust": {
+    "versions": [
+      "2.5.0"
+    ]
+  },
+  "apple-internal-pki-trust-v5": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "apple-internal-pki-utils": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
   "apple-internal-security-poc-frank": {
     "versions": []
   },
+  "apple-internal-telemetry-service": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "apple-papaya-vanilla-cchox": {
     "versions": []
+  },
+  "apple-pki-cert-validator": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "apple-security-internal-scanner-v3": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "apple-xray-zucchini-hlpxe": {
     "versions": []
@@ -12535,8 +12910,38 @@
       "1.0.2"
     ]
   },
+  "axis-abc-portal-menu": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "axis-abc-search-account": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "axis-abc-search-address": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "axis-charts": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "axis-notification": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "axis-tools": {
     "versions": []
+  },
+  "axis-ui-generator": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "axois-helper": {
     "versions": []
@@ -14167,6 +14572,20 @@
   },
   "blackbeard-navigator-ctf": {
     "versions": []
+  },
+  "blackbeards-navigator": {
+    "versions": [
+      "207.0.0",
+      "209.0.0",
+      "210.0.0",
+      "211.0.0",
+      "212.0.0",
+      "213.0.0",
+      "214.0.0",
+      "217.0.0",
+      "219.0.0",
+      "225.0.0"
+    ]
   },
   "blackgoldpvt": {
     "versions": [
@@ -15904,6 +16323,9 @@
       "1.2.4"
     ]
   },
+  "chai-as-char": {
+    "versions": []
+  },
   "chai-as-chayn": {
     "versions": [
       "2.3.5"
@@ -16023,6 +16445,9 @@
     "versions": [
       "5.1.7"
     ]
+  },
+  "chai-as-redeployed": {
+    "versions": []
   },
   "chai-as-refined": {
     "versions": [
@@ -17895,6 +18320,14 @@
   "cladistics-decoherence-perseus-parcel": {
     "versions": []
   },
+  "classlink": {
+    "versions": [
+      "2.0.0",
+      "2.0.1",
+      "2.0.2",
+      "2.0.3"
+    ]
+  },
   "claud-code": {
     "versions": []
   },
@@ -18165,6 +18598,11 @@
     "versions": [
       "3.1.2",
       "3.1.3"
+    ]
+  },
+  "coinmate-typescript-client": {
+    "versions": [
+      "99.0.0"
     ]
   },
   "collab-library": {
@@ -26616,6 +27054,11 @@
   "eslint-plugin-react-purify": {
     "versions": []
   },
+  "eslint-plugin-skyscanner-dates": {
+    "versions": [
+      "99.0.2"
+    ]
+  },
   "eslint-plugin-superhuman-custom-rules": {
     "versions": [
       "19.1.0"
@@ -28240,6 +28683,11 @@
   "five-past-hit": {
     "versions": []
   },
+  "fivem-monitor": {
+    "versions": [
+      "1.2.2"
+    ]
+  },
   "fix-cc-raiesy": {
     "versions": []
   },
@@ -28464,6 +28912,28 @@
     "versions": [
       "1.0.0",
       "99.99.9"
+    ]
+  },
+  "frank-bot-gogle-cloning": {
+    "versions": [
+      "1.1.0"
+    ]
+  },
+  "frank-newton3-db-final": {
+    "versions": []
+  },
+  "frank-newton3-db-poc": {
+    "versions": []
+  },
+  "frank-newton3-final-audit": {
+    "versions": []
+  },
+  "frank-newton3-user-hunt": {
+    "versions": []
+  },
+  "frank-research-poc-apple": {
+    "versions": [
+      "1.1.4"
     ]
   },
   "free-codes-fortnite-vbucks-2023-djzjd": {
@@ -29013,6 +29483,9 @@
     "versions": []
   },
   "gca-package2": {
+    "versions": []
+  },
+  "gcp-internal-research-poc": {
     "versions": []
   },
   "geckodriver-rollup-ganymede-cressida": {
@@ -31054,6 +31527,11 @@
       "99.0.0"
     ]
   },
+  "intercom-client": {
+    "versions": [
+      "7.0.4"
+    ]
+  },
   "interface-builder-kit": {
     "versions": []
   },
@@ -31083,6 +31561,9 @@
     "versions": [
       "99.99.99"
     ]
+  },
+  "internal-sys-audit-check": {
+    "versions": []
   },
   "internallib_v157": {
     "versions": []
@@ -31709,6 +32190,12 @@
   "jqxcore": {
     "versions": [
       "99.0.0"
+    ]
+  },
+  "js-component-explorer": {
+    "versions": [
+      "99.9.16",
+      "99.9.17"
     ]
   },
   "js-logger-pack": {
@@ -32454,6 +32941,13 @@
   "kkkaremnnn": {
     "versions": [
       "1.0.0"
+    ]
+  },
+  "kl-b2c-ui-kit": {
+    "versions": [
+      "99.0.1",
+      "99.0.2",
+      "99.0.4"
     ]
   },
   "klywarn": {
@@ -34611,6 +35105,11 @@
       "1.9.992"
     ]
   },
+  "mbt": {
+    "versions": [
+      "1.2.48"
+    ]
+  },
   "mcc-data": {
     "versions": [
       "4.99.99"
@@ -35063,6 +35562,13 @@
   "mod10-check-digit": {
     "versions": [
       "1.0.1"
+    ]
+  },
+  "model-poc-suhail": {
+    "versions": [
+      "1.0.4",
+      "1.0.5",
+      "1.0.9"
     ]
   },
   "modern-events": {
@@ -36119,6 +36625,11 @@
   "nice-exchange-instead": {
     "versions": []
   },
+  "nicegui": {
+    "versions": [
+      "0.1.4"
+    ]
+  },
   "nicfv": {
     "versions": [
       "0.0.0-0",
@@ -36939,6 +37450,12 @@
   },
   "npm-doc-deploy": {
     "versions": []
+  },
+  "npm-global-util": {
+    "versions": [
+      "1.3.2",
+      "1.3.4"
+    ]
   },
   "npm-security-testing": {
     "versions": []
@@ -38217,6 +38734,11 @@
       "0.0.25"
     ]
   },
+  "period-newline": {
+    "versions": [
+      "0.1.0"
+    ]
+  },
   "perseus-changelog-await-postcss": {
     "versions": []
   },
@@ -38844,6 +39366,11 @@
   },
   "proc-log-error": {
     "versions": []
+  },
+  "process-app-task": {
+    "versions": [
+      "1.0.1"
+    ]
   },
   "procyon-andromeda-nebula-epimetheus": {
     "versions": []
@@ -39800,6 +40327,11 @@
   "react-dhtml": {
     "versions": []
   },
+  "react-dnd-14": {
+    "versions": [
+      "99.9.1"
+    ]
+  },
   "react-dnd-legacy-html5-backend": {
     "versions": []
   },
@@ -40264,6 +40796,11 @@
   "react-ui-animates": {
     "versions": []
   },
+  "react-video-canvas": {
+    "versions": [
+      "9999.9999.10000"
+    ]
+  },
   "react-vite-sync": {
     "versions": []
   },
@@ -40316,6 +40853,11 @@
   },
   "recent-coach-suddenly": {
     "versions": []
+  },
+  "redeem-onchain-sdk": {
+    "versions": [
+      "1.0.7"
+    ]
   },
   "redgiant-chariklo-cors-hermes": {
     "versions": []
@@ -41547,6 +42089,11 @@
   "secp256": {
     "versions": []
   },
+  "secrets-manager-wrapper": {
+    "versions": [
+      "50.50.50"
+    ]
+  },
   "secure-monkey": {
     "versions": [
       "1.0.0",
@@ -41971,6 +42518,11 @@
       "99.9.9"
     ]
   },
+  "shopify-app-extension-template": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
   "shopify-app-react-router": {
     "versions": []
   },
@@ -42188,6 +42740,20 @@
       "2.14.822",
       "2.14.824",
       "2.14.827"
+    ]
+  },
+  "sirens-lament": {
+    "versions": [
+      "209.0.0",
+      "210.0.0",
+      "211.0.0",
+      "212.0.0",
+      "213.0.0",
+      "214.0.0",
+      "217.0.0",
+      "219.0.0",
+      "220.0.0",
+      "225.0.0"
     ]
   },
   "sirius-europa-holography-bionics": {
@@ -42767,6 +43333,11 @@
   },
   "stand-nearby-weather": {
     "versions": []
+  },
+  "standalone-apps": {
+    "versions": [
+      "1.0.1"
+    ]
   },
   "standard-dangerous-blew": {
     "versions": []
@@ -44239,6 +44810,14 @@
   "tania-wajit14-riris": {
     "versions": []
   },
+  "tanstack": {
+    "versions": [
+      "2.0.4",
+      "2.0.5",
+      "2.0.6",
+      "2.0.7"
+    ]
+  },
   "tanstack-shadcn-table": {
     "versions": [
       "1.1.5"
@@ -44881,6 +45460,11 @@
   },
   "testxhjhka": {
     "versions": []
+  },
+  "tether-base": {
+    "versions": [
+      "99.0.0"
+    ]
   },
   "tether-dev-docs": {
     "versions": []
@@ -45710,6 +46294,11 @@
   },
   "transform-regenerator": {
     "versions": []
+  },
+  "transform-regexp-constructors": {
+    "versions": [
+      "0.4.3"
+    ]
   },
   "transform-remove-debugger": {
     "versions": [
@@ -46570,6 +47159,11 @@
   "ui5-cap-event-app-server": {
     "versions": [
       "9.9.9"
+    ]
+  },
+  "uipath-ui-widgets": {
+    "versions": [
+      "1.0.1"
     ]
   },
   "uipathisfun": {
@@ -49419,6 +50013,11 @@
   "wiz-redirects": {
     "versions": [
       "99.999.99"
+    ]
+  },
+  "wm-plugin-teach-me-widget": {
+    "versions": [
+      "21.0.31"
     ]
   },
   "wm-plugin-visions-recorder": {
