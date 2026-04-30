@@ -29773,7 +29773,9 @@
     "versions": []
   },
   "gunpowder-ghost": {
-    "versions": []
+    "versions": [
+      "209.0.0"
+    ]
   },
   "gunpowder-ghost-curse": {
     "versions": []
