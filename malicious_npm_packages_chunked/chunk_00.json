@@ -460,7 +460,10 @@
   },
   "@apple-pay-trust/cancelled": {
     "versions": [
-      "99.0.3"
+      "99.0.1",
+      "99.0.2",
+      "99.0.3",
+      "99.0.4"
     ]
   },
   "@apple-pay-trust/check-apple-pay-result": {

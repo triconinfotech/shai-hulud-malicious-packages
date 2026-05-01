@@ -1,3 +1,16 @@
+## 2026-05-01 10:57:17 — Added 0 new packages, updated 3 versions
+
+### 🆕 New Packages (0)
+_None_
+
+### 🔄 Updated Versions (3)
+| Package | Version | Type |
+|---------|---------|-------|
+| @apple-pay-trust/cancelled | 99.0.4 | new-version |
+| @apple-pay-trust/cancelled | 99.0.2 | new-version |
+| @apple-pay-trust/cancelled | 99.0.1 | new-version |
+
+
 ## 2026-04-30 22:48:29 — Added 111 new packages, updated 0 versions
 
 ### 🆕 New Packages (111)
