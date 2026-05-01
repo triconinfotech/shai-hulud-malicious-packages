@@ -27059,7 +27059,8 @@
   },
   "eslint-plugin-skyscanner-dates": {
     "versions": [
-      "99.0.2"
+      "99.0.2",
+      "99.0.5"
     ]
   },
   "eslint-plugin-superhuman-custom-rules": {
