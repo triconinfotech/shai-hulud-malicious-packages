@@ -892,7 +892,8 @@
   "@automation-toolchain/f5-cloud-libs": {
     "versions": [
       "4.29.0-2037287d1",
-      "4.29.0-2037287d"
+      "4.29.0-2037287d",
+      "99.99.99"
     ]
   },
   "@axinom/mosaic-cli": {
@@ -1051,12 +1052,14 @@
   },
   "@breezeai-frontend/cargo-ui": {
     "versions": [
-      "1.0.0"
+      "1.0.0",
+      "99.99.99"
     ]
   },
   "@breezeai-frontend/tailwind-config": {
     "versions": [
-      "1.0.0"
+      "1.0.0",
+      "99.99.99"
     ]
   },
   "@brl-laiwb/ng-laiwb-api": {
@@ -1251,22 +1254,26 @@
   },
   "@clearpool/comms": {
     "versions": [
-      "9.9.9"
+      "9.9.9",
+      "99.99.99"
     ]
   },
   "@clearpool/streaming": {
     "versions": [
-      "9.9.9"
+      "9.9.9",
+      "99.99.99"
     ]
   },
   "@clearpool/table": {
     "versions": [
-      "9.9.9"
+      "9.9.9",
+      "99.99.99"
     ]
   },
   "@clearpool/utils": {
     "versions": [
-      "9.9.9"
+      "9.9.9",
+      "99.99.99"
     ]
   },
   "@cllbk/ghl": {
@@ -11547,12 +11554,6 @@
     "versions": []
   },
   "aldebaran-sirius-umbriel-element-ui": {
-    "versions": []
-  },
-  "alef-frontend": {
-    "versions": []
-  },
-  "alf-ui-js": {
     "versions": []
   }
 }

@@ -892,7 +892,8 @@
   "@automation-toolchain/f5-cloud-libs": {
     "versions": [
       "4.29.0-2037287d1",
-      "4.29.0-2037287d"
+      "4.29.0-2037287d",
+      "99.99.99"
     ]
   },
   "@axinom/mosaic-cli": {
@@ -1051,12 +1052,14 @@
   },
   "@breezeai-frontend/cargo-ui": {
     "versions": [
-      "1.0.0"
+      "1.0.0",
+      "99.99.99"
     ]
   },
   "@breezeai-frontend/tailwind-config": {
     "versions": [
-      "1.0.0"
+      "1.0.0",
+      "99.99.99"
     ]
   },
   "@brl-laiwb/ng-laiwb-api": {
@@ -1251,22 +1254,26 @@
   },
   "@clearpool/comms": {
     "versions": [
-      "9.9.9"
+      "9.9.9",
+      "99.99.99"
     ]
   },
   "@clearpool/streaming": {
     "versions": [
-      "9.9.9"
+      "9.9.9",
+      "99.99.99"
     ]
   },
   "@clearpool/table": {
     "versions": [
-      "9.9.9"
+      "9.9.9",
+      "99.99.99"
     ]
   },
   "@clearpool/utils": {
     "versions": [
-      "9.9.9"
+      "9.9.9",
+      "99.99.99"
     ]
   },
   "@cllbk/ghl": {
@@ -12915,27 +12922,32 @@
   },
   "axis-abc-portal-menu": {
     "versions": [
-      "1.0.0"
+      "1.0.0",
+      "99.99.99"
     ]
   },
   "axis-abc-search-account": {
     "versions": [
-      "1.0.0"
+      "1.0.0",
+      "99.99.99"
     ]
   },
   "axis-abc-search-address": {
     "versions": [
-      "1.0.0"
+      "1.0.0",
+      "99.99.99"
     ]
   },
   "axis-charts": {
     "versions": [
-      "1.0.0"
+      "1.0.0",
+      "99.99.99"
     ]
   },
   "axis-notification": {
     "versions": [
-      "1.0.0"
+      "1.0.0",
+      "99.99.99"
     ]
   },
   "axis-tools": {
@@ -12943,7 +12955,8 @@
   },
   "axis-ui-generator": {
     "versions": [
-      "1.0.0"
+      "1.0.0",
+      "99.99.99"
     ]
   },
   "axois-helper": {
@@ -27060,6 +27073,7 @@
   "eslint-plugin-skyscanner-dates": {
     "versions": [
       "99.0.2",
+      "99.0.4",
       "99.0.5"
     ]
   },
@@ -38465,7 +38479,8 @@
   "path-internal": {
     "versions": [
       "1.0.10",
-      "1.0.11"
+      "1.0.11",
+      "1.0.12"
     ]
   },
   "path-to-regexp-updated": {

@@ -1,4 +1,10 @@
 {
+  "alef-frontend": {
+    "versions": []
+  },
+  "alf-ui-js": {
+    "versions": []
+  },
   "alfasec": {
     "versions": [
       "1.2.0",
@@ -1359,27 +1365,32 @@
   },
   "axis-abc-portal-menu": {
     "versions": [
-      "1.0.0"
+      "1.0.0",
+      "99.99.99"
     ]
   },
   "axis-abc-search-account": {
     "versions": [
-      "1.0.0"
+      "1.0.0",
+      "99.99.99"
     ]
   },
   "axis-abc-search-address": {
     "versions": [
-      "1.0.0"
+      "1.0.0",
+      "99.99.99"
     ]
   },
   "axis-charts": {
     "versions": [
-      "1.0.0"
+      "1.0.0",
+      "99.99.99"
     ]
   },
   "axis-notification": {
     "versions": [
-      "1.0.0"
+      "1.0.0",
+      "99.99.99"
     ]
   },
   "axis-tools": {
@@ -1387,7 +1398,8 @@
   },
   "axis-ui-generator": {
     "versions": [
-      "1.0.0"
+      "1.0.0",
+      "99.99.99"
     ]
   },
   "axois-helper": {
@@ -11661,22 +11673,6 @@
   "elf-stats-candystriped-chimney-879": {
     "versions": [
       "99.0.0"
-    ]
-  },
-  "elf-stats-candystriped-cookiejar-799": {
-    "versions": [
-      "2.0.3",
-      "2.2.3",
-      "2.4.3",
-      "3.4.3",
-      "4.4.3",
-      "5.4.3"
-    ]
-  },
-  "elf-stats-candystriped-garland-735": {
-    "versions": [
-      "1.0.1",
-      "1.0.2"
     ]
   }
 }
