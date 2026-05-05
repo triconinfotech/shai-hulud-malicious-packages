@@ -1,3 +1,15 @@
+## 2026-05-05 16:34:51 — Added 0 new packages, updated 2 versions
+
+### 🆕 New Packages (0)
+_None_
+
+### 🔄 Updated Versions (2)
+| Package | Version | Type |
+|---------|---------|-------|
+| eslint-plugin-skyscanner-dates | 99.0.1 | new-version |
+| eslint-plugin-skyscanner-dates | 99.0.0 | new-version |
+
+
 ## 2026-05-05 00:34:12 — Added 0 new packages, updated 12 versions
 
 ### 🆕 New Packages (0)

@@ -3852,6 +3852,8 @@
   },
   "eslint-plugin-skyscanner-dates": {
     "versions": [
+      "99.0.0",
+      "99.0.1",
       "99.0.2",
       "99.0.4",
       "99.0.5"
