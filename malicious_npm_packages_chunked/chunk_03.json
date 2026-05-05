@@ -1,4 +1,18 @@
 {
+  "mdp-client-web": {
+    "versions": [
+      "0.0.1-security",
+      "99.99.1"
+    ]
+  },
+  "mds-webcomponents": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "mdx-changelog-io-elara": {
+    "versions": []
+  },
   "mdx-readable-passport-betelgeuse": {
     "versions": []
   },
@@ -12092,18 +12106,6 @@
     "versions": []
   },
   "umi-gulai11-miaww": {
-    "versions": []
-  },
-  "umi-ikan28-devapp": {
-    "versions": []
-  },
-  "umi-jamblang2-sluey": {
-    "versions": []
-  },
-  "umi-jamblang99-breki": {
-    "versions": []
-  },
-  "umi-jengkol18-sluey": {
     "versions": []
   }
 }

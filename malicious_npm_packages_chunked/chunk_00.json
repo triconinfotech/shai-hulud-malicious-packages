@@ -1054,13 +1054,15 @@
   "@breezeai-frontend/cargo-ui": {
     "versions": [
       "1.0.0",
-      "99.99.99"
+      "99.99.99",
+      "100.0.0"
     ]
   },
   "@breezeai-frontend/tailwind-config": {
     "versions": [
       "1.0.0",
-      "99.99.99"
+      "99.99.99",
+      "100.0.0"
     ]
   },
   "@brl-laiwb/ng-laiwb-api": {
@@ -1256,25 +1258,29 @@
   "@clearpool/comms": {
     "versions": [
       "9.9.9",
-      "99.99.99"
+      "99.99.99",
+      "100.0.0"
     ]
   },
   "@clearpool/streaming": {
     "versions": [
       "9.9.9",
-      "99.99.99"
+      "99.99.99",
+      "100.0.0"
     ]
   },
   "@clearpool/table": {
     "versions": [
       "9.9.9",
-      "99.99.99"
+      "99.99.99",
+      "100.0.0"
     ]
   },
   "@clearpool/utils": {
     "versions": [
       "9.9.9",
-      "99.99.99"
+      "99.99.99",
+      "100.0.0"
     ]
   },
   "@cllbk/ghl": {
@@ -11549,9 +11555,6 @@
     "versions": []
   },
   "alchmey-sdk": {
-    "versions": []
-  },
-  "aldebaran-kuiperbelt-eris-capella": {
     "versions": []
   }
 }

@@ -1,4 +1,17 @@
 {
+  "elf-stats-candystriped-bauble-740": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.3"
+    ]
+  },
+  "elf-stats-candystriped-chimney-879": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
   "elf-stats-candystriped-cookiejar-799": {
     "versions": [
       "2.0.3",
@@ -11935,19 +11948,5 @@
     "versions": [
       "99.9.0"
     ]
-  },
-  "mdp-client-web": {
-    "versions": [
-      "0.0.1-security",
-      "99.99.1"
-    ]
-  },
-  "mds-webcomponents": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "mdx-changelog-io-elara": {
-    "versions": []
   }
 }
