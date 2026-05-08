@@ -46959,6 +46959,11 @@
   "typespec-validation": {
     "versions": []
   },
+  "typo-crypto": {
+    "versions": [
+      "4.3.0"
+    ]
+  },
   "typoriem": {
     "versions": []
   },

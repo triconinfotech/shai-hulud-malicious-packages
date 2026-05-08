@@ -11774,6 +11774,11 @@
   "typespec-validation": {
     "versions": []
   },
+  "typo-crypto": {
+    "versions": [
+      "4.3.0"
+    ]
+  },
   "typoriem": {
     "versions": []
   },
@@ -12103,9 +12108,6 @@
     "versions": []
   },
   "umi-gorengan93-ruro": {
-    "versions": []
-  },
-  "umi-gulai11-miaww": {
     "versions": []
   }
 }

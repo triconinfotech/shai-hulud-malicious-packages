@@ -39,7 +39,7 @@ It provides the **simplest possible interface** for integrating malicious-packag
 
 The consolidated database currently contains:
 <strong>
-- Total Malicious Packages Added: 13277
+- Total Malicious Packages Added: 13278
 </strong>
 
 This value is **auto-updated** by the CI workflow by parsing `malicious_npm_packages.json` on every refresh run.
