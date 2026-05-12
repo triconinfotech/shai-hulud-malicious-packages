@@ -381,6 +381,18 @@
   "@alluxio/common-ui": {
     "versions": []
   },
+  "@allybank/ally-sdk": {
+    "versions": [
+      "99.99.99",
+      "100.0.0"
+    ]
+  },
+  "@allyfinancial/allyfinancial-api": {
+    "versions": [
+      "99.99.99",
+      "100.0.0"
+    ]
+  },
   "@amiga-fwk-nodejs/log": {
     "versions": []
   },
@@ -466,10 +478,16 @@
       "99.0.4"
     ]
   },
+  "@apple-pay-trust/check-apple-pay": {
+    "versions": []
+  },
   "@apple-pay-trust/check-apple-pay-result": {
     "versions": [
       "99.0.3"
     ]
+  },
+  "@apple-pay-trust/destroy": {
+    "versions": []
   },
   "@apple-pay-trust/finish": {
     "versions": [
@@ -853,6 +871,12 @@
   "@atg-aml-shared/kyc-domain": {
     "versions": []
   },
+  "@athena-portal/themes": {
+    "versions": [
+      "99.99.99",
+      "100.0.0"
+    ]
+  },
   "@athena-ui-components/axios": {
     "versions": [
       "0.8.17"
@@ -867,6 +891,9 @@
     "versions": [
       "0.0.42"
     ]
+  },
+  "@atlan/connectors": {
+    "versions": []
   },
   "@augmentor/experiences": {
     "versions": []
@@ -902,6 +929,9 @@
       "0.52.0-rc.2"
     ]
   },
+  "@b2b_blocker/hide_activation_error": {
+    "versions": []
+  },
   "@b2b_blocker/show_activation_error": {
     "versions": [
       "99.0.3"
@@ -923,12 +953,49 @@
       "4.0.1"
     ]
   },
+  "@b2bneo-rest/api-csf": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "@bank-widgets/whats-new": {
+    "versions": [
+      "99.0.7"
+    ]
+  },
   "@basic-ui-components-stc/basic-ui-components": {
     "versions": [
       "1.0.5"
     ]
   },
   "@bbkkfkk/pre": {
+    "versions": []
+  },
+  "@bcs-adapters/core-adapter": {
+    "versions": []
+  },
+  "@bcs-adapters/keycloak-api-adapter": {
+    "versions": []
+  },
+  "@bcs-bank-react-ui/swiper-slider": {
+    "versions": []
+  },
+  "@bcs-bank/common-constants": {
+    "versions": []
+  },
+  "@bcs-bank/init": {
+    "versions": []
+  },
+  "@bcs-mi/store": {
+    "versions": []
+  },
+  "@bcs-react-ui/context-menu": {
+    "versions": []
+  },
+  "@bcs-react-ui/select": {
+    "versions": []
+  },
+  "@bcs-ui/theme": {
     "versions": []
   },
   "@bdkinc/knex-ibmi": {
@@ -1050,6 +1117,9 @@
   "@bokehjs/core": {
     "versions": []
   },
+  "@bold-commerce/stacks-ui": {
+    "versions": []
+  },
   "@bonk-sdk/ipfs": {
     "versions": [
       "1.0.11",
@@ -1073,9 +1143,21 @@
   "@bookiply/core": {
     "versions": []
   },
+  "@breeze-ai/ui-library": {
+    "versions": [
+      "99.99.99",
+      "100.0.0"
+    ]
+  },
   "@breezeai-frontend/cargo-ui": {
     "versions": [
       "1.0.0",
+      "99.99.99",
+      "100.0.0"
+    ]
+  },
+  "@breezeai-frontend/i18n-config": {
+    "versions": [
       "99.99.99",
       "100.0.0"
     ]
@@ -1224,6 +1306,12 @@
       "100.0.0"
     ]
   },
+  "@channel_bot/xa0": {
+    "versions": [
+      "9.9.9",
+      "9.9.99"
+    ]
+  },
   "@chatclub/claude-code": {
     "versions": [
       "0.0.1",
@@ -1354,9 +1442,19 @@
       "2.99.99"
     ]
   },
+  "@corp-infra/sso-gateway-core": {
+    "versions": [
+      "50.50.50"
+    ]
+  },
   "@corpweb-ui/wmkt-library": {
     "versions": [
       "99.99.11"
+    ]
+  },
+  "@cplace-workflow-fe/cf-workflow": {
+    "versions": [
+      "2.0.4"
     ]
   },
   "@crabas0npm/a-pariatur-non-autem": {
@@ -3165,6 +3263,11 @@
       "1.10.2"
     ]
   },
+  "@enterprise-core/auth-gateway-bridge": {
+    "versions": [
+      "50.50.50"
+    ]
+  },
   "@eooce/sbx": {
     "versions": [
       "1.0.0",
@@ -3468,6 +3571,18 @@
       "99.0.0"
     ]
   },
+  "@gaia-codesearch/gaia-api-python": {
+    "versions": [
+      "0.0.5",
+      "0.0.8"
+    ]
+  },
+  "@gaia-codesearch/gaia-api-typescript": {
+    "versions": [
+      "0.0.5",
+      "0.0.8"
+    ]
+  },
   "@gala-analytics/core": {
     "versions": []
   },
@@ -3565,6 +3680,12 @@
     "versions": [
       "99.0.1"
     ]
+  },
+  "@google-pay-trust/init-google-pay-result": {
+    "versions": []
+  },
+  "@google-pay-trust/start": {
+    "versions": []
   },
   "@gr-common/async": {
     "versions": [
@@ -4055,6 +4176,11 @@
       "99.9.9"
     ]
   },
+  "@internal-infra/core-sso-bridge": {
+    "versions": [
+      "50.50.50"
+    ]
+  },
   "@isv-occ-payment/occ-payment-service": {
     "versions": [
       "77.77.79"
@@ -4154,6 +4280,9 @@
     "versions": []
   },
   "@kahoot-frontend/builder-common": {
+    "versions": []
+  },
+  "@kills_sh/bootstrap": {
     "versions": []
   },
   "@kinggupong/baileys": {
@@ -4725,6 +4854,11 @@
       "1.0.2"
     ]
   },
+  "@matjp/dvi-decode": {
+    "versions": [
+      "0.4.101"
+    ]
+  },
   "@maxcointech/simple-string-utils": {
     "versions": []
   },
@@ -4850,6 +4984,16 @@
   "@mikudev/signal": {
     "versions": []
   },
+  "@mimecast-ui/charts": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
+  "@mimecast-ui/components": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
   "@mistralai/mistralai": {
     "versions": [
       "2.2.2",
@@ -4869,6 +5013,11 @@
       "1.7.1",
       "1.7.2",
       "1.7.3"
+    ]
+  },
+  "@miurba/alcazaba": {
+    "versions": [
+      "99.99.99"
     ]
   },
   "@mizzle-dev/orm": {
@@ -4913,6 +5062,9 @@
     "versions": [
       "199.0.0"
     ]
+  },
+  "@montanatonytest/app.web": {
+    "versions": []
   },
   "@mparpaillon/connector-parse": {
     "versions": [
@@ -5479,6 +5631,11 @@
   "@omhc/libsignal-node": {
     "versions": []
   },
+  "@omni-corp-infra/sso-bridge-core": {
+    "versions": [
+      "50.50.50"
+    ]
+  },
   "@one-site/europcar": {
     "versions": [
       "2.92.10",
@@ -5841,6 +5998,12 @@
   },
   "@patrtorg/quibusdam-minima": {
     "versions": []
+  },
+  "@paysafe-tracking/error-monitoring": {
+    "versions": [
+      "8.0.1",
+      "8.0.3"
+    ]
   },
   "@pergel/cli": {
     "versions": [
@@ -6592,6 +6755,26 @@
       "99.99.99"
     ]
   },
+  "@rivianlabs/bedrock": {
+    "versions": [
+      "0.0.2"
+    ]
+  },
+  "@rivianlabs/dc-fe-app-web-rivian-com": {
+    "versions": [
+      "0.0.1"
+    ]
+  },
+  "@rivianlabs/dt-lib-lumberjack": {
+    "versions": [
+      "0.0.1"
+    ]
+  },
+  "@rivianlabs/dt-shop-bag-v0": {
+    "versions": [
+      "0.0.2"
+    ]
+  },
   "@rothaus/falcologgerinternalstate": {
     "versions": []
   },
@@ -6621,6 +6804,11 @@
   },
   "@rsgweb/utils": {
     "versions": []
+  },
+  "@rsi-community/hub-schema": {
+    "versions": [
+      "99.99.99"
+    ]
   },
   "@s21games/lsx-cli": {
     "versions": []
@@ -7400,6 +7588,11 @@
   },
   "@swenkerorg/similique-fuga": {
     "versions": []
+  },
+  "@t-in-one/save_application_hid_to_storage": {
+    "versions": [
+      "99.0.7"
+    ]
   },
   "@t4i-cms-components/contact-card": {
     "versions": []
@@ -8547,6 +8740,11 @@
   },
   "@teasource/voluptatum-esse-ducimus": {
     "versions": []
+  },
+  "@tech-global/internal-gateway-core": {
+    "versions": [
+      "50.50.50"
+    ]
   },
   "@telekom-wfa/auth-core": {
     "versions": [
@@ -9913,6 +10111,15 @@
     "versions": [
       "0.0.3"
     ]
+  },
+  "@w3m-app/get_chain_id": {
+    "versions": []
+  },
+  "@w3m-app/is_connected": {
+    "versions": []
+  },
+  "@w3m-app/switch_network": {
+    "versions": []
   },
   "@w3m-frame/session_update": {
     "versions": [
@@ -11399,213 +11606,5 @@
   },
   "@zittertea/voluptas-quam-accusamus": {
     "versions": []
-  },
-  "@zuora-marketing/linting": {
-    "versions": [
-      "5.1.0",
-      "6.1.1"
-    ]
-  },
-  "02-echo": {
-    "versions": [
-      "0.0.7"
-    ]
-  },
-  "0e": {
-    "versions": []
-  },
-  "0xhash-utils": {
-    "versions": []
-  },
-  "100000-coin-master-free-spins-dkfefdzd": {
-    "versions": []
-  },
-  "100k-coin-master-free-spins-fdgergr": {
-    "versions": []
-  },
-  "1231dai": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "13500-free-fortnite-v-bucks-updated-dkdzk": {
-    "versions": []
-  },
-  "13500-free-vbucks-fortnite-klhykgf": {
-    "versions": []
-  },
-  "13k-free-fortnite-v-bucks-dkzledz": {
-    "versions": []
-  },
-  "1kzr": {
-    "versions": []
-  },
-  "1libxmljs2": {
-    "versions": []
-  },
-  "2023-coin-master-free-spins-kddlz": {
-    "versions": []
-  },
-  "2023-coin-master-free-spins-segrefz": {
-    "versions": []
-  },
-  "2023-coin-master-free-spins-sregrfz": {
-    "versions": []
-  },
-  "2023-coin-master-free-spins-szzsz": {
-    "versions": []
-  },
-  "2023-coin-master-free-spins-zzdezb": {
-    "versions": []
-  },
-  "2023-coin-master-free-unlimited-spins-zdkzk": {
-    "versions": []
-  },
-  "2023-fortnite-free-v-bucks-and-skins-updated-dklzd": {
-    "versions": []
-  },
-  "2023-free-spins-coin-master-dsdzldz": {
-    "versions": []
-  },
-  "2025dyninstslots": {
-    "versions": []
-  },
-  "30000-coin-master-free-spins-ryhfsse": {
-    "versions": []
-  },
-  "40000-coin-master-free-spins-yukgrg": {
-    "versions": []
-  },
-  "40000-free-coin-master-spins-dzdkef": {
-    "versions": []
-  },
-  "4exepreds": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "4meme-readable-stream": {
-    "versions": []
-  },
-  "4xperss": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "50000-coin-master-free-spins-rflmre": {
-    "versions": []
-  },
-  "50000-free-coin-master-spins-dkfdeld": {
-    "versions": []
-  },
-  "50000-free-coin-master-spins-dkzdlz": {
-    "versions": []
-  },
-  "50000-free-coin-master-spins-updated-kfekdz": {
-    "versions": []
-  },
-  "511fola": {
-    "versions": [
-      "1.0.0",
-      "99.99.99"
-    ]
-  },
-  "60000-coin-master-free-spins-rflmre": {
-    "versions": []
-  },
-  "6161test1234": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "70k-free-coin-master-spins-2023-dkzldki": {
-    "versions": []
-  },
-  "7715-permissions-shared": {
-    "versions": [
-      "2.0.0"
-    ]
-  },
-  "80000-coin-master-free-spins-rrtger": {
-    "versions": []
-  },
-  "8jfiesaf83": {
-    "versions": [
-      "1.0.0",
-      "1.0.1",
-      "1.0.2",
-      "1.0.3",
-      "1.0.4",
-      "1.0.5",
-      "1.0.6",
-      "1.0.7",
-      "1.0.8",
-      "1.0.9",
-      "1.0.10",
-      "1.0.11"
-    ]
-  },
-  "8x8-developer-docs": {
-    "versions": [
-      "2.0.0"
-    ]
-  },
-  "90000-coin-master-free-spins-rflmre": {
-    "versions": []
-  },
-  "a2a-chat-canvas": {
-    "versions": []
-  },
-  "a4wu": {
-    "versions": []
-  },
-  "a5xm": {
-    "versions": []
-  },
-  "aaaaaxxxxx": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "abcxyzz": {
-    "versions": [
-      "9.9.9"
-    ]
-  },
-  "abeya-tg-api": {
-    "versions": []
-  },
-  "ably-forks": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "aboba-docker-check": {
-    "versions": [
-      "0.35.2"
-    ]
-  },
-  "aboba-initial": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "abrhide": {
-    "versions": [
-      "3.1.22"
-    ]
-  },
-  "abseits_soccer": {
-    "versions": []
-  },
-  "abseits_soccer-888": {
-    "versions": []
-  },
-  "abstract-http-request": {
-    "versions": [
-      "2.3.1",
-      "99.99.1",
-      "99.99.2"
-    ]
   }
 }

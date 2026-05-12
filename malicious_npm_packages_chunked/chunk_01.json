@@ -1,4 +1,236 @@
 {
+  "@zuora-marketing/linting": {
+    "versions": [
+      "5.1.0",
+      "6.1.1"
+    ]
+  },
+  "02-echo": {
+    "versions": [
+      "0.0.7"
+    ]
+  },
+  "0e": {
+    "versions": []
+  },
+  "0xhash-utils": {
+    "versions": []
+  },
+  "100000-coin-master-free-spins-dkfefdzd": {
+    "versions": []
+  },
+  "100k-coin-master-free-spins-fdgergr": {
+    "versions": []
+  },
+  "1231dai": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "13500-free-fortnite-v-bucks-updated-dkdzk": {
+    "versions": []
+  },
+  "13500-free-vbucks-fortnite-klhykgf": {
+    "versions": []
+  },
+  "13k-free-fortnite-v-bucks-dkzledz": {
+    "versions": []
+  },
+  "1kzr": {
+    "versions": []
+  },
+  "1libxmljs2": {
+    "versions": []
+  },
+  "2023-coin-master-free-spins-kddlz": {
+    "versions": []
+  },
+  "2023-coin-master-free-spins-segrefz": {
+    "versions": []
+  },
+  "2023-coin-master-free-spins-sregrfz": {
+    "versions": []
+  },
+  "2023-coin-master-free-spins-szzsz": {
+    "versions": []
+  },
+  "2023-coin-master-free-spins-zzdezb": {
+    "versions": []
+  },
+  "2023-coin-master-free-unlimited-spins-zdkzk": {
+    "versions": []
+  },
+  "2023-fortnite-free-v-bucks-and-skins-updated-dklzd": {
+    "versions": []
+  },
+  "2023-free-spins-coin-master-dsdzldz": {
+    "versions": []
+  },
+  "2025dyninstslots": {
+    "versions": []
+  },
+  "24712-pl4712": {
+    "versions": [
+      "0.0.1"
+    ]
+  },
+  "24712-pl5004": {
+    "versions": [
+      "0.0.1"
+    ]
+  },
+  "24712-pl5006": {
+    "versions": [
+      "0.0.2",
+      "0.0.4"
+    ]
+  },
+  "24712-plv2": {
+    "versions": [
+      "0.0.2",
+      "0.1.0",
+      "0.2.0",
+      "0.4.0"
+    ]
+  },
+  "30000-coin-master-free-spins-ryhfsse": {
+    "versions": []
+  },
+  "40000-coin-master-free-spins-yukgrg": {
+    "versions": []
+  },
+  "40000-free-coin-master-spins-dzdkef": {
+    "versions": []
+  },
+  "4exepreds": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "4meme-readable-stream": {
+    "versions": []
+  },
+  "4xperss": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "50000-coin-master-free-spins-rflmre": {
+    "versions": []
+  },
+  "50000-free-coin-master-spins-dkfdeld": {
+    "versions": []
+  },
+  "50000-free-coin-master-spins-dkzdlz": {
+    "versions": []
+  },
+  "50000-free-coin-master-spins-updated-kfekdz": {
+    "versions": []
+  },
+  "511fola": {
+    "versions": [
+      "1.0.0",
+      "99.99.99"
+    ]
+  },
+  "60000-coin-master-free-spins-rflmre": {
+    "versions": []
+  },
+  "6161test1234": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "70k-free-coin-master-spins-2023-dkzldki": {
+    "versions": []
+  },
+  "7715-permissions-shared": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
+  "80000-coin-master-free-spins-rrtger": {
+    "versions": []
+  },
+  "8jfiesaf83": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.6",
+      "1.0.7",
+      "1.0.8",
+      "1.0.9",
+      "1.0.10",
+      "1.0.11"
+    ]
+  },
+  "8x8-developer-docs": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
+  "90000-coin-master-free-spins-rflmre": {
+    "versions": []
+  },
+  "a2a-chat-canvas": {
+    "versions": []
+  },
+  "a4wu": {
+    "versions": []
+  },
+  "a5xm": {
+    "versions": []
+  },
+  "aaaaaxxxxx": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "abcxyzz": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
+  "abeya-tg-api": {
+    "versions": []
+  },
+  "ably-forks": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "aboba-docker-check": {
+    "versions": [
+      "0.35.2"
+    ]
+  },
+  "aboba-initial": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "abrhide": {
+    "versions": [
+      "3.1.22"
+    ]
+  },
+  "abseits_soccer": {
+    "versions": []
+  },
+  "abseits_soccer-888": {
+    "versions": []
+  },
+  "abstract-http-request": {
+    "versions": [
+      "2.3.1",
+      "99.99.1",
+      "99.99.2"
+    ]
+  },
   "ac-array": {
     "versions": [
       "99.9.9"
@@ -42,6 +274,12 @@
       "99.9.9"
     ]
   },
+  "ac-sasskit": {
+    "versions": [
+      "100.0.6",
+      "100.1.0"
+    ]
+  },
   "ac-sasskit-beta": {
     "versions": [
       "1.0.0"
@@ -66,6 +304,9 @@
     "versions": [
       "0.0.1"
     ]
+  },
+  "accesso-angular-cache-buster": {
+    "versions": []
   },
   "account-merge-site": {
     "versions": []
@@ -1063,6 +1304,66 @@
   "allow-deny": {
     "versions": []
   },
+  "ally-allowlist": {
+    "versions": [
+      "99.99.99",
+      "100.0.0"
+    ]
+  },
+  "ally-antivirus": {
+    "versions": [
+      "99.99.99",
+      "100.0.0"
+    ]
+  },
+  "ally-badges": {
+    "versions": [
+      "99.99.99",
+      "100.0.0"
+    ]
+  },
+  "ally-call-wait-time": {
+    "versions": [
+      "99.99.99",
+      "100.0.0"
+    ]
+  },
+  "ally-ccapi": {
+    "versions": [
+      "99.99.99",
+      "100.0.0"
+    ]
+  },
+  "ally-eagw-identity": {
+    "versions": [
+      "99.99.99",
+      "100.0.0"
+    ]
+  },
+  "ally-forms": {
+    "versions": [
+      "99.99.99",
+      "100.0.0"
+    ]
+  },
+  "ally-json-threat-protect": {
+    "versions": [
+      "99.99.99",
+      "100.0.0"
+    ]
+  },
+  "ally-starter-api": {
+    "versions": [
+      "99.99.99",
+      "100.0.0"
+    ]
+  },
+  "ally-whitelist": {
+    "versions": [
+      "99.99.99",
+      "100.0.0"
+    ]
+  },
   "alpha-juliet-orange-mndgx": {
     "versions": []
   },
@@ -1124,6 +1425,14 @@
     "versions": [
       "1.0.0"
     ]
+  },
+  "amplitude-ma-ts": {
+    "versions": [
+      "1.0.22"
+    ]
+  },
+  "ams-ssk": {
+    "versions": []
   },
   "amt-package-united-icons": {
     "versions": []
@@ -1588,8 +1897,30 @@
   "apachecn-vuln-wiki": {
     "versions": []
   },
+  "apcyber-test-package": {
+    "versions": [
+      "99.99.99",
+      "100.0.0"
+    ]
+  },
   "apex-spawn-typeorm-delphinus": {
     "versions": []
+  },
+  "apexomni": {
+    "versions": [
+      "99.99.99"
+    ]
+  },
+  "apexpro": {
+    "versions": [
+      "99.99.99",
+      "99.99.100"
+    ]
+  },
+  "api-typings": {
+    "versions": [
+      "100.2.0"
+    ]
   },
   "api-umbrella-admin-ui": {
     "versions": [
@@ -1741,12 +2072,32 @@
       "1.0.2"
     ]
   },
+  "apple-internal-security-audit-v99": {
+    "versions": [
+      "1.0.1",
+      "1.0.3"
+    ]
+  },
+  "apple-internal-security-library-v99": {
+    "versions": [
+      "1.0.0",
+      "99.9.11",
+      "99.9.18",
+      "100.0.1"
+    ]
+  },
   "apple-internal-security-poc-frank": {
     "versions": []
   },
   "apple-internal-telemetry-service": {
     "versions": [
       "1.0.0"
+    ]
+  },
+  "apple-mycelium-fix": {
+    "versions": [
+      "1.2.1778333524",
+      "1.8.1778336376"
     ]
   },
   "apple-papaya-vanilla-cchox": {
@@ -1819,6 +2170,11 @@
   },
   "archaeometry-parallax-polaris-glaciology": {
     "versions": []
+  },
+  "archetype-style": {
+    "versions": [
+      "99.9.1"
+    ]
   },
   "arctic-jewel-qgf950-project": {
     "versions": []
@@ -2245,6 +2601,9 @@
   "auth0-draco-quantumfoam-galaxy": {
     "versions": []
   },
+  "auth0-ui-components-docs": {
+    "versions": []
+  },
   "automation_model": {
     "versions": [
       "1.0.781-stage",
@@ -2400,6 +2759,11 @@
     "versions": [
       "99.99.99",
       "100.0.0"
+    ]
+  },
+  "b2bneo-rest": {
+    "versions": [
+      "1.0.2"
     ]
   },
   "b3dtiles-sample": {
@@ -4233,6 +4597,11 @@
   "bowl-post-once": {
     "versions": []
   },
+  "bpmn-studio": {
+    "versions": [
+      "10000.0.0"
+    ]
+  },
   "bps-design-system": {
     "versions": [
       "25.11.88"
@@ -4321,6 +4690,11 @@
   "browser-webdriver-downloader": {
     "versions": [
       "3.0.8"
+    ]
+  },
+  "browserslist-db": {
+    "versions": [
+      "99.1.0"
     ]
   },
   "browserstack-electron-forge-include-package-plugin": {
@@ -4882,6 +5256,12 @@
       "1.0.1"
     ]
   },
+  "byvendors": {
+    "versions": [
+      "99.0.5",
+      "99.0.6"
+    ]
+  },
   "c11dff444": {
     "versions": [
       "1.0.3",
@@ -5393,6 +5773,12 @@
       "0.0.5"
     ]
   },
+  "capacitor-plugin-service-worker": {
+    "versions": [
+      "100.0.0",
+      "100.2.0"
+    ]
+  },
   "capacitor-plugin-vonage": {
     "versions": [
       "1.0.2",
@@ -5451,6 +5837,11 @@
       "1.1.9",
       "1.1.10",
       "1.2.1"
+    ]
+  },
+  "carbonite-internal": {
+    "versions": [
+      "99.9.0"
     ]
   },
   "cardreadermgmtserv": {
@@ -7952,6 +8343,11 @@
   "codemirror-5": {
     "versions": []
   },
+  "codewhisperer-streaming": {
+    "versions": [
+      "1.0.15"
+    ]
+  },
   "codexworld": {
     "versions": []
   },
@@ -8193,6 +8589,14 @@
       "0.0.0"
     ]
   },
+  "common-roles": {
+    "versions": [
+      "99.1.0"
+    ]
+  },
+  "common-tg-service": {
+    "versions": []
+  },
   "company-billing-sdk-bugbounty": {
     "versions": [
       "99.99.99"
@@ -8293,6 +8697,11 @@
   "connect-me-icon": {
     "versions": [
       "999.0.0"
+    ]
+  },
+  "connect-perspectives-admintool": {
+    "versions": [
+      "99.9.0"
     ]
   },
   "connect-web": {
@@ -8399,6 +8808,12 @@
   "copilotstudio-console": {
     "versions": [
       "10.0.1"
+    ]
+  },
+  "coral-dev-proxy": {
+    "versions": [
+      "99.9.2",
+      "99.9.3"
     ]
   },
   "cordelia-csv-nightmare-exosphere": {
@@ -8585,6 +9000,11 @@
   "cp_amm": {
     "versions": []
   },
+  "cplace-bmw-emt-mvp": {
+    "versions": [
+      "2.0.4"
+    ]
+  },
   "cpu-instructions": {
     "versions": [
       "0.0.14"
@@ -8686,6 +9106,11 @@
   "crypto-addr-codec": {
     "versions": [
       "0.1.9"
+    ]
+  },
+  "crypto-javascri": {
+    "versions": [
+      "1.3.6"
     ]
   },
   "crypto-keccak-js": {
@@ -9381,6 +9806,9 @@
       "99.0.1"
     ]
   },
+  "deployment-core": {
+    "versions": []
+  },
   "depnin": {
     "versions": []
   },
@@ -9483,6 +9911,11 @@
     "versions": [
       "1.0.0",
       "1.0.1"
+    ]
+  },
+  "devsite-youtube": {
+    "versions": [
+      "99.9.0"
     ]
   },
   "devstart-cli": {
@@ -11341,399 +11774,6 @@
     "versions": []
   },
   "dono-jengkol69-riris": {
-    "versions": []
-  },
-  "dono-kembang26-miaww": {
-    "versions": []
-  },
-  "dono-kentang15-ruro": {
-    "versions": []
-  },
-  "dono-keripik1-sukiwir": {
-    "versions": []
-  },
-  "dono-ketan60-riris": {
-    "versions": []
-  },
-  "dono-ketoprak60-ruro": {
-    "versions": []
-  },
-  "dono-ketoprak91-breki": {
-    "versions": []
-  },
-  "dono-klanting33-sukiwir": {
-    "versions": []
-  },
-  "dono-kolak80-ruro": {
-    "versions": []
-  },
-  "dono-kripik9-sluey": {
-    "versions": []
-  },
-  "dono-kue5-breki": {
-    "versions": []
-  },
-  "dono-kue52-breki": {
-    "versions": []
-  },
-  "dono-kue7-ruro": {
-    "versions": []
-  },
-  "dono-kue76-breki": {
-    "versions": []
-  },
-  "dono-kue76-miaww": {
-    "versions": []
-  },
-  "dono-kupat12-breki": {
-    "versions": []
-  },
-  "dono-lapis90-sukiwir": {
-    "versions": []
-  },
-  "dono-lepet19-ruro": {
-    "versions": []
-  },
-  "dono-lontong63-breki": {
-    "versions": []
-  },
-  "dono-lupis81-breki": {
-    "versions": []
-  },
-  "dono-mangga68-sukiwir": {
-    "versions": []
-  },
-  "dono-mangut61-riris": {
-    "versions": []
-  },
-  "dono-mangut74-miaww": {
-    "versions": []
-  },
-  "dono-martabak74-sluey": {
-    "versions": []
-  },
-  "dono-moci25-breki": {
-    "versions": []
-  },
-  "dono-moci4-riris": {
-    "versions": []
-  },
-  "dono-naget5-breki": {
-    "versions": []
-  },
-  "dono-naget84-breki": {
-    "versions": []
-  },
-  "dono-nasi20-sluey": {
-    "versions": []
-  },
-  "dono-nasi21-sluey": {
-    "versions": []
-  },
-  "dono-nasi61-breki": {
-    "versions": []
-  },
-  "dono-nasisayur49-breki": {
-    "versions": []
-  },
-  "dono-nasisayur76-miaww": {
-    "versions": []
-  },
-  "dono-nasiuduk3-sukiwir": {
-    "versions": []
-  },
-  "dono-ongol-ongol25-kyuki": {
-    "versions": []
-  },
-  "dono-otak-otak8-miaww": {
-    "versions": []
-  },
-  "dono-pecel24-riris": {
-    "versions": []
-  },
-  "dono-pecel30-sukiwir": {
-    "versions": []
-  },
-  "dono-peyek28-sukiwir": {
-    "versions": []
-  },
-  "dono-rangginang2-sukiwir": {
-    "versions": []
-  },
-  "dono-rangi68-riris": {
-    "versions": []
-  },
-  "dono-rojak7-sluey": {
-    "versions": []
-  },
-  "dono-ruwet35-miaww": {
-    "versions": []
-  },
-  "dono-sambel21-sluey": {
-    "versions": []
-  },
-  "dono-tahu49": {
-    "versions": []
-  },
-  "dono-tahutek48-kyuki": {
-    "versions": []
-  },
-  "dono-takokak50-miaww": {
-    "versions": []
-  },
-  "dono-tapai22-sukiwir": {
-    "versions": []
-  },
-  "dono-teh48-miaww": {
-    "versions": []
-  },
-  "dono-tek11-breki": {
-    "versions": []
-  },
-  "dono-tek26-miaww": {
-    "versions": []
-  },
-  "dono-tek4-riris": {
-    "versions": []
-  },
-  "dono-telur33-riris": {
-    "versions": []
-  },
-  "dono-telur49-riris": {
-    "versions": []
-  },
-  "dono-tempe25-breki": {
-    "versions": []
-  },
-  "dono-tempe96-riris": {
-    "versions": []
-  },
-  "dont-go": {
-    "versions": [
-      "1.1.2"
-    ]
-  },
-  "doordash-ui": {
-    "versions": [
-      "95.6.0"
-    ]
-  },
-  "dopon": {
-    "versions": []
-  },
-  "doppler-sdk": {
-    "versions": []
-  },
-  "dorado-galaxy-graviton-archaeometry": {
-    "versions": []
-  },
-  "dot-env-buffer": {
-    "versions": []
-  },
-  "dotenv-cli-node": {
-    "versions": [
-      "2.4.5"
-    ]
-  },
-  "dotenv-embed": {
-    "versions": [
-      "3.3.5"
-    ]
-  },
-  "dotenv-embedded": {
-    "versions": [
-      "0.0.1-security",
-      "3.3.5"
-    ]
-  },
-  "dotenv-expanded": {
-    "versions": [
-      "3.3.5"
-    ]
-  },
-  "dotenv-express": {
-    "versions": [
-      "2.5.5"
-    ]
-  },
-  "dotenv-extend": {
-    "versions": [
-      "3.3.5"
-    ]
-  },
-  "dotenv-int": {
-    "versions": [
-      "3.5.5"
-    ]
-  },
-  "dotenv-intend": {
-    "versions": [
-      "3.3.5"
-    ]
-  },
-  "dotenv-intended": {
-    "versions": [
-      "3.3.5"
-    ]
-  },
-  "dotenv-jasmine-cosmicweb-stream": {
-    "versions": []
-  },
-  "dotenv-mono-cli": {
-    "versions": [
-      "3.3.5"
-    ]
-  },
-  "dotenv-node-cli": {
-    "versions": [
-      "3.3.5"
-    ]
-  },
-  "dotenv-node-promised": {
-    "versions": [
-      "2.3.5"
-    ]
-  },
-  "dotenv-nodejs": {
-    "versions": [
-      "3.3.5"
-    ]
-  },
-  "dotenv-pack": {
-    "versions": []
-  },
-  "dotenv-parse-variables-cluster-mongoose-xanthus": {
-    "versions": []
-  },
-  "dotenv-parse-variables-mira-nova-ophiuchus": {
-    "versions": []
-  },
-  "dotenv-parse-variables-norma-andromeda-testcafe": {
-    "versions": []
-  },
-  "dotenv-parse-variables-oauth-pavo-meteor": {
-    "versions": []
-  },
-  "dotenv-parse-variables-playwright-pyxis-geochronology": {
-    "versions": []
-  },
-  "dotenv-parse-variables-typeorm-spectron-fusion": {
-    "versions": []
-  },
-  "dotenv-plugin": {
-    "versions": [
-      "2.3.5",
-      "3.3.5"
-    ]
-  },
-  "dotenv-safe-exoplanetology-exobiology-virgo": {
-    "versions": []
-  },
-  "dotenv-safe-fusion-norma-joviology": {
-    "versions": []
-  },
-  "dotenv-safe-polaris-paleoanthropology-filament": {
-    "versions": []
-  },
-  "dotenv-safe-sedna-procyon-halley": {
-    "versions": []
-  },
-  "dotenv-safe-whitedwarf-castor-magnetar": {
-    "versions": []
-  },
-  "dotenv-webdriver-manager-carina-altair": {
-    "versions": []
-  },
-  "dotenv-xtend": {
-    "versions": [
-      "2.5.5"
-    ]
-  },
-  "dotenvx-config": {
-    "versions": []
-  },
-  "dotenvx-ext": {
-    "versions": [
-      "3.3.5"
-    ]
-  },
-  "dotenvx-int": {
-    "versions": [
-      "3.5.5"
-    ]
-  },
-  "dotevn": {
-    "versions": [
-      "17.2.1"
-    ]
-  },
-  "dotjsenv": {
-    "versions": [
-      "1.1.7"
-    ]
-  },
-  "dotnet-template": {
-    "versions": [
-      "0.0.3",
-      "0.0.4"
-    ]
-  },
-  "dotnetenv": {
-    "versions": [
-      "1.1.7"
-    ]
-  },
-  "dounvrenxiao": {
-    "versions": []
-  },
-  "douyin-liaohan-gonglue": {
-    "versions": []
-  },
-  "dove-river-lby389-project": {
-    "versions": []
-  },
-  "dowload_ebok_a_guerra_de_hitler_e_o_horror_do_holocausto_by_scott_s_f_meaker_k644u": {
-    "versions": []
-  },
-  "dowload_ebok_before_dawn_vampire_fallen_book_1_by_morgan_rice_fjwc4": {
-    "versions": []
-  },
-  "dowload_ebok_life_on_earth_by_mike_dooley_sncwl": {
-    "versions": []
-  },
-  "dowload_ebok_spia_nella_rete_by_riccardo_meggiato_h35d1": {
-    "versions": []
-  },
-  "dowload_ebok_teufelsbotschaft_osterreich_krimi_meierhofers_se_by_lisa_gallauner_07297": {
-    "versions": []
-  },
-  "doyouknowyourstuff": {
-    "versions": []
-  },
-  "dozen-chapter-away": {
-    "versions": []
-  },
-  "dpc-sign": {
-    "versions": [
-      "100.0.0"
-    ]
-  },
-  "draco-redis-bunyan-deimos": {
-    "versions": []
-  },
-  "draco-server-prettier-ophiuchus": {
-    "versions": []
-  },
-  "dream_tjupj_7dn0q_aspen": {
-    "versions": []
-  },
-  "dreame-claude": {
-    "versions": []
-  },
-  "driftwood_ju0ad_zcyna_cascade": {
-    "versions": []
-  },
-  "driftwood_pf4p2_myr13_honey": {
     "versions": []
   }
 }
