@@ -1,4 +1,25 @@
 {
+  "json-mapping-srcs": {
+    "versions": [
+      "2.3.1"
+    ]
+  },
+  "json-mapping-token": {
+    "versions": [
+      "2.2.4"
+    ]
+  },
+  "json-mapping-web": {
+    "versions": []
+  },
+  "json-mappings": {
+    "versions": []
+  },
+  "json-merge-tool": {
+    "versions": [
+      "2.1.1"
+    ]
+  },
   "json-panels": {
     "versions": [
       "2.3.8"
@@ -5830,6 +5851,11 @@
   },
   "openblox-ts": {
     "versions": []
+  },
+  "openclaw-cn": {
+    "versions": [
+      "0.3.0"
+    ]
   },
   "openclaw-droid": {
     "versions": []
@@ -12050,30 +12076,5 @@
   },
   "syntax-jsx": {
     "versions": []
-  },
-  "synthetics-sdk-node": {
-    "versions": [
-      "9.9.9"
-    ]
-  },
-  "syqara": {
-    "versions": []
-  },
-  "systemtest-information": {
-    "versions": []
-  },
-  "systemtest-network": {
-    "versions": []
-  },
-  "szsec-info-report": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "szsec-infos-report": {
-    "versions": [
-      "1.0.0",
-      "2.0.1"
-    ]
   }
 }

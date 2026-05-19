@@ -1,4 +1,29 @@
 {
+  "@yoobic/yobi": {
+    "versions": [
+      "8.7.53"
+    ]
+  },
+  "@youcanneverguessthisonereally/test-pkg": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "@zakhaevv/envai": {
+    "versions": []
+  },
+  "@zalastax/nolb-_alifd_theme-v": {
+    "versions": []
+  },
+  "@zalastax/nolb-_alifd_theme-w": {
+    "versions": []
+  },
+  "@zalastax/nolb-_alifd_theme-x": {
+    "versions": []
+  },
+  "@zalastax/nolb-_alifd_theme-y": {
+    "versions": []
+  },
   "@zalastax/nolb-_alm": {
     "versions": []
   },
@@ -11902,21 +11927,6 @@
       "1.250917.11413",
       "1.250917.11919",
       "1.250921.11833",
-      "1.250924.11155"
-    ]
-  },
-  "dhemrdhs84006": {
-    "versions": [
-      "1.250811.10855",
-      "1.250811.12057",
-      "1.250821.11342",
-      "1.250821.11917",
-      "1.250822.10944",
-      "1.250822.11141",
-      "1.250910.11834",
-      "1.250916.11949",
-      "1.250917.11502",
-      "1.250917.11919",
       "1.250924.11155"
     ]
   }

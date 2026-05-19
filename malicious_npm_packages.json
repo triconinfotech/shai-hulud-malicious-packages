@@ -2912,6 +2912,11 @@
       "2.10.1"
     ]
   },
+  "@cap-js/openapi": {
+    "versions": [
+      "1.4.1"
+    ]
+  },
   "@cap-js/postgres": {
     "versions": [
       "2.2.2"
@@ -7345,6 +7350,26 @@
   "@openclaw-ai/openclawai": {
     "versions": []
   },
+  "@openclaw-cn/cli": {
+    "versions": [
+      "1.4.1"
+    ]
+  },
+  "@openclaw-cn/feishu": {
+    "versions": [
+      "0.2.11"
+    ]
+  },
+  "@openclaw-cn/libsignal": {
+    "versions": [
+      "2.1.1"
+    ]
+  },
+  "@openclaw-cn/toutiao-ops": {
+    "versions": [
+      "1.2.4"
+    ]
+  },
   "@opengov/form-builder": {
     "versions": [
       "0.12.3"
@@ -9195,6 +9220,11 @@
       "0.5.8",
       "0.5.9",
       "0.5.10"
+    ]
+  },
+  "@starmind/collector-cli": {
+    "versions": [
+      "0.3.10"
     ]
   },
   "@stlm/common-ui": {
@@ -41510,6 +41540,11 @@
   },
   "openblox-ts": {
     "versions": []
+  },
+  "openclaw-cn": {
+    "versions": [
+      "0.3.0"
+    ]
   },
   "openclaw-droid": {
     "versions": []

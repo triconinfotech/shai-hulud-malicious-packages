@@ -1,4 +1,29 @@
 {
+  "synthetics-sdk-node": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
+  "syqara": {
+    "versions": []
+  },
+  "systemtest-information": {
+    "versions": []
+  },
+  "systemtest-network": {
+    "versions": []
+  },
+  "szsec-info-report": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "szsec-infos-report": {
+    "versions": [
+      "1.0.0",
+      "2.0.1"
+    ]
+  },
   "szsec-infos-report-wh1sper": {
     "versions": [
       "2.0.0",

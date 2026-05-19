@@ -1,3 +1,18 @@
+## 2026-05-19 07:47:47 — Added 7 new packages, updated 0 versions
+
+### 🆕 New Packages (7)
+- @cap-js/openapi
+- @openclaw-cn/cli
+- @openclaw-cn/feishu
+- @openclaw-cn/libsignal
+- @openclaw-cn/toutiao-ops
+- @starmind/collector-cli
+- openclaw-cn
+
+### 🔄 Updated Versions (0)
+_None_
+
+
 ## 2026-05-19 06:25:53 — Added 317 new packages, updated 0 versions
 
 ### 🆕 New Packages (317)
