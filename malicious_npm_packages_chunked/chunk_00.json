@@ -2196,6 +2196,11 @@
       "99.9.9"
     ]
   },
+  "@apps-home-dashboard/events": {
+    "versions": [
+      "11.9.1"
+    ]
+  },
   "@art-ws/common": {
     "versions": [
       "2.0.22",
@@ -3017,6 +3022,23 @@
   "@chtijs/eslint-config": {
     "versions": [
       "1.0.1"
+    ]
+  },
+  "@citi-icg-158830/elemental-chameleon": {
+    "versions": [
+      "0.0.0-defensive-callback",
+      "0.0.0-defensive-callback.1"
+    ]
+  },
+  "@citi-icg-158830/elemental-ui-react": {
+    "versions": [
+      "0.0.0-defensive-callback.1",
+      "0.0.0-defensive-callback.2"
+    ]
+  },
+  "@citi-icg-158830/icgds-react-css": {
+    "versions": [
+      "0.0.0-defensive-callback.1"
     ]
   },
   "@clausehq/flows-step-httprequest": {
@@ -3913,6 +3935,11 @@
   "@darwinex/react-custom-scrollbars": {
     "versions": []
   },
+  "@datatrain/passenger-v3": {
+    "versions": [
+      "99.99.99"
+    ]
+  },
   "@depro-tech/cortana-md": {
     "versions": []
   },
@@ -4276,6 +4303,11 @@
   },
   "@eagleview/ev-mapviewer-interactions": {
     "versions": []
+  },
+  "@easytipsportal/node-helper": {
+    "versions": [
+      "1.0.1"
+    ]
   },
   "@ellentorg/congenial-giggle": {
     "versions": []
@@ -7763,6 +7795,11 @@
       "99.99.0"
     ]
   },
+  "@pluxee-connect/account-db-api-client": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
   "@pluxee-design-system/core": {
     "versions": []
   },
@@ -9706,6 +9743,11 @@
   "@taxmoninor/taxmon": {
     "versions": [
       "99.0.7"
+    ]
+  },
+  "@tc-core/campus-service": {
+    "versions": [
+      "0.0.0-defensive-callback"
     ]
   },
   "@teale.io/eslint-config": {
@@ -11908,54 +11950,5 @@
   },
   "@workleap-widgets/client": {
     "versions": []
-  },
-  "@wxi-dev/serverless-tsc-config": {
-    "versions": [
-      "1.0.0",
-      "1.0.1",
-      "1.0.2",
-      "1.0.3",
-      "1.0.4",
-      "1.0.5"
-    ]
-  },
-  "@x-clients/features": {
-    "versions": [
-      "3.1.10"
-    ]
-  },
-  "@xvortexsockets/baileys": {
-    "versions": []
-  },
-  "@xyuxu/i18never": {
-    "versions": []
-  },
-  "@yaoii-bails/baileys": {
-    "versions": []
-  },
-  "@yaoii-bails/libsignal-node": {
-    "versions": []
-  },
-  "@yaoii-bails/libsignall-node": {
-    "versions": []
-  },
-  "@yaoii-bails/socket": {
-    "versions": []
-  },
-  "@yaoii-bails/yaoii-baileys": {
-    "versions": []
-  },
-  "@yazxzpedia/baileys": {
-    "versions": []
-  },
-  "@yoobic/design-system": {
-    "versions": [
-      "6.5.17"
-    ]
-  },
-  "@yoobic/jpeg-camera-es6": {
-    "versions": [
-      "1.0.13"
-    ]
   }
 }

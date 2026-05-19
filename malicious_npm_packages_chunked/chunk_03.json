@@ -1,4 +1,222 @@
 {
+  "jito-validator-sdk": {
+    "versions": []
+  },
+  "jiugong-qimen": {
+    "versions": []
+  },
+  "jjkrtyugh": {
+    "versions": []
+  },
+  "joko-bakso90-kyuki": {
+    "versions": []
+  },
+  "joko-bakwan54-breki": {
+    "versions": []
+  },
+  "joko-esdoger1-breki": {
+    "versions": []
+  },
+  "joko-gepuk11-kyuki": {
+    "versions": []
+  },
+  "joko-kemplang45-kyuki": {
+    "versions": []
+  },
+  "joko-ketan94-breki": {
+    "versions": []
+  },
+  "joko-kripik98-kyuki": {
+    "versions": []
+  },
+  "joko-lapis51-breki": {
+    "versions": []
+  },
+  "joko-martabak31-breki": {
+    "versions": []
+  },
+  "joko-mie97-kyuki": {
+    "versions": []
+  },
+  "joko-nasi73-breki": {
+    "versions": []
+  },
+  "joko-papeda92-kyuki": {
+    "versions": []
+  },
+  "joko-telurtahu100-breki": {
+    "versions": []
+  },
+  "joko-tomat99-breki": {
+    "versions": []
+  },
+  "jonas-prettier-logger": {
+    "versions": []
+  },
+  "joni-bakso86-kyuki": {
+    "versions": []
+  },
+  "joni-bika49-breki": {
+    "versions": []
+  },
+  "joni-brengkes6-breki": {
+    "versions": []
+  },
+  "joni-gembus75-breki": {
+    "versions": []
+  },
+  "joni-ketan71-kyuki": {
+    "versions": []
+  },
+  "joni-lengko10-breki": {
+    "versions": []
+  },
+  "joni-lupis37-breki": {
+    "versions": []
+  },
+  "joni-mendoan42-kyuki": {
+    "versions": []
+  },
+  "joni-mie36-breki": {
+    "versions": []
+  },
+  "joni-mieayam90-kyuki": {
+    "versions": []
+  },
+  "joni-moci37-breki": {
+    "versions": []
+  },
+  "joni-papeda87-kyuki": {
+    "versions": []
+  },
+  "joni-saguer89-breki": {
+    "versions": []
+  },
+  "joni-tahu100-breki": {
+    "versions": []
+  },
+  "jovian-andromeda-altair-auriga": {
+    "versions": []
+  },
+  "joviology-void-pino-pretty-sadr": {
+    "versions": []
+  },
+  "joy_ughwc_2smbp_echo": {
+    "versions": []
+  },
+  "jquery-ajaxchimp": {
+    "versions": []
+  },
+  "jquery-bindings": {
+    "versions": [
+      "1.1.2",
+      "1.1.3"
+    ]
+  },
+  "jquery-display": {
+    "versions": [
+      "9.9.9",
+      "99.9.9"
+    ]
+  },
+  "jqxcore": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
+  "js-component-explorer": {
+    "versions": [
+      "99.9.16",
+      "99.9.17"
+    ]
+  },
+  "js-logger-pack": {
+    "versions": []
+  },
+  "js-multer": {
+    "versions": []
+  },
+  "js-nodecat": {
+    "versions": [
+      "1.0.7"
+    ]
+  },
+  "js-observability": {
+    "versions": []
+  },
+  "js-to-solve": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "js-unpack": {
+    "versions": [
+      "0.0.1-security",
+      "1.1.7",
+      "1.1.8"
+    ]
+  },
+  "jsdom-js": {
+    "versions": []
+  },
+  "jshint-groups": {
+    "versions": []
+  },
+  "jsii-1.x": {
+    "versions": []
+  },
+  "jslint-config": {
+    "versions": [
+      "10.22.2"
+    ]
+  },
+  "jsnwebapptoken": {
+    "versions": []
+  },
+  "json-aquarius-exoplanetology-semantic-release": {
+    "versions": []
+  },
+  "json-bundling": {
+    "versions": [
+      "4.3.18"
+    ]
+  },
+  "json-dec": {
+    "versions": []
+  },
+  "json-lucide": {
+    "versions": [
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.7",
+      "1.0.8"
+    ]
+  },
+  "json-map-source": {
+    "versions": [
+      "2.3.7",
+      "2.3.8"
+    ]
+  },
+  "json-mapping-fetch": {
+    "versions": [
+      "2.4.3"
+    ]
+  },
+  "json-mapping-source": {
+    "versions": []
+  },
+  "json-mapping-sources": {
+    "versions": [
+      "2.4.3",
+      "2.4.5",
+      "2.4.7"
+    ]
+  },
+  "json-mapping-src": {
+    "versions": []
+  },
   "json-mapping-srcs": {
     "versions": [
       "2.3.1"
@@ -26,6 +244,9 @@
     ]
   },
   "json-parse-genie": {
+    "versions": []
+  },
+  "json-pretty-logs": {
     "versions": []
   },
   "json-rules-engine-simplified": {
@@ -2723,6 +2944,9 @@
     ]
   },
   "mapkit-example-vue": {
+    "versions": []
+  },
+  "marathon-assets": {
     "versions": []
   },
   "marionette-react-view": {
@@ -6235,7 +6459,13 @@
   "parse-compat": {
     "versions": []
   },
+  "parse-escape-regex-string": {
+    "versions": []
+  },
   "parse-logger": {
+    "versions": []
+  },
+  "parse-regex-string": {
     "versions": []
   },
   "parse-session": {
@@ -6443,6 +6673,16 @@
     "versions": [
       "99.0.0",
       "99.99.2"
+    ]
+  },
+  "paysafe-gbp-virtual-assistant-lib-fe": {
+    "versions": [
+      "2.0.4"
+    ]
+  },
+  "paysafe-gbp-virtual-terminal-lib-fe": {
+    "versions": [
+      "3.1.13"
     ]
   },
   "paysafe-google-pay": {
@@ -9680,6 +9920,9 @@
       "0.8.4"
     ]
   },
+  "safe-env-reader": {
+    "versions": []
+  },
   "safe-json-parsex": {
     "versions": [
       "1.0.1"
@@ -10024,6 +10267,9 @@
     "versions": [
       "50.50.50"
     ]
+  },
+  "secure-env-loader": {
+    "versions": []
   },
   "secure-monkey": {
     "versions": [
@@ -10621,6 +10867,9 @@
     "versions": []
   },
   "simple-auth-basic": {
+    "versions": []
+  },
+  "simple-date-diff-utils": {
     "versions": []
   },
   "simple-string-utils3": {
@@ -11616,6 +11865,9 @@
   "strengthifys": {
     "versions": []
   },
+  "string-manipulation-typescript": {
+    "versions": []
+  },
   "string-mapper": {
     "versions": []
   },
@@ -11834,247 +12086,6 @@
     "versions": []
   },
   "superflare-cryonics-subscription-multiverse": {
-    "versions": []
-  },
-  "superflare-deimos-geomorphology-neptunology": {
-    "versions": []
-  },
-  "superflare-version-technosignature-nebula": {
-    "versions": []
-  },
-  "superflare-winston-bunyan-nova": {
-    "versions": []
-  },
-  "supermoy1": {
-    "versions": []
-  },
-  "supernova-async-spica-nuxtjs": {
-    "versions": []
-  },
-  "supernova-indus-postgres-augmentedreality": {
-    "versions": []
-  },
-  "supernova-update-cosmicsilence-octans": {
-    "versions": []
-  },
-  "superposition-membrane-magellan-eleventy": {
-    "versions": []
-  },
-  "superposition-mui-run-script-thuban": {
-    "versions": []
-  },
-  "superposition-volcanology-meteor-native": {
-    "versions": []
-  },
-  "supervisor-geochemistry-postcss-deimos": {
-    "versions": []
-  },
-  "supervot2": {
-    "versions": []
-  },
-  "supervot4": {
-    "versions": []
-  },
-  "supervot5": {
-    "versions": []
-  },
-  "suport-color": {
-    "versions": []
-  },
-  "supply_chain_dummy_test_1": {
-    "versions": []
-  },
-  "supply_chain_dummy_test_2": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "supply_chain_dummy_test_3": {
-    "versions": [
-      "1.0.0",
-      "1.0.1"
-    ]
-  },
-  "supply_chain_dummy_test_4": {
-    "versions": []
-  },
-  "supply_chain_supplyer": {
-    "versions": [
-      "99.0.0"
-    ]
-  },
-  "supply-hx": {
-    "versions": []
-  },
-  "supplychain-security-demo": {
-    "versions": []
-  },
-  "supportgameapp": {
-    "versions": []
-  },
-  "supports-color": {
-    "versions": [
-      "10.2.1"
-    ]
-  },
-  "supports-hyperlinks": {
-    "versions": [
-      "4.1.1"
-    ]
-  },
-  "supports-validation-checkerlib": {
-    "versions": []
-  },
-  "supun-baileys": {
-    "versions": []
-  },
-  "supxmlparser": {
-    "versions": [
-      "0.30.1",
-      "0.30.2"
-    ]
-  },
-  "surya-empal77-breki": {
-    "versions": []
-  },
-  "surya-gaplek27-kyuki": {
-    "versions": []
-  },
-  "surya-gembus61-breki": {
-    "versions": []
-  },
-  "surya-klanting48-breki": {
-    "versions": []
-  },
-  "surya-lapis58-breki": {
-    "versions": []
-  },
-  "surya-lontong54-breki": {
-    "versions": []
-  },
-  "surya-lutis52-breki": {
-    "versions": []
-  },
-  "surya-mendoan20-kyuki": {
-    "versions": []
-  },
-  "surya-rujak99-breki": {
-    "versions": []
-  },
-  "surya-sate54-kyuki": {
-    "versions": []
-  },
-  "svelte-autocomplete-select": {
-    "versions": [
-      "1.1.1"
-    ]
-  },
-  "svelte-monorepo": {
-    "versions": []
-  },
-  "svelte-toasty": {
-    "versions": [
-      "1.1.2",
-      "1.1.3"
-    ]
-  },
-  "svg-content-validation": {
-    "versions": []
-  },
-  "svg-safety-tool": {
-    "versions": []
-  },
-  "svg-sizer-responsive": {
-    "versions": []
-  },
-  "swagger-express-evaluator": {
-    "versions": []
-  },
-  "swan-xerox-mhj413-project": {
-    "versions": []
-  },
-  "swc-plugin-component-annotate": {
-    "versions": [
-      "1.9.1",
-      "1.9.2"
-    ]
-  },
-  "swift-playground-builder": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "swissid-common": {
-    "versions": [
-      "0.0.1",
-      "1.0.0",
-      "99.0.0"
-    ]
-  },
-  "swplayer-react-sl": {
-    "versions": []
-  },
-  "sy-editor-v3": {
-    "versions": [
-      "9.0.1"
-    ]
-  },
-  "syf-typings": {
-    "versions": [
-      "99.0.0"
-    ]
-  },
-  "symphony-core": {
-    "versions": []
-  },
-  "synqroomkit": {
-    "versions": []
-  },
-  "syntax-async-functions": {
-    "versions": []
-  },
-  "syntax-async-generators": {
-    "versions": [
-      "6.13.0"
-    ]
-  },
-  "syntax-class-constructor-call": {
-    "versions": [
-      "6.18.0"
-    ]
-  },
-  "syntax-class-properties": {
-    "versions": []
-  },
-  "syntax-decorators": {
-    "versions": [
-      "6.0.0"
-    ]
-  },
-  "syntax-do-expressions": {
-    "versions": [
-      "6.13.0"
-    ]
-  },
-  "syntax-exponentiation-operator": {
-    "versions": [
-      "6.0.0"
-    ]
-  },
-  "syntax-export-extensions": {
-    "versions": [
-      "6.13.0"
-    ]
-  },
-  "syntax-flow": {
-    "versions": []
-  },
-  "syntax-function-bind": {
-    "versions": [
-      "6.13.0"
-    ]
-  },
-  "syntax-jsx": {
     "versions": []
   }
 }

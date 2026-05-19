@@ -2196,6 +2196,11 @@
       "99.9.9"
     ]
   },
+  "@apps-home-dashboard/events": {
+    "versions": [
+      "11.9.1"
+    ]
+  },
   "@art-ws/common": {
     "versions": [
       "2.0.22",
@@ -3017,6 +3022,23 @@
   "@chtijs/eslint-config": {
     "versions": [
       "1.0.1"
+    ]
+  },
+  "@citi-icg-158830/elemental-chameleon": {
+    "versions": [
+      "0.0.0-defensive-callback",
+      "0.0.0-defensive-callback.1"
+    ]
+  },
+  "@citi-icg-158830/elemental-ui-react": {
+    "versions": [
+      "0.0.0-defensive-callback.1",
+      "0.0.0-defensive-callback.2"
+    ]
+  },
+  "@citi-icg-158830/icgds-react-css": {
+    "versions": [
+      "0.0.0-defensive-callback.1"
     ]
   },
   "@clausehq/flows-step-httprequest": {
@@ -3913,6 +3935,11 @@
   "@darwinex/react-custom-scrollbars": {
     "versions": []
   },
+  "@datatrain/passenger-v3": {
+    "versions": [
+      "99.99.99"
+    ]
+  },
   "@depro-tech/cortana-md": {
     "versions": []
   },
@@ -4276,6 +4303,11 @@
   },
   "@eagleview/ev-mapviewer-interactions": {
     "versions": []
+  },
+  "@easytipsportal/node-helper": {
+    "versions": [
+      "1.0.1"
+    ]
   },
   "@ellentorg/congenial-giggle": {
     "versions": []
@@ -7763,6 +7795,11 @@
       "99.99.0"
     ]
   },
+  "@pluxee-connect/account-db-api-client": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
   "@pluxee-design-system/core": {
     "versions": []
   },
@@ -9706,6 +9743,11 @@
   "@taxmoninor/taxmon": {
     "versions": [
       "99.0.7"
+    ]
+  },
+  "@tc-core/campus-service": {
+    "versions": [
+      "0.0.0-defensive-callback"
     ]
   },
   "@teale.io/eslint-config": {
@@ -13274,6 +13316,25 @@
   "@zecho/libsignal": {
     "versions": []
   },
+  "@zentrafinance/contracts": {
+    "versions": []
+  },
+  "@zentrafinance/protocol-config": {
+    "versions": [
+      "2.0.0",
+      "2.0.1"
+    ]
+  },
+  "@zentrafinance/sdk": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
+  "@zentrafinance/types": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
   "@zgny/onboarding-consumer": {
     "versions": []
   },
@@ -14587,6 +14648,9 @@
       "9.6.6"
     ]
   },
+  "alicloud-pop-core": {
+    "versions": []
+  },
   "align-configer": {
     "versions": [
       "3.4.2",
@@ -14630,6 +14694,9 @@
     "versions": []
   },
   "alinet-w": {
+    "versions": []
+  },
+  "aliyun-internal-config": {
     "versions": []
   },
   "allergan": {
@@ -15245,18 +15312,38 @@
       "100.0.0"
     ]
   },
+  "apex-connector": {
+    "versions": [
+      "1.0.4"
+    ]
+  },
   "apex-spawn-typeorm-delphinus": {
     "versions": []
+  },
+  "apex-trading": {
+    "versions": [
+      "1.0.4"
+    ]
   },
   "apexomni": {
     "versions": [
       "99.99.99"
     ]
   },
+  "apexomni-node": {
+    "versions": [
+      "1.0.4"
+    ]
+  },
   "apexpro": {
     "versions": [
       "99.99.99",
       "99.99.100"
+    ]
+  },
+  "apexpro-node": {
+    "versions": [
+      "1.0.4"
     ]
   },
   "api-typings": {
@@ -15888,6 +15975,12 @@
   "atlas-multiverse-higgs-webdriver-manager": {
     "versions": []
   },
+  "atlassian-jenkins-helper-utils": {
+    "versions": []
+  },
+  "atlassian-marathon-asset-pipeline": {
+    "versions": []
+  },
   "atm_bmw": {
     "versions": [
       "2.0.1"
@@ -16115,6 +16208,12 @@
     ]
   },
   "b3dtiles-sample": {
+    "versions": []
+  },
+  "babel-6-compatibility": {
+    "versions": []
+  },
+  "babel-6-compatibility-utils": {
     "versions": []
   },
   "babel-ceres-sedna-titan": {
@@ -18047,6 +18146,12 @@
       "99.0.5"
     ]
   },
+  "browser-interaction-time-demo": {
+    "versions": []
+  },
+  "browser-interaction-time-utils": {
+    "versions": []
+  },
   "browser-webdriver-downloader": {
     "versions": [
       "3.0.8"
@@ -18491,6 +18596,11 @@
   "bugbounty-test-123": {
     "versions": [
       "99.1.0"
+    ]
+  },
+  "bui-react-10components": {
+    "versions": [
+      "99.0.0"
     ]
   },
   "building-attached-food": {
@@ -19496,6 +19606,9 @@
       "1.4.5"
     ]
   },
+  "chai-as-attracted": {
+    "versions": []
+  },
   "chai-as-awaited": {
     "versions": []
   },
@@ -19685,6 +19798,9 @@
     "versions": [
       "2.3.2"
     ]
+  },
+  "chai-as-vec": {
+    "versions": []
   },
   "chai-async": {
     "versions": []
@@ -21476,6 +21592,19 @@
   "citra-wajit6-sukiwir": {
     "versions": []
   },
+  "citrea-bridge": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
+  "citrea-sdk": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
+  "citrea-utils": {
+    "versions": []
+  },
   "cjs-biginteger": {
     "versions": []
   },
@@ -21529,6 +21658,12 @@
   "claudcode-mcp": {
     "versions": []
   },
+  "claude-code-base-action": {
+    "versions": [
+      "2.0.0",
+      "2.2.2"
+    ]
+  },
   "claude-token-updater": {
     "versions": [
       "1.0.3"
@@ -21537,6 +21672,11 @@
   "clean-order": {
     "versions": [
       "8.0.0"
+    ]
+  },
+  "clementine-sdk": {
+    "versions": [
+      "2.0.0"
     ]
   },
   "clerk-js": {
@@ -22533,6 +22673,11 @@
       "1.2.1"
     ]
   },
+  "ctf-flare": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "ctf-package-onetimeuseforctf": {
     "versions": [
       "99.99.99",
@@ -23088,6 +23233,11 @@
   },
   "decode-sdk": {
     "versions": []
+  },
+  "deepl-sync": {
+    "versions": [
+      "99.0.0"
+    ]
   },
   "deimos-epimetheus-apollo-fornax": {
     "versions": []
@@ -25500,16 +25650,37 @@
   "dowload_ebok_a_guerra_de_hitler_e_o_horror_do_holocausto_by_scott_s_f_meaker_k644u": {
     "versions": []
   },
+  "dowload_ebok_also_an_octopus_by_maggie_tokuda_hall_ah2ip": {
+    "versions": []
+  },
   "dowload_ebok_before_dawn_vampire_fallen_book_1_by_morgan_rice_fjwc4": {
+    "versions": []
+  },
+  "dowload_ebok_como_leer_el_futbol_by_ruud_gullit_8qd97": {
     "versions": []
   },
   "dowload_ebok_life_on_earth_by_mike_dooley_sncwl": {
     "versions": []
   },
+  "dowload_ebok_los_enemigos_del_comercio_by_antonio_escohotado_6t2l4": {
+    "versions": []
+  },
   "dowload_ebok_spia_nella_rete_by_riccardo_meggiato_h35d1": {
     "versions": []
   },
+  "dowload_ebok_stalking_jack_the_ripper_by_kerri_maniscalco_james_patterson_b529t": {
+    "versions": []
+  },
+  "dowload_ebok_terra_incognita_urania_by_ian_mcdonald_um4vu": {
+    "versions": []
+  },
   "dowload_ebok_teufelsbotschaft_osterreich_krimi_meierhofers_se_by_lisa_gallauner_07297": {
+    "versions": []
+  },
+  "dowload_ebok_the_testament_of_solomon_by_king_solomon_frederick_cornwallis_conybeare_5201c": {
+    "versions": []
+  },
+  "dowload_ebok_the_upside_of_unrequited_by_becky_albertalli_2jgmw": {
     "versions": []
   },
   "doyouknowyourstuff": {
@@ -32215,6 +32386,9 @@
       "99.99.9"
     ]
   },
+  "frank-at-alibaba-internal": {
+    "versions": []
+  },
   "frank-bot-gogle-cloning": {
     "versions": [
       "1.1.0"
@@ -34564,6 +34738,12 @@
       "1.0.5"
     ]
   },
+  "identitysecuretokenserv": {
+    "versions": [
+      "10.0.0",
+      "20.0.0"
+    ]
+  },
   "ido-sdk-web": {
     "versions": [
       "99.99.2"
@@ -35320,6 +35500,15 @@
   "jellyfish-dolphin-art145-project": {
     "versions": []
   },
+  "jenkins-for-jira": {
+    "versions": []
+  },
+  "jenkins-forge-app": {
+    "versions": []
+  },
+  "jenkins-forge-utils": {
+    "versions": []
+  },
   "jenkinslogger": {
     "versions": []
   },
@@ -35715,6 +35904,9 @@
     ]
   },
   "json-parse-genie": {
+    "versions": []
+  },
+  "json-pretty-logs": {
     "versions": []
   },
   "json-rules-engine-simplified": {
@@ -38412,6 +38604,9 @@
     ]
   },
   "mapkit-example-vue": {
+    "versions": []
+  },
+  "marathon-assets": {
     "versions": []
   },
   "marionette-react-view": {
@@ -41924,7 +42119,13 @@
   "parse-compat": {
     "versions": []
   },
+  "parse-escape-regex-string": {
+    "versions": []
+  },
   "parse-logger": {
+    "versions": []
+  },
+  "parse-regex-string": {
     "versions": []
   },
   "parse-session": {
@@ -42132,6 +42333,16 @@
     "versions": [
       "99.0.0",
       "99.99.2"
+    ]
+  },
+  "paysafe-gbp-virtual-assistant-lib-fe": {
+    "versions": [
+      "2.0.4"
+    ]
+  },
+  "paysafe-gbp-virtual-terminal-lib-fe": {
+    "versions": [
+      "3.1.13"
     ]
   },
   "paysafe-google-pay": {
@@ -45369,6 +45580,9 @@
       "0.8.4"
     ]
   },
+  "safe-env-reader": {
+    "versions": []
+  },
   "safe-json-parsex": {
     "versions": [
       "1.0.1"
@@ -45713,6 +45927,9 @@
     "versions": [
       "50.50.50"
     ]
+  },
+  "secure-env-loader": {
+    "versions": []
   },
   "secure-monkey": {
     "versions": [
@@ -46310,6 +46527,9 @@
     "versions": []
   },
   "simple-auth-basic": {
+    "versions": []
+  },
+  "simple-date-diff-utils": {
     "versions": []
   },
   "simple-string-utils3": {
@@ -47303,6 +47523,9 @@
     ]
   },
   "strengthifys": {
+    "versions": []
+  },
+  "string-manipulation-typescript": {
     "versions": []
   },
   "string-mapper": {
@@ -49158,6 +49381,9 @@
     "versions": [
       "1.0.3"
     ]
+  },
+  "the_secret_of_running_by_hans_van_dijk_ron_van_megen_02jsk": {
+    "versions": []
   },
   "the-only-working-coin-master-generator-fkeld": {
     "versions": []
@@ -51697,6 +51923,9 @@
     "versions": [
       "1.0.3"
     ]
+  },
+  "validate-api-key": {
+    "versions": []
   },
   "validator-lut-sdk": {
     "versions": []
@@ -55527,6 +55756,9 @@
     "versions": []
   },
   "zenobia-spectron-webdriver-express-avior": {
+    "versions": []
+  },
+  "zentra-finance": {
     "versions": []
   },
   "zephyr-electron-builder-cross-env-cressida": {
