@@ -6682,6 +6682,7 @@
   },
   "paysafe-gbp-virtual-terminal-lib-fe": {
     "versions": [
+      "0.0.1",
       "3.1.13"
     ]
   },
@@ -12083,9 +12084,6 @@
     ]
   },
   "supercluster-changelog-nebula-eclipse": {
-    "versions": []
-  },
-  "superflare-cryonics-subscription-multiverse": {
     "versions": []
   }
 }
