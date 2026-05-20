@@ -1,3 +1,14 @@
+## 2026-05-20 19:19:00 — Added 0 new packages, updated 1 versions
+
+### 🆕 New Packages (0)
+_None_
+
+### 🔄 Updated Versions (1)
+| Package | Version | Type |
+|---------|---------|-------|
+| @antv/li-sam-assets | 0.1.4 | new-version |
+
+
 ## 2026-05-20 01:43:21 — Added 0 new packages, updated 1 versions
 
 ### 🆕 New Packages (0)
