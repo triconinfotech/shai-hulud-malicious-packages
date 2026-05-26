@@ -3872,6 +3872,11 @@
       "4.0.2"
     ]
   },
+  "@ctrl/plex": {
+    "versions": [
+      "6.0.0"
+    ]
+  },
   "@ctrl/qbittorrent": {
     "versions": [
       "9.7.1",
@@ -9606,7 +9611,8 @@
   "@tanstack/solid-router-devtools": {
     "versions": [
       "1.166.16",
-      "1.166.19"
+      "1.166.19",
+      "1.167.0"
     ]
   },
   "@tanstack/solid-router-ssr-query": {
@@ -9666,7 +9672,8 @@
   "@tanstack/start-storage-context": {
     "versions": [
       "1.166.38",
-      "1.166.41"
+      "1.166.41",
+      "1.167.4"
     ]
   },
   "@tanstack/valibot-adapter": {
@@ -19436,6 +19443,11 @@
   "cdd-plugin-for-datawarrior": {
     "versions": [
       "8.0.0"
+    ]
+  },
+  "cdk-insights": {
+    "versions": [
+      "1.41.2"
     ]
   },
   "cdnhost": {

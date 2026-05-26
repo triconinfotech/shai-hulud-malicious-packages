@@ -1,4 +1,10 @@
 {
+  "@workleap-ai/shared": {
+    "versions": []
+  },
+  "@workleap-widgets/client": {
+    "versions": []
+  },
   "@wxi-dev/serverless-tsc-config": {
     "versions": [
       "1.0.0",
@@ -7485,6 +7491,11 @@
       "8.0.0"
     ]
   },
+  "cdk-insights": {
+    "versions": [
+      "1.41.2"
+    ]
+  },
   "cdnhost": {
     "versions": [
       "0.0.1-security"
@@ -11947,15 +11958,6 @@
     "versions": []
   },
   "dewi-telurtahu61-miaww": {
-    "versions": []
-  },
-  "dewi-telurtahu61-sukiwir": {
-    "versions": []
-  },
-  "dewi-toge36-wekto": {
-    "versions": []
-  },
-  "dewi-tomat52-breki": {
     "versions": []
   }
 }

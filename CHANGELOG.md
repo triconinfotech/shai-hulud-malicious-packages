@@ -1,3 +1,16 @@
+## 2026-05-26 06:24:56 — Added 2 new packages, updated 2 versions
+
+### 🆕 New Packages (2)
+- @ctrl/plex
+- cdk-insights
+
+### 🔄 Updated Versions (2)
+| Package | Version | Type |
+|---------|---------|-------|
+| @tanstack/solid-router-devtools | 1.167.0 | new-version |
+| @tanstack/start-storage-context | 1.167.4 | new-version |
+
+
 ## 2026-05-26 01:40:28 — Added 0 new packages, updated 3 versions
 
 ### 🆕 New Packages (0)
