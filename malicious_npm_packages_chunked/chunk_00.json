@@ -8465,6 +8465,230 @@
   "@rdxportal/ui-components": {
     "versions": []
   },
+  "@redhat-cloud-services/chrome": {
+    "versions": [
+      "2.3.1",
+      "2.3.2",
+      "2.3.4"
+    ]
+  },
+  "@redhat-cloud-services/compliance-client": {
+    "versions": [
+      "4.0.3",
+      "4.0.4",
+      "4.0.6"
+    ]
+  },
+  "@redhat-cloud-services/config-manager-client": {
+    "versions": [
+      "5.0.4",
+      "5.0.5",
+      "5.0.7"
+    ]
+  },
+  "@redhat-cloud-services/entitlements-client": {
+    "versions": [
+      "4.0.11",
+      "4.0.12",
+      "4.0.14"
+    ]
+  },
+  "@redhat-cloud-services/eslint-config-redhat-cloud-services": {
+    "versions": [
+      "3.2.1",
+      "3.2.2",
+      "3.2.4"
+    ]
+  },
+  "@redhat-cloud-services/frontend-components": {
+    "versions": [
+      "7.7.2",
+      "7.7.3",
+      "7.7.5"
+    ]
+  },
+  "@redhat-cloud-services/frontend-components-advisor-components": {
+    "versions": [
+      "3.8.2",
+      "3.8.4",
+      "3.8.6"
+    ]
+  },
+  "@redhat-cloud-services/frontend-components-config": {
+    "versions": [
+      "6.11.3",
+      "6.11.4",
+      "6.11.6"
+    ]
+  },
+  "@redhat-cloud-services/frontend-components-config-utilities": {
+    "versions": [
+      "4.11.2",
+      "4.11.3",
+      "4.11.5"
+    ]
+  },
+  "@redhat-cloud-services/frontend-components-notifications": {
+    "versions": [
+      "6.9.2",
+      "6.9.3",
+      "6.9.5"
+    ]
+  },
+  "@redhat-cloud-services/frontend-components-remediations": {
+    "versions": [
+      "4.9.2",
+      "4.9.3",
+      "4.9.5"
+    ]
+  },
+  "@redhat-cloud-services/frontend-components-testing": {
+    "versions": [
+      "1.2.1",
+      "1.2.2",
+      "1.2.4"
+    ]
+  },
+  "@redhat-cloud-services/frontend-components-translations": {
+    "versions": [
+      "4.4.1",
+      "4.4.2",
+      "4.4.4"
+    ]
+  },
+  "@redhat-cloud-services/frontend-components-utilities": {
+    "versions": [
+      "7.4.1",
+      "7.4.2",
+      "7.4.4"
+    ]
+  },
+  "@redhat-cloud-services/hcc-feo-mcp": {
+    "versions": [
+      "0.3.1",
+      "0.3.2",
+      "0.3.4"
+    ]
+  },
+  "@redhat-cloud-services/hcc-kessel-mcp": {
+    "versions": [
+      "0.3.1",
+      "0.3.2",
+      "0.3.4"
+    ]
+  },
+  "@redhat-cloud-services/hcc-pf-mcp": {
+    "versions": [
+      "0.6.1",
+      "0.6.2",
+      "0.6.4"
+    ]
+  },
+  "@redhat-cloud-services/host-inventory-client": {
+    "versions": [
+      "5.0.3",
+      "5.0.4",
+      "5.0.6"
+    ]
+  },
+  "@redhat-cloud-services/insights-client": {
+    "versions": [
+      "4.0.4",
+      "4.0.5",
+      "4.0.7"
+    ]
+  },
+  "@redhat-cloud-services/integrations-client": {
+    "versions": [
+      "6.0.4",
+      "6.0.5",
+      "6.0.7"
+    ]
+  },
+  "@redhat-cloud-services/javascript-clients-shared": {
+    "versions": [
+      "2.0.8",
+      "2.0.9",
+      "2.0.11"
+    ]
+  },
+  "@redhat-cloud-services/notifications-client": {
+    "versions": [
+      "6.1.4",
+      "6.1.5",
+      "6.1.7"
+    ]
+  },
+  "@redhat-cloud-services/patch-client": {
+    "versions": [
+      "4.0.4",
+      "4.0.5",
+      "4.0.7"
+    ]
+  },
+  "@redhat-cloud-services/quickstarts-client": {
+    "versions": [
+      "4.0.11",
+      "4.0.12",
+      "4.0.14"
+    ]
+  },
+  "@redhat-cloud-services/rbac-client": {
+    "versions": [
+      "9.0.3",
+      "9.0.4",
+      "9.0.6"
+    ]
+  },
+  "@redhat-cloud-services/remediations-client": {
+    "versions": [
+      "4.0.4",
+      "4.0.5",
+      "4.0.7"
+    ]
+  },
+  "@redhat-cloud-services/rule-components": {
+    "versions": [
+      "4.7.2",
+      "4.7.3",
+      "4.7.5"
+    ]
+  },
+  "@redhat-cloud-services/sources-client": {
+    "versions": [
+      "3.0.10",
+      "3.0.11",
+      "3.0.13"
+    ]
+  },
+  "@redhat-cloud-services/topological-inventory-client": {
+    "versions": [
+      "3.0.10",
+      "3.0.11",
+      "3.0.13"
+    ]
+  },
+  "@redhat-cloud-services/tsc-transform-imports": {
+    "versions": [
+      "1.2.2",
+      "1.2.4",
+      "1.2.6"
+    ]
+  },
+  "@redhat-cloud-services/types": {
+    "versions": [
+      "3.6.1",
+      "3.6.2",
+      "3.6.4"
+    ]
+  },
+  "@redhat-cloud-services/vulnerabilities-client": {
+    "versions": [
+      "2.1.8",
+      "2.1.9",
+      "2.1.11"
+    ]
+  },
   "@reimorg/config": {
     "versions": []
   },
@@ -11696,261 +11920,5 @@
       "1.3.2",
       "1.3.3"
     ]
-  },
-  "@voiceflow/nestjs-redis": {
-    "versions": [
-      "1.3.1",
-      "1.3.2"
-    ]
-  },
-  "@voiceflow/nestjs-timeout": {
-    "versions": [
-      "1.3.1",
-      "1.3.2"
-    ]
-  },
-  "@voiceflow/npm-package-json-lint-config": {
-    "versions": [
-      "1.1.1",
-      "1.1.2"
-    ]
-  },
-  "@voiceflow/openai": {
-    "versions": [
-      "3.2.2",
-      "3.2.3"
-    ]
-  },
-  "@voiceflow/pino": {
-    "versions": [
-      "6.11.3",
-      "6.11.4"
-    ]
-  },
-  "@voiceflow/pino-pretty": {
-    "versions": [
-      "4.4.1",
-      "4.4.2"
-    ]
-  },
-  "@voiceflow/prettier-config": {
-    "versions": [
-      "1.10.1",
-      "1.10.2"
-    ]
-  },
-  "@voiceflow/react-chat": {
-    "versions": [
-      "1.65.3",
-      "1.65.4"
-    ]
-  },
-  "@voiceflow/runtime": {
-    "versions": [
-      "1.29.1",
-      "1.29.2"
-    ]
-  },
-  "@voiceflow/runtime-client-js": {
-    "versions": [
-      "1.17.2",
-      "1.17.3"
-    ]
-  },
-  "@voiceflow/sdk-runtime": {
-    "versions": [
-      "1.43.1",
-      "1.43.2"
-    ]
-  },
-  "@voiceflow/secrets-provider": {
-    "versions": [
-      "1.9.2",
-      "1.9.3"
-    ]
-  },
-  "@voiceflow/semantic-release-config": {
-    "versions": [
-      "1.4.1",
-      "1.4.2"
-    ]
-  },
-  "@voiceflow/serverless-plugin-typescript": {
-    "versions": [
-      "2.1.7",
-      "2.1.8"
-    ]
-  },
-  "@voiceflow/slate-serializer": {
-    "versions": [
-      "1.7.3",
-      "1.7.4"
-    ]
-  },
-  "@voiceflow/stitches-react": {
-    "versions": [
-      "2.3.2",
-      "2.3.3"
-    ]
-  },
-  "@voiceflow/storybook-config": {
-    "versions": [
-      "1.2.2",
-      "1.2.3"
-    ]
-  },
-  "@voiceflow/stylelint-config": {
-    "versions": [
-      "1.1.1",
-      "1.1.2"
-    ]
-  },
-  "@voiceflow/test-common": {
-    "versions": [
-      "2.1.1",
-      "2.1.2"
-    ]
-  },
-  "@voiceflow/tsconfig": {
-    "versions": [
-      "1.12.1",
-      "1.12.2"
-    ]
-  },
-  "@voiceflow/tsconfig-paths": {
-    "versions": [
-      "1.1.4",
-      "1.1.5"
-    ]
-  },
-  "@voiceflow/utils-designer": {
-    "versions": [
-      "1.74.19",
-      "1.74.20"
-    ]
-  },
-  "@voiceflow/verror": {
-    "versions": [
-      "1.1.4",
-      "1.1.5"
-    ]
-  },
-  "@voiceflow/vite-config": {
-    "versions": [
-      "2.6.2",
-      "2.6.3"
-    ]
-  },
-  "@voiceflow/vitest-config": {
-    "versions": [
-      "1.10.2",
-      "1.10.3"
-    ]
-  },
-  "@voiceflow/voice-types": {
-    "versions": [
-      "2.10.58",
-      "2.10.59"
-    ]
-  },
-  "@voiceflow/voiceflow-types": {
-    "versions": [
-      "3.32.45",
-      "3.32.46"
-    ]
-  },
-  "@voiceflow/widget": {
-    "versions": [
-      "1.7.18",
-      "1.7.19"
-    ]
-  },
-  "@vreden-team/baileys": {
-    "versions": [
-      "7.7.8",
-      "7.7.9",
-      "7.8.0",
-      "7.8.1"
-    ]
-  },
-  "@vscode-bicep-ui/components": {
-    "versions": []
-  },
-  "@vtim/xss-poc": {
-    "versions": []
-  },
-  "@vucod/email": {
-    "versions": [
-      "0.0.3"
-    ]
-  },
-  "@w3m-app/get_chain_id": {
-    "versions": []
-  },
-  "@w3m-app/is_connected": {
-    "versions": []
-  },
-  "@w3m-app/switch_network": {
-    "versions": []
-  },
-  "@w3m-frame/session_update": {
-    "versions": [
-      "99.0.4"
-    ]
-  },
-  "@walletwave/backend": {
-    "versions": []
-  },
-  "@walletwave/core": {
-    "versions": []
-  },
-  "@walletwave/ui": {
-    "versions": []
-  },
-  "@wame/ngx-adfs": {
-    "versions": []
-  },
-  "@wame/ngx-frf-utilities": {
-    "versions": []
-  },
-  "@wb-drive/icons": {
-    "versions": [
-      "2.4.9"
-    ]
-  },
-  "@wb-team/uikit-myteam-web": {
-    "versions": [
-      "0.0.1-security",
-      "0.0.1",
-      "99.9.9",
-      "99.99.9",
-      "99.99.10"
-    ]
-  },
-  "@wbgo/shared": {
-    "versions": [
-      "0.0.1-security",
-      "0.0.1",
-      "99.9.10",
-      "99.99.9",
-      "99.99.10"
-    ]
-  },
-  "@wealth-common/font": {
-    "versions": [
-      "99.0.3"
-    ]
-  },
-  "@web-monorepo/fetchers": {
-    "versions": []
-  },
-  "@wen-community/wen-new-standard": {
-    "versions": []
-  },
-  "@wgu-edu/wgu-core": {
-    "versions": []
-  },
-  "@wgu-edu/wgu-icons": {
-    "versions": []
   }
 }

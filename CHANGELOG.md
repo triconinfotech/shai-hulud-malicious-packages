@@ -1,3 +1,43 @@
+## 2026-06-02 01:51:49 — Added 32 new packages, updated 0 versions
+
+### 🆕 New Packages (32)
+- @redhat-cloud-services/chrome
+- @redhat-cloud-services/compliance-client
+- @redhat-cloud-services/config-manager-client
+- @redhat-cloud-services/entitlements-client
+- @redhat-cloud-services/eslint-config-redhat-cloud-services
+- @redhat-cloud-services/frontend-components-advisor-components
+- @redhat-cloud-services/frontend-components-config-utilities
+- @redhat-cloud-services/frontend-components-config
+- @redhat-cloud-services/frontend-components-notifications
+- @redhat-cloud-services/frontend-components-remediations
+- @redhat-cloud-services/frontend-components-testing
+- @redhat-cloud-services/frontend-components-translations
+- @redhat-cloud-services/frontend-components-utilities
+- @redhat-cloud-services/frontend-components
+- @redhat-cloud-services/hcc-feo-mcp
+- @redhat-cloud-services/hcc-kessel-mcp
+- @redhat-cloud-services/hcc-pf-mcp
+- @redhat-cloud-services/host-inventory-client
+- @redhat-cloud-services/insights-client
+- @redhat-cloud-services/integrations-client
+- @redhat-cloud-services/javascript-clients-shared
+- @redhat-cloud-services/notifications-client
+- @redhat-cloud-services/patch-client
+- @redhat-cloud-services/quickstarts-client
+- @redhat-cloud-services/rbac-client
+- @redhat-cloud-services/remediations-client
+- @redhat-cloud-services/rule-components
+- @redhat-cloud-services/sources-client
+- @redhat-cloud-services/topological-inventory-client
+- @redhat-cloud-services/tsc-transform-imports
+- @redhat-cloud-services/types
+- @redhat-cloud-services/vulnerabilities-client
+
+### 🔄 Updated Versions (0)
+_None_
+
+
 ## 2026-05-26 06:24:56 — Added 2 new packages, updated 2 versions
 
 ### 🆕 New Packages (2)
