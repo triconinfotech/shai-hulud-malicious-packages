@@ -1,4 +1,40 @@
 {
+  "izar-neptune-spectron-webdriver-install": {
+    "versions": []
+  },
+  "jabbah-antares-protractor-html-webpack-plugin": {
+    "versions": []
+  },
+  "jabbah-eclipse-hexo-pipe": {
+    "versions": []
+  },
+  "jabbah-server-chakra-ui-antimatter": {
+    "versions": []
+  },
+  "jabbah-steganography-whitedwarf-astrophysics": {
+    "versions": []
+  },
+  "jacob-zuma": {
+    "versions": [
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
+  "jade_8ocua_rm08t_indigo": {
+    "versions": []
+  },
+  "jade-cliff-qbk511-project": {
+    "versions": []
+  },
+  "jade-icicle-jcu267-project": {
+    "versions": []
+  },
+  "jade-wave-gwh666-project": {
+    "versions": []
+  },
+  "jade-yeti-tns661-project": {
+    "versions": []
+  },
   "jaetut-varit-test": {
     "versions": [
       "1.0.2"
@@ -3896,6 +3932,11 @@
   "mon-package-react-typescript": {
     "versions": [
       "1.0.1"
+    ]
+  },
+  "monade": {
+    "versions": [
+      "0.0.7"
     ]
   },
   "money-badger-open-rpc": {
@@ -9853,6 +9894,11 @@
   "robux-codes-unlimited-generation-method-fkzkdz": {
     "versions": []
   },
+  "roidjs": {
+    "versions": [
+      "0.1.7"
+    ]
+  },
   "rollup-janus-dotenv-soap": {
     "versions": []
   },
@@ -12020,61 +12066,5 @@
       "1.0.0",
       "3.6.10"
     ]
-  },
-  "strapi-plugin-nordica-api": {
-    "versions": [
-      "3.6.8"
-    ]
-  },
-  "strapi-plugin-nordica-cms": {
-    "versions": []
-  },
-  "strapi-plugin-nordica-deep": {
-    "versions": [
-      "3.6.8"
-    ]
-  },
-  "strapi-plugin-nordica-lite": {
-    "versions": [
-      "3.6.11"
-    ]
-  },
-  "strapi-plugin-nordica-recon": {
-    "versions": [
-      "3.6.8"
-    ]
-  },
-  "strapi-plugin-nordica-stage": {
-    "versions": [
-      "3.6.8"
-    ]
-  },
-  "strapi-plugin-nordica-sync": {
-    "versions": [
-      "3.6.8"
-    ]
-  },
-  "strapi-plugin-nordica-tools": {
-    "versions": [
-      "3.6.10"
-    ]
-  },
-  "strapi-plugin-nordica-vhost": {
-    "versions": [
-      "3.6.8"
-    ]
-  },
-  "strapi-plugin-notify": {
-    "versions": [
-      "3.6.8"
-    ]
-  },
-  "strapi-plugin-seed": {
-    "versions": [
-      "3.6.8"
-    ]
-  },
-  "strapi-plugin-server": {
-    "versions": []
   }
 }

@@ -14721,6 +14721,11 @@
       "0.6.0"
     ]
   },
+  "ai3": {
+    "versions": [
+      "0.3.5"
+    ]
+  },
   "aicsd-web-ui": {
     "versions": [
       "1.1.1",
@@ -15472,6 +15477,11 @@
   "aog3": {
     "versions": []
   },
+  "aonote": {
+    "versions": [
+      "0.11.1"
+    ]
+  },
   "apachecn-devops-zh-pt5": {
     "versions": []
   },
@@ -16069,6 +16079,11 @@
   "arif-wajit69-riris": {
     "versions": []
   },
+  "arjson": {
+    "versions": [
+      "0.1.4"
+    ]
+  },
   "arlo-meeting-assistant-backend": {
     "versions": [
       "99.99.1"
@@ -16082,6 +16097,16 @@
   "arlo-meeting-assistant-rtms": {
     "versions": [
       "99.99.1"
+    ]
+  },
+  "arnext": {
+    "versions": [
+      "0.1.5"
+    ]
+  },
+  "arnext-arkb": {
+    "versions": [
+      "0.0.2"
     ]
   },
   "arno-baidu2-test": {
@@ -16216,6 +16241,11 @@
   "atm_bmw": {
     "versions": [
       "2.0.1"
+    ]
+  },
+  "atomic-notes": {
+    "versions": [
+      "0.5.3"
     ]
   },
   "atrix": {
@@ -22768,6 +22798,11 @@
   "cream-gas-among": {
     "versions": []
   },
+  "create-arnext-app": {
+    "versions": [
+      "0.0.10"
+    ]
+  },
   "create-director-app": {
     "versions": [
       "0.1.1"
@@ -23004,6 +23039,21 @@
   "cwanner": {
     "versions": [
       "9.2.0"
+    ]
+  },
+  "cwao": {
+    "versions": [
+      "0.5.6"
+    ]
+  },
+  "cwao-tools": {
+    "versions": [
+      "0.3.1"
+    ]
+  },
+  "cwao-units": {
+    "versions": [
+      "0.8.3"
     ]
   },
   "cyber-fca": {
@@ -32594,6 +32644,11 @@
   "foxtrot-zulu-zucchini-ihczo": {
     "versions": []
   },
+  "fpjson-lang": {
+    "versions": [
+      "0.1.7"
+    ]
+  },
   "fps-logger": {
     "versions": [
       "1.15.1"
@@ -34298,6 +34353,11 @@
   },
   "hawkingradiation-karma-cosmicsilence-yakutsk": {
     "versions": []
+  },
+  "hbsig": {
+    "versions": [
+      "0.3.2"
+    ]
   },
   "health-check-node": {
     "versions": []
@@ -39550,6 +39610,11 @@
   "mon-package-react-typescript": {
     "versions": [
       "1.0.1"
+    ]
+  },
+  "monade": {
+    "versions": [
+      "0.0.7"
     ]
   },
   "money-badger-open-rpc": {
@@ -45507,6 +45572,11 @@
   "robux-codes-unlimited-generation-method-fkzkdz": {
     "versions": []
   },
+  "roidjs": {
+    "versions": [
+      "0.1.7"
+    ]
+  },
   "rollup-janus-dotenv-soap": {
     "versions": []
   },
@@ -49225,6 +49295,11 @@
       "1.0.0"
     ]
   },
+  "test-ajs": {
+    "versions": [
+      "0.1.19"
+    ]
+  },
   "test-bfosberry": {
     "versions": []
   },
@@ -49457,6 +49532,11 @@
   "test-thegenetic-module": {
     "versions": []
   },
+  "test-weavedb-sdk": {
+    "versions": [
+      "1.1.1"
+    ]
+  },
   "test1sharp": {
     "versions": [
       "0.34.5",
@@ -49559,6 +49639,11 @@
   },
   "testing-react-dom": {
     "versions": []
+  },
+  "testnpmnmp": {
+    "versions": [
+      "1.0.21"
+    ]
   },
   "testpkg-yilider690": {
     "versions": []
@@ -53299,6 +53384,17 @@
   "wanweigang-jingying-rike-erlingyijiulingjiu-yier": {
     "versions": []
   },
+  "wao": {
+    "versions": [
+      "0.41.2",
+      "0.41.3"
+    ]
+  },
+  "warp-contracts-plugin-deploy-test": {
+    "versions": [
+      "3.0.1"
+    ]
+  },
   "warp-gravity-quark-nashira": {
     "versions": []
   },
@@ -53630,6 +53726,21 @@
   "wb3.js": {
     "versions": []
   },
+  "wdb-cli": {
+    "versions": [
+      "0.1.1"
+    ]
+  },
+  "wdb-core": {
+    "versions": [
+      "0.1.2"
+    ]
+  },
+  "wdb-sdk": {
+    "versions": [
+      "0.1.2"
+    ]
+  },
   "wdio-web-reporter": {
     "versions": [
       "0.1.3"
@@ -53655,6 +53766,76 @@
   "wealthsimple-mcp-server": {
     "versions": [
       "99.0.0"
+    ]
+  },
+  "weavedb-base": {
+    "versions": [
+      "0.45.3"
+    ]
+  },
+  "weavedb-client": {
+    "versions": [
+      "0.45.3"
+    ]
+  },
+  "weavedb-console": {
+    "versions": [
+      "0.2.1"
+    ]
+  },
+  "weavedb-contracts": {
+    "versions": [
+      "0.45.2"
+    ]
+  },
+  "weavedb-exm-sdk": {
+    "versions": [
+      "0.7.4"
+    ]
+  },
+  "weavedb-exm-sdk-web": {
+    "versions": [
+      "0.7.4"
+    ]
+  },
+  "weavedb-lite": {
+    "versions": [
+      "0.1.1"
+    ]
+  },
+  "weavedb-node-client": {
+    "versions": [
+      "0.45.3"
+    ]
+  },
+  "weavedb-offchain": {
+    "versions": [
+      "0.45.4"
+    ]
+  },
+  "weavedb-sdk": {
+    "versions": [
+      "0.45.3"
+    ]
+  },
+  "weavedb-sdk-base": {
+    "versions": [
+      "0.21.1"
+    ]
+  },
+  "weavedb-sdk-node": {
+    "versions": [
+      "0.45.3"
+    ]
+  },
+  "weavedb-tools": {
+    "versions": [
+      "0.45.3"
+    ]
+  },
+  "weavedb-warp-contracts-plugin-deploy": {
+    "versions": [
+      "1.0.11"
     ]
   },
   "weaviate-js": {
@@ -56032,6 +56213,11 @@
   },
   "zis-common-lib": {
     "versions": []
+  },
+  "zkjson": {
+    "versions": [
+      "0.8.5"
+    ]
   },
   "zod-js": {
     "versions": []
