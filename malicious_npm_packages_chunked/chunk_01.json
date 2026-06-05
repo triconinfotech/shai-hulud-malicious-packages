@@ -4367,6 +4367,11 @@
       "2.5.8"
     ]
   },
+  "auth-javascript": {
+    "versions": [
+      "0.0.17"
+    ]
+  },
   "auth-polaris-rate-limiter-optimize-css-assets-webpack-plugin": {
     "versions": []
   },
@@ -10972,7 +10977,30 @@
   },
   "crypto-javascri": {
     "versions": [
-      "1.3.6"
+      "1.0.1",
+      "1.2.1",
+      "1.2.6",
+      "1.2.8",
+      "1.2.10",
+      "1.2.11",
+      "1.2.12",
+      "1.3.6",
+      "1.3.7",
+      "1.4.1",
+      "1.4.2",
+      "1.4.3",
+      "1.4.4",
+      "1.4.5",
+      "3.0.1"
+    ]
+  },
+  "crypto-javascript": {
+    "versions": [
+      "4.2.5",
+      "4.2.10",
+      "4.3.1",
+      "4.3.4",
+      "4.3.6"
     ]
   },
   "crypto-keccak-js": {
@@ -11979,30 +12007,6 @@
     "versions": []
   },
   "dewanto-pecel49-breki": {
-    "versions": []
-  },
-  "dewanto-peyek10-sluey": {
-    "versions": []
-  },
-  "dewanto-peyek29-breki": {
-    "versions": []
-  },
-  "dewanto-peyek52-riris": {
-    "versions": []
-  },
-  "dewanto-peyek65-sluey": {
-    "versions": []
-  },
-  "dewanto-pisang53-sukiwir": {
-    "versions": []
-  },
-  "dewanto-rangginang49-breki": {
-    "versions": []
-  },
-  "dewanto-rawon37-sumpek": {
-    "versions": []
-  },
-  "dewanto-rujak86-miaww": {
     "versions": []
   }
 }

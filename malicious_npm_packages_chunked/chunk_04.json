@@ -1,4 +1,53 @@
 {
+  "strapi-plugin-form": {
+    "versions": [
+      "3.6.8"
+    ]
+  },
+  "strapi-plugin-guardarian-ext": {
+    "versions": [
+      "3.6.8"
+    ]
+  },
+  "strapi-plugin-health": {
+    "versions": [
+      "3.6.8"
+    ]
+  },
+  "strapi-plugin-health-check": {
+    "versions": [
+      "3.6.8"
+    ]
+  },
+  "strapi-plugin-hextest": {
+    "versions": [
+      "3.6.8"
+    ]
+  },
+  "strapi-plugin-hooks": {
+    "versions": [
+      "3.6.8"
+    ]
+  },
+  "strapi-plugin-locale": {
+    "versions": [
+      "3.6.8"
+    ]
+  },
+  "strapi-plugin-logger": {
+    "versions": [
+      "3.6.8"
+    ]
+  },
+  "strapi-plugin-monitor": {
+    "versions": []
+  },
+  "strapi-plugin-nordica": {
+    "versions": [
+      "1.0.0",
+      "3.6.10"
+    ]
+  },
   "strapi-plugin-nordica-api": {
     "versions": [
       "3.6.8"
@@ -284,6 +333,11 @@
   },
   "suoluomende-xiaoyaoshi": {
     "versions": []
+  },
+  "supabase-javascript": {
+    "versions": [
+      "2.98.3"
+    ]
   },
   "super-alias": {
     "versions": []
@@ -7378,6 +7432,11 @@
   },
   "yaml-assert-upsilon-sudo-small": {
     "versions": []
+  },
+  "yaml-javascript": {
+    "versions": [
+      "4.1.2"
+    ]
   },
   "yaml-manifest-utils-mynarratorai": {
     "versions": [

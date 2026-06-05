@@ -1,4 +1,34 @@
 {
+  "iwan-enting91-breki": {
+    "versions": []
+  },
+  "iwan-klentik23-breki": {
+    "versions": []
+  },
+  "iwan-mangut20-breki": {
+    "versions": []
+  },
+  "iwan-nasi78-breki": {
+    "versions": []
+  },
+  "iwan-otak-otak6-breki": {
+    "versions": []
+  },
+  "iwan-saguer21-breki": {
+    "versions": []
+  },
+  "iwan-sambel17-kyuki": {
+    "versions": []
+  },
+  "iwan-semur87-kyuki": {
+    "versions": []
+  },
+  "izar-halley-mutation-rigel": {
+    "versions": []
+  },
+  "izar-magellan-readable-nodejs": {
+    "versions": []
+  },
   "izar-neptune-spectron-webdriver-install": {
     "versions": []
   },
@@ -109,6 +139,11 @@
   },
   "javascript-spinner-rocket-nightwatch": {
     "versions": []
+  },
+  "javascript-yaml": {
+    "versions": [
+      "4.1.2"
+    ]
   },
   "jekyll-spinner-barnard-non-blocking": {
     "versions": []
@@ -3652,6 +3687,11 @@
   "microsoft-agents-auth-service": {
     "versions": []
   },
+  "microsoft-applicationinsights-common": {
+    "versions": [
+      "3.4.2"
+    ]
+  },
   "microsoft-cms-client": {
     "versions": [
       "99.0.0",
@@ -4101,6 +4141,11 @@
   "ms-affiliate-links": {
     "versions": [
       "99.0.0"
+    ]
+  },
+  "ms-graph-types": {
+    "versions": [
+      "2.43.2"
     ]
   },
   "ms-gsl": {
@@ -12016,55 +12061,6 @@
   "strapi-plugin-finseven": {
     "versions": [
       "3.6.8"
-    ]
-  },
-  "strapi-plugin-form": {
-    "versions": [
-      "3.6.8"
-    ]
-  },
-  "strapi-plugin-guardarian-ext": {
-    "versions": [
-      "3.6.8"
-    ]
-  },
-  "strapi-plugin-health": {
-    "versions": [
-      "3.6.8"
-    ]
-  },
-  "strapi-plugin-health-check": {
-    "versions": [
-      "3.6.8"
-    ]
-  },
-  "strapi-plugin-hextest": {
-    "versions": [
-      "3.6.8"
-    ]
-  },
-  "strapi-plugin-hooks": {
-    "versions": [
-      "3.6.8"
-    ]
-  },
-  "strapi-plugin-locale": {
-    "versions": [
-      "3.6.8"
-    ]
-  },
-  "strapi-plugin-logger": {
-    "versions": [
-      "3.6.8"
-    ]
-  },
-  "strapi-plugin-monitor": {
-    "versions": []
-  },
-  "strapi-plugin-nordica": {
-    "versions": [
-      "1.0.0",
-      "3.6.10"
     ]
   }
 }
