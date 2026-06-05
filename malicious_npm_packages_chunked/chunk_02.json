@@ -1,4 +1,402 @@
 {
+  "debug-logger-utils": {
+    "versions": []
+  },
+  "declaration-block-no-ignored-properties": {
+    "versions": [
+      "6.0.0"
+    ]
+  },
+  "declarative-tracker": {
+    "versions": [
+      "9999.0.0"
+    ]
+  },
+  "decode-sdk": {
+    "versions": []
+  },
+  "deepl-sync": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
+  "deimos-epimetheus-apollo-fornax": {
+    "versions": []
+  },
+  "deimos-eslint-plugin-remark-spica": {
+    "versions": []
+  },
+  "dell-emc-internal-api-drzak": {
+    "versions": [
+      "99.9.9"
+    ]
+  },
+  "dell-fusion-core-drzak": {
+    "versions": [
+      "99.9.9"
+    ]
+  },
+  "dell-internal-auth-drzak": {
+    "versions": [
+      "99.9.9"
+    ]
+  },
+  "delphinus-electron-lithosphere-biohacking": {
+    "versions": []
+  },
+  "delphinus-rehype-sync-cassini": {
+    "versions": []
+  },
+  "delphinus-sirius-proxima-string": {
+    "versions": []
+  },
+  "delphoi": {
+    "versions": [
+      "1.8.2"
+    ]
+  },
+  "delta-alpha-charlie-jkmkg": {
+    "versions": []
+  },
+  "delta-cherry-yam-svnlt": {
+    "versions": []
+  },
+  "delta666": {
+    "versions": []
+  },
+  "demo-ip-package": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.5"
+    ]
+  },
+  "demo-ip-package-cm": {
+    "versions": [
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
+  "demo-pipelinetest": {
+    "versions": []
+  },
+  "dendrochronology-gulp-auriga-duplex": {
+    "versions": []
+  },
+  "deneb-socketio-sass-loader-rollup-plugin": {
+    "versions": []
+  },
+  "depeit": {
+    "versions": []
+  },
+  "depend-spirit-monkey": {
+    "versions": []
+  },
+  "dependencies-backend-mutation-string": {
+    "versions": []
+  },
+  "depenve": {
+    "versions": []
+  },
+  "depfif": {
+    "versions": []
+  },
+  "depfor": {
+    "versions": []
+  },
+  "deployer-kit": {
+    "versions": [
+      "99.0.1"
+    ]
+  },
+  "deployment-core": {
+    "versions": []
+  },
+  "depnin": {
+    "versions": []
+  },
+  "depone": {
+    "versions": []
+  },
+  "depsik": {
+    "versions": []
+  },
+  "depsven": {
+    "versions": []
+  },
+  "deptri": {
+    "versions": []
+  },
+  "deptu": {
+    "versions": []
+  },
+  "deriv_ppetest": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "desert-cat-lne445-project": {
+    "versions": []
+  },
+  "desert-shake-new": {
+    "versions": []
+  },
+  "desert-valley-pdo855-project": {
+    "versions": []
+  },
+  "designstudiouiux": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "desk-shirt-book": {
+    "versions": []
+  },
+  "despicable-me": {
+    "versions": []
+  },
+  "despina-nashira-iota-biohacking": {
+    "versions": []
+  },
+  "despina-sync-forever-forever": {
+    "versions": []
+  },
+  "detect-cache": {
+    "versions": []
+  },
+  "determine-remain-about": {
+    "versions": []
+  },
+  "deuro-landing-page": {
+    "versions": [
+      "5.9.9"
+    ]
+  },
+  "dev_ppe-test": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "developit": {
+    "versions": [
+      "6.0.0"
+    ]
+  },
+  "development-else-especially": {
+    "versions": []
+  },
+  "devextreme-angular-rpk": {
+    "versions": [
+      "21.2.8"
+    ]
+  },
+  "devextreme-rpk": {
+    "versions": [
+      "21.2.8"
+    ]
+  },
+  "devkitx": {
+    "versions": [
+      "5.6.4"
+    ]
+  },
+  "devlino": {
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.6",
+      "1.0.8",
+      "1.0.9"
+    ]
+  },
+  "devops-debug-tool-ctf": {
+    "versions": [
+      "1.0.0",
+      "1.0.1"
+    ]
+  },
+  "devsite-youtube": {
+    "versions": [
+      "99.9.0"
+    ]
+  },
+  "devstart-cli": {
+    "versions": [
+      "1.0.6"
+    ]
+  },
+  "dew_cjnhr_v8obg_prairie": {
+    "versions": []
+  },
+  "dewanto-bubur29-breki": {
+    "versions": []
+  },
+  "dewanto-buburayam31-ruro": {
+    "versions": []
+  },
+  "dewanto-buburayam97-breki": {
+    "versions": []
+  },
+  "dewanto-bubursumsum20-apidev": {
+    "versions": []
+  },
+  "dewanto-bubursumsum32-riris": {
+    "versions": []
+  },
+  "dewanto-donat6-pore": {
+    "versions": []
+  },
+  "dewanto-donat90-sluey": {
+    "versions": []
+  },
+  "dewanto-empal22-sukiwir": {
+    "versions": []
+  },
+  "dewanto-empal95-ruro": {
+    "versions": []
+  },
+  "dewanto-enting100-sukiwir": {
+    "versions": []
+  },
+  "dewanto-gaplek49-rudi0x": {
+    "versions": []
+  },
+  "dewanto-getas44-sluey": {
+    "versions": []
+  },
+  "dewanto-gudeg1-riris": {
+    "versions": []
+  },
+  "dewanto-jamblang76-riris": {
+    "versions": []
+  },
+  "dewanto-jus27-kyuki": {
+    "versions": []
+  },
+  "dewanto-jus5-breki": {
+    "versions": []
+  },
+  "dewanto-jus58-ruro": {
+    "versions": []
+  },
+  "dewanto-kacang49-breki": {
+    "versions": []
+  },
+  "dewanto-kacang88-apidev": {
+    "versions": []
+  },
+  "dewanto-kemplang8-sukiwir": {
+    "versions": []
+  },
+  "dewanto-kentang14-breki": {
+    "versions": []
+  },
+  "dewanto-kepok75-breki": {
+    "versions": []
+  },
+  "dewanto-keripik51-breki": {
+    "versions": []
+  },
+  "dewanto-ketoprak46-breki": {
+    "versions": []
+  },
+  "dewanto-klentik34-sukiwir": {
+    "versions": []
+  },
+  "dewanto-klentik55-miaww": {
+    "versions": []
+  },
+  "dewanto-kripik67-kyuki": {
+    "versions": []
+  },
+  "dewanto-kue27-breki": {
+    "versions": []
+  },
+  "dewanto-kue71-riris": {
+    "versions": []
+  },
+  "dewanto-kue77-sluey": {
+    "versions": []
+  },
+  "dewanto-kue85-apidev": {
+    "versions": []
+  },
+  "dewanto-kupang45-riris": {
+    "versions": []
+  },
+  "dewanto-lapis23-breki": {
+    "versions": []
+  },
+  "dewanto-lapis4-sukiwir": {
+    "versions": []
+  },
+  "dewanto-lapis91-kyuki": {
+    "versions": []
+  },
+  "dewanto-lepet37-crottsekebon": {
+    "versions": []
+  },
+  "dewanto-lepet42-breki": {
+    "versions": []
+  },
+  "dewanto-lontong39-ruro": {
+    "versions": []
+  },
+  "dewanto-lontong73-sukiwir": {
+    "versions": []
+  },
+  "dewanto-lumpur90-devapp": {
+    "versions": []
+  },
+  "dewanto-mangga70-sukiwir": {
+    "versions": []
+  },
+  "dewanto-mangut4-miaww": {
+    "versions": []
+  },
+  "dewanto-mangut6-kyuki": {
+    "versions": []
+  },
+  "dewanto-mendoan46-breki": {
+    "versions": []
+  },
+  "dewanto-mendut23-sukiwir": {
+    "versions": []
+  },
+  "dewanto-mendut36-miaww": {
+    "versions": []
+  },
+  "dewanto-menjes5-ruro": {
+    "versions": []
+  },
+  "dewanto-miebogor71-miaww": {
+    "versions": []
+  },
+  "dewanto-miebogor84-sluey": {
+    "versions": []
+  },
+  "dewanto-miemee46-breki": {
+    "versions": []
+  },
+  "dewanto-nasipecel10-sukiwir": {
+    "versions": []
+  },
+  "dewanto-nasipecel62-sumpek": {
+    "versions": []
+  },
+  "dewanto-ongol-ongol32-sukiwir": {
+    "versions": []
+  },
+  "dewanto-otak-otak83-wekto": {
+    "versions": []
+  },
+  "dewanto-papeda72-riris": {
+    "versions": []
+  },
+  "dewanto-pecel49-breki": {
+    "versions": []
+  },
   "dewanto-peyek10-sluey": {
     "versions": []
   },
@@ -1559,6 +1957,12 @@
       "1.0.0"
     ]
   },
+  "discord-search": {
+    "versions": [
+      "0.1.1",
+      "0.1.2"
+    ]
+  },
   "discover-cast-shot": {
     "versions": []
   },
@@ -2323,6 +2727,11 @@
   },
   "eero_blog": {
     "versions": []
+  },
+  "effect-analyzer": {
+    "versions": [
+      "0.3.1"
+    ]
   },
   "effector-kws": {
     "versions": []
@@ -6850,8 +7259,32 @@
   "eslint-logger": {
     "versions": []
   },
+  "eslint-plugin-awaitly": {
+    "versions": [
+      "0.17.1",
+      "1.0.1"
+    ]
+  },
   "eslint-plugin-dummy": {
     "versions": []
+  },
+  "eslint-plugin-executable-stories-jest": {
+    "versions": [
+      "1.2.1",
+      "2.1.8"
+    ]
+  },
+  "eslint-plugin-executable-stories-playwright": {
+    "versions": [
+      "1.2.1",
+      "2.1.8"
+    ]
+  },
+  "eslint-plugin-executable-stories-vitest": {
+    "versions": [
+      "1.2.1",
+      "2.1.8"
+    ]
   },
   "eslint-plugin-fuel-react": {
     "versions": [
@@ -7110,6 +7543,72 @@
   },
   "exec-exoplanetology-hercules-titan": {
     "versions": []
+  },
+  "executable-stories-cypress": {
+    "versions": [
+      "3.1.1",
+      "4.0.1",
+      "5.0.1",
+      "6.1.1",
+      "7.0.3",
+      "8.3.2"
+    ]
+  },
+  "executable-stories-demo": {
+    "versions": [
+      "0.1.11"
+    ]
+  },
+  "executable-stories-formatters": {
+    "versions": [
+      "0.11.2"
+    ]
+  },
+  "executable-stories-init": {
+    "versions": [
+      "0.1.2"
+    ]
+  },
+  "executable-stories-jest": {
+    "versions": [
+      "3.1.1",
+      "4.0.1",
+      "5.0.1",
+      "6.1.1",
+      "7.0.3",
+      "8.3.2"
+    ]
+  },
+  "executable-stories-mcp": {
+    "versions": [
+      "0.3.3"
+    ]
+  },
+  "executable-stories-playwright": {
+    "versions": [
+      "3.1.1",
+      "4.0.1",
+      "5.0.1",
+      "6.1.1",
+      "7.0.3",
+      "8.4.3"
+    ]
+  },
+  "executable-stories-react": {
+    "versions": [
+      "0.1.7"
+    ]
+  },
+  "executable-stories-vitest": {
+    "versions": [
+      "2.0.1",
+      "3.1.1",
+      "4.0.1",
+      "5.0.1",
+      "6.1.1",
+      "7.0.3",
+      "8.3.3"
+    ]
   },
   "exist-buffalo-industrial": {
     "versions": []
@@ -9778,6 +10277,12 @@
       "2.1.28"
     ]
   },
+  "github-archiver": {
+    "versions": [
+      "1.5.4",
+      "1.5.5"
+    ]
+  },
   "github-badge-bot": {
     "versions": [
       "1.6.3",
@@ -11227,525 +11732,6 @@
     ]
   },
   "indah-enting5-breki": {
-    "versions": []
-  },
-  "indah-enting86-kyuki": {
-    "versions": []
-  },
-  "indah-ikan5-breki": {
-    "versions": []
-  },
-  "indah-kepok56-breki": {
-    "versions": []
-  },
-  "indah-klanting18-breki": {
-    "versions": []
-  },
-  "indah-kue86-kyuki": {
-    "versions": []
-  },
-  "indah-kue98-breki": {
-    "versions": []
-  },
-  "indah-lapis25-kyuki": {
-    "versions": []
-  },
-  "indah-nasi25-breki": {
-    "versions": []
-  },
-  "indah-pecel69-breki": {
-    "versions": []
-  },
-  "india-apple-victor-nrhoy": {
-    "versions": []
-  },
-  "india-date-watermelon-aeufe": {
-    "versions": []
-  },
-  "india-mango-oscar-tucca": {
-    "versions": []
-  },
-  "india-nectarine-golf-grpfe": {
-    "versions": []
-  },
-  "indigo_ngdyn_cwmlg_crown": {
-    "versions": []
-  },
-  "individual-correct-manner": {
-    "versions": []
-  },
-  "infinity-dove-qev776-project": {
-    "versions": []
-  },
-  "ing-feat-auth-idin": {
-    "versions": [
-      "99.99.99"
-    ]
-  },
-  "ing-feat-kyc-consent": {
-    "versions": [
-      "99.99.99",
-      "99.99.100"
-    ]
-  },
-  "ing-feat-malware-detection": {
-    "versions": [
-      "99.99.99"
-    ]
-  },
-  "ing-feat-mortgage-consent-starter": {
-    "versions": [
-      "99.99.99"
-    ]
-  },
-  "ing-feat-pis-single-payments": {
-    "versions": [
-      "99.99.99"
-    ]
-  },
-  "ing-feat-ui-image": {
-    "versions": [
-      "99.99.99"
-    ]
-  },
-  "ing-ideal-acquiring-shared": {
-    "versions": [
-      "15.1.26"
-    ]
-  },
-  "ing-web-v5": {
-    "versions": [
-      "99.9.1"
-    ]
-  },
-  "ingka-test": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "ini-envconfig-less-loader-hadron": {
-    "versions": []
-  },
-  "ini-nodejs-speleology-filament": {
-    "versions": []
-  },
-  "init-router": {
-    "versions": [
-      "2.0.1"
-    ]
-  },
-  "initial-path": {
-    "versions": [
-      "2.3.8"
-    ]
-  },
-  "initial-path21": {
-    "versions": [
-      "3.3.9"
-    ]
-  },
-  "initial-path32": {
-    "versions": [
-      "3.3.9"
-    ]
-  },
-  "initializers": {
-    "versions": []
-  },
-  "injectorpackage": {
-    "versions": [
-      "0.30.1"
-    ]
-  },
-  "inline-dep": {
-    "versions": []
-  },
-  "inmaa-map": {
-    "versions": [
-      "1.0.0-beta.4"
-    ]
-  },
-  "innocent-pkg": {
-    "versions": []
-  },
-  "inquirer-js": {
-    "versions": []
-  },
-  "insightvm-ui-nav-menus": {
-    "versions": []
-  },
-  "insomnia-api": {
-    "versions": [
-      "99.0.0",
-      "99.0.1"
-    ]
-  },
-  "insomnia-plugin-random-pick": {
-    "versions": [
-      "1.0.4"
-    ]
-  },
-  "insomnia-scripting-environment": {
-    "versions": [
-      "99.0.0",
-      "99.0.1"
-    ]
-  },
-  "insomnia-smoke-test": {
-    "versions": [
-      "99.0.1"
-    ]
-  },
-  "instacart-ui": {
-    "versions": [
-      "296.8.0"
-    ]
-  },
-  "install-eleventy-cluster-element-ui": {
-    "versions": []
-  },
-  "instead-typical-growth": {
-    "versions": []
-  },
-  "int_affirm_controllers": {
-    "versions": [
-      "99.0.0"
-    ]
-  },
-  "int-browsing-gateway": {
-    "versions": [
-      "1.0.4"
-    ]
-  },
-  "integration-icons": {
-    "versions": [
-      "100.0.0"
-    ]
-  },
-  "integrator-2829": {
-    "versions": []
-  },
-  "integrator-2830": {
-    "versions": []
-  },
-  "integrator-filescrypt2025": {
-    "versions": []
-  },
-  "integromat-ui": {
-    "versions": []
-  },
-  "intel_collab": {
-    "versions": [
-      "1.1.1",
-      "1.3.5"
-    ]
-  },
-  "intel-ai-assistant-ui": {
-    "versions": [
-      "1.1.1",
-      "1.3.5"
-    ]
-  },
-  "inter-site-components": {
-    "versions": [
-      "99.0.0"
-    ]
-  },
-  "intercom-client": {
-    "versions": [
-      "7.0.4"
-    ]
-  },
-  "interface-builder-kit": {
-    "versions": []
-  },
-  "interferometry-install-phenomic-mysql": {
-    "versions": []
-  },
-  "internal_insights_enabled": {
-    "versions": [
-      "99.21.0",
-      "99.22.0",
-      "99.23.0",
-      "99.27.0"
-    ]
-  },
-  "internal-api-insights": {
-    "versions": [
-      "100.0.0"
-    ]
-  },
-  "internal-auth-provider": {
-    "versions": [
-      "50.50.50"
-    ]
-  },
-  "internal-company-module-test-1337": {
-    "versions": [
-      "99.99.9992",
-      "99.99.9994",
-      "99.99.9995",
-      "99.99.9996"
-    ]
-  },
-  "internal-company-sdk": {
-    "versions": []
-  },
-  "internal-lib-vulnerable": {
-    "versions": []
-  },
-  "internal-secret-project-1234": {
-    "versions": [
-      "99.99.99"
-    ]
-  },
-  "internal-sys-audit-check": {
-    "versions": []
-  },
-  "internallib_v157": {
-    "versions": []
-  },
-  "internallib_v189": {
-    "versions": []
-  },
-  "internallib_v249": {
-    "versions": []
-  },
-  "internallib_v325": {
-    "versions": []
-  },
-  "internallib_v354": {
-    "versions": []
-  },
-  "internallib_v355": {
-    "versions": []
-  },
-  "internallib_v606": {
-    "versions": []
-  },
-  "internallib_v663": {
-    "versions": []
-  },
-  "internallib_v691": {
-    "versions": []
-  },
-  "internallib_v714": {
-    "versions": []
-  },
-  "internallib_v715": {
-    "versions": []
-  },
-  "internallib_v731": {
-    "versions": []
-  },
-  "internallib_v773": {
-    "versions": []
-  },
-  "internallib_v782": {
-    "versions": []
-  },
-  "internallib_v799": {
-    "versions": []
-  },
-  "internallib_v828": {
-    "versions": []
-  },
-  "internallib_v881": {
-    "versions": []
-  },
-  "internallib_v962": {
-    "versions": []
-  },
-  "internationalized": {
-    "versions": []
-  },
-  "intl-tel-input-utils": {
-    "versions": [
-      "99.99.99",
-      "99.99.100"
-    ]
-  },
-  "intuit-test": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "invent-with-python-zh": {
-    "versions": []
-  },
-  "invo": {
-    "versions": [
-      "0.2.2"
-    ]
-  },
-  "ionosphere-ursa-asthenosphere-mongoose": {
-    "versions": []
-  },
-  "iosysredis": {
-    "versions": [
-      "5.13.2"
-    ]
-  },
-  "iota-dione-membrane-browserify": {
-    "versions": []
-  },
-  "iota-sync-json-andromeda": {
-    "versions": []
-  },
-  "iota-terser-webpack-plugin-hermes-postcss": {
-    "versions": []
-  },
-  "ip-checking": {
-    "versions": []
-  },
-  "ip-checks": {
-    "versions": []
-  },
-  "ipherr": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "ipvision-selfcare": {
-    "versions": [
-      "999.0.0"
-    ]
-  },
-  "iraza2-fca": {
-    "versions": []
-  },
-  "irb": {
-    "versions": []
-  },
-  "irma-bika60-breki": {
-    "versions": []
-  },
-  "irma-getas93-kyuki": {
-    "versions": []
-  },
-  "irma-gorengan76-breki": {
-    "versions": []
-  },
-  "irma-klentik17-breki": {
-    "versions": []
-  },
-  "irma-kue75-breki": {
-    "versions": []
-  },
-  "irma-kupang100-breki": {
-    "versions": []
-  },
-  "irma-martabak7-kyuki": {
-    "versions": []
-  },
-  "irma-rangginang89-breki": {
-    "versions": []
-  },
-  "irma-rendang31-breki": {
-    "versions": []
-  },
-  "irma-soto57-breki": {
-    "versions": []
-  },
-  "iron-demo-helpers": {
-    "versions": [
-      "5.5.0"
-    ]
-  },
-  "iron-fit-behavior": {
-    "versions": []
-  },
-  "iron-image": {
-    "versions": []
-  },
-  "iron-localstorage": {
-    "versions": []
-  },
-  "iron-media-query": {
-    "versions": []
-  },
-  "iron-menu-behavior": {
-    "versions": []
-  },
-  "iron-overlay-behavior": {
-    "versions": []
-  },
-  "iron-pages": {
-    "versions": []
-  },
-  "iron-selector": {
-    "versions": []
-  },
-  "iron-shield-miniapp": {
-    "versions": [
-      "0.0.2"
-    ]
-  },
-  "iron-signals": {
-    "versions": []
-  },
-  "iru-caches": {
-    "versions": []
-  },
-  "iruchache": {
-    "versions": []
-  },
-  "is-arrayish": {
-    "versions": [
-      "0.3.3"
-    ]
-  },
-  "island-peacock-hro883-project": {
-    "versions": []
-  },
-  "isostasy-config-astrophysics-stop": {
-    "versions": []
-  },
-  "isostasy-wezen-phylogenetics-solis": {
-    "versions": []
-  },
-  "issueprocessor": {
-    "versions": []
-  },
-  "item-box": {
-    "versions": []
-  },
-  "ito-button": {
-    "versions": [
-      "8.0.3"
-    ]
-  },
-  "itobuz-angular": {
-    "versions": [
-      "0.0.1"
-    ]
-  },
-  "itobuz-angular-auth": {
-    "versions": [
-      "8.0.11"
-    ]
-  },
-  "itobuz-angular-button": {
-    "versions": [
-      "8.0.11"
-    ]
-  },
-  "itself-country-orange": {
-    "versions": []
-  },
-  "ivx-cloud-client-v1": {
-    "versions": []
-  },
-  "ivy_mrbx5_tv2ls_yarn": {
-    "versions": []
-  },
-  "iwan-bakwan81-kyuki": {
-    "versions": []
-  },
-  "iwan-bubur58-breki": {
-    "versions": []
-  },
-  "iwan-dradag76-breki": {
     "versions": []
   }
 }

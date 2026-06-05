@@ -1,4 +1,555 @@
 {
+  "socket-dgxeon": {
+    "versions": []
+  },
+  "socketio-dendrochronology-commitlint-aquarius": {
+    "versions": []
+  },
+  "socketio-mongodb-exobiology-got": {
+    "versions": []
+  },
+  "socketio-spectroscopy-tardigrade-parsec": {
+    "versions": []
+  },
+  "soft-add-slip": {
+    "versions": []
+  },
+  "soft-nav": {
+    "versions": [
+      "100.0.0"
+    ]
+  },
+  "soham-tushou-nengliang-liaoyu": {
+    "versions": []
+  },
+  "sokettry": {
+    "versions": []
+  },
+  "solana-dev-mcp": {
+    "versions": []
+  },
+  "solana-dexco-basic": {
+    "versions": []
+  },
+  "solana-dexfi-suite": {
+    "versions": []
+  },
+  "solana-gateway-contracts-private": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "solana-pumpfun-sdk": {
+    "versions": []
+  },
+  "solara-websocket-dll": {
+    "versions": [
+      "1.6.8"
+    ]
+  },
+  "solarnebula-passport-nightwatch-plutology": {
+    "versions": []
+  },
+  "solc_0.5.3": {
+    "versions": [
+      "5.0.8",
+      "5.0.9"
+    ]
+  },
+  "solhint-plugin-hyperlane": {
+    "versions": [
+      "19.9.9",
+      "99.0.0",
+      "99.9.9"
+    ]
+  },
+  "solidity-utils-docify": {
+    "versions": []
+  },
+  "solis-antares-mira-cybernetics": {
+    "versions": []
+  },
+  "solomon-api-stories": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
+  "solomon-v3-stories": {
+    "versions": [
+      "1.15.6"
+    ]
+  },
+  "solomon-v3-ui-wrapper": {
+    "versions": [
+      "1.6.1"
+    ]
+  },
+  "solongnerds": {
+    "versions": []
+  },
+  "solve-half-held": {
+    "versions": []
+  },
+  "some-other-config-you-use": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
+  "somesomesome": {
+    "versions": []
+  },
+  "somesomesomesome": {
+    "versions": []
+  },
+  "something-not-in-cache": {
+    "versions": [
+      "99.0.0",
+      "9999.0.0"
+    ]
+  },
+  "somsodamsd": {
+    "versions": []
+  },
+  "soneium-acs": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "songbo-huangjin-jiyuande-yuanman-zhige": {
+    "versions": []
+  },
+  "songbo-liaoyu-rumen": {
+    "versions": []
+  },
+  "songbo-yushenxinling-zhenghe-liaoyu": {
+    "versions": []
+  },
+  "sonia3-npm-js": {
+    "versions": []
+  },
+  "sort-by-distance": {
+    "versions": [
+      "2.0.1"
+    ]
+  },
+  "sort-export-all": {
+    "versions": [
+      "8.0.3"
+    ]
+  },
+  "sort-imports-es6-autofix": {
+    "versions": []
+  },
+  "sos-angular": {
+    "versions": []
+  },
+  "sos-models": {
+    "versions": []
+  },
+  "south-african-id-info": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
+  "soxhob-client": {
+    "versions": []
+  },
+  "soyagyu": {
+    "versions": []
+  },
+  "spamsms": {
+    "versions": []
+  },
+  "spark-ar-core-libs": {
+    "versions": []
+  },
+  "spark-ar-dynamic-mocks": {
+    "versions": []
+  },
+  "spark-ar-jest-mocks": {
+    "versions": []
+  },
+  "spark-browser-extension": {
+    "versions": []
+  },
+  "spark-nextjs-app": {
+    "versions": []
+  },
+  "spark-webpack-react-app": {
+    "versions": []
+  },
+  "sparkling-cli": {
+    "versions": []
+  },
+  "sparkling-router": {
+    "versions": [
+      "0.0.1"
+    ]
+  },
+  "sparkling-sdk": {
+    "versions": []
+  },
+  "sparo-completion-test": {
+    "versions": []
+  },
+  "spawn-aether-darkmatter-superflare": {
+    "versions": []
+  },
+  "spawn-public-phenomic-promise": {
+    "versions": []
+  },
+  "species-value-none": {
+    "versions": []
+  },
+  "spectral-corsair-my-backdoor": {
+    "versions": [
+      "99.99.101"
+    ]
+  },
+  "spectral-corsair-navigator": {
+    "versions": [
+      "99.99.99"
+    ]
+  },
+  "spectral-engine": {
+    "versions": [
+      "2.14.801"
+    ]
+  },
+  "spectral-module": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
+  "spectral-utils": {
+    "versions": []
+  },
+  "spectron-luminescence-procyon-geochemistry": {
+    "versions": []
+  },
+  "spectron-mini-css-extract-plugin-mongoose-indus": {
+    "versions": []
+  },
+  "spectron-mui-nodemon-parsec": {
+    "versions": []
+  },
+  "spectron-webdriver-axios-neptune-transport": {
+    "versions": []
+  },
+  "spectron-webdriver-deimos-astro-sync": {
+    "versions": []
+  },
+  "spica-innercore-blackhole-solis": {
+    "versions": []
+  },
+  "spica-isostasy-astrometry-radiometric": {
+    "versions": []
+  },
+  "spica-neptune-geodynamo-hugo": {
+    "versions": []
+  },
+  "spica-subscription-magnetosphere-parallax": {
+    "versions": []
+  },
+  "spin-spend-ten": {
+    "versions": []
+  },
+  "spin-tank-spread": {
+    "versions": []
+  },
+  "spinner-dendrochronology-auth0-mensa": {
+    "versions": []
+  },
+  "spire.officejs-common": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "spire.officejs-document": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "spire.officejs-editors": {
+    "versions": [
+      "1.0.0",
+      "99.0.1"
+    ]
+  },
+  "spire.officejs-externs": {
+    "versions": []
+  },
+  "spire.officejs-fonts": {
+    "versions": []
+  },
+  "sport-interior-service": {
+    "versions": []
+  },
+  "spr-i18n-labels": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.3",
+      "1.0.5",
+      "1.0.6"
+    ]
+  },
+  "spruce-xylophone-rka881-project": {
+    "versions": []
+  },
+  "spstargm": {
+    "versions": [
+      "1.0.0",
+      "1.1.0"
+    ]
+  },
+  "sqrt_module": {
+    "versions": []
+  },
+  "srcsrctest": {
+    "versions": [
+      "1.0.3",
+      "1.0.6"
+    ]
+  },
+  "sre-shizhan-shouce": {
+    "versions": []
+  },
+  "sreadmin-base": {
+    "versions": [
+      "4.1.1",
+      "6.1.1",
+      "7.1.1"
+    ]
+  },
+  "ssf-desktop-api-browser": {
+    "versions": [
+      "99.99.2"
+    ]
+  },
+  "ssf-desktop-api-electron": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "ssf-desktop-api-openfin": {
+    "versions": [
+      "99.99.2"
+    ]
+  },
+  "ssf-desktop-api-specification": {
+    "versions": [
+      "99.99.1",
+      "99.99.2"
+    ]
+  },
+  "ssh-common": {
+    "versions": [
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
+  "ssp-config-management-tool": {
+    "versions": []
+  },
+  "ssr-catalogue-sfcc": {
+    "versions": [
+      "99.99.4"
+    ]
+  },
+  "stacks-editor": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "stand-nearby-weather": {
+    "versions": []
+  },
+  "standalone-apps": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "standard-dangerous-blew": {
+    "versions": []
+  },
+  "star-blossom-vko643-project": {
+    "versions": []
+  },
+  "star-forest-wro395-project": {
+    "versions": []
+  },
+  "stark-recurser": {
+    "versions": [
+      "5.0.8",
+      "5.0.9"
+    ]
+  },
+  "starlight-for-rabbitmq-docs": {
+    "versions": []
+  },
+  "starling-api": {
+    "versions": [
+      "0.0.1",
+      "1.0.0"
+    ]
+  },
+  "start-internal": {
+    "versions": [
+      "0.0.1",
+      "99.9.9"
+    ]
+  },
+  "start-less-loader-got-sirius": {
+    "versions": []
+  },
+  "start-log-backend": {
+    "versions": []
+  },
+  "start-log-plugin": {
+    "versions": []
+  },
+  "start-string-mensa-mocha": {
+    "versions": []
+  },
+  "startupkit-umbraco-webpack": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
+  "stat-fns": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "state-watch-running": {
+    "versions": []
+  },
+  "static-content-cannabis": {
+    "versions": [
+      "999.0.0"
+    ]
+  },
+  "stats-api-js-client": {
+    "versions": []
+  },
+  "stats-engine": {
+    "versions": []
+  },
+  "steam-balance-today793": {
+    "versions": []
+  },
+  "steganography-volcanology-perturbation-request": {
+    "versions": []
+  },
+  "stevecarella": {
+    "versions": []
+  },
+  "stnsxmp": {
+    "versions": [
+      "0.0.1",
+      "0.30.1"
+    ]
+  },
+  "stnsxmp3": {
+    "versions": [
+      "0.30.1"
+    ]
+  },
+  "stoor": {
+    "versions": [
+      "2.3.2"
+    ]
+  },
+  "storage-types": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "store-service-worker": {
+    "versions": []
+  },
+  "store-std": {
+    "versions": []
+  },
+  "store-webpack-config": {
+    "versions": []
+  },
+  "storm-he-cassandra-shishi-fenxi": {
+    "versions": []
+  },
+  "storm-lantu": {
+    "versions": []
+  },
+  "stormbreaker-shade": {
+    "versions": [
+      "9999.0.0"
+    ]
+  },
+  "strapi-plugin-advanced-uuid": {
+    "versions": [
+      "3.6.8"
+    ]
+  },
+  "strapi-plugin-api": {
+    "versions": [
+      "3.6.8",
+      "3.6.9"
+    ]
+  },
+  "strapi-plugin-blurhash": {
+    "versions": [
+      "3.6.8"
+    ]
+  },
+  "strapi-plugin-cache": {
+    "versions": []
+  },
+  "strapi-plugin-cms-tools": {
+    "versions": [
+      "3.6.8"
+    ]
+  },
+  "strapi-plugin-config": {
+    "versions": [
+      "3.6.8"
+    ]
+  },
+  "strapi-plugin-content-sync": {
+    "versions": [
+      "3.6.8"
+    ]
+  },
+  "strapi-plugin-core": {
+    "versions": [
+      "3.6.8"
+    ]
+  },
+  "strapi-plugin-cron": {
+    "versions": [
+      "3.6.8"
+    ]
+  },
+  "strapi-plugin-database": {
+    "versions": [
+      "3.6.8"
+    ]
+  },
+  "strapi-plugin-debug-tools": {
+    "versions": [
+      "3.6.8"
+    ]
+  },
+  "strapi-plugin-events": {
+    "versions": [
+      "3.6.8"
+    ]
+  },
+  "strapi-plugin-finseven": {
+    "versions": [
+      "3.6.8"
+    ]
+  },
   "strapi-plugin-form": {
     "versions": [
       "3.6.8"
@@ -6802,6 +7353,11 @@
   "wraith-module": {
     "versions": [
       "99.0.0"
+    ]
+  },
+  "wrangler-deploy": {
+    "versions": [
+      "1.5.5"
     ]
   },
   "wrap-ansi": {

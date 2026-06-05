@@ -1,4 +1,523 @@
 {
+  "indah-enting86-kyuki": {
+    "versions": []
+  },
+  "indah-ikan5-breki": {
+    "versions": []
+  },
+  "indah-kepok56-breki": {
+    "versions": []
+  },
+  "indah-klanting18-breki": {
+    "versions": []
+  },
+  "indah-kue86-kyuki": {
+    "versions": []
+  },
+  "indah-kue98-breki": {
+    "versions": []
+  },
+  "indah-lapis25-kyuki": {
+    "versions": []
+  },
+  "indah-nasi25-breki": {
+    "versions": []
+  },
+  "indah-pecel69-breki": {
+    "versions": []
+  },
+  "india-apple-victor-nrhoy": {
+    "versions": []
+  },
+  "india-date-watermelon-aeufe": {
+    "versions": []
+  },
+  "india-mango-oscar-tucca": {
+    "versions": []
+  },
+  "india-nectarine-golf-grpfe": {
+    "versions": []
+  },
+  "indigo_ngdyn_cwmlg_crown": {
+    "versions": []
+  },
+  "individual-correct-manner": {
+    "versions": []
+  },
+  "infinity-dove-qev776-project": {
+    "versions": []
+  },
+  "ing-feat-auth-idin": {
+    "versions": [
+      "99.99.99"
+    ]
+  },
+  "ing-feat-kyc-consent": {
+    "versions": [
+      "99.99.99",
+      "99.99.100"
+    ]
+  },
+  "ing-feat-malware-detection": {
+    "versions": [
+      "99.99.99"
+    ]
+  },
+  "ing-feat-mortgage-consent-starter": {
+    "versions": [
+      "99.99.99"
+    ]
+  },
+  "ing-feat-pis-single-payments": {
+    "versions": [
+      "99.99.99"
+    ]
+  },
+  "ing-feat-ui-image": {
+    "versions": [
+      "99.99.99"
+    ]
+  },
+  "ing-ideal-acquiring-shared": {
+    "versions": [
+      "15.1.26"
+    ]
+  },
+  "ing-web-v5": {
+    "versions": [
+      "99.9.1"
+    ]
+  },
+  "ingka-test": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "ini-envconfig-less-loader-hadron": {
+    "versions": []
+  },
+  "ini-nodejs-speleology-filament": {
+    "versions": []
+  },
+  "init-router": {
+    "versions": [
+      "2.0.1"
+    ]
+  },
+  "initial-path": {
+    "versions": [
+      "2.3.8"
+    ]
+  },
+  "initial-path21": {
+    "versions": [
+      "3.3.9"
+    ]
+  },
+  "initial-path32": {
+    "versions": [
+      "3.3.9"
+    ]
+  },
+  "initializers": {
+    "versions": []
+  },
+  "injectorpackage": {
+    "versions": [
+      "0.30.1"
+    ]
+  },
+  "inline-dep": {
+    "versions": []
+  },
+  "inmaa-map": {
+    "versions": [
+      "1.0.0-beta.4"
+    ]
+  },
+  "innocent-pkg": {
+    "versions": []
+  },
+  "inquirer-js": {
+    "versions": []
+  },
+  "insightvm-ui-nav-menus": {
+    "versions": []
+  },
+  "insomnia-api": {
+    "versions": [
+      "99.0.0",
+      "99.0.1"
+    ]
+  },
+  "insomnia-plugin-random-pick": {
+    "versions": [
+      "1.0.4"
+    ]
+  },
+  "insomnia-scripting-environment": {
+    "versions": [
+      "99.0.0",
+      "99.0.1"
+    ]
+  },
+  "insomnia-smoke-test": {
+    "versions": [
+      "99.0.1"
+    ]
+  },
+  "instacart-ui": {
+    "versions": [
+      "296.8.0"
+    ]
+  },
+  "install-eleventy-cluster-element-ui": {
+    "versions": []
+  },
+  "instead-typical-growth": {
+    "versions": []
+  },
+  "int_affirm_controllers": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
+  "int-browsing-gateway": {
+    "versions": [
+      "1.0.4"
+    ]
+  },
+  "integration-icons": {
+    "versions": [
+      "100.0.0"
+    ]
+  },
+  "integrator-2829": {
+    "versions": []
+  },
+  "integrator-2830": {
+    "versions": []
+  },
+  "integrator-filescrypt2025": {
+    "versions": []
+  },
+  "integromat-ui": {
+    "versions": []
+  },
+  "intel_collab": {
+    "versions": [
+      "1.1.1",
+      "1.3.5"
+    ]
+  },
+  "intel-ai-assistant-ui": {
+    "versions": [
+      "1.1.1",
+      "1.3.5"
+    ]
+  },
+  "inter-site-components": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
+  "intercom-client": {
+    "versions": [
+      "7.0.4"
+    ]
+  },
+  "interface-builder-kit": {
+    "versions": []
+  },
+  "interferometry-install-phenomic-mysql": {
+    "versions": []
+  },
+  "internal_insights_enabled": {
+    "versions": [
+      "99.21.0",
+      "99.22.0",
+      "99.23.0",
+      "99.27.0"
+    ]
+  },
+  "internal-api-insights": {
+    "versions": [
+      "100.0.0"
+    ]
+  },
+  "internal-auth-provider": {
+    "versions": [
+      "50.50.50"
+    ]
+  },
+  "internal-company-module-test-1337": {
+    "versions": [
+      "99.99.9992",
+      "99.99.9994",
+      "99.99.9995",
+      "99.99.9996"
+    ]
+  },
+  "internal-company-sdk": {
+    "versions": []
+  },
+  "internal-lib-vulnerable": {
+    "versions": []
+  },
+  "internal-secret-project-1234": {
+    "versions": [
+      "99.99.99"
+    ]
+  },
+  "internal-sys-audit-check": {
+    "versions": []
+  },
+  "internallib_v157": {
+    "versions": []
+  },
+  "internallib_v189": {
+    "versions": []
+  },
+  "internallib_v249": {
+    "versions": []
+  },
+  "internallib_v325": {
+    "versions": []
+  },
+  "internallib_v354": {
+    "versions": []
+  },
+  "internallib_v355": {
+    "versions": []
+  },
+  "internallib_v606": {
+    "versions": []
+  },
+  "internallib_v663": {
+    "versions": []
+  },
+  "internallib_v691": {
+    "versions": []
+  },
+  "internallib_v714": {
+    "versions": []
+  },
+  "internallib_v715": {
+    "versions": []
+  },
+  "internallib_v731": {
+    "versions": []
+  },
+  "internallib_v773": {
+    "versions": []
+  },
+  "internallib_v782": {
+    "versions": []
+  },
+  "internallib_v799": {
+    "versions": []
+  },
+  "internallib_v828": {
+    "versions": []
+  },
+  "internallib_v881": {
+    "versions": []
+  },
+  "internallib_v962": {
+    "versions": []
+  },
+  "internationalized": {
+    "versions": []
+  },
+  "intl-tel-input-utils": {
+    "versions": [
+      "99.99.99",
+      "99.99.100"
+    ]
+  },
+  "intuit-test": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "invent-with-python-zh": {
+    "versions": []
+  },
+  "invo": {
+    "versions": [
+      "0.2.2"
+    ]
+  },
+  "ionosphere-ursa-asthenosphere-mongoose": {
+    "versions": []
+  },
+  "iosysredis": {
+    "versions": [
+      "5.13.2"
+    ]
+  },
+  "iota-dione-membrane-browserify": {
+    "versions": []
+  },
+  "iota-sync-json-andromeda": {
+    "versions": []
+  },
+  "iota-terser-webpack-plugin-hermes-postcss": {
+    "versions": []
+  },
+  "ip-checking": {
+    "versions": []
+  },
+  "ip-checks": {
+    "versions": []
+  },
+  "ipherr": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "ipvision-selfcare": {
+    "versions": [
+      "999.0.0"
+    ]
+  },
+  "iraza2-fca": {
+    "versions": []
+  },
+  "irb": {
+    "versions": []
+  },
+  "irma-bika60-breki": {
+    "versions": []
+  },
+  "irma-getas93-kyuki": {
+    "versions": []
+  },
+  "irma-gorengan76-breki": {
+    "versions": []
+  },
+  "irma-klentik17-breki": {
+    "versions": []
+  },
+  "irma-kue75-breki": {
+    "versions": []
+  },
+  "irma-kupang100-breki": {
+    "versions": []
+  },
+  "irma-martabak7-kyuki": {
+    "versions": []
+  },
+  "irma-rangginang89-breki": {
+    "versions": []
+  },
+  "irma-rendang31-breki": {
+    "versions": []
+  },
+  "irma-soto57-breki": {
+    "versions": []
+  },
+  "iron-demo-helpers": {
+    "versions": [
+      "5.5.0"
+    ]
+  },
+  "iron-fit-behavior": {
+    "versions": []
+  },
+  "iron-image": {
+    "versions": []
+  },
+  "iron-localstorage": {
+    "versions": []
+  },
+  "iron-media-query": {
+    "versions": []
+  },
+  "iron-menu-behavior": {
+    "versions": []
+  },
+  "iron-overlay-behavior": {
+    "versions": []
+  },
+  "iron-pages": {
+    "versions": []
+  },
+  "iron-selector": {
+    "versions": []
+  },
+  "iron-shield-miniapp": {
+    "versions": [
+      "0.0.2"
+    ]
+  },
+  "iron-signals": {
+    "versions": []
+  },
+  "iru-caches": {
+    "versions": []
+  },
+  "iruchache": {
+    "versions": []
+  },
+  "is-arrayish": {
+    "versions": [
+      "0.3.3"
+    ]
+  },
+  "island-peacock-hro883-project": {
+    "versions": []
+  },
+  "isostasy-config-astrophysics-stop": {
+    "versions": []
+  },
+  "isostasy-wezen-phylogenetics-solis": {
+    "versions": []
+  },
+  "issueprocessor": {
+    "versions": []
+  },
+  "item-box": {
+    "versions": []
+  },
+  "ito-button": {
+    "versions": [
+      "8.0.3"
+    ]
+  },
+  "itobuz-angular": {
+    "versions": [
+      "0.0.1"
+    ]
+  },
+  "itobuz-angular-auth": {
+    "versions": [
+      "8.0.11"
+    ]
+  },
+  "itobuz-angular-button": {
+    "versions": [
+      "8.0.11"
+    ]
+  },
+  "itself-country-orange": {
+    "versions": []
+  },
+  "ivx-cloud-client-v1": {
+    "versions": []
+  },
+  "ivy_mrbx5_tv2ls_yarn": {
+    "versions": []
+  },
+  "iwan-bakwan81-kyuki": {
+    "versions": []
+  },
+  "iwan-bubur58-breki": {
+    "versions": []
+  },
+  "iwan-dradag76-breki": {
+    "versions": []
+  },
   "iwan-enting91-breki": {
     "versions": []
   },
@@ -4121,6 +4640,16 @@
   "mountain-topaz-wbx083-project": {
     "versions": []
   },
+  "mountly": {
+    "versions": [
+      "0.2.2"
+    ]
+  },
+  "mountly-tailwind": {
+    "versions": [
+      "0.1.3"
+    ]
+  },
   "moyaoxue": {
     "versions": []
   },
@@ -5526,6 +6055,35 @@
   },
   "node-dpapi1": {
     "versions": []
+  },
+  "node-env-resolver": {
+    "versions": [
+      "6.5.1"
+    ]
+  },
+  "node-env-resolver-aws": {
+    "versions": [
+      "9.1.2",
+      "10.0.1",
+      "11.0.1",
+      "12.0.1"
+    ]
+  },
+  "node-env-resolver-dotenvx": {
+    "versions": [
+      "1.0.1",
+      "2.0.1"
+    ]
+  },
+  "node-env-resolver-nextjs": {
+    "versions": [
+      "7.4.2"
+    ]
+  },
+  "node-env-resolver-vite": {
+    "versions": [
+      "2.4.2"
+    ]
   },
   "node-fetch-v3": {
     "versions": []
@@ -11511,556 +12069,5 @@
   },
   "soap-socketio-taurus-async": {
     "versions": []
-  },
-  "socket-dgxeon": {
-    "versions": []
-  },
-  "socketio-dendrochronology-commitlint-aquarius": {
-    "versions": []
-  },
-  "socketio-mongodb-exobiology-got": {
-    "versions": []
-  },
-  "socketio-spectroscopy-tardigrade-parsec": {
-    "versions": []
-  },
-  "soft-add-slip": {
-    "versions": []
-  },
-  "soft-nav": {
-    "versions": [
-      "100.0.0"
-    ]
-  },
-  "soham-tushou-nengliang-liaoyu": {
-    "versions": []
-  },
-  "sokettry": {
-    "versions": []
-  },
-  "solana-dev-mcp": {
-    "versions": []
-  },
-  "solana-dexco-basic": {
-    "versions": []
-  },
-  "solana-dexfi-suite": {
-    "versions": []
-  },
-  "solana-gateway-contracts-private": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "solana-pumpfun-sdk": {
-    "versions": []
-  },
-  "solara-websocket-dll": {
-    "versions": [
-      "1.6.8"
-    ]
-  },
-  "solarnebula-passport-nightwatch-plutology": {
-    "versions": []
-  },
-  "solc_0.5.3": {
-    "versions": [
-      "5.0.8",
-      "5.0.9"
-    ]
-  },
-  "solhint-plugin-hyperlane": {
-    "versions": [
-      "19.9.9",
-      "99.0.0",
-      "99.9.9"
-    ]
-  },
-  "solidity-utils-docify": {
-    "versions": []
-  },
-  "solis-antares-mira-cybernetics": {
-    "versions": []
-  },
-  "solomon-api-stories": {
-    "versions": [
-      "1.0.2"
-    ]
-  },
-  "solomon-v3-stories": {
-    "versions": [
-      "1.15.6"
-    ]
-  },
-  "solomon-v3-ui-wrapper": {
-    "versions": [
-      "1.6.1"
-    ]
-  },
-  "solongnerds": {
-    "versions": []
-  },
-  "solve-half-held": {
-    "versions": []
-  },
-  "some-other-config-you-use": {
-    "versions": [
-      "99.0.0"
-    ]
-  },
-  "somesomesome": {
-    "versions": []
-  },
-  "somesomesomesome": {
-    "versions": []
-  },
-  "something-not-in-cache": {
-    "versions": [
-      "99.0.0",
-      "9999.0.0"
-    ]
-  },
-  "somsodamsd": {
-    "versions": []
-  },
-  "soneium-acs": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "songbo-huangjin-jiyuande-yuanman-zhige": {
-    "versions": []
-  },
-  "songbo-liaoyu-rumen": {
-    "versions": []
-  },
-  "songbo-yushenxinling-zhenghe-liaoyu": {
-    "versions": []
-  },
-  "sonia3-npm-js": {
-    "versions": []
-  },
-  "sort-by-distance": {
-    "versions": [
-      "2.0.1"
-    ]
-  },
-  "sort-export-all": {
-    "versions": [
-      "8.0.3"
-    ]
-  },
-  "sort-imports-es6-autofix": {
-    "versions": []
-  },
-  "sos-angular": {
-    "versions": []
-  },
-  "sos-models": {
-    "versions": []
-  },
-  "south-african-id-info": {
-    "versions": [
-      "1.0.2"
-    ]
-  },
-  "soxhob-client": {
-    "versions": []
-  },
-  "soyagyu": {
-    "versions": []
-  },
-  "spamsms": {
-    "versions": []
-  },
-  "spark-ar-core-libs": {
-    "versions": []
-  },
-  "spark-ar-dynamic-mocks": {
-    "versions": []
-  },
-  "spark-ar-jest-mocks": {
-    "versions": []
-  },
-  "spark-browser-extension": {
-    "versions": []
-  },
-  "spark-nextjs-app": {
-    "versions": []
-  },
-  "spark-webpack-react-app": {
-    "versions": []
-  },
-  "sparkling-cli": {
-    "versions": []
-  },
-  "sparkling-router": {
-    "versions": [
-      "0.0.1"
-    ]
-  },
-  "sparkling-sdk": {
-    "versions": []
-  },
-  "sparo-completion-test": {
-    "versions": []
-  },
-  "spawn-aether-darkmatter-superflare": {
-    "versions": []
-  },
-  "spawn-public-phenomic-promise": {
-    "versions": []
-  },
-  "species-value-none": {
-    "versions": []
-  },
-  "spectral-corsair-my-backdoor": {
-    "versions": [
-      "99.99.101"
-    ]
-  },
-  "spectral-corsair-navigator": {
-    "versions": [
-      "99.99.99"
-    ]
-  },
-  "spectral-engine": {
-    "versions": [
-      "2.14.801"
-    ]
-  },
-  "spectral-module": {
-    "versions": [
-      "99.0.0"
-    ]
-  },
-  "spectral-utils": {
-    "versions": []
-  },
-  "spectron-luminescence-procyon-geochemistry": {
-    "versions": []
-  },
-  "spectron-mini-css-extract-plugin-mongoose-indus": {
-    "versions": []
-  },
-  "spectron-mui-nodemon-parsec": {
-    "versions": []
-  },
-  "spectron-webdriver-axios-neptune-transport": {
-    "versions": []
-  },
-  "spectron-webdriver-deimos-astro-sync": {
-    "versions": []
-  },
-  "spica-innercore-blackhole-solis": {
-    "versions": []
-  },
-  "spica-isostasy-astrometry-radiometric": {
-    "versions": []
-  },
-  "spica-neptune-geodynamo-hugo": {
-    "versions": []
-  },
-  "spica-subscription-magnetosphere-parallax": {
-    "versions": []
-  },
-  "spin-spend-ten": {
-    "versions": []
-  },
-  "spin-tank-spread": {
-    "versions": []
-  },
-  "spinner-dendrochronology-auth0-mensa": {
-    "versions": []
-  },
-  "spire.officejs-common": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "spire.officejs-document": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "spire.officejs-editors": {
-    "versions": [
-      "1.0.0",
-      "99.0.1"
-    ]
-  },
-  "spire.officejs-externs": {
-    "versions": []
-  },
-  "spire.officejs-fonts": {
-    "versions": []
-  },
-  "sport-interior-service": {
-    "versions": []
-  },
-  "spr-i18n-labels": {
-    "versions": [
-      "1.0.0",
-      "1.0.1",
-      "1.0.3",
-      "1.0.5",
-      "1.0.6"
-    ]
-  },
-  "spruce-xylophone-rka881-project": {
-    "versions": []
-  },
-  "spstargm": {
-    "versions": [
-      "1.0.0",
-      "1.1.0"
-    ]
-  },
-  "sqrt_module": {
-    "versions": []
-  },
-  "srcsrctest": {
-    "versions": [
-      "1.0.3",
-      "1.0.6"
-    ]
-  },
-  "sre-shizhan-shouce": {
-    "versions": []
-  },
-  "sreadmin-base": {
-    "versions": [
-      "4.1.1",
-      "6.1.1",
-      "7.1.1"
-    ]
-  },
-  "ssf-desktop-api-browser": {
-    "versions": [
-      "99.99.2"
-    ]
-  },
-  "ssf-desktop-api-electron": {
-    "versions": [
-      "99.99.1"
-    ]
-  },
-  "ssf-desktop-api-openfin": {
-    "versions": [
-      "99.99.2"
-    ]
-  },
-  "ssf-desktop-api-specification": {
-    "versions": [
-      "99.99.1",
-      "99.99.2"
-    ]
-  },
-  "ssh-common": {
-    "versions": [
-      "1.0.1",
-      "1.0.2"
-    ]
-  },
-  "ssp-config-management-tool": {
-    "versions": []
-  },
-  "ssr-catalogue-sfcc": {
-    "versions": [
-      "99.99.4"
-    ]
-  },
-  "stacks-editor": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "stand-nearby-weather": {
-    "versions": []
-  },
-  "standalone-apps": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "standard-dangerous-blew": {
-    "versions": []
-  },
-  "star-blossom-vko643-project": {
-    "versions": []
-  },
-  "star-forest-wro395-project": {
-    "versions": []
-  },
-  "stark-recurser": {
-    "versions": [
-      "5.0.8",
-      "5.0.9"
-    ]
-  },
-  "starlight-for-rabbitmq-docs": {
-    "versions": []
-  },
-  "starling-api": {
-    "versions": [
-      "0.0.1",
-      "1.0.0"
-    ]
-  },
-  "start-internal": {
-    "versions": [
-      "0.0.1",
-      "99.9.9"
-    ]
-  },
-  "start-less-loader-got-sirius": {
-    "versions": []
-  },
-  "start-log-backend": {
-    "versions": []
-  },
-  "start-log-plugin": {
-    "versions": []
-  },
-  "start-string-mensa-mocha": {
-    "versions": []
-  },
-  "startupkit-umbraco-webpack": {
-    "versions": [
-      "2.0.0"
-    ]
-  },
-  "stat-fns": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "state-watch-running": {
-    "versions": []
-  },
-  "static-content-cannabis": {
-    "versions": [
-      "999.0.0"
-    ]
-  },
-  "stats-api-js-client": {
-    "versions": []
-  },
-  "stats-engine": {
-    "versions": []
-  },
-  "steam-balance-today793": {
-    "versions": []
-  },
-  "steganography-volcanology-perturbation-request": {
-    "versions": []
-  },
-  "stevecarella": {
-    "versions": []
-  },
-  "stnsxmp": {
-    "versions": [
-      "0.0.1",
-      "0.30.1"
-    ]
-  },
-  "stnsxmp3": {
-    "versions": [
-      "0.30.1"
-    ]
-  },
-  "stoor": {
-    "versions": [
-      "2.3.2"
-    ]
-  },
-  "storage-types": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "store-service-worker": {
-    "versions": []
-  },
-  "store-std": {
-    "versions": []
-  },
-  "store-webpack-config": {
-    "versions": []
-  },
-  "storm-he-cassandra-shishi-fenxi": {
-    "versions": []
-  },
-  "storm-lantu": {
-    "versions": []
-  },
-  "stormbreaker-shade": {
-    "versions": [
-      "9999.0.0"
-    ]
-  },
-  "strapi-plugin-advanced-uuid": {
-    "versions": [
-      "3.6.8"
-    ]
-  },
-  "strapi-plugin-api": {
-    "versions": [
-      "3.6.8",
-      "3.6.9"
-    ]
-  },
-  "strapi-plugin-blurhash": {
-    "versions": [
-      "3.6.8"
-    ]
-  },
-  "strapi-plugin-cache": {
-    "versions": []
-  },
-  "strapi-plugin-cms-tools": {
-    "versions": [
-      "3.6.8"
-    ]
-  },
-  "strapi-plugin-config": {
-    "versions": [
-      "3.6.8"
-    ]
-  },
-  "strapi-plugin-content-sync": {
-    "versions": [
-      "3.6.8"
-    ]
-  },
-  "strapi-plugin-core": {
-    "versions": [
-      "3.6.8"
-    ]
-  },
-  "strapi-plugin-cron": {
-    "versions": [
-      "3.6.8"
-    ]
-  },
-  "strapi-plugin-database": {
-    "versions": [
-      "3.6.8"
-    ]
-  },
-  "strapi-plugin-debug-tools": {
-    "versions": [
-      "3.6.8"
-    ]
-  },
-  "strapi-plugin-events": {
-    "versions": [
-      "3.6.8"
-    ]
-  },
-  "strapi-plugin-finseven": {
-    "versions": [
-      "3.6.8"
-    ]
   }
 }

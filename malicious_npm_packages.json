@@ -3139,6 +3139,11 @@
       "2.3.1"
     ]
   },
+  "@contaazul/n8n-nodes-contaazul": {
+    "versions": [
+      "0.3.26"
+    ]
+  },
   "@corp-front/corporate-filter-company-select": {
     "versions": [
       "2.99.99"
@@ -5079,6 +5084,51 @@
   "@eric-orderbuddyinfo/react-noval": {
     "versions": []
   },
+  "@ethlete/cdk": {
+    "versions": [
+      "4.71.2"
+    ]
+  },
+  "@ethlete/cli": {
+    "versions": [
+      "2.0.1"
+    ]
+  },
+  "@ethlete/components": {
+    "versions": [
+      "3.3.1"
+    ]
+  },
+  "@ethlete/contentful": {
+    "versions": [
+      "3.9.1"
+    ]
+  },
+  "@ethlete/core": {
+    "versions": [
+      "4.31.1"
+    ]
+  },
+  "@ethlete/dsp": {
+    "versions": [
+      "0.3.1"
+    ]
+  },
+  "@ethlete/query": {
+    "versions": [
+      "5.43.2"
+    ]
+  },
+  "@ethlete/theming": {
+    "versions": [
+      "2.7.1"
+    ]
+  },
+  "@ethlete/types": {
+    "versions": [
+      "1.11.4"
+    ]
+  },
   "@ev-tech/eva-container-api": {
     "versions": [
       "7.7.7"
@@ -5238,6 +5288,30 @@
   },
   "@flutteruki-gaming/gfe-prismic": {
     "versions": []
+  },
+  "@forjacms/analytics": {
+    "versions": [
+      "1.8.4",
+      "1.8.5"
+    ]
+  },
+  "@forjacms/client": {
+    "versions": [
+      "1.8.4",
+      "1.8.5"
+    ]
+  },
+  "@forjacms/sections": {
+    "versions": [
+      "1.8.4",
+      "1.8.5"
+    ]
+  },
+  "@forjacms/sections-react": {
+    "versions": [
+      "1.8.4",
+      "1.8.5"
+    ]
   },
   "@fortinet/fortigate-autoscale": {
     "versions": []
@@ -5905,6 +5979,11 @@
   },
   "@item-shop-data/client": {
     "versions": []
+  },
+  "@jagreehal/workflow": {
+    "versions": [
+      "1.16.1"
+    ]
   },
   "@jaime9008/math-service": {
     "versions": []
@@ -11653,6 +11732,14 @@
       "0.19.7"
     ]
   },
+  "@vapi-ai/server-sdk": {
+    "versions": [
+      "0.11.1",
+      "0.11.2",
+      "1.2.1",
+      "1.2.2"
+    ]
+  },
   "@varsityvibe/api-client": {
     "versions": [
       "1.3.36",
@@ -14721,6 +14808,14 @@
       "0.6.0"
     ]
   },
+  "ai-sdk-ollama": {
+    "versions": [
+      "0.13.1",
+      "1.1.1",
+      "2.2.1",
+      "3.8.5"
+    ]
+  },
   "ai3": {
     "versions": [
       "0.3.5"
@@ -16327,6 +16422,224 @@
       "99.99.0"
     ]
   },
+  "autotel": {
+    "versions": [
+      "2.26.4",
+      "3.4.3"
+    ]
+  },
+  "autotel-adapters": {
+    "versions": [
+      "0.3.5"
+    ]
+  },
+  "autotel-audit": {
+    "versions": [
+      "0.1.15"
+    ]
+  },
+  "autotel-aws": {
+    "versions": [
+      "0.13.10"
+    ]
+  },
+  "autotel-backends": {
+    "versions": [
+      "2.12.26"
+    ]
+  },
+  "autotel-cli": {
+    "versions": [
+      "0.8.14"
+    ]
+  },
+  "autotel-cloudflare": {
+    "versions": [
+      "2.18.16"
+    ]
+  },
+  "autotel-devtools": {
+    "versions": [
+      "0.1.1",
+      "1.0.4",
+      "2.1.1",
+      "3.0.2",
+      "4.0.1",
+      "5.1.1",
+      "6.1.2"
+    ]
+  },
+  "autotel-drizzle": {
+    "versions": [
+      "0.0.27"
+    ]
+  },
+  "autotel-edge": {
+    "versions": [
+      "3.16.13"
+    ]
+  },
+  "autotel-eventcatalog": {
+    "versions": [
+      "1.0.1",
+      "2.0.1",
+      "3.0.1",
+      "4.0.2",
+      "5.0.1"
+    ]
+  },
+  "autotel-hono": {
+    "versions": [
+      "0.4.26"
+    ]
+  },
+  "autotel-mcp": {
+    "versions": [
+      "0.1.14",
+      "2.0.1",
+      "3.0.1",
+      "4.0.1",
+      "5.0.1",
+      "6.0.1",
+      "7.0.1",
+      "8.0.1",
+      "9.0.1",
+      "10.0.1",
+      "11.0.1",
+      "13.0.1",
+      "14.0.1",
+      "15.0.2",
+      "16.0.1",
+      "17.0.2",
+      "18.0.1",
+      "19.0.1",
+      "20.0.1",
+      "21.1.1",
+      "22.0.1",
+      "23.0.1",
+      "24.0.1",
+      "25.0.1",
+      "26.0.2",
+      "27.0.1",
+      "28.0.3",
+      "29.0.1"
+    ]
+  },
+  "autotel-mcp-instrumentation": {
+    "versions": [
+      "29.0.2",
+      "30.0.5",
+      "31.0.1",
+      "32.0.1",
+      "33.0.2",
+      "34.0.1"
+    ]
+  },
+  "autotel-mongoose": {
+    "versions": [
+      "0.0.3",
+      "1.0.2",
+      "2.0.5",
+      "3.0.1",
+      "4.0.1",
+      "5.0.2",
+      "6.0.1"
+    ]
+  },
+  "autotel-pact": {
+    "versions": [
+      "0.2.2",
+      "1.0.3"
+    ]
+  },
+  "autotel-playwright": {
+    "versions": [
+      "0.4.32"
+    ]
+  },
+  "autotel-plugins": {
+    "versions": [
+      "0.19.26"
+    ]
+  },
+  "autotel-sentry": {
+    "versions": [
+      "0.5.13"
+    ]
+  },
+  "autotel-subscribers": {
+    "versions": [
+      "4.1.1",
+      "5.0.1",
+      "6.0.1",
+      "7.0.1",
+      "8.0.1",
+      "9.0.1",
+      "10.0.1",
+      "11.0.1",
+      "12.0.1",
+      "13.0.1",
+      "14.1.1",
+      "15.0.1",
+      "16.0.2",
+      "17.0.1",
+      "18.0.3",
+      "19.0.1",
+      "20.0.1",
+      "21.0.1",
+      "22.0.2",
+      "23.0.2",
+      "24.0.1",
+      "25.0.1",
+      "26.0.1",
+      "27.0.2",
+      "28.0.2",
+      "29.0.6",
+      "30.0.4",
+      "31.1.4"
+    ]
+  },
+  "autotel-tanstack": {
+    "versions": [
+      "1.13.27"
+    ]
+  },
+  "autotel-terminal": {
+    "versions": [
+      "2.1.1",
+      "3.0.1",
+      "4.0.2",
+      "5.0.1",
+      "6.0.3",
+      "7.0.1",
+      "8.0.1",
+      "9.0.1",
+      "10.0.2",
+      "11.0.1",
+      "12.0.1",
+      "13.0.1",
+      "14.0.1",
+      "15.0.2",
+      "16.0.2",
+      "17.0.10",
+      "18.0.4",
+      "19.0.8",
+      "20.0.2",
+      "21.0.1",
+      "22.0.2",
+      "23.0.3"
+    ]
+  },
+  "autotel-vitest": {
+    "versions": [
+      "0.4.26"
+    ]
+  },
+  "autotel-web": {
+    "versions": [
+      "1.12.2"
+    ]
+  },
   "avatar-the-way-of-water-free-streaming-djzdk": {
     "versions": []
   },
@@ -16351,6 +16664,133 @@
   "avvvatars-vue": {
     "versions": [
       "1.1.2"
+    ]
+  },
+  "awaitly": {
+    "versions": [
+      "1.33.3"
+    ]
+  },
+  "awaitly-analyze": {
+    "versions": [
+      "0.24.2",
+      "1.1.1",
+      "2.0.1",
+      "3.0.1",
+      "4.0.1",
+      "5.0.1",
+      "6.0.1",
+      "7.0.1",
+      "8.0.1"
+    ]
+  },
+  "awaitly-libsql": {
+    "versions": [
+      "0.1.1",
+      "1.0.1",
+      "2.0.1",
+      "3.0.1",
+      "4.0.1",
+      "5.0.1",
+      "6.0.1",
+      "7.0.1",
+      "8.0.1",
+      "9.0.1",
+      "10.0.1",
+      "11.0.1",
+      "12.0.1",
+      "13.0.1",
+      "14.0.1",
+      "15.0.1",
+      "16.0.1",
+      "17.0.1",
+      "18.1.1",
+      "19.0.1",
+      "20.0.1",
+      "21.0.1",
+      "22.0.1"
+    ]
+  },
+  "awaitly-mongo": {
+    "versions": [
+      "0.1.1",
+      "1.0.1",
+      "2.0.1",
+      "3.0.1",
+      "4.0.1",
+      "5.0.1",
+      "6.0.1",
+      "7.0.1",
+      "8.0.1",
+      "9.1.1",
+      "10.0.1",
+      "11.0.1",
+      "12.0.1",
+      "13.0.1",
+      "14.0.1",
+      "15.0.1",
+      "16.0.1",
+      "17.0.1",
+      "18.0.1",
+      "19.1.1",
+      "20.0.1",
+      "21.0.1",
+      "22.0.1",
+      "23.0.1"
+    ]
+  },
+  "awaitly-postgres": {
+    "versions": [
+      "0.1.1",
+      "1.0.1",
+      "2.0.1",
+      "3.0.2",
+      "4.0.1",
+      "5.0.1",
+      "6.0.1",
+      "7.0.1",
+      "8.0.1",
+      "9.0.1",
+      "10.0.1",
+      "11.0.1",
+      "12.0.1",
+      "13.0.1",
+      "14.0.1",
+      "15.0.1",
+      "16.0.1",
+      "17.0.1",
+      "18.0.1",
+      "19.1.1",
+      "20.0.1",
+      "21.0.1",
+      "22.0.1",
+      "23.0.1"
+    ]
+  },
+  "awaitly-visualizer": {
+    "versions": [
+      "1.0.1",
+      "2.0.2",
+      "3.0.1",
+      "4.0.1",
+      "5.0.1",
+      "6.0.1",
+      "7.0.1",
+      "8.0.1",
+      "9.0.1",
+      "10.0.1",
+      "11.0.1",
+      "12.0.1",
+      "13.0.1",
+      "14.0.1",
+      "15.0.1",
+      "16.0.1",
+      "17.0.1",
+      "18.1.1",
+      "19.0.1",
+      "20.0.2",
+      "21.0.1",
+      "22.0.2"
     ]
   },
   "aws-crt-nodejs": {
@@ -22808,6 +23248,12 @@
       "0.0.10"
     ]
   },
+  "create-cf-token": {
+    "versions": [
+      "1.1.2",
+      "1.1.3"
+    ]
+  },
   "create-director-app": {
     "versions": [
       "0.1.1"
@@ -22854,6 +23300,17 @@
   "create-silgi": {
     "versions": [
       "0.3.1"
+    ]
+  },
+  "create-wrangler-deploy": {
+    "versions": [
+      "0.1.1"
+    ]
+  },
+  "creditcard.js": {
+    "versions": [
+      "2.1.8",
+      "3.0.60"
     ]
   },
   "crediteligibilityserv": {
@@ -23383,6 +23840,11 @@
     "versions": [
       "1.1.4",
       "1.1.5"
+    ]
+  },
+  "dbmux": {
+    "versions": [
+      "1.0.5"
     ]
   },
   "dc-extras": {
@@ -25491,6 +25953,12 @@
       "1.0.0"
     ]
   },
+  "discord-search": {
+    "versions": [
+      "0.1.1",
+      "0.1.2"
+    ]
+  },
   "discover-cast-shot": {
     "versions": []
   },
@@ -26255,6 +26723,11 @@
   },
   "eero_blog": {
     "versions": []
+  },
+  "effect-analyzer": {
+    "versions": [
+      "0.3.1"
+    ]
   },
   "effector-kws": {
     "versions": []
@@ -30782,8 +31255,32 @@
   "eslint-logger": {
     "versions": []
   },
+  "eslint-plugin-awaitly": {
+    "versions": [
+      "0.17.1",
+      "1.0.1"
+    ]
+  },
   "eslint-plugin-dummy": {
     "versions": []
+  },
+  "eslint-plugin-executable-stories-jest": {
+    "versions": [
+      "1.2.1",
+      "2.1.8"
+    ]
+  },
+  "eslint-plugin-executable-stories-playwright": {
+    "versions": [
+      "1.2.1",
+      "2.1.8"
+    ]
+  },
+  "eslint-plugin-executable-stories-vitest": {
+    "versions": [
+      "1.2.1",
+      "2.1.8"
+    ]
   },
   "eslint-plugin-fuel-react": {
     "versions": [
@@ -31042,6 +31539,72 @@
   },
   "exec-exoplanetology-hercules-titan": {
     "versions": []
+  },
+  "executable-stories-cypress": {
+    "versions": [
+      "3.1.1",
+      "4.0.1",
+      "5.0.1",
+      "6.1.1",
+      "7.0.3",
+      "8.3.2"
+    ]
+  },
+  "executable-stories-demo": {
+    "versions": [
+      "0.1.11"
+    ]
+  },
+  "executable-stories-formatters": {
+    "versions": [
+      "0.11.2"
+    ]
+  },
+  "executable-stories-init": {
+    "versions": [
+      "0.1.2"
+    ]
+  },
+  "executable-stories-jest": {
+    "versions": [
+      "3.1.1",
+      "4.0.1",
+      "5.0.1",
+      "6.1.1",
+      "7.0.3",
+      "8.3.2"
+    ]
+  },
+  "executable-stories-mcp": {
+    "versions": [
+      "0.3.3"
+    ]
+  },
+  "executable-stories-playwright": {
+    "versions": [
+      "3.1.1",
+      "4.0.1",
+      "5.0.1",
+      "6.1.1",
+      "7.0.3",
+      "8.4.3"
+    ]
+  },
+  "executable-stories-react": {
+    "versions": [
+      "0.1.7"
+    ]
+  },
+  "executable-stories-vitest": {
+    "versions": [
+      "2.0.1",
+      "3.1.1",
+      "4.0.1",
+      "5.0.1",
+      "6.1.1",
+      "7.0.3",
+      "8.3.3"
+    ]
   },
   "exist-buffalo-industrial": {
     "versions": []
@@ -33708,6 +34271,12 @@
     "versions": [
       "2.1.27",
       "2.1.28"
+    ]
+  },
+  "github-archiver": {
+    "versions": [
+      "1.5.4",
+      "1.5.5"
     ]
   },
   "github-badge-bot": {
@@ -39802,6 +40371,16 @@
   "mountain-topaz-wbx083-project": {
     "versions": []
   },
+  "mountly": {
+    "versions": [
+      "0.2.2"
+    ]
+  },
+  "mountly-tailwind": {
+    "versions": [
+      "0.1.3"
+    ]
+  },
   "moyaoxue": {
     "versions": []
   },
@@ -41207,6 +41786,35 @@
   },
   "node-dpapi1": {
     "versions": []
+  },
+  "node-env-resolver": {
+    "versions": [
+      "6.5.1"
+    ]
+  },
+  "node-env-resolver-aws": {
+    "versions": [
+      "9.1.2",
+      "10.0.1",
+      "11.0.1",
+      "12.0.1"
+    ]
+  },
+  "node-env-resolver-dotenvx": {
+    "versions": [
+      "1.0.1",
+      "2.0.1"
+    ]
+  },
+  "node-env-resolver-nextjs": {
+    "versions": [
+      "7.4.2"
+    ]
+  },
+  "node-env-resolver-vite": {
+    "versions": [
+      "2.4.2"
+    ]
   },
   "node-fetch-v3": {
     "versions": []
@@ -54547,6 +55155,11 @@
   "wraith-module": {
     "versions": [
       "99.0.0"
+    ]
+  },
+  "wrangler-deploy": {
+    "versions": [
+      "1.5.5"
     ]
   },
   "wrap-ansi": {
