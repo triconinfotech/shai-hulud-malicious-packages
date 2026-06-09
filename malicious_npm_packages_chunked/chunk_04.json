@@ -1,4 +1,29 @@
 {
+  "snort-security-tool": {
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.6"
+    ]
+  },
+  "soap-commitlint-config-angular-adonis-cors": {
+    "versions": []
+  },
+  "soap-instrument-nails": {
+    "versions": []
+  },
+  "soap-lie-appropriate": {
+    "versions": []
+  },
+  "soap-pegasus-prettier-stylelint-duplex": {
+    "versions": []
+  },
+  "soap-socketio-taurus-async": {
+    "versions": []
+  },
   "socket-dgxeon": {
     "versions": []
   },
