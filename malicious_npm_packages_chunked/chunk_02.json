@@ -1,4 +1,10 @@
 {
+  "debug-fmt": {
+    "versions": []
+  },
+  "debug-glitz": {
+    "versions": []
+  },
   "debug-logger-utils": {
     "versions": []
   },
@@ -11727,11 +11733,5 @@
       "1.0.1",
       "1.0.2"
     ]
-  },
-  "imhuman-fw-logger": {
-    "versions": []
-  },
-  "immer-js": {
-    "versions": []
   }
 }

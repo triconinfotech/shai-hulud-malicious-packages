@@ -5978,7 +5978,16 @@
     ]
   },
   "@item-shop-data/client": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "56.0.0",
+      "56.0.3",
+      "56.0.10",
+      "58.0.1",
+      "58.0.90",
+      "58.90.90",
+      "59.0.90"
+    ]
   },
   "@jagreehal/workflow": {
     "versions": [

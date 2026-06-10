@@ -1,4 +1,10 @@
 {
+  "@voiceflow/eslint-config": {
+    "versions": [
+      "7.16.4",
+      "7.16.5"
+    ]
+  },
   "@voiceflow/eslint-plugin": {
     "versions": [
       "1.6.1",
@@ -12063,12 +12069,6 @@
     ]
   },
   "debug-common": {
-    "versions": []
-  },
-  "debug-fmt": {
-    "versions": []
-  },
-  "debug-glitz": {
     "versions": []
   }
 }

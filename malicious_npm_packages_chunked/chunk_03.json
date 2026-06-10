@@ -1,4 +1,10 @@
 {
+  "imhuman-fw-logger": {
+    "versions": []
+  },
+  "immer-js": {
+    "versions": []
+  },
   "import-newlines": {
     "versions": [
       "9.9.1"
