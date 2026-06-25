@@ -1,3 +1,31 @@
+## 2026-06-25 06:25:28 — Added 20 new packages, updated 0 versions
+
+### 🆕 New Packages (20)
+- leo-auth
+- leo-aws
+- leo-cache
+- leo-cdk-lib
+- leo-cli
+- leo-config
+- leo-connector-elasticsearch
+- leo-connector-mongo
+- leo-connector-mysql
+- leo-connector-oracle
+- leo-connector-redshift
+- leo-cron
+- leo-logger
+- leo-sdk
+- leo-streams
+- rstreams-metrics
+- rstreams-shard-util
+- serverless-convention
+- serverless-leo
+- solo-nav
+
+### 🔄 Updated Versions (0)
+_None_
+
+
 ## 2026-06-12 20:17:42 — Added 0 new packages, updated 1 versions
 
 ### 🆕 New Packages (0)

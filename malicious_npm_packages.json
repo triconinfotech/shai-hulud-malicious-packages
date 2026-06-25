@@ -38585,6 +38585,81 @@
   "lemon-yankee-xigua-cspgx": {
     "versions": []
   },
+  "leo-auth": {
+    "versions": [
+      "4.0.6"
+    ]
+  },
+  "leo-aws": {
+    "versions": [
+      "2.0.4"
+    ]
+  },
+  "leo-cache": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
+  "leo-cdk-lib": {
+    "versions": [
+      "0.0.2"
+    ]
+  },
+  "leo-cli": {
+    "versions": [
+      "3.0.3"
+    ]
+  },
+  "leo-config": {
+    "versions": [
+      "1.1.1"
+    ]
+  },
+  "leo-connector-elasticsearch": {
+    "versions": [
+      "2.0.6"
+    ]
+  },
+  "leo-connector-mongo": {
+    "versions": [
+      "3.0.8"
+    ]
+  },
+  "leo-connector-mysql": {
+    "versions": [
+      "3.0.3"
+    ]
+  },
+  "leo-connector-oracle": {
+    "versions": [
+      "2.0.1"
+    ]
+  },
+  "leo-connector-redshift": {
+    "versions": [
+      "3.0.6"
+    ]
+  },
+  "leo-cron": {
+    "versions": [
+      "2.0.2"
+    ]
+  },
+  "leo-logger": {
+    "versions": [
+      "1.0.8"
+    ]
+  },
+  "leo-sdk": {
+    "versions": [
+      "6.0.19"
+    ]
+  },
+  "leo-streams": {
+    "versions": [
+      "2.0.1"
+    ]
+  },
   "less-loader-ablation-frontend-transport": {
     "versions": []
   },
@@ -46331,6 +46406,16 @@
       "99.9.25"
     ]
   },
+  "rstreams-metrics": {
+    "versions": [
+      "2.0.2"
+    ]
+  },
+  "rstreams-shard-util": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
   "rt-da-classic-card-collection": {
     "versions": []
   },
@@ -47079,6 +47164,16 @@
   },
   "server-fpti": {
     "versions": []
+  },
+  "serverless-convention": {
+    "versions": [
+      "2.0.4"
+    ]
+  },
+  "serverless-leo": {
+    "versions": [
+      "3.0.14"
+    ]
   },
   "service-gateway": {
     "versions": [
@@ -47905,6 +48000,11 @@
   },
   "solis-antares-mira-cybernetics": {
     "versions": []
+  },
+  "solo-nav": {
+    "versions": [
+      "1.0.1"
+    ]
   },
   "solomon-api-stories": {
     "versions": [
