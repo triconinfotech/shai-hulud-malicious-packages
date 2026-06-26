@@ -6357,7 +6357,8 @@
   "wao": {
     "versions": [
       "0.41.2",
-      "0.41.3"
+      "0.41.3",
+      "0.41.4"
     ]
   },
   "warp-contracts-plugin-deploy-test": {
