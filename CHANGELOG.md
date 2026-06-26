@@ -1,3 +1,14 @@
+## 2026-06-26 17:36:30 — Added 0 new packages, updated 1 versions
+
+### 🆕 New Packages (0)
+_None_
+
+### 🔄 Updated Versions (1)
+| Package | Version | Type |
+|---------|---------|-------|
+| @epsteinlovekids483/crossmint-wallets-sdk-pentest | 1.0.11 | new-version |
+
+
 ## 2026-06-26 16:42:13 — Added 0 new packages, updated 4 versions
 
 ### 🆕 New Packages (0)
