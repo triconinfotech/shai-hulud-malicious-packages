@@ -1,4 +1,12 @@
 {
+  "ignore-html-and-css-imports": {
+    "versions": [
+      "0.1.0"
+    ]
+  },
+  "ih-icon": {
+    "versions": []
+  },
   "iife-sample": {
     "versions": []
   },
@@ -12085,14 +12093,5 @@
     "versions": [
       "7.1.1"
     ]
-  },
-  "slice.js": {
-    "versions": [
-      "1.2.1",
-      "1.3.1"
-    ]
-  },
-  "slides-express-norma-native": {
-    "versions": []
   }
 }

@@ -1,4 +1,13 @@
 {
+  "slice.js": {
+    "versions": [
+      "1.2.1",
+      "1.3.1"
+    ]
+  },
+  "slides-express-norma-native": {
+    "versions": []
+  },
   "slides-geomorphology-eleventy-holography": {
     "versions": []
   },

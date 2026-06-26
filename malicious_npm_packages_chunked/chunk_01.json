@@ -1,4 +1,10 @@
 {
+  "@voiceflow/dependency-cruiser-config": {
+    "versions": [
+      "1.8.11",
+      "1.8.12"
+    ]
+  },
   "@voiceflow/dtos-interact": {
     "versions": [
       "1.40.1",
@@ -12060,14 +12066,6 @@
       "1.0.7",
       "1.0.8",
       "1.0.9"
-    ]
-  },
-  "ddp-common": {
-    "versions": []
-  },
-  "ddxq_cms_tools": {
-    "versions": [
-      "999.0.0"
     ]
   }
 }
