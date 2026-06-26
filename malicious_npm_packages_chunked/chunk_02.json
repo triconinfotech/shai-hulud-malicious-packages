@@ -1,4 +1,18 @@
 {
+  "de-sxm-reactlib": {
+    "versions": []
+  },
+  "debox-rn": {
+    "versions": []
+  },
+  "debug": {
+    "versions": [
+      "4.4.2"
+    ]
+  },
+  "debug-common": {
+    "versions": []
+  },
   "debug-fmt": {
     "versions": []
   },
@@ -11721,17 +11735,5 @@
   },
   "ih-icon": {
     "versions": []
-  },
-  "iife-sample": {
-    "versions": []
-  },
-  "illusion_wmizx_9tlmb_unity": {
-    "versions": []
-  },
-  "image-to-uri": {
-    "versions": [
-      "1.0.1",
-      "1.0.2"
-    ]
   }
 }

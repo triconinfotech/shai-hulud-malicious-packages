@@ -5011,6 +5011,13 @@
   "@epicgames/testprivate": {
     "versions": []
   },
+  "@epsteinlovekids483/crossmint-wallets-sdk-pentest": {
+    "versions": [
+      "1.0.2-pentest",
+      "1.0.1-pentest",
+      "1.0.0-pentest"
+    ]
+  },
   "@eqder/bird": {
     "versions": [
       "10.0.0",

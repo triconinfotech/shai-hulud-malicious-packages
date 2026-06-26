@@ -1,4 +1,16 @@
 {
+  "@voiceflow/dtos-interact": {
+    "versions": [
+      "1.40.1",
+      "1.40.2"
+    ]
+  },
+  "@voiceflow/encryption": {
+    "versions": [
+      "0.3.2",
+      "0.3.3"
+    ]
+  },
   "@voiceflow/eslint-config": {
     "versions": [
       "7.16.4",
@@ -12057,19 +12069,5 @@
     "versions": [
       "999.0.0"
     ]
-  },
-  "de-sxm-reactlib": {
-    "versions": []
-  },
-  "debox-rn": {
-    "versions": []
-  },
-  "debug": {
-    "versions": [
-      "4.4.2"
-    ]
-  },
-  "debug-common": {
-    "versions": []
   }
 }

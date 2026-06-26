@@ -1,4 +1,16 @@
 {
+  "iife-sample": {
+    "versions": []
+  },
+  "illusion_wmizx_9tlmb_unity": {
+    "versions": []
+  },
+  "image-to-uri": {
+    "versions": [
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
   "imhuman-fw-logger": {
     "versions": []
   },
@@ -12081,12 +12093,6 @@
     ]
   },
   "slides-express-norma-native": {
-    "versions": []
-  },
-  "slides-geomorphology-eleventy-holography": {
-    "versions": []
-  },
-  "slides-json-markdown-uglify-js": {
     "versions": []
   }
 }
