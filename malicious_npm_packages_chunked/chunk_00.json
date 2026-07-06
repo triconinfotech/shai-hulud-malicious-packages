@@ -6007,7 +6007,11 @@
     ]
   },
   "@jaime9008/math-service": {
-    "versions": []
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2"
+    ]
   },
   "@jameson777/mytest2": {
     "versions": []

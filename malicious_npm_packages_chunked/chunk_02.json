@@ -1,4 +1,17 @@
 {
+  "ddos-turbo-max": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.6",
+      "1.0.7",
+      "1.0.8",
+      "1.0.9"
+    ]
+  },
   "ddp-common": {
     "versions": []
   },
@@ -7785,7 +7798,9 @@
     ]
   },
   "express-session-js": {
-    "versions": []
+    "versions": [
+      "1.0.0"
+    ]
   },
   "express-session-vailidator": {
     "versions": []
@@ -11723,17 +11738,5 @@
     "versions": [
       "20.1.6"
     ]
-  },
-  "idv-script": {
-    "versions": [
-      "0.0.1-security",
-      "1.0.0",
-      "1.0.1",
-      "1.0.3",
-      "1.0.4"
-    ]
-  },
-  "igloo-frost-jrf806-project": {
-    "versions": []
   }
 }

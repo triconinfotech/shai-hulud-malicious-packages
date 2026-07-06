@@ -6007,7 +6007,11 @@
     ]
   },
   "@jaime9008/math-service": {
-    "versions": []
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2"
+    ]
   },
   "@jameson777/mytest2": {
     "versions": []
@@ -18529,13 +18533,22 @@
     ]
   },
   "bjs-biginteger": {
-    "versions": []
+    "versions": [
+      "5.0.5",
+      "5.0.6"
+    ]
   },
   "bjs-lint-builder": {
-    "versions": []
+    "versions": [
+      "1.0.5"
+    ]
   },
   "bjs-lint-builders": {
-    "versions": []
+    "versions": [
+      "1.0.4",
+      "1.0.5",
+      "1.1.0"
+    ]
   },
   "black-especially-period": {
     "versions": []
@@ -22341,7 +22354,11 @@
     "versions": []
   },
   "cjs-biginteger": {
-    "versions": []
+    "versions": [
+      "5.0.3",
+      "5.0.5",
+      "5.0.6"
+    ]
   },
   "ckeditor5-minimap": {
     "versions": [
@@ -31777,7 +31794,9 @@
     ]
   },
   "express-session-js": {
-    "versions": []
+    "versions": [
+      "1.0.0"
+    ]
   },
   "express-session-vailidator": {
     "versions": []
@@ -43788,7 +43807,9 @@
     ]
   },
   "pino-sdk-v2": {
-    "versions": []
+    "versions": [
+      "9.9.0"
+    ]
   },
   "pino-style-loader-uninstall-hyperion": {
     "versions": []
@@ -46004,7 +46025,9 @@
   },
   "request-js-validator": {
     "versions": [
-      "1.0.2"
+      "1.0.2",
+      "1.0.3",
+      "1.0.4"
     ]
   },
   "request-xerxes-orbit-jekyll": {
@@ -47779,10 +47802,15 @@
     "versions": []
   },
   "sjs-biginteger": {
-    "versions": []
+    "versions": [
+      "5.0.5",
+      "5.0.6"
+    ]
   },
   "sjs-lint-build1": {
-    "versions": []
+    "versions": [
+      "1.0.4"
+    ]
   },
   "sketch-measure": {
     "versions": [
@@ -51515,7 +51543,9 @@
     "versions": []
   },
   "ts-lint-builds": {
-    "versions": []
+    "versions": [
+      "1.0.5"
+    ]
   },
   "ts-moduler": {
     "versions": []

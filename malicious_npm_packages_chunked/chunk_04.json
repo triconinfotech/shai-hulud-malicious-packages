@@ -1,4 +1,30 @@
 {
+  "sky-enablement": {
+    "versions": [
+      "2.1.0"
+    ]
+  },
+  "sky1oauth2": {
+    "versions": [
+      "2.0.2"
+    ]
+  },
+  "skyoauth2": {
+    "versions": [
+      "2.0.2"
+    ]
+  },
+  "slabs-birthday-danger": {
+    "versions": []
+  },
+  "slabs-have-child": {
+    "versions": []
+  },
+  "slice-ansi": {
+    "versions": [
+      "7.1.1"
+    ]
+  },
   "slice.js": {
     "versions": [
       "1.2.1",
@@ -3690,7 +3716,9 @@
     "versions": []
   },
   "ts-lint-builds": {
-    "versions": []
+    "versions": [
+      "1.0.5"
+    ]
   },
   "ts-moduler": {
     "versions": []

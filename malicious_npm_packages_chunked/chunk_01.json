@@ -6607,13 +6607,22 @@
     ]
   },
   "bjs-biginteger": {
-    "versions": []
+    "versions": [
+      "5.0.5",
+      "5.0.6"
+    ]
   },
   "bjs-lint-builder": {
-    "versions": []
+    "versions": [
+      "1.0.5"
+    ]
   },
   "bjs-lint-builders": {
-    "versions": []
+    "versions": [
+      "1.0.4",
+      "1.0.5",
+      "1.1.0"
+    ]
   },
   "black-especially-period": {
     "versions": []
@@ -10419,7 +10428,11 @@
     "versions": []
   },
   "cjs-biginteger": {
-    "versions": []
+    "versions": [
+      "5.0.3",
+      "5.0.5",
+      "5.0.6"
+    ]
   },
   "ckeditor5-minimap": {
     "versions": [
@@ -12054,19 +12067,6 @@
   "ddos-turbo-ecma": {
     "versions": [
       "1.0.0"
-    ]
-  },
-  "ddos-turbo-max": {
-    "versions": [
-      "1.0.0",
-      "1.0.1",
-      "1.0.3",
-      "1.0.4",
-      "1.0.5",
-      "1.0.6",
-      "1.0.7",
-      "1.0.8",
-      "1.0.9"
     ]
   }
 }

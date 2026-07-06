@@ -1,4 +1,16 @@
 {
+  "idv-script": {
+    "versions": [
+      "0.0.1-security",
+      "1.0.0",
+      "1.0.1",
+      "1.0.3",
+      "1.0.4"
+    ]
+  },
+  "igloo-frost-jrf806-project": {
+    "versions": []
+  },
   "ignore-html-and-css-imports": {
     "versions": [
       "0.1.0"
@@ -8059,7 +8071,9 @@
     ]
   },
   "pino-sdk-v2": {
-    "versions": []
+    "versions": [
+      "9.9.0"
+    ]
   },
   "pino-style-loader-uninstall-hyperion": {
     "versions": []
@@ -10275,7 +10289,9 @@
   },
   "request-js-validator": {
     "versions": [
-      "1.0.2"
+      "1.0.2",
+      "1.0.3",
+      "1.0.4"
     ]
   },
   "request-xerxes-orbit-jekyll": {
@@ -12050,10 +12066,15 @@
     "versions": []
   },
   "sjs-biginteger": {
-    "versions": []
+    "versions": [
+      "5.0.5",
+      "5.0.6"
+    ]
   },
   "sjs-lint-build1": {
-    "versions": []
+    "versions": [
+      "1.0.4"
+    ]
   },
   "sketch-measure": {
     "versions": [
@@ -12068,31 +12089,5 @@
   },
   "skndkjasndkjan": {
     "versions": []
-  },
-  "sky-enablement": {
-    "versions": [
-      "2.1.0"
-    ]
-  },
-  "sky1oauth2": {
-    "versions": [
-      "2.0.2"
-    ]
-  },
-  "skyoauth2": {
-    "versions": [
-      "2.0.2"
-    ]
-  },
-  "slabs-birthday-danger": {
-    "versions": []
-  },
-  "slabs-have-child": {
-    "versions": []
-  },
-  "slice-ansi": {
-    "versions": [
-      "7.1.1"
-    ]
   }
 }
