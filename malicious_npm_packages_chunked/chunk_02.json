@@ -1,4 +1,24 @@
 {
+  "cw-isdk": {
+    "versions": [
+      "1.0.0",
+      "20.0.0",
+      "22.0.0",
+      "25.0.0",
+      "26.0.0",
+      "31.0.0",
+      "32.0.0",
+      "33.0.0",
+      "34.0.0",
+      "37.0.0",
+      "38.0.0",
+      "39.0.0",
+      "40.0.7",
+      "40.0.8",
+      "40.0.9",
+      "40.1.0"
+    ]
+  },
   "cwanner": {
     "versions": [
       "9.2.0"
@@ -2945,6 +2965,13 @@
   "dowload_ebok_the_upside_of_unrequited_by_becky_albertalli_2jgmw": {
     "versions": []
   },
+  "downlynpm": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
   "doyouknowyourstuff": {
     "versions": []
   },
@@ -3128,7 +3155,8 @@
   },
   "ecinc-cloud-moaxmpp": {
     "versions": [
-      "9.7.1"
+      "9.7.1",
+      "9.7.2"
     ]
   },
   "eclipse-sublimation-epigenetics-middleware": {
@@ -7119,6 +7147,13 @@
   "epimetheus-registry-delphinus-aldebaran": {
     "versions": []
   },
+  "epm-service-module-v2": {
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.3"
+    ]
+  },
   "epxreso": {
     "versions": [
       "5.1.3",
@@ -8188,6 +8223,11 @@
   },
   "express-core-validator": {
     "versions": []
+  },
+  "express-deflect": {
+    "versions": [
+      "1.6.10"
+    ]
   },
   "express-document-sdk": {
     "versions": []
@@ -11735,35 +11775,5 @@
     "versions": [
       "1.0.7"
     ]
-  },
-  "hls.js": {
-    "versions": [
-      "1.7.0-alpha.1.0.canary.11764",
-      "1.7.0-alpha.1.0.canary.11765"
-    ]
-  },
-  "hollow-iceberg-uif020-project": {
-    "versions": []
-  },
-  "holography-australis-pavo-magnetar": {
-    "versions": []
-  },
-  "holography-karma-plutology-cryonics": {
-    "versions": []
-  },
-  "holography-ursa-restart-jupiter": {
-    "versions": []
-  },
-  "honcho-theme": {
-    "versions": []
-  },
-  "honey-unicorn-kso579-project": {
-    "versions": []
-  },
-  "honeydew-alpha-raspberry-pgmdr": {
-    "versions": []
-  },
-  "honeydew-echo-raspberry-liuag": {
-    "versions": []
   }
 }

@@ -6148,6 +6148,11 @@
   "@kjma/mailcraft": {
     "versions": []
   },
+  "@kl-dolphin/jump": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
   "@kollorg/accusantium-vel": {
     "versions": []
   },
@@ -11970,11 +11975,6 @@
     ]
   },
   "@uipath/llmgw-tool": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "@uipath/maestro-sdk": {
     "versions": [
       "1.0.1"
     ]

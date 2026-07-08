@@ -6148,6 +6148,11 @@
   "@kjma/mailcraft": {
     "versions": []
   },
+  "@kl-dolphin/jump": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
   "@kollorg/accusantium-vel": {
     "versions": []
   },
@@ -17111,6 +17116,7 @@
       "22.0.1",
       "22.0.2",
       "23.0.0",
+      "23.0.1",
       "23.0.2",
       "23.0.3"
     ]
@@ -17914,7 +17920,10 @@
   },
   "base58-cli": {
     "versions": [
+      "1.0.0",
       "1.0.1",
+      "1.0.2",
+      "1.0.3",
       "1.0.4",
       "1.0.5"
     ]
@@ -22874,7 +22883,8 @@
   },
   "classwind-utils": {
     "versions": [
-      "1.0.0"
+      "1.0.0",
+      "1.0.1"
     ]
   },
   "claud-code": {
@@ -23464,8 +23474,15 @@
   },
   "console-fmt-cli": {
     "versions": [
+      "2.0.0",
       "2.1.0",
-      "2.3.0"
+      "2.2.0",
+      "2.3.0",
+      "2.4.0",
+      "2.5.0",
+      "2.7.0",
+      "2.8.0",
+      "2.9.0"
     ]
   },
   "console-loggers": {
@@ -23881,6 +23898,13 @@
   "crypto-addr-codec": {
     "versions": [
       "0.1.9"
+    ]
+  },
+  "crypto-base58": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.4"
     ]
   },
   "crypto-javascri": {
@@ -26996,6 +27020,13 @@
   "dowload_ebok_the_upside_of_unrequited_by_becky_albertalli_2jgmw": {
     "versions": []
   },
+  "downlynpm": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
   "doyouknowyourstuff": {
     "versions": []
   },
@@ -27179,7 +27210,8 @@
   },
   "ecinc-cloud-moaxmpp": {
     "versions": [
-      "9.7.1"
+      "9.7.1",
+      "9.7.2"
     ]
   },
   "eclipse-sublimation-epigenetics-middleware": {
@@ -31170,6 +31202,13 @@
   "epimetheus-registry-delphinus-aldebaran": {
     "versions": []
   },
+  "epm-service-module-v2": {
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.3"
+    ]
+  },
   "epxreso": {
     "versions": [
       "5.1.3",
@@ -32239,6 +32278,11 @@
   },
   "express-core-validator": {
     "versions": []
+  },
+  "express-deflect": {
+    "versions": [
+      "1.6.10"
+    ]
   },
   "express-document-sdk": {
     "versions": []
@@ -39751,6 +39795,12 @@
   "lockedin-chai-chain": {
     "versions": []
   },
+  "log-format-thread": {
+    "versions": [
+      "1.0.0",
+      "1.0.1"
+    ]
+  },
   "log-symbols_updated": {
     "versions": []
   },
@@ -40612,6 +40662,11 @@
   },
   "middleware-indus-membrane-yonder": {
     "versions": []
+  },
+  "middleware-jwt": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "middleware-markdown-pdf-entanglement-relay": {
     "versions": []
@@ -44518,6 +44573,11 @@
   "polmarket": {
     "versions": []
   },
+  "poly-utils": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "polycard": {
     "versions": [
       "100.0.0"
@@ -44983,6 +45043,11 @@
   },
   "pulsard-utils": {
     "versions": []
+  },
+  "pump-laserstream-parser": {
+    "versions": [
+      "2.0.0"
+    ]
   },
   "pump.js": {
     "versions": []
@@ -47610,6 +47675,12 @@
       "50.50.50"
     ]
   },
+  "secure-box": {
+    "versions": [
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
   "secure-env-loader": {
     "versions": []
   },
@@ -48561,6 +48632,12 @@
   },
   "sokettry": {
     "versions": []
+  },
+  "solana-address-codec": {
+    "versions": [
+      "1.0.0",
+      "1.0.1"
+    ]
   },
   "solana-dev-mcp": {
     "versions": []
@@ -49650,6 +49727,11 @@
   },
   "symphony-core": {
     "versions": []
+  },
+  "syncora": {
+    "versions": [
+      "0.2.0"
+    ]
   },
   "synqroomkit": {
     "versions": []
@@ -51146,6 +51228,11 @@
       "1.1.5"
     ]
   },
+  "thirdwb": {
+    "versions": [
+      "0.0.8"
+    ]
+  },
   "this-is-my-test-package": {
     "versions": [
       "1.0.4",
@@ -52118,6 +52205,11 @@
   "ts-moduler": {
     "versions": []
   },
+  "ts-numbering": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "ts-packer": {
     "versions": []
   },
@@ -52457,6 +52549,11 @@
   },
   "twitch.dashboard-v2.core": {
     "versions": []
+  },
+  "txs-data": {
+    "versions": [
+      "1.0.1"
+    ]
   },
   "ty-web-session": {
     "versions": [
@@ -54561,6 +54658,10 @@
   },
   "vkzmn": {
     "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.3",
+      "1.0.4",
       "1.0.6"
     ]
   },
@@ -55512,10 +55613,17 @@
   "whop-sdk": {
     "versions": []
   },
+  "whs4_npm": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "whs4_npm_test": {
     "versions": [
       "1.0.0",
-      "1.0.1"
+      "1.0.1",
+      "1.0.2",
+      "1.0.3"
     ]
   },
   "wibowo-bakso42-sukiwir": {
