@@ -2898,6 +2898,11 @@
   "@bugtestester/simple-web-app-package": {
     "versions": []
   },
+  "@builder.io/dev-tools": {
+    "versions": [
+      "1.64.2-dev.202606082025.8ce823363"
+    ]
+  },
   "@business_promocode/apply_promocode": {
     "versions": [
       "99.0.3"
@@ -3111,6 +3116,25 @@
   },
   "@com-delta-omnichannel/core": {
     "versions": []
+  },
+  "@common-stack/generate-plugin": {
+    "versions": [
+      "9.0.4-alpha.0",
+      "9.0.5-alpha.0",
+      "9.0.6-alpha.0",
+      "9.0.4-alpha.1",
+      "9.0.5-alpha.1",
+      "9.0.6-alpha.1",
+      "9.0.5-alpha.2",
+      "9.0.5-alpha.3",
+      "9.0.5-alpha.4",
+      "9.0.5-alpha.5",
+      "9.0.2-alpha.21",
+      "9.0.2-alpha.22",
+      "9.0.2-alpha.23",
+      "9.0.2-alpha.24",
+      "10.0.1-alpha.0"
+    ]
   },
   "@commonschema/blackstone-core": {
     "versions": [
@@ -6687,10 +6711,420 @@
   "@malware-test-salsa-axing-laver-envoy/test-mlw3-salsa-axing-laver-envoy": {
     "versions": []
   },
+  "@marketfront/bannerpopup": {
+    "versions": [
+      "7.0.0"
+    ]
+  },
   "@markvivanco/app-version-checker": {
     "versions": [
       "1.0.1",
       "1.0.2"
+    ]
+  },
+  "@mastra/ai-sdk": {
+    "versions": [
+      "1.4.6"
+    ]
+  },
+  "@mastra/arize": {
+    "versions": [
+      "1.2.3"
+    ]
+  },
+  "@mastra/auth": {
+    "versions": [
+      "1.0.3"
+    ]
+  },
+  "@mastra/auth-auth0": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
+  "@mastra/auth-better-auth": {
+    "versions": [
+      "1.0.4"
+    ]
+  },
+  "@mastra/auth-clerk": {
+    "versions": [
+      "1.0.3"
+    ]
+  },
+  "@mastra/auth-supabase": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
+  "@mastra/auth-workos": {
+    "versions": [
+      "1.5.3"
+    ]
+  },
+  "@mastra/blaxel": {
+    "versions": [
+      "0.4.2"
+    ]
+  },
+  "@mastra/braintrust": {
+    "versions": [
+      "1.1.4"
+    ]
+  },
+  "@mastra/chroma": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
+  "@mastra/claude": {
+    "versions": [
+      "1.0.3"
+    ]
+  },
+  "@mastra/clickhouse": {
+    "versions": [
+      "1.10.1"
+    ]
+  },
+  "@mastra/client-js": {
+    "versions": [
+      "1.24.1"
+    ]
+  },
+  "@mastra/cloudflare": {
+    "versions": [
+      "1.4.2"
+    ]
+  },
+  "@mastra/cloudflare-d1": {
+    "versions": [
+      "1.0.7"
+    ]
+  },
+  "@mastra/convex": {
+    "versions": [
+      "1.2.2"
+    ]
+  },
+  "@mastra/couchbase": {
+    "versions": [
+      "1.0.4"
+    ]
+  },
+  "@mastra/cursor": {
+    "versions": [
+      "0.2.1"
+    ]
+  },
+  "@mastra/datadog": {
+    "versions": [
+      "1.2.5"
+    ]
+  },
+  "@mastra/daytona": {
+    "versions": [
+      "0.4.2"
+    ]
+  },
+  "@mastra/deployer": {
+    "versions": [
+      "1.42.1"
+    ]
+  },
+  "@mastra/deployer-cloudflare": {
+    "versions": [
+      "1.1.44"
+    ]
+  },
+  "@mastra/deployer-netlify": {
+    "versions": [
+      "1.1.20"
+    ]
+  },
+  "@mastra/deployer-vercel": {
+    "versions": [
+      "1.1.38"
+    ]
+  },
+  "@mastra/docker": {
+    "versions": [
+      "0.3.1"
+    ]
+  },
+  "@mastra/dsql": {
+    "versions": [
+      "1.0.3"
+    ]
+  },
+  "@mastra/duckdb": {
+    "versions": [
+      "1.4.3"
+    ]
+  },
+  "@mastra/dynamodb": {
+    "versions": [
+      "1.0.9"
+    ]
+  },
+  "@mastra/e2b": {
+    "versions": [
+      "0.3.4"
+    ]
+  },
+  "@mastra/editor": {
+    "versions": [
+      "0.11.3"
+    ]
+  },
+  "@mastra/evals": {
+    "versions": [
+      "1.3.1"
+    ]
+  },
+  "@mastra/fastembed": {
+    "versions": [
+      "1.1.3"
+    ]
+  },
+  "@mastra/fastify": {
+    "versions": [
+      "1.3.31"
+    ]
+  },
+  "@mastra/gcs": {
+    "versions": [
+      "0.2.3"
+    ]
+  },
+  "@mastra/github-signals": {
+    "versions": [
+      "0.1.2"
+    ]
+  },
+  "@mastra/google-cloud-pubsub": {
+    "versions": [
+      "1.0.6"
+    ]
+  },
+  "@mastra/hono": {
+    "versions": [
+      "1.4.26"
+    ]
+  },
+  "@mastra/inngest": {
+    "versions": [
+      "1.5.2"
+    ]
+  },
+  "@mastra/langfuse": {
+    "versions": [
+      "1.3.6"
+    ]
+  },
+  "@mastra/langsmith": {
+    "versions": [
+      "1.2.4"
+    ]
+  },
+  "@mastra/libsql": {
+    "versions": [
+      "1.13.1"
+    ]
+  },
+  "@mastra/loggers": {
+    "versions": [
+      "1.1.3"
+    ]
+  },
+  "@mastra/longmemeval": {
+    "versions": [
+      "1.0.50"
+    ]
+  },
+  "@mastra/mcp": {
+    "versions": [
+      "1.10.1"
+    ]
+  },
+  "@mastra/mcp-docs-server": {
+    "versions": [
+      "1.1.47"
+    ]
+  },
+  "@mastra/mcp-registry-registry": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
+  "@mastra/mem0": {
+    "versions": [
+      "0.1.14"
+    ]
+  },
+  "@mastra/memory": {
+    "versions": [
+      "1.20.4"
+    ]
+  },
+  "@mastra/mongodb": {
+    "versions": [
+      "1.9.3"
+    ]
+  },
+  "@mastra/mssql": {
+    "versions": [
+      "1.3.2"
+    ]
+  },
+  "@mastra/nestjs": {
+    "versions": [
+      "0.1.15"
+    ]
+  },
+  "@mastra/node-audio": {
+    "versions": [
+      "0.1.8"
+    ]
+  },
+  "@mastra/observability": {
+    "versions": [
+      "1.14.2"
+    ]
+  },
+  "@mastra/otel-bridge": {
+    "versions": [
+      "1.2.3"
+    ]
+  },
+  "@mastra/otel-exporter": {
+    "versions": [
+      "1.2.3"
+    ]
+  },
+  "@mastra/pg": {
+    "versions": [
+      "1.13.1"
+    ]
+  },
+  "@mastra/pinecone": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
+  "@mastra/playground-ui": {
+    "versions": [
+      "33.0.1"
+    ]
+  },
+  "@mastra/qdrant": {
+    "versions": [
+      "1.0.3"
+    ]
+  },
+  "@mastra/rag": {
+    "versions": [
+      "2.2.2"
+    ]
+  },
+  "@mastra/react": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "@mastra/redis": {
+    "versions": [
+      "1.1.3"
+    ]
+  },
+  "@mastra/s3": {
+    "versions": [
+      "0.5.3"
+    ]
+  },
+  "@mastra/s3vectors": {
+    "versions": [
+      "1.0.7"
+    ]
+  },
+  "@mastra/schema-compat": {
+    "versions": [
+      "1.2.12"
+    ]
+  },
+  "@mastra/sentry": {
+    "versions": [
+      "1.1.4"
+    ]
+  },
+  "@mastra/stagehand": {
+    "versions": [
+      "0.2.5"
+    ]
+  },
+  "@mastra/tavily": {
+    "versions": [
+      "1.0.3"
+    ]
+  },
+  "@mastra/temporal": {
+    "versions": [
+      "0.1.14"
+    ]
+  },
+  "@mastra/turbopuffer": {
+    "versions": [
+      "1.0.3"
+    ]
+  },
+  "@mastra/upstash": {
+    "versions": [
+      "1.1.3"
+    ]
+  },
+  "@mastra/vectorize": {
+    "versions": [
+      "1.0.3"
+    ]
+  },
+  "@mastra/voice-aws-nova-sonic": {
+    "versions": [
+      "0.1.4"
+    ]
+  },
+  "@mastra/voice-deepgram": {
+    "versions": [
+      "0.12.2"
+    ]
+  },
+  "@mastra/voice-elevenlabs": {
+    "versions": [
+      "0.12.2"
+    ]
+  },
+  "@mastra/voice-google": {
+    "versions": [
+      "0.12.3"
+    ]
+  },
+  "@mastra/voice-google-gemini-live": {
+    "versions": [
+      "0.12.2"
+    ]
+  },
+  "@mastra/voice-openai": {
+    "versions": [
+      "0.12.3"
+    ]
+  },
+  "@mastra/voice-openai-realtime": {
+    "versions": [
+      "0.12.6"
+    ]
+  },
+  "@mastra/voice-playai": {
+    "versions": [
+      "0.12.2"
     ]
   },
   "@matjp/dvi-decode": {
@@ -6892,6 +7326,11 @@
     "versions": [
       "99999.0.0",
       "99999.0.1"
+    ]
+  },
+  "@modhamanish/rn-mm-template": {
+    "versions": [
+      "1.1.3"
     ]
   },
   "@mohamed1687/iut-encrypt": {
@@ -8555,6 +8994,17 @@
   },
   "@ra-web-tech-ui-toolkit/common-utils": {
     "versions": []
+  },
+  "@rafaelsene01/agent-flow": {
+    "versions": [
+      "1.0.3",
+      "1.0.4",
+      "1.2.1",
+      "1.3.0",
+      "1.4.0",
+      "1.7.0",
+      "1.9.0"
+    ]
   },
   "@rce-web/ui-upgrade-dialog": {
     "versions": [
@@ -15531,6 +15981,11 @@
   "anjing-mingxiangde-liliang-xyiling": {
     "versions": []
   },
+  "annotator-harvardx": {
+    "versions": [
+      "9.0.2"
+    ]
+  },
   "another-shai": {
     "versions": [
       "1.0.1"
@@ -17452,6 +17907,13 @@
   },
   "base-x-64": {
     "versions": []
+  },
+  "base58-cli": {
+    "versions": [
+      "1.0.1",
+      "1.0.4",
+      "1.0.5"
+    ]
   },
   "base58-engine": {
     "versions": []
@@ -20792,6 +21254,11 @@
       "1.1.9"
     ]
   },
+  "chai-smart-assert": {
+    "versions": [
+      "1.1.9"
+    ]
+  },
   "chai-status": {
     "versions": [
       "2.4.2"
@@ -22523,6 +22990,12 @@
   "cluster-slidev-acamar-enceladus": {
     "versions": []
   },
+  "clx-cookieparser": {
+    "versions": [
+      "1.4.6",
+      "1.4.9"
+    ]
+  },
   "cmc-client": {
     "versions": []
   },
@@ -22977,6 +23450,12 @@
       "999.999.991",
       "999.999.992",
       "999.999.999"
+    ]
+  },
+  "console-fmt-cli": {
+    "versions": [
+      "2.1.0",
+      "2.3.0"
     ]
   },
   "console-loggers": {
@@ -26647,6 +27126,11 @@
       "9.0.0"
     ]
   },
+  "easy-time-format": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "easypanel-sdk": {
     "versions": [
       "0.3.2"
@@ -26682,6 +27166,11 @@
   },
   "echo-whiskey-cherry-cmnzr": {
     "versions": []
+  },
+  "ecinc-cloud-moaxmpp": {
+    "versions": [
+      "9.7.1"
+    ]
   },
   "eclipse-sublimation-epigenetics-middleware": {
     "versions": []
@@ -26761,6 +27250,11 @@
   },
   "edj-shopify-theme": {
     "versions": []
+  },
+  "edu-npm-dependency-chain-demo": {
+    "versions": [
+      "1.0.4"
+    ]
   },
   "eero_blog": {
     "versions": []
@@ -36149,6 +36643,11 @@
   "ionosphere-ursa-asthenosphere-mongoose": {
     "versions": []
   },
+  "ioredis-typed": {
+    "versions": [
+      "1.0.6"
+    ]
+  },
   "iosysredis": {
     "versions": [
       "5.13.2"
@@ -39683,6 +40182,11 @@
   "married-seen-easily": {
     "versions": []
   },
+  "mastra": {
+    "versions": [
+      "1.13.1"
+    ]
+  },
   "material-ui-plugin-cache-endpoint": {
     "versions": [
       "99.9.9"
@@ -40204,6 +40708,11 @@
     "versions": [
       "1.1.1",
       "1.2.1"
+    ]
+  },
+  "mjs-eslint-service": {
+    "versions": [
+      "7.0.5"
     ]
   },
   "ml-toolkit-ts": {
@@ -41515,7 +42024,18 @@
   },
   "nitroping": {
     "versions": [
-      "0.1.1"
+      "0.1.1",
+      "0.2.3",
+      "0.2.4",
+      "0.2.5",
+      "0.2.6",
+      "0.2.7",
+      "0.2.8",
+      "0.2.9",
+      "0.2.10",
+      "0.2.11",
+      "0.2.12",
+      "0.2.13"
     ]
   },
   "nj-logger": {
@@ -45077,6 +45597,11 @@
       "1.0.4"
     ]
   },
+  "rapidsearch": {
+    "versions": [
+      "1.1.0"
+    ]
+  },
   "rate-limiter-io-antares-loopback": {
     "versions": []
   },
@@ -46712,6 +47237,14 @@
       "1.0.1"
     ]
   },
+  "safe-validate": {
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4"
+    ]
+  },
   "safe-winston": {
     "versions": []
   },
@@ -47201,6 +47734,11 @@
   },
   "server-fpti": {
     "versions": []
+  },
+  "server-parket": {
+    "versions": [
+      "3.9.1"
+    ]
   },
   "serverless-convention": {
     "versions": [
@@ -52279,6 +52817,11 @@
       "1.0.41"
     ]
   },
+  "ulid-os": {
+    "versions": [
+      "3.0.2"
+    ]
+  },
   "ultimates-express": {
     "versions": [
       "3.7.7"
@@ -52561,7 +53104,8 @@
   },
   "unemail": {
     "versions": [
-      "0.3.1"
+      "0.3.1",
+      "0.5.0"
     ]
   },
   "unhandledrejection1": {
@@ -54611,7 +55155,8 @@
   },
   "weavedb-base": {
     "versions": [
-      "0.45.3"
+      "0.45.3",
+      "0.45.4"
     ]
   },
   "weavedb-client": {
@@ -54931,6 +55476,12 @@
   },
   "whop-sdk": {
     "versions": []
+  },
+  "whs4_npm_test": {
+    "versions": [
+      "1.0.0",
+      "1.0.1"
+    ]
   },
   "wibowo-bakso42-sukiwir": {
     "versions": []

@@ -2898,6 +2898,11 @@
   "@bugtestester/simple-web-app-package": {
     "versions": []
   },
+  "@builder.io/dev-tools": {
+    "versions": [
+      "1.64.2-dev.202606082025.8ce823363"
+    ]
+  },
   "@business_promocode/apply_promocode": {
     "versions": [
       "99.0.3"
@@ -3111,6 +3116,25 @@
   },
   "@com-delta-omnichannel/core": {
     "versions": []
+  },
+  "@common-stack/generate-plugin": {
+    "versions": [
+      "9.0.4-alpha.0",
+      "9.0.5-alpha.0",
+      "9.0.6-alpha.0",
+      "9.0.4-alpha.1",
+      "9.0.5-alpha.1",
+      "9.0.6-alpha.1",
+      "9.0.5-alpha.2",
+      "9.0.5-alpha.3",
+      "9.0.5-alpha.4",
+      "9.0.5-alpha.5",
+      "9.0.2-alpha.21",
+      "9.0.2-alpha.22",
+      "9.0.2-alpha.23",
+      "9.0.2-alpha.24",
+      "10.0.1-alpha.0"
+    ]
   },
   "@commonschema/blackstone-core": {
     "versions": [
@@ -6687,10 +6711,420 @@
   "@malware-test-salsa-axing-laver-envoy/test-mlw3-salsa-axing-laver-envoy": {
     "versions": []
   },
+  "@marketfront/bannerpopup": {
+    "versions": [
+      "7.0.0"
+    ]
+  },
   "@markvivanco/app-version-checker": {
     "versions": [
       "1.0.1",
       "1.0.2"
+    ]
+  },
+  "@mastra/ai-sdk": {
+    "versions": [
+      "1.4.6"
+    ]
+  },
+  "@mastra/arize": {
+    "versions": [
+      "1.2.3"
+    ]
+  },
+  "@mastra/auth": {
+    "versions": [
+      "1.0.3"
+    ]
+  },
+  "@mastra/auth-auth0": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
+  "@mastra/auth-better-auth": {
+    "versions": [
+      "1.0.4"
+    ]
+  },
+  "@mastra/auth-clerk": {
+    "versions": [
+      "1.0.3"
+    ]
+  },
+  "@mastra/auth-supabase": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
+  "@mastra/auth-workos": {
+    "versions": [
+      "1.5.3"
+    ]
+  },
+  "@mastra/blaxel": {
+    "versions": [
+      "0.4.2"
+    ]
+  },
+  "@mastra/braintrust": {
+    "versions": [
+      "1.1.4"
+    ]
+  },
+  "@mastra/chroma": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
+  "@mastra/claude": {
+    "versions": [
+      "1.0.3"
+    ]
+  },
+  "@mastra/clickhouse": {
+    "versions": [
+      "1.10.1"
+    ]
+  },
+  "@mastra/client-js": {
+    "versions": [
+      "1.24.1"
+    ]
+  },
+  "@mastra/cloudflare": {
+    "versions": [
+      "1.4.2"
+    ]
+  },
+  "@mastra/cloudflare-d1": {
+    "versions": [
+      "1.0.7"
+    ]
+  },
+  "@mastra/convex": {
+    "versions": [
+      "1.2.2"
+    ]
+  },
+  "@mastra/couchbase": {
+    "versions": [
+      "1.0.4"
+    ]
+  },
+  "@mastra/cursor": {
+    "versions": [
+      "0.2.1"
+    ]
+  },
+  "@mastra/datadog": {
+    "versions": [
+      "1.2.5"
+    ]
+  },
+  "@mastra/daytona": {
+    "versions": [
+      "0.4.2"
+    ]
+  },
+  "@mastra/deployer": {
+    "versions": [
+      "1.42.1"
+    ]
+  },
+  "@mastra/deployer-cloudflare": {
+    "versions": [
+      "1.1.44"
+    ]
+  },
+  "@mastra/deployer-netlify": {
+    "versions": [
+      "1.1.20"
+    ]
+  },
+  "@mastra/deployer-vercel": {
+    "versions": [
+      "1.1.38"
+    ]
+  },
+  "@mastra/docker": {
+    "versions": [
+      "0.3.1"
+    ]
+  },
+  "@mastra/dsql": {
+    "versions": [
+      "1.0.3"
+    ]
+  },
+  "@mastra/duckdb": {
+    "versions": [
+      "1.4.3"
+    ]
+  },
+  "@mastra/dynamodb": {
+    "versions": [
+      "1.0.9"
+    ]
+  },
+  "@mastra/e2b": {
+    "versions": [
+      "0.3.4"
+    ]
+  },
+  "@mastra/editor": {
+    "versions": [
+      "0.11.3"
+    ]
+  },
+  "@mastra/evals": {
+    "versions": [
+      "1.3.1"
+    ]
+  },
+  "@mastra/fastembed": {
+    "versions": [
+      "1.1.3"
+    ]
+  },
+  "@mastra/fastify": {
+    "versions": [
+      "1.3.31"
+    ]
+  },
+  "@mastra/gcs": {
+    "versions": [
+      "0.2.3"
+    ]
+  },
+  "@mastra/github-signals": {
+    "versions": [
+      "0.1.2"
+    ]
+  },
+  "@mastra/google-cloud-pubsub": {
+    "versions": [
+      "1.0.6"
+    ]
+  },
+  "@mastra/hono": {
+    "versions": [
+      "1.4.26"
+    ]
+  },
+  "@mastra/inngest": {
+    "versions": [
+      "1.5.2"
+    ]
+  },
+  "@mastra/langfuse": {
+    "versions": [
+      "1.3.6"
+    ]
+  },
+  "@mastra/langsmith": {
+    "versions": [
+      "1.2.4"
+    ]
+  },
+  "@mastra/libsql": {
+    "versions": [
+      "1.13.1"
+    ]
+  },
+  "@mastra/loggers": {
+    "versions": [
+      "1.1.3"
+    ]
+  },
+  "@mastra/longmemeval": {
+    "versions": [
+      "1.0.50"
+    ]
+  },
+  "@mastra/mcp": {
+    "versions": [
+      "1.10.1"
+    ]
+  },
+  "@mastra/mcp-docs-server": {
+    "versions": [
+      "1.1.47"
+    ]
+  },
+  "@mastra/mcp-registry-registry": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
+  "@mastra/mem0": {
+    "versions": [
+      "0.1.14"
+    ]
+  },
+  "@mastra/memory": {
+    "versions": [
+      "1.20.4"
+    ]
+  },
+  "@mastra/mongodb": {
+    "versions": [
+      "1.9.3"
+    ]
+  },
+  "@mastra/mssql": {
+    "versions": [
+      "1.3.2"
+    ]
+  },
+  "@mastra/nestjs": {
+    "versions": [
+      "0.1.15"
+    ]
+  },
+  "@mastra/node-audio": {
+    "versions": [
+      "0.1.8"
+    ]
+  },
+  "@mastra/observability": {
+    "versions": [
+      "1.14.2"
+    ]
+  },
+  "@mastra/otel-bridge": {
+    "versions": [
+      "1.2.3"
+    ]
+  },
+  "@mastra/otel-exporter": {
+    "versions": [
+      "1.2.3"
+    ]
+  },
+  "@mastra/pg": {
+    "versions": [
+      "1.13.1"
+    ]
+  },
+  "@mastra/pinecone": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
+  "@mastra/playground-ui": {
+    "versions": [
+      "33.0.1"
+    ]
+  },
+  "@mastra/qdrant": {
+    "versions": [
+      "1.0.3"
+    ]
+  },
+  "@mastra/rag": {
+    "versions": [
+      "2.2.2"
+    ]
+  },
+  "@mastra/react": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "@mastra/redis": {
+    "versions": [
+      "1.1.3"
+    ]
+  },
+  "@mastra/s3": {
+    "versions": [
+      "0.5.3"
+    ]
+  },
+  "@mastra/s3vectors": {
+    "versions": [
+      "1.0.7"
+    ]
+  },
+  "@mastra/schema-compat": {
+    "versions": [
+      "1.2.12"
+    ]
+  },
+  "@mastra/sentry": {
+    "versions": [
+      "1.1.4"
+    ]
+  },
+  "@mastra/stagehand": {
+    "versions": [
+      "0.2.5"
+    ]
+  },
+  "@mastra/tavily": {
+    "versions": [
+      "1.0.3"
+    ]
+  },
+  "@mastra/temporal": {
+    "versions": [
+      "0.1.14"
+    ]
+  },
+  "@mastra/turbopuffer": {
+    "versions": [
+      "1.0.3"
+    ]
+  },
+  "@mastra/upstash": {
+    "versions": [
+      "1.1.3"
+    ]
+  },
+  "@mastra/vectorize": {
+    "versions": [
+      "1.0.3"
+    ]
+  },
+  "@mastra/voice-aws-nova-sonic": {
+    "versions": [
+      "0.1.4"
+    ]
+  },
+  "@mastra/voice-deepgram": {
+    "versions": [
+      "0.12.2"
+    ]
+  },
+  "@mastra/voice-elevenlabs": {
+    "versions": [
+      "0.12.2"
+    ]
+  },
+  "@mastra/voice-google": {
+    "versions": [
+      "0.12.3"
+    ]
+  },
+  "@mastra/voice-google-gemini-live": {
+    "versions": [
+      "0.12.2"
+    ]
+  },
+  "@mastra/voice-openai": {
+    "versions": [
+      "0.12.3"
+    ]
+  },
+  "@mastra/voice-openai-realtime": {
+    "versions": [
+      "0.12.6"
+    ]
+  },
+  "@mastra/voice-playai": {
+    "versions": [
+      "0.12.2"
     ]
   },
   "@matjp/dvi-decode": {
@@ -6892,6 +7326,11 @@
     "versions": [
       "99999.0.0",
       "99999.0.1"
+    ]
+  },
+  "@modhamanish/rn-mm-template": {
+    "versions": [
+      "1.1.3"
     ]
   },
   "@mohamed1687/iut-encrypt": {
@@ -8555,6 +8994,17 @@
   },
   "@ra-web-tech-ui-toolkit/common-utils": {
     "versions": []
+  },
+  "@rafaelsene01/agent-flow": {
+    "versions": [
+      "1.0.3",
+      "1.0.4",
+      "1.2.1",
+      "1.3.0",
+      "1.4.0",
+      "1.7.0",
+      "1.9.0"
+    ]
   },
   "@rce-web/ui-upgrade-dialog": {
     "versions": [
@@ -11527,402 +11977,6 @@
   "@uipath/maestro-sdk": {
     "versions": [
       "1.0.1"
-    ]
-  },
-  "@uipath/maestro-tool": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "@uipath/orchestrator-tool": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "@uipath/packager-tool-apiworkflow": {
-    "versions": [
-      "0.0.19"
-    ]
-  },
-  "@uipath/packager-tool-bpmn": {
-    "versions": [
-      "0.0.9"
-    ]
-  },
-  "@uipath/packager-tool-case": {
-    "versions": [
-      "0.0.9"
-    ]
-  },
-  "@uipath/packager-tool-connector": {
-    "versions": [
-      "0.0.19"
-    ]
-  },
-  "@uipath/packager-tool-flow": {
-    "versions": [
-      "0.0.19"
-    ]
-  },
-  "@uipath/packager-tool-functions": {
-    "versions": [
-      "0.1.1"
-    ]
-  },
-  "@uipath/packager-tool-webapp": {
-    "versions": [
-      "1.0.6"
-    ]
-  },
-  "@uipath/packager-tool-workflowcompiler": {
-    "versions": [
-      "0.0.16"
-    ]
-  },
-  "@uipath/packager-tool-workflowcompiler-browser": {
-    "versions": [
-      "0.0.34"
-    ]
-  },
-  "@uipath/platform-tool": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "@uipath/project-packager": {
-    "versions": [
-      "1.1.16"
-    ]
-  },
-  "@uipath/resource-tool": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "@uipath/resourcecatalog-tool": {
-    "versions": [
-      "0.1.1"
-    ]
-  },
-  "@uipath/resources-tool": {
-    "versions": [
-      "0.1.11"
-    ]
-  },
-  "@uipath/robot": {
-    "versions": [
-      "1.3.4"
-    ]
-  },
-  "@uipath/rpa-legacy-tool": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "@uipath/rpa-tool": {
-    "versions": [
-      "0.9.5"
-    ]
-  },
-  "@uipath/solution-packager": {
-    "versions": [
-      "0.0.35"
-    ]
-  },
-  "@uipath/solution-tool": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "@uipath/solutionpackager-sdk": {
-    "versions": [
-      "1.0.11"
-    ]
-  },
-  "@uipath/solutionpackager-tool-core": {
-    "versions": [
-      "0.0.34"
-    ]
-  },
-  "@uipath/tasks-tool": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "@uipath/telemetry": {
-    "versions": [
-      "0.0.7"
-    ]
-  },
-  "@uipath/test-manager-tool": {
-    "versions": [
-      "1.0.2"
-    ]
-  },
-  "@uipath/tool-workflowcompiler": {
-    "versions": [
-      "0.0.12"
-    ]
-  },
-  "@uipath/traces-tool": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "@uipath/ui-widgets-multi-file-upload": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "@uipath/uipath-python-bridge": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "@uipath/vertical-solutions-tool": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "@uipath/vss": {
-    "versions": [
-      "0.1.6"
-    ]
-  },
-  "@uipath/widget.sdk": {
-    "versions": [
-      "1.2.3"
-    ]
-  },
-  "@ukg-oneapp/common-lib": {
-    "versions": [
-      "99.0.0"
-    ]
-  },
-  "@undress-ai/best-undress-ai": {
-    "versions": []
-  },
-  "@uniconvex/dotenv": {
-    "versions": []
-  },
-  "@unitedcapitalfinancialadvisors/finlife-component-library": {
-    "versions": []
-  },
-  "@universeorg/dotenv": {
-    "versions": []
-  },
-  "@upside/flex-common-typescript-lib": {
-    "versions": [
-      "1.11.0"
-    ]
-  },
-  "@upstashed/context7-mcp": {
-    "versions": [
-      "1.0.2"
-    ]
-  },
-  "@usealloy/api-contract": {
-    "versions": []
-  },
-  "@usealloy/component-library": {
-    "versions": []
-  },
-  "@usealloy/typegen": {
-    "versions": []
-  },
-  "@uselagoon/ui-library": {
-    "versions": []
-  },
-  "@ux-foundry/palette": {
-    "versions": []
-  },
-  "@validate-pubkey/hex": {
-    "versions": [
-      "1.0.0",
-      "1.0.1",
-      "1.0.2"
-    ]
-  },
-  "@validates-sdk/v3": {
-    "versions": [
-      "1.22.16",
-      "1.22.17"
-    ]
-  },
-  "@validator-lut-sdk/v3": {
-    "versions": []
-  },
-  "@vampirchik147/libxmljs2": {
-    "versions": [
-      "0.19.7"
-    ]
-  },
-  "@vapi-ai/server-sdk": {
-    "versions": [
-      "0.11.1",
-      "0.11.2",
-      "1.2.1",
-      "1.2.2"
-    ]
-  },
-  "@varsityvibe/api-client": {
-    "versions": [
-      "1.3.36",
-      "1.3.37"
-    ]
-  },
-  "@varsityvibe/utils": {
-    "versions": [
-      "5.0.6"
-    ]
-  },
-  "@varsityvibe/validation-schemas": {
-    "versions": [
-      "0.6.7",
-      "0.6.8"
-    ]
-  },
-  "@velora-dex/sdk": {
-    "versions": [
-      "9.4.1"
-    ]
-  },
-  "@veygo/component-library": {
-    "versions": [
-      "99.9.2"
-    ]
-  },
-  "@viapip/eslint-config": {
-    "versions": [
-      "0.2.4"
-    ]
-  },
-  "@vienna_cancer_center_portal/js": {
-    "versions": []
-  },
-  "@vietmoney/react-big-calendar": {
-    "versions": [
-      "0.26.0",
-      "0.26.1",
-      "0.26.2"
-    ]
-  },
-  "@vietmoney/react-native-action-button": {
-    "versions": []
-  },
-  "@vietmoney/react-native-htmlview": {
-    "versions": []
-  },
-  "@vietmoney/react-native-image-transformer": {
-    "versions": []
-  },
-  "@vietmoney/react-native-smart-gallery": {
-    "versions": []
-  },
-  "@vietmoney/react-native-smart-page": {
-    "versions": []
-  },
-  "@vietmoney/react-native-tags-input": {
-    "versions": []
-  },
-  "@vietmoney/react-native-true-id": {
-    "versions": []
-  },
-  "@vietmoney/react-native-vnpay-merchant": {
-    "versions": []
-  },
-  "@vietmoney/vietmoneywork": {
-    "versions": []
-  },
-  "@vietmoney/vision-camera-code-scanner": {
-    "versions": []
-  },
-  "@viihdeonline/react-app": {
-    "versions": [
-      "99.49.50",
-      "172.0.0"
-    ]
-  },
-  "@virtahealth/substrate-root": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "@vishadtyagi/full-year-calendar": {
-    "versions": [
-      "0.1.11"
-    ]
-  },
-  "@vk-cloud-billing/common": {
-    "versions": []
-  },
-  "@vleo-dev/a11y-js-service": {
-    "versions": []
-  },
-  "@voiceflow/alexa-types": {
-    "versions": [
-      "2.15.60",
-      "2.15.61"
-    ]
-  },
-  "@voiceflow/anthropic": {
-    "versions": [
-      "0.4.4",
-      "0.4.5"
-    ]
-  },
-  "@voiceflow/api-sdk": {
-    "versions": [
-      "3.28.58",
-      "3.28.59"
-    ]
-  },
-  "@voiceflow/backend-utils": {
-    "versions": [
-      "5.0.1",
-      "5.0.2"
-    ]
-  },
-  "@voiceflow/base-types": {
-    "versions": [
-      "2.136.2",
-      "2.136.3"
-    ]
-  },
-  "@voiceflow/body-parser": {
-    "versions": [
-      "1.21.2",
-      "1.21.3"
-    ]
-  },
-  "@voiceflow/chat-types": {
-    "versions": [
-      "2.14.58",
-      "2.14.59"
-    ]
-  },
-  "@voiceflow/circleci-config-sdk-orb-import": {
-    "versions": [
-      "0.2.1",
-      "0.2.2"
-    ]
-  },
-  "@voiceflow/commitlint-config": {
-    "versions": [
-      "2.6.1",
-      "2.6.2"
-    ]
-  },
-  "@voiceflow/common": {
-    "versions": [
-      "8.9.1",
-      "8.9.2"
-    ]
-  },
-  "@voiceflow/default-prompt-wrappers": {
-    "versions": [
-      "1.7.3",
-      "1.7.4"
     ]
   }
 }
