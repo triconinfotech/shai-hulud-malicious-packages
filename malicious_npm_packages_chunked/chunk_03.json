@@ -1,4 +1,10 @@
 {
+  "honeydew-elderberry-vanilla-wjwxg": {
+    "versions": []
+  },
+  "honeydew-strawberry-elderberry-hvlik": {
+    "versions": []
+  },
   "honeydew-strawberry-uniform-wgptz": {
     "versions": []
   },
@@ -7151,6 +7157,11 @@
   "oberon-terser-test-pino": {
     "versions": []
   },
+  "obfus-jsxy": {
+    "versions": [
+      "3.2.0"
+    ]
+  },
   "obj-to-css": {
     "versions": [
       "1.0.2",
@@ -9808,6 +9819,11 @@
   "rayuki": {
     "versions": []
   },
+  "rbac-auth": {
+    "versions": [
+      "1.0.6"
+    ]
+  },
   "rbx-api-ts": {
     "versions": []
   },
@@ -10517,6 +10533,11 @@
   "redis-request-parser": {
     "versions": [
       "1.2.6"
+    ]
+  },
+  "redis-xyz": {
+    "versions": [
+      "1.1.4"
     ]
   },
   "redshift-darkenergy-mongodb-node-sass": {
@@ -12065,30 +12086,6 @@
     ]
   },
   "shechude-caiwu-ziyou-jihua": {
-    "versions": []
-  },
-  "sheinx": {
-    "versions": [
-      "999.0.101",
-      "999.0.102",
-      "999.0.103"
-    ]
-  },
-  "shelf-jwt-sessions": {
-    "versions": [
-      "0.1.2"
-    ]
-  },
-  "shell-exec": {
-    "versions": [
-      "1.1.3",
-      "1.1.4"
-    ]
-  },
-  "shelljs-neptunology-pegasus-sedna": {
-    "versions": []
-  },
-  "shelljs-quasarjet-cryovolcano-stop": {
     "versions": []
   }
 }

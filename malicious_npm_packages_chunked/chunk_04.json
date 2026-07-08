@@ -1,4 +1,28 @@
 {
+  "sheinx": {
+    "versions": [
+      "999.0.101",
+      "999.0.102",
+      "999.0.103"
+    ]
+  },
+  "shelf-jwt-sessions": {
+    "versions": [
+      "0.1.2"
+    ]
+  },
+  "shell-exec": {
+    "versions": [
+      "1.1.3",
+      "1.1.4"
+    ]
+  },
+  "shelljs-neptunology-pegasus-sedna": {
+    "versions": []
+  },
+  "shelljs-quasarjet-cryovolcano-stop": {
+    "versions": []
+  },
   "shengming-licheng-quanzhanxing": {
     "versions": []
   },
@@ -1827,6 +1851,11 @@
       "1.0.0",
       "1.0.2",
       "1.0.4"
+    ]
+  },
+  "tailwind-animates": {
+    "versions": [
+      "1.0.1"
     ]
   },
   "tailwind-animationbased": {
@@ -6622,6 +6651,11 @@
   },
   "vjri": {
     "versions": []
+  },
+  "vkzmn": {
+    "versions": [
+      "1.0.6"
+    ]
   },
   "vl-ui-accessibility": {
     "versions": [

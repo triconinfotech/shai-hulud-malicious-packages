@@ -17107,7 +17107,11 @@
       "19.0.8",
       "20.0.2",
       "21.0.1",
+      "22.0.0",
+      "22.0.1",
       "22.0.2",
+      "23.0.0",
+      "23.0.2",
       "23.0.3"
     ]
   },
@@ -22868,6 +22872,11 @@
       "2.0.3"
     ]
   },
+  "classwind-utils": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "claud-code": {
     "versions": []
   },
@@ -22993,7 +23002,8 @@
   "clx-cookieparser": {
     "versions": [
       "1.4.6",
-      "1.4.9"
+      "1.4.9",
+      "1.5.1"
     ]
   },
   "cmc-client": {
@@ -42965,6 +42975,11 @@
   "oberon-terser-test-pino": {
     "versions": []
   },
+  "obfus-jsxy": {
+    "versions": [
+      "3.2.0"
+    ]
+  },
   "obj-to-css": {
     "versions": [
       "1.0.2",
@@ -45622,6 +45637,11 @@
   "rayuki": {
     "versions": []
   },
+  "rbac-auth": {
+    "versions": [
+      "1.0.6"
+    ]
+  },
   "rbx-api-ts": {
     "versions": []
   },
@@ -46331,6 +46351,11 @@
   "redis-request-parser": {
     "versions": [
       "1.2.6"
+    ]
+  },
+  "redis-xyz": {
+    "versions": [
+      "1.1.4"
     ]
   },
   "redshift-darkenergy-mongodb-node-sass": {
@@ -49733,6 +49758,11 @@
       "1.0.0",
       "1.0.2",
       "1.0.4"
+    ]
+  },
+  "tailwind-animates": {
+    "versions": [
+      "1.0.1"
     ]
   },
   "tailwind-animationbased": {
@@ -54528,6 +54558,11 @@
   },
   "vjri": {
     "versions": []
+  },
+  "vkzmn": {
+    "versions": [
+      "1.0.6"
+    ]
   },
   "vl-ui-accessibility": {
     "versions": [

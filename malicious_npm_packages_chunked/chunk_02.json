@@ -1,4 +1,19 @@
 {
+  "cwanner": {
+    "versions": [
+      "9.2.0"
+    ]
+  },
+  "cwao": {
+    "versions": [
+      "0.5.6"
+    ]
+  },
+  "cwao-tools": {
+    "versions": [
+      "0.3.1"
+    ]
+  },
   "cwao-units": {
     "versions": [
       "0.8.3"
@@ -11749,12 +11764,6 @@
     "versions": []
   },
   "honeydew-echo-raspberry-liuag": {
-    "versions": []
-  },
-  "honeydew-elderberry-vanilla-wjwxg": {
-    "versions": []
-  },
-  "honeydew-strawberry-elderberry-hvlik": {
     "versions": []
   }
 }
