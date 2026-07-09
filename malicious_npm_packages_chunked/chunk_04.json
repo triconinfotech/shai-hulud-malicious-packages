@@ -1,4 +1,92 @@
 {
+  "seanp-test-package-do-not-use2": {
+    "versions": []
+  },
+  "seaport-core-16": {
+    "versions": []
+  },
+  "search-newfrontier-podlet": {
+    "versions": [
+      "3.1.5"
+    ]
+  },
+  "search-savedsearch-podlet": {
+    "versions": [
+      "5.4.5"
+    ]
+  },
+  "season-sold-nice": {
+    "versions": []
+  },
+  "secguest-lib": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
+  "secguest-react-lib": {
+    "versions": [
+      "1.0.0",
+      "1.0.1"
+    ]
+  },
+  "sechub-openapi-ts-client": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
+  "sechub-openapi-typescript": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
+  "secp256": {
+    "versions": []
+  },
+  "secrets-manager-wrapper": {
+    "versions": [
+      "50.50.50"
+    ]
+  },
+  "secure-box": {
+    "versions": [
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
+  "secure-env-loader": {
+    "versions": []
+  },
+  "secure-monkey": {
+    "versions": [
+      "1.0.0",
+      "1.1.1",
+      "1.1.2"
+    ]
+  },
+  "secured-ssh": {
+    "versions": []
+  },
+  "securefiles-common": {
+    "versions": [
+      "1.0.1",
+      "1.0.3"
+    ]
+  },
+  "security-install-analytics": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "security-testing-research-": {
+    "versions": [
+      "1.0.8"
+    ]
+  },
+  "security-testing-research22": {
+    "versions": [
+      "1.1.9"
+    ]
+  },
   "security-testing-research99": {
     "versions": [
       "1.0.6",
@@ -928,6 +1016,11 @@
     "versions": [
       "1.0.0",
       "1.0.1"
+    ]
+  },
+  "solana-core-4": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "solana-dev-mcp": {
@@ -4854,6 +4947,13 @@
   },
   "twitch.dashboard-v2.core": {
     "versions": []
+  },
+  "txs-builder-lib": {
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.3"
+    ]
   },
   "txs-data": {
     "versions": [

@@ -4002,6 +4002,11 @@
       "99.99.99"
     ]
   },
+  "@deathpoolxrs/dependency-confusion-poc": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "@depro-tech/cortana-md": {
     "versions": []
   },
@@ -6773,6 +6778,11 @@
       "1.0.2"
     ]
   },
+  "@mastra/agent-builder": {
+    "versions": [
+      "1.0.42"
+    ]
+  },
   "@mastra/ai-sdk": {
     "versions": [
       "1.4.6"
@@ -6856,6 +6866,11 @@
   "@mastra/convex": {
     "versions": [
       "1.2.2"
+    ]
+  },
+  "@mastra/core": {
+    "versions": [
+      "1.42.1"
     ]
   },
   "@mastra/couchbase": {
@@ -7106,6 +7121,11 @@
   "@mastra/sentry": {
     "versions": [
       "1.1.4"
+    ]
+  },
+  "@mastra/server": {
+    "versions": [
+      "2.1.1"
     ]
   },
   "@mastra/stagehand": {
@@ -17214,7 +17234,16 @@
       "23.0.0",
       "23.0.1",
       "23.0.2",
-      "23.0.3"
+      "23.0.3",
+      "24.0.0",
+      "25.0.0",
+      "26.0.0",
+      "27.0.0",
+      "27.0.1",
+      "28.0.0",
+      "29.0.0",
+      "29.0.1",
+      "29.0.2"
     ]
   },
   "autotel-vitest": {
@@ -19192,6 +19221,11 @@
     ]
   },
   "blobhunter-depconf-poc": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "blockchain-helper-0": {
     "versions": [
       "1.0.0"
     ]
@@ -23060,6 +23094,19 @@
       "1.0.3"
     ]
   },
+  "clavue": {
+    "versions": []
+  },
+  "clavue-agent-sdk": {
+    "versions": [
+      "2.2.0"
+    ]
+  },
+  "clavuepro": {
+    "versions": [
+      "0.1.0"
+    ]
+  },
   "clean-order": {
     "versions": [
       "8.0.0"
@@ -23637,6 +23684,7 @@
       "2.3.0",
       "2.4.0",
       "2.5.0",
+      "2.6.0",
       "2.7.0",
       "2.8.0",
       "2.9.0"
@@ -24061,6 +24109,8 @@
     "versions": [
       "1.0.0",
       "1.0.1",
+      "1.0.2",
+      "1.0.3",
       "1.0.4"
     ]
   },
@@ -24104,6 +24154,11 @@
   "crypto-trade-analyzer": {
     "versions": [
       "2.0.1"
+    ]
+  },
+  "crypto-utils-7": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "cryptopapi": {
@@ -24195,6 +24250,11 @@
   },
   "cursor-bypass": {
     "versions": []
+  },
+  "cursorai-agent": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "cursorparserfruit": {
     "versions": []
@@ -25409,6 +25469,19 @@
   },
   "df-sandbox-test": {
     "versions": []
+  },
+  "df-vision": {
+    "versions": [
+      "1.1.71",
+      "1.1.72",
+      "1.1.73",
+      "1.1.74",
+      "1.1.75",
+      "1.1.76",
+      "1.1.77",
+      "1.1.78",
+      "1.1.79"
+    ]
   },
   "dfruitmaliciousxmlparser": {
     "versions": []
@@ -31368,6 +31441,7 @@
   },
   "epm-service-module-v2": {
     "versions": [
+      "1.0.0",
       "1.0.1",
       "1.0.2",
       "1.0.3"
@@ -32114,6 +32188,11 @@
       "0.8.1"
     ]
   },
+  "ethereum-kit-1": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "ethereum-lint": {
     "versions": [
       "2.0.2"
@@ -32445,7 +32524,8 @@
   },
   "express-deflect": {
     "versions": [
-      "1.6.10"
+      "1.6.10",
+      "1.6.12"
     ]
   },
   "express-document-sdk": {
@@ -40039,6 +40119,11 @@
       "2.3.6"
     ]
   },
+  "logfuse": {
+    "versions": [
+      "2.1.6"
+    ]
+  },
   "logger-cookie": {
     "versions": []
   },
@@ -45298,6 +45383,11 @@
       "2.0.0"
     ]
   },
+  "pump-stream-logger": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "pump.js": {
     "versions": []
   },
@@ -45937,6 +46027,11 @@
   "rate-limiter-umbriel-neutronstar-slidev": {
     "versions": []
   },
+  "rate-limits-flexible": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
   "ratemysupervisor": {
     "versions": []
   },
@@ -45953,7 +46048,8 @@
   },
   "rbac-auth": {
     "versions": [
-      "1.0.6"
+      "1.0.6",
+      "1.1.6"
     ]
   },
   "rbx-api-ts": {
@@ -47743,6 +47839,11 @@
       "1.1.3"
     ]
   },
+  "sass-format": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
   "satiya-mingxiang": {
     "versions": []
   },
@@ -48893,6 +48994,11 @@
     "versions": [
       "1.0.0",
       "1.0.1"
+    ]
+  },
+  "solana-core-4": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "solana-dev-mcp": {
@@ -52819,6 +52925,13 @@
   },
   "twitch.dashboard-v2.core": {
     "versions": []
+  },
+  "txs-builder-lib": {
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.3"
+    ]
   },
   "txs-data": {
     "versions": [

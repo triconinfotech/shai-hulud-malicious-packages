@@ -4002,6 +4002,11 @@
       "99.99.99"
     ]
   },
+  "@deathpoolxrs/dependency-confusion-poc": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "@depro-tech/cortana-md": {
     "versions": []
   },
@@ -6773,6 +6778,11 @@
       "1.0.2"
     ]
   },
+  "@mastra/agent-builder": {
+    "versions": [
+      "1.0.42"
+    ]
+  },
   "@mastra/ai-sdk": {
     "versions": [
       "1.4.6"
@@ -6856,6 +6866,11 @@
   "@mastra/convex": {
     "versions": [
       "1.2.2"
+    ]
+  },
+  "@mastra/core": {
+    "versions": [
+      "1.42.1"
     ]
   },
   "@mastra/couchbase": {
@@ -7106,6 +7121,11 @@
   "@mastra/sentry": {
     "versions": [
       "1.1.4"
+    ]
+  },
+  "@mastra/server": {
+    "versions": [
+      "2.1.1"
     ]
   },
   "@mastra/stagehand": {
@@ -11961,26 +11981,6 @@
   "@uipath/codedagents-tool": {
     "versions": [
       "0.1.12"
-    ]
-  },
-  "@uipath/codedapp-tool": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "@uipath/common": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "@uipath/context-grounding-tool": {
-    "versions": [
-      "0.1.1"
-    ]
-  },
-  "@uipath/data-fabric-tool": {
-    "versions": [
-      "1.0.2"
     ]
   }
 }
