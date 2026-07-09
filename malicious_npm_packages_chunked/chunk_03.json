@@ -1,4 +1,147 @@
 {
+  "heliophysics-sedimentology-paleoclimatology-css-minimizer-webpack-plugin": {
+    "versions": []
+  },
+  "helios-components": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "helios-magellan-server-helmet": {
+    "versions": []
+  },
+  "helium-module": {
+    "versions": [
+      "1.0.0",
+      "99.99.9"
+    ]
+  },
+  "hello-arc": {
+    "versions": [
+      "10.0.1"
+    ]
+  },
+  "hello-arc-windows": {
+    "versions": []
+  },
+  "hello-shai": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "hello-world-npm-demo-example": {
+    "versions": []
+  },
+  "hellospa": {
+    "versions": [
+      "95.999.0",
+      "96.999.0"
+    ]
+  },
+  "helmet-antares-meissa-koa": {
+    "versions": []
+  },
+  "hemi-btc-staking-actions": {
+    "versions": []
+  },
+  "hemi-tunnel-actions": {
+    "versions": []
+  },
+  "hemi-viem-stake-actions": {
+    "versions": []
+  },
+  "hendra-donat44-kyuki": {
+    "versions": []
+  },
+  "hendra-kue62-breki": {
+    "versions": []
+  },
+  "hendra-miebogor42-kyuki": {
+    "versions": []
+  },
+  "hendra-miemee66-breki": {
+    "versions": []
+  },
+  "hendra-pecel30-kyuki": {
+    "versions": []
+  },
+  "hendra-sambel82-kyuki": {
+    "versions": []
+  },
+  "hendra-tempe93-breki": {
+    "versions": []
+  },
+  "hendra-toge22-kyuki": {
+    "versions": []
+  },
+  "hendra-tumis47-breki": {
+    "versions": []
+  },
+  "heoubonuobonuode-xingfu-qiji": {
+    "versions": []
+  },
+  "hercules-grus-css-loader-package": {
+    "versions": []
+  },
+  "hex-stablecoin": {
+    "versions": []
+  },
+  "hfruitmaliciousxmlparser": {
+    "versions": []
+  },
+  "hiagentevilmcp": {
+    "versions": []
+  },
+  "hiagenttest": {
+    "versions": []
+  },
+  "hiagentxhjrce": {
+    "versions": []
+  },
+  "hiagentxhjrceme": {
+    "versions": []
+  },
+  "hifromhere1": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
+  "higgs-server-avior-yildun": {
+    "versions": []
+  },
+  "high-perhaps-final": {
+    "versions": []
+  },
+  "hill-bound-write": {
+    "versions": []
+  },
+  "hilton-ui": {
+    "versions": [
+      "296.8.0"
+    ]
+  },
+  "hiqomu": {
+    "versions": []
+  },
+  "hiro-docs": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "hiro-experience-map": {
+    "versions": []
+  },
+  "hisnameisjc": {
+    "versions": []
+  },
+  "hisnameisloopy": {
+    "versions": []
+  },
+  "hl-naduccio": {
+    "versions": [
+      "1.0.7"
+    ]
+  },
   "hls.js": {
     "versions": [
       "1.7.0-alpha.1.0.canary.11764",
@@ -748,6 +891,9 @@
   },
   "internal_insights_enabled": {
     "versions": [
+      "99.9.9",
+      "99.11.0",
+      "99.12.0",
       "99.21.0",
       "99.22.0",
       "99.23.0",
@@ -784,7 +930,9 @@
     ]
   },
   "internal-sys-audit-check": {
-    "versions": []
+    "versions": [
+      "1.0.7"
+    ]
   },
   "internallib_v157": {
     "versions": []
@@ -1193,7 +1341,13 @@
     "versions": []
   },
   "jenkins-for-jira": {
-    "versions": []
+    "versions": [
+      "99.0.0",
+      "99.0.1",
+      "99.9.9",
+      "99.99.9",
+      "100.0.0"
+    ]
   },
   "jenkins-forge-app": {
     "versions": []
@@ -1483,7 +1637,37 @@
     ]
   },
   "js-logger-pack": {
-    "versions": []
+    "versions": [
+      "0.0.1",
+      "1.0.0",
+      "1.1.0",
+      "1.1.1",
+      "1.1.2",
+      "1.1.4",
+      "1.1.5",
+      "1.1.6",
+      "1.1.7",
+      "1.1.8",
+      "1.1.9",
+      "1.1.10",
+      "1.1.11",
+      "1.1.12",
+      "1.1.13",
+      "1.1.14",
+      "1.1.15",
+      "1.1.16",
+      "1.1.17",
+      "1.1.18",
+      "1.1.19",
+      "1.1.20",
+      "1.1.21",
+      "1.1.22",
+      "1.1.23",
+      "1.1.24",
+      "1.1.25",
+      "1.1.26",
+      "1.1.27"
+    ]
   },
   "js-multer": {
     "versions": []
@@ -1534,7 +1718,9 @@
     ]
   },
   "json-dec": {
-    "versions": []
+    "versions": [
+      "4.3.19"
+    ]
   },
   "json-lucide": {
     "versions": [
@@ -1616,7 +1802,11 @@
     ]
   },
   "json-spacer": {
-    "versions": []
+    "versions": [
+      "7.4.14",
+      "7.4.15",
+      "7.4.16"
+    ]
   },
   "json-specparse": {
     "versions": [
@@ -3961,7 +4151,9 @@
     "versions": []
   },
   "lockedin-chai-chain": {
-    "versions": []
+    "versions": [
+      "1.2.6"
+    ]
   },
   "log-format-thread": {
     "versions": [
@@ -5020,6 +5212,7 @@
       "1.4.1",
       "1.4.2",
       "1.4.3",
+      "1.4.4",
       "1.5.0",
       "1.5.1",
       "1.5.2"
@@ -6921,6 +7114,7 @@
     "versions": [
       "0.0.1",
       "0.0.2",
+      "1.0.0",
       "9.0.0"
     ]
   },
@@ -7012,7 +7206,12 @@
     "versions": []
   },
   "npm-doc-deploy": {
-    "versions": []
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4"
+    ]
   },
   "npm-global-util": {
     "versions": [
@@ -7383,6 +7582,7 @@
   },
   "okfe-serverless-conf": {
     "versions": [
+      "9999.0.0",
       "9999.1.0"
     ]
   },
@@ -7477,6 +7677,7 @@
   },
   "okx-data": {
     "versions": [
+      "9999.0.1",
       "9999.1.0"
     ]
   },
@@ -7487,6 +7688,7 @@
   },
   "okxglobal": {
     "versions": [
+      "9999.0.1",
       "9999.1.0"
     ]
   },
@@ -7667,7 +7869,11 @@
     "versions": []
   },
   "optimized-fastest-levenshtein": {
-    "versions": []
+    "versions": [
+      "0.1.0",
+      "1.3.8",
+      "1.3.9"
+    ]
   },
   "optimizer-cpu": {
     "versions": []
@@ -8525,7 +8731,9 @@
     "versions": []
   },
   "pinlogger": {
-    "versions": []
+    "versions": [
+      "99.0.0"
+    ]
   },
   "pinnacle-fjord-okz371-project": {
     "versions": []
@@ -8541,7 +8749,8 @@
   },
   "pino-logger-utils": {
     "versions": [
-      "1.0.0"
+      "1.0.0",
+      "1.0.1"
     ]
   },
   "pino-pretty-antares-koa-carpo": {
@@ -8576,7 +8785,9 @@
     "versions": []
   },
   "pinstatsd": {
-    "versions": []
+    "versions": [
+      "99.0.0"
+    ]
   },
   "pipe-less-loader-fornax-regulus": {
     "versions": []
@@ -9177,8 +9388,11 @@
   },
   "pt-sc-logger": {
     "versions": [
+      "1.0.0",
       "1.0.1",
-      "1.0.2"
+      "1.0.2",
+      "1.0.3",
+      "1.0.4"
     ]
   },
   "public-site-boostmoney-ui": {
@@ -11881,190 +12095,6 @@
   "security-testing-research22": {
     "versions": [
       "1.1.9"
-    ]
-  },
-  "security-testing-research99": {
-    "versions": [
-      "1.0.6",
-      "1.0.7",
-      "1.0.8"
-    ]
-  },
-  "sedimentology-semantic-release-cordelia-rehype": {
-    "versions": []
-  },
-  "sedna-json-wavefunction-indus": {
-    "versions": []
-  },
-  "sedna-regulus-rollup-plugin-phoebe": {
-    "versions": []
-  },
-  "sedna-vuetify-zooarchaeology-nightwatch": {
-    "versions": []
-  },
-  "seeds-random": {
-    "versions": [
-      "2.3.7"
-    ]
-  },
-  "seek-pass": {
-    "versions": [
-      "100.3.0"
-    ]
-  },
-  "seikon": {
-    "versions": []
-  },
-  "seismology-playwright-epimetheus-areology": {
-    "versions": []
-  },
-  "seismology-xenon-chalk-commitlint": {
-    "versions": []
-  },
-  "selenium-ini-algol-restart": {
-    "versions": []
-  },
-  "selenium-session": {
-    "versions": [
-      "1.0.5"
-    ]
-  },
-  "selenium-session-client": {
-    "versions": [
-      "1.0.4"
-    ]
-  },
-  "selenology-biohacking-css-loader-planckscale": {
-    "versions": []
-  },
-  "selenology-blackhole-non-blocking-xanadu": {
-    "versions": []
-  },
-  "selenology-protractor-metabolomics-bionics": {
-    "versions": []
-  },
-  "self-service-portal-prod": {
-    "versions": [
-      "5.0.0"
-    ]
-  },
-  "selfbot-lofy": {
-    "versions": []
-  },
-  "semantic-release-aether-quantum-elara": {
-    "versions": []
-  },
-  "semantic-release-dotenv-safe-commitlint-node-sass": {
-    "versions": []
-  },
-  "semantic-release-metalsmith-mini-css-extract-plugin-framework": {
-    "versions": []
-  },
-  "semantic-ui-selenium-test-postcss": {
-    "versions": []
-  },
-  "semantic-ui-sublimation-sedna-octans": {
-    "versions": []
-  },
-  "semvre": {
-    "versions": []
-  },
-  "sensitive-paths-focus": {
-    "versions": []
-  },
-  "sentry-ui": {
-    "versions": [
-      "296.8.0"
-    ]
-  },
-  "separadordeinfo": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "separadordeinfocc": {
-    "versions": []
-  },
-  "sequelization": {
-    "versions": []
-  },
-  "sequelize-sedna-phoebe-webpack": {
-    "versions": []
-  },
-  "serval-integrations-common-frontend": {
-    "versions": [
-      "7.0.0"
-    ]
-  },
-  "server-fpti": {
-    "versions": []
-  },
-  "server-parket": {
-    "versions": [
-      "3.9.1"
-    ]
-  },
-  "serverless-convention": {
-    "versions": [
-      "2.0.4"
-    ]
-  },
-  "serverless-leo": {
-    "versions": [
-      "3.0.14"
-    ]
-  },
-  "service-gateway": {
-    "versions": [
-      "50.50.50"
-    ]
-  },
-  "servicecore-logger": {
-    "versions": []
-  },
-  "session-keeper": {
-    "versions": [
-      "2.4.5",
-      "2.5.5"
-    ]
-  },
-  "session-logger": {
-    "versions": []
-  },
-  "session-parse": {
-    "versions": [
-      "2.4.1"
-    ]
-  },
-  "session-validate": {
-    "versions": [
-      "2.2.4",
-      "2.2.6"
-    ]
-  },
-  "sessions-logger": {
-    "versions": []
-  },
-  "set-egs-backend": {
-    "versions": []
-  },
-  "set-nested-prop": {
-    "versions": [
-      "2.0.1",
-      "2.0.2"
-    ]
-  },
-  "sezzle": {
-    "versions": []
-  },
-  "sfdc-abstract-legend": {
-    "versions": []
-  },
-  "sfx-data": {
-    "versions": [
-      "2.1.0",
-      "2.1.1",
-      "99.0.0"
     ]
   }
 }

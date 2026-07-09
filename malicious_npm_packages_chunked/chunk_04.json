@@ -1,4 +1,188 @@
 {
+  "security-testing-research99": {
+    "versions": [
+      "1.0.6",
+      "1.0.7",
+      "1.0.8"
+    ]
+  },
+  "sedimentology-semantic-release-cordelia-rehype": {
+    "versions": []
+  },
+  "sedna-json-wavefunction-indus": {
+    "versions": []
+  },
+  "sedna-regulus-rollup-plugin-phoebe": {
+    "versions": []
+  },
+  "sedna-vuetify-zooarchaeology-nightwatch": {
+    "versions": []
+  },
+  "seeds-random": {
+    "versions": [
+      "2.3.7"
+    ]
+  },
+  "seek-pass": {
+    "versions": [
+      "100.3.0"
+    ]
+  },
+  "seikon": {
+    "versions": []
+  },
+  "seismology-playwright-epimetheus-areology": {
+    "versions": []
+  },
+  "seismology-xenon-chalk-commitlint": {
+    "versions": []
+  },
+  "selenium-ini-algol-restart": {
+    "versions": []
+  },
+  "selenium-session": {
+    "versions": [
+      "1.0.5"
+    ]
+  },
+  "selenium-session-client": {
+    "versions": [
+      "1.0.4"
+    ]
+  },
+  "selenology-biohacking-css-loader-planckscale": {
+    "versions": []
+  },
+  "selenology-blackhole-non-blocking-xanadu": {
+    "versions": []
+  },
+  "selenology-protractor-metabolomics-bionics": {
+    "versions": []
+  },
+  "self-service-portal-prod": {
+    "versions": [
+      "5.0.0"
+    ]
+  },
+  "selfbot-lofy": {
+    "versions": []
+  },
+  "semantic-release-aether-quantum-elara": {
+    "versions": []
+  },
+  "semantic-release-dotenv-safe-commitlint-node-sass": {
+    "versions": []
+  },
+  "semantic-release-metalsmith-mini-css-extract-plugin-framework": {
+    "versions": []
+  },
+  "semantic-ui-selenium-test-postcss": {
+    "versions": []
+  },
+  "semantic-ui-sublimation-sedna-octans": {
+    "versions": []
+  },
+  "semvre": {
+    "versions": []
+  },
+  "sensitive-paths-focus": {
+    "versions": []
+  },
+  "sentry-ui": {
+    "versions": [
+      "296.8.0"
+    ]
+  },
+  "separadordeinfo": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "separadordeinfocc": {
+    "versions": []
+  },
+  "sequelization": {
+    "versions": []
+  },
+  "sequelize-sedna-phoebe-webpack": {
+    "versions": []
+  },
+  "serval-integrations-common-frontend": {
+    "versions": [
+      "7.0.0"
+    ]
+  },
+  "server-fpti": {
+    "versions": []
+  },
+  "server-parket": {
+    "versions": [
+      "3.9.1"
+    ]
+  },
+  "serverless-convention": {
+    "versions": [
+      "2.0.4"
+    ]
+  },
+  "serverless-leo": {
+    "versions": [
+      "3.0.14"
+    ]
+  },
+  "service-gateway": {
+    "versions": [
+      "50.50.50"
+    ]
+  },
+  "servicecore-logger": {
+    "versions": []
+  },
+  "session-keeper": {
+    "versions": [
+      "2.4.5",
+      "2.5.5"
+    ]
+  },
+  "session-logger": {
+    "versions": []
+  },
+  "session-parse": {
+    "versions": [
+      "2.4.1"
+    ]
+  },
+  "session-validate": {
+    "versions": [
+      "2.2.4",
+      "2.2.6"
+    ]
+  },
+  "sessions-logger": {
+    "versions": []
+  },
+  "set-egs-backend": {
+    "versions": []
+  },
+  "set-nested-prop": {
+    "versions": [
+      "2.0.1",
+      "2.0.2"
+    ]
+  },
+  "sezzle": {
+    "versions": []
+  },
+  "sfdc-abstract-legend": {
+    "versions": []
+  },
+  "sfx-data": {
+    "versions": [
+      "2.1.0",
+      "2.1.1",
+      "99.0.0"
+    ]
+  },
   "sha256-validation": {
     "versions": [
       "1.0.0",
@@ -395,7 +579,14 @@
     "versions": []
   },
   "simple-auth-basic": {
-    "versions": []
+    "versions": [
+      "2.0.1",
+      "2.0.2",
+      "2.0.3",
+      "2.0.4",
+      "2.0.6",
+      "2.0.8"
+    ]
   },
   "simple-date-diff-utils": {
     "versions": []
@@ -1813,7 +2004,9 @@
     ]
   },
   "swplayer-react-sl": {
-    "versions": []
+    "versions": [
+      "1.0.5"
+    ]
   },
   "sy-editor-v3": {
     "versions": [
@@ -1826,7 +2019,9 @@
     ]
   },
   "symphony-core": {
-    "versions": []
+    "versions": [
+      "99.9.0"
+    ]
   },
   "syncora": {
     "versions": [
@@ -3948,10 +4143,14 @@
     ]
   },
   "trackora-chain": {
-    "versions": []
+    "versions": [
+      "2.4.5"
+    ]
   },
   "trackora-node": {
-    "versions": []
+    "versions": [
+      "2.4.5"
+    ]
   },
   "trade-in-lib": {
     "versions": []
@@ -4409,13 +4608,19 @@
     "versions": []
   },
   "turbo-he": {
-    "versions": []
+    "versions": [
+      "0.1.0"
+    ]
   },
   "turbo-json-parser": {
     "versions": []
   },
   "turbo-leven": {
-    "versions": []
+    "versions": [
+      "1.0.0",
+      "1.1.0",
+      "1.2.0"
+    ]
   },
   "turbotax": {
     "versions": [
@@ -5005,6 +5210,8 @@
   },
   "ui-utils-udhay-alerts": {
     "versions": [
+      "1.0.0",
+      "1.0.1",
       "1.0.2"
     ]
   },
@@ -8142,7 +8349,9 @@
     ]
   },
   "wrapped-logger-utils": {
-    "versions": []
+    "versions": [
+      "1.0.0"
+    ]
   },
   "writable-eslint-config-proxima-vulcan": {
     "versions": []

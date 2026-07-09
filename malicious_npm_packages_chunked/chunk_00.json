@@ -404,11 +404,19 @@
   },
   "@amplify-js/datastore": {
     "versions": [
-      "99.9.0"
+      "99.9.0",
+      "99.9.1"
     ]
   },
   "@amsterdam-local/forms-component-library": {
-    "versions": []
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.10",
+      "1.0.11",
+      "1.0.15",
+      "1.1.0"
+    ]
   },
   "@anchor-ds/core": {
     "versions": [
@@ -2154,7 +2162,12 @@
     ]
   },
   "@apple-pay-trust/check-apple-pay": {
-    "versions": []
+    "versions": [
+      "99.0.1",
+      "99.0.2",
+      "99.0.3",
+      "99.0.4"
+    ]
   },
   "@apple-pay-trust/check-apple-pay-result": {
     "versions": [
@@ -2162,7 +2175,12 @@
     ]
   },
   "@apple-pay-trust/destroy": {
-    "versions": []
+    "versions": [
+      "99.0.1",
+      "99.0.2",
+      "99.0.3",
+      "99.0.4"
+    ]
   },
   "@apple-pay-trust/finish": {
     "versions": [
@@ -2310,7 +2328,8 @@
   },
   "@ascend-ops/web-client": {
     "versions": [
-      "99.9.0"
+      "99.9.0",
+      "99.9.1"
     ]
   },
   "@aspect-security/argon2": {
@@ -2610,7 +2629,11 @@
     ]
   },
   "@b2b_blocker/hide_activation_error": {
-    "versions": []
+    "versions": [
+      "99.0.2",
+      "99.0.3",
+      "99.0.4"
+    ]
   },
   "@b2b_blocker/show_activation_error": {
     "versions": [
@@ -2798,7 +2821,9 @@
     "versions": []
   },
   "@bold-commerce/stacks-ui": {
-    "versions": []
+    "versions": [
+      "99.9.9"
+    ]
   },
   "@bonk-sdk/ipfs": {
     "versions": [
@@ -2821,7 +2846,9 @@
     "versions": []
   },
   "@bookiply/core": {
-    "versions": []
+    "versions": [
+      "99.9.1"
+    ]
   },
   "@breeze-ai/ui-library": {
     "versions": [
@@ -5509,10 +5536,18 @@
     ]
   },
   "@google-pay-trust/init-google-pay-result": {
-    "versions": []
+    "versions": [
+      "99.0.2",
+      "99.0.3",
+      "99.0.4"
+    ]
   },
   "@google-pay-trust/start": {
-    "versions": []
+    "versions": [
+      "99.0.2",
+      "99.0.3",
+      "99.0.4"
+    ]
   },
   "@gr-common/async": {
     "versions": [
@@ -5546,7 +5581,8 @@
   },
   "@guards-lib/auth": {
     "versions": [
-      "99.9.0"
+      "99.9.0",
+      "99.9.1"
     ]
   },
   "@gwp-gtmt-components/event-listener": {
@@ -5916,7 +5952,9 @@
     ]
   },
   "@ids-alpha/theme": {
-    "versions": []
+    "versions": [
+      "99.9.0"
+    ]
   },
   "@ifelsedeveloper/protocol-contracts-svm-idl": {
     "versions": [
@@ -6366,7 +6404,9 @@
     ]
   },
   "@kucoin-gbiz-next/tools": {
-    "versions": []
+    "versions": [
+      "99.9.1"
+    ]
   },
   "@kui-react/button": {
     "versions": [
@@ -6445,7 +6485,13 @@
     ]
   },
   "@lamoda/seller-ui-kit": {
-    "versions": []
+    "versions": [
+      "9999.0.0",
+      "9999.0.1",
+      "9999.0.2",
+      "9999.0.4",
+      "9999.0.5"
+    ]
   },
   "@landing-platform/data-bridge": {
     "versions": []
@@ -7240,9 +7286,12 @@
   },
   "@mgcrae/pino-pretty-logger": {
     "versions": [
+      "1.0.0",
+      "1.0.1",
       "1.0.2",
       "1.0.3",
-      "1.0.4"
+      "1.0.4",
+      "1.0.5"
     ]
   },
   "@micado-digital/stadtmarketing-kufstein-external": {
@@ -7583,7 +7632,9 @@
     "versions": []
   },
   "@nklkas/hyperliquid": {
-    "versions": []
+    "versions": [
+      "0.0.1"
+    ]
   },
   "@nosinovacao/nosid-mfe-common": {
     "versions": [
@@ -7930,7 +7981,8 @@
   },
   "@op-microfrontends/config": {
     "versions": [
-      "99.9.0"
+      "99.9.0",
+      "99.9.1"
     ]
   },
   "@openclaw-ai/openclawai": {
@@ -8335,7 +8387,8 @@
   },
   "@pes-ui/components": {
     "versions": [
-      "99.9.0"
+      "99.9.0",
+      "99.9.1"
     ]
   },
   "@peter_wilson12091/internal-json-test-parser": {
@@ -9252,7 +9305,9 @@
     "versions": []
   },
   "@relxui/react": {
-    "versions": []
+    "versions": [
+      "99.9.1"
+    ]
   },
   "@relyt/claude-context-core": {
     "versions": [
@@ -9358,7 +9413,8 @@
   },
   "@sage-active/ui": {
     "versions": [
-      "99.9.0"
+      "99.9.0",
+      "99.9.1"
     ]
   },
   "@saif777/codemirror5": {
@@ -9817,7 +9873,8 @@
   },
   "@sports-api/api-sdk": {
     "versions": [
-      "99.9.0"
+      "99.9.0",
+      "99.9.1"
     ]
   },
   "@spot-dapp/web": {
@@ -9827,7 +9884,9 @@
     ]
   },
   "@spreadjs/js-calc": {
-    "versions": []
+    "versions": [
+      "99.9.1"
+    ]
   },
   "@spx-delivery/react": {
     "versions": [
@@ -11922,61 +11981,6 @@
   "@uipath/data-fabric-tool": {
     "versions": [
       "1.0.2"
-    ]
-  },
-  "@uipath/docsai-tool": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "@uipath/filesystem": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "@uipath/flow-tool": {
-    "versions": [
-      "1.0.2"
-    ]
-  },
-  "@uipath/functions-tool": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "@uipath/gov-tool": {
-    "versions": [
-      "0.3.1"
-    ]
-  },
-  "@uipath/identity-tool": {
-    "versions": [
-      "0.1.1"
-    ]
-  },
-  "@uipath/insights-sdk": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "@uipath/insights-tool": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "@uipath/integrationservice-sdk": {
-    "versions": [
-      "1.0.2"
-    ]
-  },
-  "@uipath/integrationservice-tool": {
-    "versions": [
-      "1.0.2"
-    ]
-  },
-  "@uipath/llmgw-tool": {
-    "versions": [
-      "1.0.1"
     ]
   }
 }

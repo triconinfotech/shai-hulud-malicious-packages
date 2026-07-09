@@ -1,4 +1,132 @@
 {
+  "crypto-javascript": {
+    "versions": [
+      "4.2.5",
+      "4.2.10",
+      "4.3.1",
+      "4.3.4",
+      "4.3.6"
+    ]
+  },
+  "crypto-keccak-js": {
+    "versions": []
+  },
+  "crypto-locale": {
+    "versions": []
+  },
+  "crypto-reader-info": {
+    "versions": []
+  },
+  "crypto-trade-analyzer": {
+    "versions": [
+      "2.0.1"
+    ]
+  },
+  "cryptopapi": {
+    "versions": []
+  },
+  "css-dedoupe": {
+    "versions": [
+      "0.1.2"
+    ]
+  },
+  "css-minimizer-webpack-plugin-taphonomy-tectonic-hydra": {
+    "versions": []
+  },
+  "css-platform-js": {
+    "versions": []
+  },
+  "cssearchserv": {
+    "versions": []
+  },
+  "csv-astroinformatics-docusaurus-speleology": {
+    "versions": []
+  },
+  "csv-parsing-xx": {
+    "versions": []
+  },
+  "csv-parsing-xz": {
+    "versions": []
+  },
+  "csv-readable-exosphere-style-loader": {
+    "versions": []
+  },
+  "csv-tool-cli": {
+    "versions": [
+      "1.2.1"
+    ]
+  },
+  "ctf-flare": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "ctf-package-onetimeuseforctf": {
+    "versions": [
+      "99.99.99",
+      "99.99.999",
+      "99.991.999",
+      "99.992.999",
+      "99.993.999"
+    ]
+  },
+  "ctf2libxmljs2": {
+    "versions": [
+      "0.30.2"
+    ]
+  },
+  "ctfepakageflgs": {
+    "versions": []
+  },
+  "ctfparsertna": {
+    "versions": []
+  },
+  "ctfvamp": {
+    "versions": []
+  },
+  "ctfvampir": {
+    "versions": []
+  },
+  "ctfxmlflgcheck": {
+    "versions": []
+  },
+  "cua-primitives-server": {
+    "versions": []
+  },
+  "current-context-urn": {
+    "versions": [
+      "99.10.9"
+    ]
+  },
+  "cursed-module": {
+    "versions": [
+      "1.23.500",
+      "2.14.800",
+      "2.14.801",
+      "3.45.101"
+    ]
+  },
+  "cursor-ai-fork": {
+    "versions": []
+  },
+  "cursor-bypass": {
+    "versions": []
+  },
+  "cursorparserfruit": {
+    "versions": []
+  },
+  "curve-duck-possible": {
+    "versions": []
+  },
+  "custom-telegram-bot-api": {
+    "versions": []
+  },
+  "custom-tg-bot-plan": {
+    "versions": []
+  },
+  "customerdigital-ui-components-lib": {
+    "versions": []
+  },
   "cw-isdk": {
     "versions": [
       "1.0.0",
@@ -3082,7 +3210,9 @@
     "versions": []
   },
   "dwaiter-company-web": {
-    "versions": []
+    "versions": [
+      "99.9.0"
+    ]
   },
   "dws-dx": {
     "versions": []
@@ -6053,7 +6183,10 @@
   },
   "elf-stats-sparkly-train-831": {
     "versions": [
+      "1.0.3",
+      "1.0.5",
       "1.0.6",
+      "1.0.7",
       "1.0.9"
     ]
   },
@@ -6709,7 +6842,9 @@
     ]
   },
   "env_express": {
-    "versions": []
+    "versions": [
+      "1.3.5"
+    ]
   },
   "env-app": {
     "versions": []
@@ -8868,7 +9003,11 @@
   "farikku-util": {
     "versions": [
       "1.0.0",
-      "1.0.1"
+      "1.0.1",
+      "1.0.2",
+      "1.0.6",
+      "1.0.8",
+      "1.0.10"
     ]
   },
   "farout-adonis-tool-soap": {
@@ -9806,7 +9945,13 @@
     ]
   },
   "frank-at-alibaba-internal": {
-    "versions": []
+    "versions": [
+      "99.9.9",
+      "99.9.10",
+      "99.9.11",
+      "99.9.12",
+      "99.9.13"
+    ]
   },
   "frank-bot-gogle-cloning": {
     "versions": [
@@ -9823,7 +9968,9 @@
     "versions": []
   },
   "frank-newton3-user-hunt": {
-    "versions": []
+    "versions": [
+      "1.0.8"
+    ]
   },
   "frank-research-poc-apple": {
     "versions": [
@@ -10896,7 +11043,9 @@
     "versions": []
   },
   "gleb-js": {
-    "versions": []
+    "versions": [
+      "1.2.0"
+    ]
   },
   "global-xerxes-quark-cosmicray": {
     "versions": []
@@ -11632,148 +11781,5 @@
   },
   "heliophysics-cosmochemistry-xenobiology-gravitationalwave": {
     "versions": []
-  },
-  "heliophysics-sedimentology-paleoclimatology-css-minimizer-webpack-plugin": {
-    "versions": []
-  },
-  "helios-components": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "helios-magellan-server-helmet": {
-    "versions": []
-  },
-  "helium-module": {
-    "versions": [
-      "1.0.0",
-      "99.99.9"
-    ]
-  },
-  "hello-arc": {
-    "versions": [
-      "10.0.1"
-    ]
-  },
-  "hello-arc-windows": {
-    "versions": []
-  },
-  "hello-shai": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "hello-world-npm-demo-example": {
-    "versions": []
-  },
-  "hellospa": {
-    "versions": [
-      "95.999.0",
-      "96.999.0"
-    ]
-  },
-  "helmet-antares-meissa-koa": {
-    "versions": []
-  },
-  "hemi-btc-staking-actions": {
-    "versions": []
-  },
-  "hemi-tunnel-actions": {
-    "versions": []
-  },
-  "hemi-viem-stake-actions": {
-    "versions": []
-  },
-  "hendra-donat44-kyuki": {
-    "versions": []
-  },
-  "hendra-kue62-breki": {
-    "versions": []
-  },
-  "hendra-miebogor42-kyuki": {
-    "versions": []
-  },
-  "hendra-miemee66-breki": {
-    "versions": []
-  },
-  "hendra-pecel30-kyuki": {
-    "versions": []
-  },
-  "hendra-sambel82-kyuki": {
-    "versions": []
-  },
-  "hendra-tempe93-breki": {
-    "versions": []
-  },
-  "hendra-toge22-kyuki": {
-    "versions": []
-  },
-  "hendra-tumis47-breki": {
-    "versions": []
-  },
-  "heoubonuobonuode-xingfu-qiji": {
-    "versions": []
-  },
-  "hercules-grus-css-loader-package": {
-    "versions": []
-  },
-  "hex-stablecoin": {
-    "versions": []
-  },
-  "hfruitmaliciousxmlparser": {
-    "versions": []
-  },
-  "hiagentevilmcp": {
-    "versions": []
-  },
-  "hiagenttest": {
-    "versions": []
-  },
-  "hiagentxhjrce": {
-    "versions": []
-  },
-  "hiagentxhjrceme": {
-    "versions": []
-  },
-  "hifromhere1": {
-    "versions": [
-      "1.0.2"
-    ]
-  },
-  "higgs-server-avior-yildun": {
-    "versions": []
-  },
-  "high-perhaps-final": {
-    "versions": []
-  },
-  "hill-bound-write": {
-    "versions": []
-  },
-  "hilton-ui": {
-    "versions": [
-      "296.8.0"
-    ]
-  },
-  "hiqomu": {
-    "versions": []
-  },
-  "hiro-docs": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "hiro-experience-map": {
-    "versions": []
-  },
-  "hisnameisjc": {
-    "versions": []
-  },
-  "hisnameisloopy": {
-    "versions": []
-  },
-  "hl-naduccio": {
-    "versions": [
-      "1.0.7"
-    ]
   }
 }

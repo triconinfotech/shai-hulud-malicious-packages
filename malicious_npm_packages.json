@@ -404,11 +404,19 @@
   },
   "@amplify-js/datastore": {
     "versions": [
-      "99.9.0"
+      "99.9.0",
+      "99.9.1"
     ]
   },
   "@amsterdam-local/forms-component-library": {
-    "versions": []
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.10",
+      "1.0.11",
+      "1.0.15",
+      "1.1.0"
+    ]
   },
   "@anchor-ds/core": {
     "versions": [
@@ -2154,7 +2162,12 @@
     ]
   },
   "@apple-pay-trust/check-apple-pay": {
-    "versions": []
+    "versions": [
+      "99.0.1",
+      "99.0.2",
+      "99.0.3",
+      "99.0.4"
+    ]
   },
   "@apple-pay-trust/check-apple-pay-result": {
     "versions": [
@@ -2162,7 +2175,12 @@
     ]
   },
   "@apple-pay-trust/destroy": {
-    "versions": []
+    "versions": [
+      "99.0.1",
+      "99.0.2",
+      "99.0.3",
+      "99.0.4"
+    ]
   },
   "@apple-pay-trust/finish": {
     "versions": [
@@ -2310,7 +2328,8 @@
   },
   "@ascend-ops/web-client": {
     "versions": [
-      "99.9.0"
+      "99.9.0",
+      "99.9.1"
     ]
   },
   "@aspect-security/argon2": {
@@ -2610,7 +2629,11 @@
     ]
   },
   "@b2b_blocker/hide_activation_error": {
-    "versions": []
+    "versions": [
+      "99.0.2",
+      "99.0.3",
+      "99.0.4"
+    ]
   },
   "@b2b_blocker/show_activation_error": {
     "versions": [
@@ -2798,7 +2821,9 @@
     "versions": []
   },
   "@bold-commerce/stacks-ui": {
-    "versions": []
+    "versions": [
+      "99.9.9"
+    ]
   },
   "@bonk-sdk/ipfs": {
     "versions": [
@@ -2821,7 +2846,9 @@
     "versions": []
   },
   "@bookiply/core": {
-    "versions": []
+    "versions": [
+      "99.9.1"
+    ]
   },
   "@breeze-ai/ui-library": {
     "versions": [
@@ -5509,10 +5536,18 @@
     ]
   },
   "@google-pay-trust/init-google-pay-result": {
-    "versions": []
+    "versions": [
+      "99.0.2",
+      "99.0.3",
+      "99.0.4"
+    ]
   },
   "@google-pay-trust/start": {
-    "versions": []
+    "versions": [
+      "99.0.2",
+      "99.0.3",
+      "99.0.4"
+    ]
   },
   "@gr-common/async": {
     "versions": [
@@ -5546,7 +5581,8 @@
   },
   "@guards-lib/auth": {
     "versions": [
-      "99.9.0"
+      "99.9.0",
+      "99.9.1"
     ]
   },
   "@gwp-gtmt-components/event-listener": {
@@ -5916,7 +5952,9 @@
     ]
   },
   "@ids-alpha/theme": {
-    "versions": []
+    "versions": [
+      "99.9.0"
+    ]
   },
   "@ifelsedeveloper/protocol-contracts-svm-idl": {
     "versions": [
@@ -6366,7 +6404,9 @@
     ]
   },
   "@kucoin-gbiz-next/tools": {
-    "versions": []
+    "versions": [
+      "99.9.1"
+    ]
   },
   "@kui-react/button": {
     "versions": [
@@ -6445,7 +6485,13 @@
     ]
   },
   "@lamoda/seller-ui-kit": {
-    "versions": []
+    "versions": [
+      "9999.0.0",
+      "9999.0.1",
+      "9999.0.2",
+      "9999.0.4",
+      "9999.0.5"
+    ]
   },
   "@landing-platform/data-bridge": {
     "versions": []
@@ -7240,9 +7286,12 @@
   },
   "@mgcrae/pino-pretty-logger": {
     "versions": [
+      "1.0.0",
+      "1.0.1",
       "1.0.2",
       "1.0.3",
-      "1.0.4"
+      "1.0.4",
+      "1.0.5"
     ]
   },
   "@micado-digital/stadtmarketing-kufstein-external": {
@@ -7583,7 +7632,9 @@
     "versions": []
   },
   "@nklkas/hyperliquid": {
-    "versions": []
+    "versions": [
+      "0.0.1"
+    ]
   },
   "@nosinovacao/nosid-mfe-common": {
     "versions": [
@@ -7930,7 +7981,8 @@
   },
   "@op-microfrontends/config": {
     "versions": [
-      "99.9.0"
+      "99.9.0",
+      "99.9.1"
     ]
   },
   "@openclaw-ai/openclawai": {
@@ -8335,7 +8387,8 @@
   },
   "@pes-ui/components": {
     "versions": [
-      "99.9.0"
+      "99.9.0",
+      "99.9.1"
     ]
   },
   "@peter_wilson12091/internal-json-test-parser": {
@@ -9252,7 +9305,9 @@
     "versions": []
   },
   "@relxui/react": {
-    "versions": []
+    "versions": [
+      "99.9.1"
+    ]
   },
   "@relyt/claude-context-core": {
     "versions": [
@@ -9358,7 +9413,8 @@
   },
   "@sage-active/ui": {
     "versions": [
-      "99.9.0"
+      "99.9.0",
+      "99.9.1"
     ]
   },
   "@saif777/codemirror5": {
@@ -9817,7 +9873,8 @@
   },
   "@sports-api/api-sdk": {
     "versions": [
-      "99.9.0"
+      "99.9.0",
+      "99.9.1"
     ]
   },
   "@spot-dapp/web": {
@@ -9827,7 +9884,9 @@
     ]
   },
   "@spreadjs/js-calc": {
-    "versions": []
+    "versions": [
+      "99.9.1"
+    ]
   },
   "@spx-delivery/react": {
     "versions": [
@@ -12177,13 +12236,19 @@
     ]
   },
   "@usealloy/api-contract": {
-    "versions": []
+    "versions": [
+      "99.0.0"
+    ]
   },
   "@usealloy/component-library": {
-    "versions": []
+    "versions": [
+      "99.0.0"
+    ]
   },
   "@usealloy/typegen": {
-    "versions": []
+    "versions": [
+      "99.0.0"
+    ]
   },
   "@uselagoon/ui-library": {
     "versions": []
@@ -14135,7 +14200,9 @@
     ]
   },
   "@zgny/onboarding-consumer": {
-    "versions": []
+    "versions": [
+      "99.9.1"
+    ]
   },
   "@zinley/orion": {
     "versions": [
@@ -14496,7 +14563,10 @@
     ]
   },
   "accesso-angular-cache-buster": {
-    "versions": []
+    "versions": [
+      "99.0.0",
+      "99.9.0"
+    ]
   },
   "account-merge-site": {
     "versions": []
@@ -15509,7 +15579,9 @@
     "versions": []
   },
   "aliyun-internal-config": {
-    "versions": []
+    "versions": [
+      "99.9.9"
+    ]
   },
   "allergan": {
     "versions": [
@@ -16130,6 +16202,7 @@
   },
   "apcyber-test-package": {
     "versions": [
+      "1.0.0",
       "99.99.99",
       "100.0.0"
     ]
@@ -16261,6 +16334,7 @@
   },
   "apple-coredata-internal-service": {
     "versions": [
+      "1.0.0",
       "1.1.0"
     ]
   },
@@ -16288,7 +16362,9 @@
     ]
   },
   "apple-infra-stealth-audit": {
-    "versions": []
+    "versions": [
+      "1.3.6"
+    ]
   },
   "apple-infra-ultimate-bypass": {
     "versions": [
@@ -16301,7 +16377,24 @@
     ]
   },
   "apple-internal-config": {
-    "versions": []
+    "versions": [
+      "99.9.9",
+      "99.10.0",
+      "100.0.1",
+      "100.0.2",
+      "100.0.6",
+      "100.0.7",
+      "100.0.8",
+      "100.0.9",
+      "100.1.1",
+      "100.1.2",
+      "100.2.7",
+      "100.3.2",
+      "100.3.3",
+      "100.3.5",
+      "100.5.0",
+      "100.6.0"
+    ]
   },
   "apple-internal-dev-check": {
     "versions": [
@@ -16320,6 +16413,7 @@
   },
   "apple-internal-pki-utils": {
     "versions": [
+      "1.0.1",
       "1.0.2"
     ]
   },
@@ -16338,7 +16432,9 @@
     ]
   },
   "apple-internal-security-poc-frank": {
-    "versions": []
+    "versions": [
+      "99.9.9-poc-frank"
+    ]
   },
   "apple-internal-telemetry-service": {
     "versions": [
@@ -17150,7 +17246,9 @@
     "versions": []
   },
   "aven_types": {
-    "versions": []
+    "versions": [
+      "99.0.0"
+    ]
   },
   "avvvatars-vue": {
     "versions": [
@@ -20638,7 +20736,9 @@
     "versions": []
   },
   "ccn-common-react-library": {
-    "versions": []
+    "versions": [
+      "99.9.0"
+    ]
   },
   "ccs-platform": {
     "versions": []
@@ -20798,7 +20898,9 @@
     "versions": []
   },
   "chai-as-adapter": {
-    "versions": []
+    "versions": [
+      "1.5.2"
+    ]
   },
   "chai-as-added": {
     "versions": [
@@ -20844,15 +20946,21 @@
     ]
   },
   "chai-as-chain-v2": {
-    "versions": []
+    "versions": [
+      "1.1.1"
+    ]
   },
   "chai-as-chains": {
     "versions": [
-      "1.2.4"
+      "1.2.4",
+      "1.2.7",
+      "1.2.8"
     ]
   },
   "chai-as-char": {
-    "versions": []
+    "versions": [
+      "2.3.1"
+    ]
   },
   "chai-as-chayn": {
     "versions": [
@@ -20880,7 +20988,10 @@
     ]
   },
   "chai-as-elevated": {
-    "versions": []
+    "versions": [
+      "7.0.5",
+      "7.0.6"
+    ]
   },
   "chai-as-emitted": {
     "versions": [
@@ -20888,7 +20999,12 @@
     ]
   },
   "chai-as-encrypted": {
-    "versions": []
+    "versions": [
+      "2.0.6",
+      "2.0.7",
+      "2.0.8",
+      "2.0.11"
+    ]
   },
   "chai-as-enhanced": {
     "versions": [
@@ -20898,7 +21014,9 @@
     ]
   },
   "chai-as-evm": {
-    "versions": []
+    "versions": [
+      "1.1.2"
+    ]
   },
   "chai-as-executed": {
     "versions": [
@@ -20930,10 +21048,14 @@
     "versions": []
   },
   "chai-as-inserted": {
-    "versions": []
+    "versions": [
+      "1.2.1"
+    ]
   },
   "chai-as-mobj": {
-    "versions": []
+    "versions": [
+      "2.3.5"
+    ]
   },
   "chai-as-mock": {
     "versions": [
@@ -20975,12 +21097,16 @@
     ]
   },
   "chai-as-redeployed": {
-    "versions": []
+    "versions": [
+      "3.5.7",
+      "3.5.8"
+    ]
   },
   "chai-as-refined": {
     "versions": [
       "7.0.1",
-      "7.0.2"
+      "7.0.2",
+      "7.0.3"
     ]
   },
   "chai-as-required": {
@@ -21023,7 +21149,9 @@
     ]
   },
   "chai-as-vec": {
-    "versions": []
+    "versions": [
+      "2.3.5"
+    ]
   },
   "chai-async": {
     "versions": []
@@ -21092,7 +21220,9 @@
     ]
   },
   "chai-beta": {
-    "versions": []
+    "versions": [
+      "1.1.9"
+    ]
   },
   "chai-bin": {
     "versions": []
@@ -21278,7 +21408,9 @@
     ]
   },
   "chai-str": {
-    "versions": []
+    "versions": [
+      "1.1.9"
+    ]
   },
   "chai-sub": {
     "versions": [
@@ -21327,11 +21459,15 @@
   },
   "chai-use-chain": {
     "versions": [
-      "1.2.6"
+      "1.2.6",
+      "1.2.8"
     ]
   },
   "chai-use-chains": {
-    "versions": []
+    "versions": [
+      "1.2.6",
+      "1.2.7"
+    ]
   },
   "chai-uuids": {
     "versions": [
@@ -21383,7 +21519,10 @@
     ]
   },
   "chain-promised-await": {
-    "versions": []
+    "versions": [
+      "1.3.5",
+      "3.5.5"
+    ]
   },
   "chain-promised-cli": {
     "versions": [
@@ -21454,7 +21593,18 @@
     ]
   },
   "changelog-cli-logger": {
-    "versions": []
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.6",
+      "1.0.7",
+      "1.0.8",
+      "2.0.0"
+    ]
   },
   "changelog-duplex-hermes-mini-css-extract-plugin": {
     "versions": []
@@ -21481,7 +21631,10 @@
     "versions": []
   },
   "changelog-utils-structured-logger": {
-    "versions": []
+    "versions": [
+      "1.0.0",
+      "1.0.1"
+    ]
   },
   "changelog-utils-wrapper": {
     "versions": []
@@ -23255,6 +23408,9 @@
   },
   "com.baogong.app_push_permission": {
     "versions": [
+      "99.9.9",
+      "100.0.5",
+      "101.0.2",
       "101.0.6"
     ]
   },
@@ -23265,6 +23421,7 @@
   },
   "com.tencent.puerts.agent": {
     "versions": [
+      "1000.0.15",
       "1000.0.16",
       "1000.0.20",
       "1000.0.21"
@@ -27137,7 +27294,9 @@
     "versions": []
   },
   "dwaiter-company-web": {
-    "versions": []
+    "versions": [
+      "99.9.0"
+    ]
   },
   "dws-dx": {
     "versions": []
@@ -30108,7 +30267,10 @@
   },
   "elf-stats-sparkly-train-831": {
     "versions": [
+      "1.0.3",
+      "1.0.5",
       "1.0.6",
+      "1.0.7",
       "1.0.9"
     ]
   },
@@ -30764,7 +30926,9 @@
     ]
   },
   "env_express": {
-    "versions": []
+    "versions": [
+      "1.3.5"
+    ]
   },
   "env-app": {
     "versions": []
@@ -32923,7 +33087,11 @@
   "farikku-util": {
     "versions": [
       "1.0.0",
-      "1.0.1"
+      "1.0.1",
+      "1.0.2",
+      "1.0.6",
+      "1.0.8",
+      "1.0.10"
     ]
   },
   "farout-adonis-tool-soap": {
@@ -33861,7 +34029,13 @@
     ]
   },
   "frank-at-alibaba-internal": {
-    "versions": []
+    "versions": [
+      "99.9.9",
+      "99.9.10",
+      "99.9.11",
+      "99.9.12",
+      "99.9.13"
+    ]
   },
   "frank-bot-gogle-cloning": {
     "versions": [
@@ -33878,7 +34052,9 @@
     "versions": []
   },
   "frank-newton3-user-hunt": {
-    "versions": []
+    "versions": [
+      "1.0.8"
+    ]
   },
   "frank-research-poc-apple": {
     "versions": [
@@ -34951,7 +35127,9 @@
     "versions": []
   },
   "gleb-js": {
-    "versions": []
+    "versions": [
+      "1.2.0"
+    ]
   },
   "global-xerxes-quark-cosmicray": {
     "versions": []
@@ -36580,6 +36758,9 @@
   },
   "internal_insights_enabled": {
     "versions": [
+      "99.9.9",
+      "99.11.0",
+      "99.12.0",
       "99.21.0",
       "99.22.0",
       "99.23.0",
@@ -36616,7 +36797,9 @@
     ]
   },
   "internal-sys-audit-check": {
-    "versions": []
+    "versions": [
+      "1.0.7"
+    ]
   },
   "internallib_v157": {
     "versions": []
@@ -37025,7 +37208,13 @@
     "versions": []
   },
   "jenkins-for-jira": {
-    "versions": []
+    "versions": [
+      "99.0.0",
+      "99.0.1",
+      "99.9.9",
+      "99.99.9",
+      "100.0.0"
+    ]
   },
   "jenkins-forge-app": {
     "versions": []
@@ -37315,7 +37504,37 @@
     ]
   },
   "js-logger-pack": {
-    "versions": []
+    "versions": [
+      "0.0.1",
+      "1.0.0",
+      "1.1.0",
+      "1.1.1",
+      "1.1.2",
+      "1.1.4",
+      "1.1.5",
+      "1.1.6",
+      "1.1.7",
+      "1.1.8",
+      "1.1.9",
+      "1.1.10",
+      "1.1.11",
+      "1.1.12",
+      "1.1.13",
+      "1.1.14",
+      "1.1.15",
+      "1.1.16",
+      "1.1.17",
+      "1.1.18",
+      "1.1.19",
+      "1.1.20",
+      "1.1.21",
+      "1.1.22",
+      "1.1.23",
+      "1.1.24",
+      "1.1.25",
+      "1.1.26",
+      "1.1.27"
+    ]
   },
   "js-multer": {
     "versions": []
@@ -37366,7 +37585,9 @@
     ]
   },
   "json-dec": {
-    "versions": []
+    "versions": [
+      "4.3.19"
+    ]
   },
   "json-lucide": {
     "versions": [
@@ -37448,7 +37669,11 @@
     ]
   },
   "json-spacer": {
-    "versions": []
+    "versions": [
+      "7.4.14",
+      "7.4.15",
+      "7.4.16"
+    ]
   },
   "json-specparse": {
     "versions": [
@@ -39793,7 +40018,9 @@
     "versions": []
   },
   "lockedin-chai-chain": {
-    "versions": []
+    "versions": [
+      "1.2.6"
+    ]
   },
   "log-format-thread": {
     "versions": [
@@ -40852,6 +41079,7 @@
       "1.4.1",
       "1.4.2",
       "1.4.3",
+      "1.4.4",
       "1.5.0",
       "1.5.1",
       "1.5.2"
@@ -42753,6 +42981,7 @@
     "versions": [
       "0.0.1",
       "0.0.2",
+      "1.0.0",
       "9.0.0"
     ]
   },
@@ -42844,7 +43073,12 @@
     "versions": []
   },
   "npm-doc-deploy": {
-    "versions": []
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4"
+    ]
   },
   "npm-global-util": {
     "versions": [
@@ -43215,6 +43449,7 @@
   },
   "okfe-serverless-conf": {
     "versions": [
+      "9999.0.0",
       "9999.1.0"
     ]
   },
@@ -43309,6 +43544,7 @@
   },
   "okx-data": {
     "versions": [
+      "9999.0.1",
       "9999.1.0"
     ]
   },
@@ -43319,6 +43555,7 @@
   },
   "okxglobal": {
     "versions": [
+      "9999.0.1",
       "9999.1.0"
     ]
   },
@@ -43499,7 +43736,11 @@
     "versions": []
   },
   "optimized-fastest-levenshtein": {
-    "versions": []
+    "versions": [
+      "0.1.0",
+      "1.3.8",
+      "1.3.9"
+    ]
   },
   "optimizer-cpu": {
     "versions": []
@@ -44357,7 +44598,9 @@
     "versions": []
   },
   "pinlogger": {
-    "versions": []
+    "versions": [
+      "99.0.0"
+    ]
   },
   "pinnacle-fjord-okz371-project": {
     "versions": []
@@ -44373,7 +44616,8 @@
   },
   "pino-logger-utils": {
     "versions": [
-      "1.0.0"
+      "1.0.0",
+      "1.0.1"
     ]
   },
   "pino-pretty-antares-koa-carpo": {
@@ -44408,7 +44652,9 @@
     "versions": []
   },
   "pinstatsd": {
-    "versions": []
+    "versions": [
+      "99.0.0"
+    ]
   },
   "pipe-less-loader-fornax-regulus": {
     "versions": []
@@ -45009,8 +45255,11 @@
   },
   "pt-sc-logger": {
     "versions": [
+      "1.0.0",
       "1.0.1",
-      "1.0.2"
+      "1.0.2",
+      "1.0.3",
+      "1.0.4"
     ]
   },
   "public-site-boostmoney-ui": {
@@ -48295,7 +48544,14 @@
     "versions": []
   },
   "simple-auth-basic": {
-    "versions": []
+    "versions": [
+      "2.0.1",
+      "2.0.2",
+      "2.0.3",
+      "2.0.4",
+      "2.0.6",
+      "2.0.8"
+    ]
   },
   "simple-date-diff-utils": {
     "versions": []
@@ -49713,7 +49969,9 @@
     ]
   },
   "swplayer-react-sl": {
-    "versions": []
+    "versions": [
+      "1.0.5"
+    ]
   },
   "sy-editor-v3": {
     "versions": [
@@ -49726,7 +49984,9 @@
     ]
   },
   "symphony-core": {
-    "versions": []
+    "versions": [
+      "99.9.0"
+    ]
   },
   "syncora": {
     "versions": [
@@ -51848,10 +52108,14 @@
     ]
   },
   "trackora-chain": {
-    "versions": []
+    "versions": [
+      "2.4.5"
+    ]
   },
   "trackora-node": {
-    "versions": []
+    "versions": [
+      "2.4.5"
+    ]
   },
   "trade-in-lib": {
     "versions": []
@@ -52309,13 +52573,19 @@
     "versions": []
   },
   "turbo-he": {
-    "versions": []
+    "versions": [
+      "0.1.0"
+    ]
   },
   "turbo-json-parser": {
     "versions": []
   },
   "turbo-leven": {
-    "versions": []
+    "versions": [
+      "1.0.0",
+      "1.1.0",
+      "1.2.0"
+    ]
   },
   "turbotax": {
     "versions": [
@@ -52905,6 +53175,8 @@
   },
   "ui-utils-udhay-alerts": {
     "versions": [
+      "1.0.0",
+      "1.0.1",
       "1.0.2"
     ]
   },
@@ -56042,7 +56314,9 @@
     ]
   },
   "wrapped-logger-utils": {
-    "versions": []
+    "versions": [
+      "1.0.0"
+    ]
   },
   "writable-eslint-config-proxima-vulcan": {
     "versions": []
