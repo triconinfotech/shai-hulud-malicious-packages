@@ -54141,6 +54141,11 @@
   "veim": {
     "versions": []
   },
+  "vemos-sdk": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "venus-winston-docusaurus-aquarius": {
     "versions": []
   },
@@ -54932,9 +54937,13 @@
     "versions": [
       "1.0.0",
       "1.0.1",
+      "1.0.2",
       "1.0.3",
       "1.0.4",
-      "1.0.6"
+      "1.0.5",
+      "1.0.6",
+      "1.0.7",
+      "1.0.8"
     ]
   },
   "vl-ui-accessibility": {
@@ -55686,6 +55695,11 @@
   },
   "web3-sinon": {
     "versions": []
+  },
+  "web3-tools-9": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "web3-wc": {
     "versions": []
