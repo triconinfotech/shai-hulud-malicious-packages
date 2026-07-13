@@ -1,4 +1,9 @@
 {
+  "@uipath/codedagents-tool": {
+    "versions": [
+      "0.1.12"
+    ]
+  },
   "@uipath/codedapp-tool": {
     "versions": [
       "1.0.1"
@@ -5259,7 +5264,9 @@
       "28.0.0",
       "29.0.0",
       "29.0.1",
-      "29.0.2"
+      "29.0.2",
+      "29.0.3",
+      "29.0.4"
     ]
   },
   "autotel-vitest": {
@@ -12096,9 +12103,6 @@
     "versions": []
   },
   "cross-app": {
-    "versions": []
-  },
-  "cross-env-html-webpack-plugin-writable-dactyl": {
     "versions": []
   }
 }

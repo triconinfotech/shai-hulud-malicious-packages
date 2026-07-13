@@ -6196,6 +6196,11 @@
       "2.0.0"
     ]
   },
+  "@kl-starfish/test-01": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
   "@kollorg/accusantium-vel": {
     "versions": []
   },
@@ -11976,11 +11981,6 @@
   "@uipath/codedagent-tool": {
     "versions": [
       "1.0.1"
-    ]
-  },
-  "@uipath/codedagents-tool": {
-    "versions": [
-      "0.1.12"
     ]
   }
 }

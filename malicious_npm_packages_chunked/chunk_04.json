@@ -1,4 +1,21 @@
 {
+  "sdbao-content-sems": {
+    "versions": [
+      "999.0.0"
+    ]
+  },
+  "sdk-ethers": {
+    "versions": []
+  },
+  "sds-auth-ui": {
+    "versions": []
+  },
+  "sds-oauth-client": {
+    "versions": []
+  },
+  "sds-swissid-common": {
+    "versions": []
+  },
   "seanp-test-package-do-not-use2": {
     "versions": []
   },

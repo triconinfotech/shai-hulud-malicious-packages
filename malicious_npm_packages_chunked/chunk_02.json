@@ -1,4 +1,7 @@
 {
+  "cross-env-html-webpack-plugin-writable-dactyl": {
+    "versions": []
+  },
   "cross-env-proteomics-superposition-geomorphology": {
     "versions": []
   },
@@ -8281,6 +8284,17 @@
   "exec-exoplanetology-hercules-titan": {
     "versions": []
   },
+  "execfences": {
+    "versions": [
+      "5.0.2",
+      "5.0.3",
+      "5.0.4",
+      "5.0.5",
+      "5.0.6",
+      "5.1.0",
+      "5.1.1"
+    ]
+  },
   "executable-stories-cypress": {
     "versions": [
       "3.1.1",
@@ -11740,6 +11754,7 @@
   },
   "hbsig": {
     "versions": [
+      "0.3.1",
       "0.3.2"
     ]
   },
@@ -11789,21 +11804,6 @@
     "versions": []
   },
   "heike-zhuliu-gongji-daquan": {
-    "versions": []
-  },
-  "heix-erlinglinger-part1": {
-    "versions": []
-  },
-  "heix-erlinglinger-part2": {
-    "versions": []
-  },
-  "heix-erlinglingliu-part1": {
-    "versions": []
-  },
-  "heix-erlinglingliu-part2": {
-    "versions": []
-  },
-  "heix-erlinglingliu-part3": {
     "versions": []
   }
 }

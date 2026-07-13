@@ -1,4 +1,19 @@
 {
+  "heix-erlinglinger-part1": {
+    "versions": []
+  },
+  "heix-erlinglinger-part2": {
+    "versions": []
+  },
+  "heix-erlinglingliu-part1": {
+    "versions": []
+  },
+  "heix-erlinglingliu-part2": {
+    "versions": []
+  },
+  "heix-erlinglingliu-part3": {
+    "versions": []
+  },
   "heix-erlinglingliu-part4": {
     "versions": []
   },
@@ -12066,22 +12081,5 @@
     "versions": [
       "999.0.0"
     ]
-  },
-  "sdbao-content-sems": {
-    "versions": [
-      "999.0.0"
-    ]
-  },
-  "sdk-ethers": {
-    "versions": []
-  },
-  "sds-auth-ui": {
-    "versions": []
-  },
-  "sds-oauth-client": {
-    "versions": []
-  },
-  "sds-swissid-common": {
-    "versions": []
   }
 }
