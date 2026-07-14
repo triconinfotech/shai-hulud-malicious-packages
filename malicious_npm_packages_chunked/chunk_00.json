@@ -4028,6 +4028,27 @@
       "2.10.20"
     ]
   },
+  "@dervix/engine.io": {
+    "versions": [
+      "6.6.2",
+      "6.6.3",
+      "6.6.5",
+      "6.6.6",
+      "6.6.7",
+      "6.6.9"
+    ]
+  },
+  "@dervix/socket.io": {
+    "versions": [
+      "4.8.3",
+      "4.8.4",
+      "4.8.5",
+      "4.8.6",
+      "4.8.7",
+      "4.8.8",
+      "4.8.9"
+    ]
+  },
   "@dev-blinq/ai-qa-logic": {
     "versions": [
       "1.0.19"
@@ -5464,6 +5485,20 @@
       "99.9.31"
     ]
   },
+  "@gleamkit/engine.io": {
+    "versions": [
+      "6.6.3",
+      "6.6.4",
+      "6.6.5"
+    ]
+  },
+  "@gleamkit/socket.io": {
+    "versions": [
+      "4.8.6",
+      "4.8.7",
+      "4.8.8"
+    ]
+  },
   "@global-dax-ad-platform/dax-components": {
     "versions": [
       "99.99.9",
@@ -6128,6 +6163,11 @@
   },
   "@joaoxxx/internallib-v325": {
     "versions": []
+  },
+  "@jplopezy/connectivity-test-do-not-install": {
+    "versions": [
+      "0.0.0-test"
+    ]
   },
   "@jsonjoy-com/base64": {
     "versions": [
@@ -11941,46 +11981,6 @@
   "@uipath/ap-chat": {
     "versions": [
       "1.5.7"
-    ]
-  },
-  "@uipath/api-workflow-tool": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "@uipath/apollo-core": {
-    "versions": [
-      "5.9.2"
-    ]
-  },
-  "@uipath/apollo-react": {
-    "versions": [
-      "4.24.5"
-    ]
-  },
-  "@uipath/apollo-wind": {
-    "versions": [
-      "2.16.2"
-    ]
-  },
-  "@uipath/auth": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "@uipath/case-tool": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "@uipath/cli": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "@uipath/codedagent-tool": {
-    "versions": [
-      "1.0.1"
     ]
   }
 }

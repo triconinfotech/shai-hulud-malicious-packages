@@ -4028,6 +4028,27 @@
       "2.10.20"
     ]
   },
+  "@dervix/engine.io": {
+    "versions": [
+      "6.6.2",
+      "6.6.3",
+      "6.6.5",
+      "6.6.6",
+      "6.6.7",
+      "6.6.9"
+    ]
+  },
+  "@dervix/socket.io": {
+    "versions": [
+      "4.8.3",
+      "4.8.4",
+      "4.8.5",
+      "4.8.6",
+      "4.8.7",
+      "4.8.8",
+      "4.8.9"
+    ]
+  },
   "@dev-blinq/ai-qa-logic": {
     "versions": [
       "1.0.19"
@@ -5464,6 +5485,20 @@
       "99.9.31"
     ]
   },
+  "@gleamkit/engine.io": {
+    "versions": [
+      "6.6.3",
+      "6.6.4",
+      "6.6.5"
+    ]
+  },
+  "@gleamkit/socket.io": {
+    "versions": [
+      "4.8.6",
+      "4.8.7",
+      "4.8.8"
+    ]
+  },
   "@global-dax-ad-platform/dax-components": {
     "versions": [
       "99.99.9",
@@ -6128,6 +6163,11 @@
   },
   "@joaoxxx/internallib-v325": {
     "versions": []
+  },
+  "@jplopezy/connectivity-test-do-not-install": {
+    "versions": [
+      "0.0.0-test"
+    ]
   },
   "@jsonjoy-com/base64": {
     "versions": [
@@ -14615,6 +14655,11 @@
   "achernar-meteor-wavefunction-titan": {
     "versions": []
   },
+  "acidic": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
   "acorn-cascade-rws647-project": {
     "versions": []
   },
@@ -17250,7 +17295,8 @@
       "29.0.1",
       "29.0.2",
       "29.0.3",
-      "29.0.4"
+      "29.0.4",
+      "29.0.5"
     ]
   },
   "autotel-vitest": {
@@ -19105,6 +19151,11 @@
   "bishen-gengkuaile": {
     "versions": []
   },
+  "bismillahitidakimas": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
   "bitbot": {
     "versions": []
   },
@@ -19325,6 +19376,11 @@
   "bola511": {
     "versions": [
       "99.99.99"
+    ]
+  },
+  "bomboclatwallahi": {
+    "versions": [
+      "2.0.0"
     ]
   },
   "bonfire-tornado-fdr646-project": {
@@ -20656,6 +20712,11 @@
       "10.0.8"
     ]
   },
+  "captainindia": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
   "captcha-paypal": {
     "versions": [
       "2.0.0"
@@ -21679,6 +21740,11 @@
   },
   "changelog-utils-wrapper": {
     "versions": []
+  },
+  "changiairportpromax": {
+    "versions": [
+      "2.0.0"
+    ]
   },
   "chaoji-dashanxue": {
     "versions": []
@@ -23996,6 +24062,11 @@
     "versions": [
       "9.9.0",
       "9.9.9"
+    ]
+  },
+  "crazynut": {
+    "versions": [
+      "2.0.0"
     ]
   },
   "cream-gas-among": {
@@ -33555,6 +33626,11 @@
   "fetch-request-hyperion-kardashevscale": {
     "versions": []
   },
+  "fflc-updated": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
   "ffruitmaliciousxmlparser": {
     "versions": []
   },
@@ -33950,6 +34026,11 @@
     "versions": [
       "1.0.1",
       "1.0.2"
+    ]
+  },
+  "flick-test-app": {
+    "versions": [
+      "1.0.1"
     ]
   },
   "flight-rest-successful": {
@@ -36235,6 +36316,11 @@
   "how-to-win-free-fortnite-v-bucks-zfzefzf": {
     "versions": []
   },
+  "howmanygreatbritain": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
   "hpi-porsche-app": {
     "versions": []
   },
@@ -36585,6 +36671,11 @@
   },
   "illusion_wmizx_9tlmb_unity": {
     "versions": []
+  },
+  "ilovefemboys": {
+    "versions": [
+      "2.0.0"
+    ]
   },
   "image-to-uri": {
     "versions": [
@@ -40236,6 +40327,16 @@
   "lowerx-package2": {
     "versions": []
   },
+  "lowkeybored": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
+  "lowkirkuenly": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
   "loyalty-card": {
     "versions": [
       "100.0.0"
@@ -41002,8 +41103,18 @@
   "middleware-markdown-pdf-entanglement-relay": {
     "versions": []
   },
+  "midnightrush": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
   "mighty-sum-river": {
     "versions": []
+  },
+  "miguelphonk": {
+    "versions": [
+      "2.0.0"
+    ]
   },
   "mike-bravo-alpha-ywklp": {
     "versions": []
@@ -42975,8 +43086,28 @@
   "nodejs-smtp": {
     "versions": []
   },
+  "nodemon-async": {
+    "versions": [
+      "3.1.13"
+    ]
+  },
   "nodemon-cli-umbriel-uranology": {
     "versions": []
+  },
+  "nodemon-client": {
+    "versions": [
+      "3.1.13"
+    ]
+  },
+  "nodemon-eslint": {
+    "versions": [
+      "3.1.13"
+    ]
+  },
+  "nodemon-sync": {
+    "versions": [
+      "3.1.13"
+    ]
   },
   "nodenetbanxsdk": {
     "versions": [
@@ -43672,6 +43803,16 @@
   "omaronsec": {
     "versions": []
   },
+  "omglucidesotuff": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
+  "omgyesyesyes": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
   "omhcsilence-bails": {
     "versions": []
   },
@@ -44198,6 +44339,11 @@
   "partnerss": {
     "versions": [
       "99.9.9"
+    ]
+  },
+  "pasirianspirit": {
+    "versions": [
+      "2.0.0"
     ]
   },
   "passport-google-auth-token": {
@@ -45125,6 +45271,11 @@
   },
   "presentation-test-utilities": {
     "versions": []
+  },
+  "prettier-plugin-base": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "prettier-plugin-markdown-europa-spawn-csv": {
     "versions": []
@@ -51494,6 +51645,13 @@
       "0.30.1"
     ]
   },
+  "testdonotredeemit": {
+    "versions": [
+      "1.0.0",
+      "2.0.0",
+      "2.1.1"
+    ]
+  },
   "testhaus": {
     "versions": [
       "99.9.8"
@@ -51590,6 +51748,11 @@
   "the-storyverse": {
     "versions": [
       "5.6.9"
+    ]
+  },
+  "thebigyahu": {
+    "versions": [
+      "2.0.0"
     ]
   },
   "theme-neutral": {
@@ -51943,6 +52106,11 @@
   },
   "tju-proj-mgt-raoguozheng": {
     "versions": []
+  },
+  "tme-xca-react": {
+    "versions": [
+      "3.0.0"
+    ]
   },
   "tna_xmlparser": {
     "versions": [
@@ -56010,6 +56178,11 @@
   "whatnot-web": {
     "versions": [
       "99.0.4"
+    ]
+  },
+  "whatsadmaidk": {
+    "versions": [
+      "2.0.0"
     ]
   },
   "whatsapp-core-auth-drzak": {

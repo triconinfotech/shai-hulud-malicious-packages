@@ -1,4 +1,44 @@
 {
+  "@uipath/api-workflow-tool": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "@uipath/apollo-core": {
+    "versions": [
+      "5.9.2"
+    ]
+  },
+  "@uipath/apollo-react": {
+    "versions": [
+      "4.24.5"
+    ]
+  },
+  "@uipath/apollo-wind": {
+    "versions": [
+      "2.16.2"
+    ]
+  },
+  "@uipath/auth": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "@uipath/case-tool": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "@uipath/cli": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "@uipath/codedagent-tool": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
   "@uipath/codedagents-tool": {
     "versions": [
       "0.1.12"
@@ -2630,6 +2670,11 @@
   },
   "achernar-meteor-wavefunction-titan": {
     "versions": []
+  },
+  "acidic": {
+    "versions": [
+      "2.0.0"
+    ]
   },
   "acorn-cascade-rws647-project": {
     "versions": []
@@ -5266,7 +5311,8 @@
       "29.0.1",
       "29.0.2",
       "29.0.3",
-      "29.0.4"
+      "29.0.4",
+      "29.0.5"
     ]
   },
   "autotel-vitest": {
@@ -7121,6 +7167,11 @@
   "bishen-gengkuaile": {
     "versions": []
   },
+  "bismillahitidakimas": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
   "bitbot": {
     "versions": []
   },
@@ -7341,6 +7392,11 @@
   "bola511": {
     "versions": [
       "99.99.99"
+    ]
+  },
+  "bomboclatwallahi": {
+    "versions": [
+      "2.0.0"
     ]
   },
   "bonfire-tornado-fdr646-project": {
@@ -8672,6 +8728,11 @@
       "10.0.8"
     ]
   },
+  "captainindia": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
   "captcha-paypal": {
     "versions": [
       "2.0.0"
@@ -9695,6 +9756,11 @@
   },
   "changelog-utils-wrapper": {
     "versions": []
+  },
+  "changiairportpromax": {
+    "versions": [
+      "2.0.0"
+    ]
   },
   "chaoji-dashanxue": {
     "versions": []
@@ -12014,6 +12080,11 @@
       "9.9.9"
     ]
   },
+  "crazynut": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
   "cream-gas-among": {
     "versions": []
   },
@@ -12038,71 +12109,5 @@
       "0.2.2",
       "0.2.3"
     ]
-  },
-  "create-hardhat3-app": {
-    "versions": [
-      "1.1.1",
-      "1.1.2",
-      "1.1.3",
-      "1.1.4"
-    ]
-  },
-  "create-hest-app": {
-    "versions": [
-      "0.1.9"
-    ]
-  },
-  "create-kinvey-flex-service": {
-    "versions": [
-      "0.2.1"
-    ]
-  },
-  "create-mcp-use-app": {
-    "versions": [
-      "0.5.3",
-      "0.5.4"
-    ]
-  },
-  "create-react-app-lambda": {
-    "versions": []
-  },
-  "create-response": {
-    "versions": [
-      "99.0.0"
-    ]
-  },
-  "create-silgi": {
-    "versions": [
-      "0.3.1"
-    ]
-  },
-  "create-wrangler-deploy": {
-    "versions": [
-      "0.1.1"
-    ]
-  },
-  "creditcard.js": {
-    "versions": [
-      "2.1.8",
-      "3.0.60"
-    ]
-  },
-  "crediteligibilityserv": {
-    "versions": []
-  },
-  "cressida-darkmatter-bootstrap-luna": {
-    "versions": []
-  },
-  "cressida-higgs-carina-mysql": {
-    "versions": []
-  },
-  "cressida-promise-reveal-md-nashira": {
-    "versions": []
-  },
-  "crew-toolbox": {
-    "versions": []
-  },
-  "cross-app": {
-    "versions": []
   }
 }
