@@ -1,3 +1,16 @@
+## 2026-07-14 12:48:58 — Added 0 new packages, updated 3 versions
+
+### 🆕 New Packages (0)
+_None_
+
+### 🔄 Updated Versions (3)
+| Package | Version | Type |
+|---------|---------|-------|
+| @asyncapi/generator-helpers | 1.1.1 | new-version |
+| @asyncapi/generator | 3.3.1 | new-version |
+| @asyncapi/specs | 6.11.2 | new-version |
+
+
 ## 2026-07-14 07:09:46 — Added 31 new packages, updated 1 versions
 
 ### 🆕 New Packages (31)

@@ -1,4 +1,9 @@
 {
+  "@uipath/ap-chat": {
+    "versions": [
+      "1.5.7"
+    ]
+  },
   "@uipath/api-workflow-tool": {
     "versions": [
       "1.0.1"

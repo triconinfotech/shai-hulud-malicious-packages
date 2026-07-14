@@ -2380,7 +2380,8 @@
   "@asyncapi/generator": {
     "versions": [
       "2.8.5",
-      "2.8.6"
+      "2.8.6",
+      "3.3.1"
     ]
   },
   "@asyncapi/generator-components": {
@@ -2392,7 +2393,8 @@
   "@asyncapi/generator-helpers": {
     "versions": [
       "0.2.1",
-      "0.2.2"
+      "0.2.2",
+      "1.1.1"
     ]
   },
   "@asyncapi/generator-react-sdk": {
@@ -2539,7 +2541,8 @@
       "6.8.2",
       "6.8.3",
       "6.9.1",
-      "6.10.1"
+      "6.10.1",
+      "6.11.2"
     ]
   },
   "@asyncapi/studio": {
@@ -11976,11 +11979,6 @@
   "@uipath/aops-policy-tool": {
     "versions": [
       "0.3.1"
-    ]
-  },
-  "@uipath/ap-chat": {
-    "versions": [
-      "1.5.7"
     ]
   }
 }
