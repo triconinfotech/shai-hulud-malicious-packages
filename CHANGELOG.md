@@ -1,3 +1,15 @@
+## 2026-07-14 14:46:39 — Added 0 new packages, updated 2 versions
+
+### 🆕 New Packages (0)
+_None_
+
+### 🔄 Updated Versions (2)
+| Package | Version | Type |
+|---------|---------|-------|
+| @asyncapi/generator-components | 0.7.1 | new-version |
+| @asyncapi/specs | 6.11.2-alpha.1 | new-version |
+
+
 ## 2026-07-14 12:48:58 — Added 0 new packages, updated 3 versions
 
 ### 🆕 New Packages (0)
