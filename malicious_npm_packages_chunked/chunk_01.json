@@ -1,4 +1,9 @@
 {
+  "@uipath/aops-policy-tool": {
+    "versions": [
+      "0.3.1"
+    ]
+  },
   "@uipath/ap-chat": {
     "versions": [
       "1.5.7"
@@ -12107,12 +12112,6 @@
   "create-director-app": {
     "versions": [
       "0.1.1"
-    ]
-  },
-  "create-glee-app": {
-    "versions": [
-      "0.2.2",
-      "0.2.3"
     ]
   }
 }

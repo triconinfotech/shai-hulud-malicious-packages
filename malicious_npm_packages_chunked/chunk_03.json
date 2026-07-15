@@ -1,4 +1,9 @@
 {
+  "hast-util-to-mdast9": {
+    "versions": [
+      "9.0.0"
+    ]
+  },
   "haufe-axera-api-client": {
     "versions": [
       "0.0.1",
@@ -973,6 +978,11 @@
   "install-eleventy-cluster-element-ui": {
     "versions": []
   },
+  "install-skia": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "instead-typical-growth": {
     "versions": []
   },
@@ -1350,6 +1360,11 @@
   },
   "iwan-semur87-kyuki": {
     "versions": []
+  },
+  "iwsdk": {
+    "versions": [
+      "22.0.0"
+    ]
   },
   "izar-halley-mutation-rigel": {
     "versions": []
@@ -12071,18 +12086,6 @@
     "versions": []
   },
   "sari-peyek91-breki": {
-    "versions": []
-  },
-  "sari-rangginang1-breki": {
-    "versions": []
-  },
-  "sari-rojak42-kyuki": {
-    "versions": []
-  },
-  "sari-sambel78-breki": {
-    "versions": []
-  },
-  "sari-soto27-breki": {
     "versions": []
   }
 }
