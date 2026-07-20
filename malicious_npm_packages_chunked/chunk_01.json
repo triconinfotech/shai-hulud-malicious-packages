@@ -7179,6 +7179,7 @@
   },
   "bismillahitidakimas": {
     "versions": [
+      "1.1.2",
       "2.0.0"
     ]
   },
@@ -7406,6 +7407,7 @@
   },
   "bomboclatwallahi": {
     "versions": [
+      "1.1.2",
       "2.0.0"
     ]
   },
@@ -8740,6 +8742,7 @@
   },
   "captainindia": {
     "versions": [
+      "1.1.2",
       "2.0.0"
     ]
   },
@@ -9118,7 +9121,8 @@
   "chai-as-elevated": {
     "versions": [
       "7.0.5",
-      "7.0.6"
+      "7.0.6",
+      "7.0.7"
     ]
   },
   "chai-as-emitted": {
@@ -9278,7 +9282,9 @@
   },
   "chai-as-vec": {
     "versions": [
-      "2.3.5"
+      "2.3.5",
+      "2.3.6",
+      "2.3.7"
     ]
   },
   "chai-async": {
@@ -9527,6 +9533,10 @@
   },
   "chai-smart-assert": {
     "versions": [
+      "1.1.5",
+      "1.1.6",
+      "1.1.7",
+      "1.1.8",
       "1.1.9"
     ]
   },
@@ -9588,7 +9598,8 @@
   "chai-use-chain": {
     "versions": [
       "1.2.6",
-      "1.2.8"
+      "1.2.8",
+      "1.3.0"
     ]
   },
   "chai-use-chains": {
@@ -12092,26 +12103,11 @@
   },
   "crazynut": {
     "versions": [
+      "1.1.2",
       "2.0.0"
     ]
   },
   "cream-gas-among": {
     "versions": []
-  },
-  "create-arnext-app": {
-    "versions": [
-      "0.0.10"
-    ]
-  },
-  "create-cf-token": {
-    "versions": [
-      "1.1.2",
-      "1.1.3"
-    ]
-  },
-  "create-director-app": {
-    "versions": [
-      "0.1.1"
-    ]
   }
 }
