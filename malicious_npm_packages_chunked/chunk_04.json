@@ -1,4 +1,20 @@
 {
+  "no-function-declare-after-return": {
+    "versions": [
+      "5.1.0"
+    ]
+  },
+  "no-type-assertion": {
+    "versions": [
+      "9.9.0"
+    ]
+  },
+  "no-unsanitized": {
+    "versions": [
+      "9.9.1",
+      "9.9.2"
+    ]
+  },
   "no-use-extend-native": {
     "versions": [
       "6.9.0",
@@ -12266,18 +12282,6 @@
     "versions": []
   },
   "utomo-takokak96-kyuki": {
-    "versions": []
-  },
-  "utomo-tapai9-sluey": {
-    "versions": []
-  },
-  "utomo-tek42-kyuki": {
-    "versions": []
-  },
-  "utomo-telurtahu39-ruro": {
-    "versions": []
-  },
-  "utomo-telurtahu98-kyuki": {
     "versions": []
   }
 }

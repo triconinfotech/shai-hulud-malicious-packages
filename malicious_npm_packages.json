@@ -19863,7 +19863,10 @@
     ]
   },
   "account-merge-site": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "accounts-base": {
     "versions": [
@@ -33235,7 +33238,10 @@
     "versions": []
   },
   "egstore-graphql-client": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "ehance-assistant": {
     "versions": [
@@ -36778,13 +36784,19 @@
     "versions": []
   },
   "epic-admin-node-services": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-admin-ui": {
     "versions": []
   },
   "epic-adminportal-frontend": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-alt-utils": {
     "versions": []

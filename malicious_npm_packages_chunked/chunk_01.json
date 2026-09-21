@@ -7445,7 +7445,10 @@
     ]
   },
   "account-merge-site": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "accounts-base": {
     "versions": [
@@ -12138,10 +12141,5 @@
   },
   "blendertools": {
     "versions": []
-  },
-  "blinqio-executions-cli": {
-    "versions": [
-      "1.0.41"
-    ]
   }
 }

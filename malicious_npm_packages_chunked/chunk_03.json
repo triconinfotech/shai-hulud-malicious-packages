@@ -1,4 +1,15 @@
 {
+  "elf-stats-wintry-chimney-348": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "elf-stats-wintry-cocoa-831": {
+    "versions": [
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
   "elf-stats-wintry-fir-892": {
     "versions": [
       "999.0.0"
@@ -266,13 +277,19 @@
     "versions": []
   },
   "epic-admin-node-services": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-admin-ui": {
     "versions": []
   },
   "epic-adminportal-frontend": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-alt-utils": {
     "versions": []
@@ -12045,21 +12062,5 @@
   },
   "nnc-web": {
     "versions": []
-  },
-  "no-function-declare-after-return": {
-    "versions": [
-      "5.1.0"
-    ]
-  },
-  "no-type-assertion": {
-    "versions": [
-      "9.9.0"
-    ]
-  },
-  "no-unsanitized": {
-    "versions": [
-      "9.9.1",
-      "9.9.2"
-    ]
   }
 }

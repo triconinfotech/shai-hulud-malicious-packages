@@ -1,4 +1,9 @@
 {
+  "blinqio-executions-cli": {
+    "versions": [
+      "1.0.41"
+    ]
+  },
   "blitz-passport-repository-venus": {
     "versions": []
   },
@@ -8672,7 +8677,10 @@
     "versions": []
   },
   "egstore-graphql-client": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "ehance-assistant": {
     "versions": [
@@ -11935,17 +11943,6 @@
   "elf-stats-whimsical-train-322": {
     "versions": [
       "3.0.0"
-    ]
-  },
-  "elf-stats-wintry-chimney-348": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "elf-stats-wintry-cocoa-831": {
-    "versions": [
-      "1.0.1",
-      "1.0.2"
     ]
   }
 }
