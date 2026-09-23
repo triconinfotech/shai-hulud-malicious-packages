@@ -1,4 +1,45 @@
 {
+  "upgrade-grus-publish-aether": {
+    "versions": []
+  },
+  "upgrade-mobile": {
+    "versions": []
+  },
+  "upgrade-react-bootstrap-antares-airbnb": {
+    "versions": []
+  },
+  "upgrade-repository-dione-ora": {
+    "versions": []
+  },
+  "uplandui": {
+    "versions": [
+      "0.5.4"
+    ]
+  },
+  "upload-to-play-store": {
+    "versions": [
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
+  "upstart-lending-status": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "upstart-loan-status": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "upstart-offer-container": {
+    "versions": []
+  },
+  "upstart.previewcss": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
   "upstartadmindashboard-": {
     "versions": [
       "99.99.1"
@@ -3302,6 +3343,12 @@
   "xrpl-hooks-ide": {
     "versions": [
       "1.0.0"
+    ]
+  },
+  "xsjukcnv8low26": {
+    "versions": [
+      "1.0.0",
+      "1.0.1"
     ]
   },
   "xss-payload-7n-ctf": {

@@ -1,4 +1,41 @@
 {
+  "nf-cl-logger-test": {
+    "versions": [
+      "99.99.99"
+    ]
+  },
+  "nf-cl-logger-test2": {
+    "versions": [
+      "99.99.99"
+    ]
+  },
+  "nf-cl-ls": {
+    "versions": [
+      "99.0.1",
+      "99.0.3",
+      "99.0.4",
+      "99.0.5"
+    ]
+  },
+  "nf-console": {
+    "versions": [
+      "99.0.0",
+      "99.0.1"
+    ]
+  },
+  "nf-promise-state-machine": {
+    "versions": [
+      "99.0.0",
+      "99.0.1"
+    ]
+  },
+  "nf-referral-backend": {
+    "versions": [
+      "1.0.2",
+      "1.0.5",
+      "1.0.9"
+    ]
+  },
   "nf-referral-backend-placeholder": {
     "versions": []
   },
@@ -7255,6 +7292,11 @@
       "99.0.0"
     ]
   },
+  "some-tool-package": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
   "somesomesome": {
     "versions": []
   },
@@ -10275,6 +10317,16 @@
   "tiara-wajit9-breki": {
     "versions": []
   },
+  "tib2jcvowuyma": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "tibcwmpoeafh": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "tickncook-robot": {
     "versions": []
   },
@@ -12266,46 +12318,5 @@
   },
   "upgrade-firebase-event-telesto": {
     "versions": []
-  },
-  "upgrade-grus-publish-aether": {
-    "versions": []
-  },
-  "upgrade-mobile": {
-    "versions": []
-  },
-  "upgrade-react-bootstrap-antares-airbnb": {
-    "versions": []
-  },
-  "upgrade-repository-dione-ora": {
-    "versions": []
-  },
-  "uplandui": {
-    "versions": [
-      "0.5.4"
-    ]
-  },
-  "upload-to-play-store": {
-    "versions": [
-      "1.0.1",
-      "1.0.2"
-    ]
-  },
-  "upstart-lending-status": {
-    "versions": [
-      "99.99.1"
-    ]
-  },
-  "upstart-loan-status": {
-    "versions": [
-      "99.99.1"
-    ]
-  },
-  "upstart-offer-container": {
-    "versions": []
-  },
-  "upstart.previewcss": {
-    "versions": [
-      "99.99.1"
-    ]
   }
 }

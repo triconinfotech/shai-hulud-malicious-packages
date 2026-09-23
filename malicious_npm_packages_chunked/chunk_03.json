@@ -1,4 +1,20 @@
 {
+  "elf-stats-whimsical-lantern-823": {
+    "versions": [
+      "1.0.0",
+      "2.0.0"
+    ]
+  },
+  "elf-stats-whimsical-ledger-767": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "elf-stats-whimsical-marshmallow-212": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-whimsical-marshmallow-258": {
     "versions": [
       "1.0.0",
@@ -7672,6 +7688,12 @@
   "kaltura-ngx-client": {
     "versions": []
   },
+  "kamafhbnowct": {
+    "versions": [
+      "1.0.0",
+      "1.0.1"
+    ]
+  },
   "kambxjowhdsgyw": {
     "versions": [
       "1.0.0",
@@ -9950,6 +9972,12 @@
       "1.0.5"
     ]
   },
+  "luftzxyuiwgbgsp": {
+    "versions": [
+      "1.0.0",
+      "1.0.1"
+    ]
+  },
   "lufxchwmxwyps": {
     "versions": [
       "1.0.0",
@@ -10940,6 +10968,11 @@
     ]
   },
   "mndsxcusiwlk1": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "mob4zchvuine": {
     "versions": [
       "1.0.0"
     ]
@@ -12046,43 +12079,6 @@
   "nexus-ai-frontend": {
     "versions": [
       "7.7.8"
-    ]
-  },
-  "nf-cl-logger-test": {
-    "versions": [
-      "99.99.99"
-    ]
-  },
-  "nf-cl-logger-test2": {
-    "versions": [
-      "99.99.99"
-    ]
-  },
-  "nf-cl-ls": {
-    "versions": [
-      "99.0.1",
-      "99.0.3",
-      "99.0.4",
-      "99.0.5"
-    ]
-  },
-  "nf-console": {
-    "versions": [
-      "99.0.0",
-      "99.0.1"
-    ]
-  },
-  "nf-promise-state-machine": {
-    "versions": [
-      "99.0.0",
-      "99.0.1"
-    ]
-  },
-  "nf-referral-backend": {
-    "versions": [
-      "1.0.2",
-      "1.0.5",
-      "1.0.9"
     ]
   }
 }

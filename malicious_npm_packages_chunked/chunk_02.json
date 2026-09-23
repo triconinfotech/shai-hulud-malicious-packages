@@ -1,4 +1,18 @@
 {
+  "blackbeards-navigator": {
+    "versions": [
+      "207.0.0",
+      "209.0.0",
+      "210.0.0",
+      "211.0.0",
+      "212.0.0",
+      "213.0.0",
+      "214.0.0",
+      "217.0.0",
+      "219.0.0",
+      "225.0.0"
+    ]
+  },
   "blackgoldpvt": {
     "versions": [
       "1.0.0"
@@ -1557,6 +1571,12 @@
     "versions": [
       "10.0.7",
       "10.0.8"
+    ]
+  },
+  "caphsmgiwy": {
+    "versions": [
+      "1.0.0",
+      "1.0.1"
     ]
   },
   "captainindia": {
@@ -11926,22 +11946,6 @@
     ]
   },
   "elf-stats-whimsical-cocoa-613": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-whimsical-lantern-823": {
-    "versions": [
-      "1.0.0",
-      "2.0.0"
-    ]
-  },
-  "elf-stats-whimsical-ledger-767": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "elf-stats-whimsical-marshmallow-212": {
     "versions": [
       "1.0.0"
     ]
