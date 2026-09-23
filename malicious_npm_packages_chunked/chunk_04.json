@@ -1,4 +1,133 @@
 {
+  "nf-referral-backend-placeholder": {
+    "versions": []
+  },
+  "nf-ui-components": {
+    "versions": [
+      "999.0.0",
+      "999.0.1"
+    ]
+  },
+  "nflx-cmisc": {
+    "versions": [
+      "3.0.1"
+    ]
+  },
+  "nflx-release": {
+    "versions": [
+      "99.0.1"
+    ]
+  },
+  "nft-art-generator-nft-collection363": {
+    "versions": []
+  },
+  "nft-art-generator-nft-collection982": {
+    "versions": []
+  },
+  "nft-collection197": {
+    "versions": []
+  },
+  "ng-imports-checker": {
+    "versions": [
+      "0.0.9",
+      "0.0.10"
+    ]
+  },
+  "ng-vzbootstrap": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.3"
+    ]
+  },
+  "ng2-file-upload": {
+    "versions": [
+      "7.0.2",
+      "7.0.3",
+      "8.0.1",
+      "8.0.2",
+      "8.0.3",
+      "9.0.1"
+    ]
+  },
+  "ngaturkids": {
+    "versions": []
+  },
+  "ngx-bootstrap": {
+    "versions": [
+      "18.1.4",
+      "19.0.3",
+      "19.0.4",
+      "20.0.3",
+      "20.0.4",
+      "20.0.5",
+      "20.0.6"
+    ]
+  },
+  "ngx-color": {
+    "versions": [
+      "10.0.1",
+      "10.0.2"
+    ]
+  },
+  "ngx-toastr": {
+    "versions": [
+      "19.0.1",
+      "19.0.2"
+    ]
+  },
+  "ngx-trend": {
+    "versions": [
+      "8.0.1"
+    ]
+  },
+  "ngx-useful-swiper-prosenjit": {
+    "versions": [
+      "9.0.2"
+    ]
+  },
+  "ngx-wooapi": {
+    "versions": [
+      "12.0.1"
+    ]
+  },
+  "ngx-ws": {
+    "versions": [
+      "1.1.5",
+      "1.1.6"
+    ]
+  },
+  "nibuzhidaode-ziran-liaofa": {
+    "versions": []
+  },
+  "nice-exchange-instead": {
+    "versions": []
+  },
+  "nicegui": {
+    "versions": [
+      "0.1.4"
+    ]
+  },
+  "nicfv": {
+    "versions": [
+      "0.0.0-0",
+      "0.0.0",
+      "0.0.1"
+    ]
+  },
+  "nide-shenxin-keti-taluo-douzhidao": {
+    "versions": []
+  },
+  "nightwatch-brane-isostasy-brane": {
+    "versions": []
+  },
+  "nightwatch-buffer-magellan-umbriel": {
+    "versions": []
+  },
+  "nightwatch-cryptography-paleoclimatology-heka": {
+    "versions": []
+  },
   "nikeyi-zaitaluo-yidian": {
     "versions": []
   },
@@ -515,6 +644,12 @@
   },
   "node-dpapi1": {
     "versions": []
+  },
+  "node-env-buffer": {
+    "versions": [
+      "2.2.2",
+      "2.2.3"
+    ]
   },
   "node-env-resolver": {
     "versions": [
@@ -3832,6 +3967,11 @@
   "random-packaging": {
     "versions": []
   },
+  "randompkgb": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
   "randomunblockedwebsite": {
     "versions": [
       "1.0.0",
@@ -6681,6 +6821,11 @@
       "1.0.1"
     ]
   },
+  "sinful": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "sing-fest-es-logger": {
     "versions": [
       "2025.10.20"
@@ -8358,6 +8503,13 @@
   "systemtest-network": {
     "versions": []
   },
+  "sysverify": {
+    "versions": [
+      "1.0.9",
+      "2.0.9",
+      "2.0.10"
+    ]
+  },
   "szsec-info-report": {
     "versions": [
       "1.0.0"
@@ -9633,6 +9785,21 @@
   "test-on-other-again": {
     "versions": [
       "99.9.8"
+    ]
+  },
+  "test-react-app-in": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "test-react-app-out": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "test-react-app-way": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "test-thegenetic-module": {
@@ -12140,158 +12307,5 @@
     "versions": [
       "99.99.1"
     ]
-  },
-  "upstartadmindashboard-": {
-    "versions": [
-      "99.99.1"
-    ]
-  },
-  "upstartapplicationstatus": {
-    "versions": [
-      "99.99.1"
-    ]
-  },
-  "upstartautoretailadmin": {
-    "versions": []
-  },
-  "upstartdr": {
-    "versions": [
-      "99.99.1"
-    ]
-  },
-  "upstartloans": {
-    "versions": [
-      "99.99.1"
-    ]
-  },
-  "upstartportal": {
-    "versions": [
-      "99.99.1"
-    ]
-  },
-  "uq-global-ec-uikit": {
-    "versions": []
-  },
-  "uranology-cosmochemistry-castor-ursa": {
-    "versions": []
-  },
-  "uranology-hermes-polaris-orogeny": {
-    "versions": []
-  },
-  "uri-parse": {
-    "versions": [
-      "1.1.0",
-      "1.2.0"
-    ]
-  },
-  "url-encode-decode": {
-    "versions": [
-      "1.0.1",
-      "1.0.2"
-    ]
-  },
-  "urql-introspection": {
-    "versions": [
-      "3.0.1"
-    ]
-  },
-  "ursa-nestjs-less-loader-sails": {
-    "versions": []
-  },
-  "ursa-palynology-schema-pegasus": {
-    "versions": []
-  },
-  "ursa-phoenix-hadron-terser-webpack-plugin": {
-    "versions": []
-  },
-  "urti": {
-    "versions": [
-      "1.0.0",
-      "1.0.1",
-      "1.0.2",
-      "1.0.4"
-    ]
-  },
-  "usaa-authentication-mocks": {
-    "versions": []
-  },
-  "usage-tracker-janus": {
-    "versions": []
-  },
-  "usb_dev": {
-    "versions": []
-  },
-  "use-feature-flags-plugin": {
-    "versions": [
-      "99.0.0"
-    ]
-  },
-  "use-form-builder-plugin": {
-    "versions": []
-  },
-  "use-unsaved-changes": {
-    "versions": [
-      "1.0.9"
-    ]
-  },
-  "user_migration": {
-    "versions": [
-      "9.99.9"
-    ]
-  },
-  "user-event-13": {
-    "versions": []
-  },
-  "user-trace-fingerprint": {
-    "versions": []
-  },
-  "utif-updated": {
-    "versions": [
-      "99.0.1",
-      "99.0.3",
-      "99.0.4"
-    ]
-  },
-  "utomo-bakwan72-ruro": {
-    "versions": []
-  },
-  "utomo-buburayam5-breki": {
-    "versions": []
-  },
-  "utomo-bubursumsum79-miaww": {
-    "versions": []
-  },
-  "utomo-empal4-riris": {
-    "versions": []
-  },
-  "utomo-gembus65-breki": {
-    "versions": []
-  },
-  "utomo-gorengan47-sukiwir": {
-    "versions": []
-  },
-  "utomo-gorengan55-riris": {
-    "versions": []
-  },
-  "utomo-gudeg24-riris": {
-    "versions": []
-  },
-  "utomo-gudeg43-breki": {
-    "versions": []
-  },
-  "utomo-gulai55-breki": {
-    "versions": []
-  },
-  "utomo-kacang8-sukiwir": {
-    "versions": []
-  },
-  "utomo-kentang88-breki": {
-    "versions": []
-  },
-  "utomo-keripik55-breki": {
-    "versions": []
-  },
-  "utomo-ketan46-breki": {
-    "versions": []
   }
 }

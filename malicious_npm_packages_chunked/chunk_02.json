@@ -1,4 +1,26 @@
 {
+  "blackgoldpvt": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "blackhole-hyperion-farout-backend": {
+    "versions": []
+  },
+  "blackstone-core": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "blank-hidden-interior": {
+    "versions": []
+  },
+  "blank-sum-knowledge": {
+    "versions": []
+  },
+  "blendertools": {
+    "versions": []
+  },
   "blinqio-executions-cli": {
     "versions": [
       "1.0.41"
@@ -4151,6 +4173,11 @@
       "1.0.4"
     ]
   },
+  "cloudndmcedu": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "cloudy-uvi-sense-v11": {
     "versions": [
       "99.9.9"
@@ -7802,6 +7829,20 @@
   "digitallogger": {
     "versions": [
       "1.1.0"
+    ]
+  },
+  "dilxztech": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.6",
+      "1.0.7",
+      "1.0.8",
+      "1.0.9"
     ]
   },
   "dim-svelte-ui": {
@@ -11903,46 +11944,6 @@
   "elf-stats-whimsical-marshmallow-212": {
     "versions": [
       "1.0.0"
-    ]
-  },
-  "elf-stats-whimsical-marshmallow-258": {
-    "versions": [
-      "1.0.0",
-      "1.0.1",
-      "1.0.2"
-    ]
-  },
-  "elf-stats-whimsical-muffin-613": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-whimsical-pantry-974": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-whimsical-rocket-922": {
-    "versions": [
-      "1.0.1",
-      "1.0.2"
-    ]
-  },
-  "elf-stats-whimsical-satchel-586": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-whimsical-snowflake-250": {
-    "versions": [
-      "1.0.4",
-      "1.0.5",
-      "1.0.6"
-    ]
-  },
-  "elf-stats-whimsical-train-322": {
-    "versions": [
-      "3.0.0"
     ]
   }
 }

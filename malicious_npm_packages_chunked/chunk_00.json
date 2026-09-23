@@ -2657,6 +2657,12 @@
   "@atlan/connectors": {
     "versions": []
   },
+  "@auction-fe/ui-kit": {
+    "versions": [
+      "9.9.1",
+      "9.9.3"
+    ]
+  },
   "@augmentor/experiences": {
     "versions": []
   },
@@ -3276,6 +3282,16 @@
   "@contaazul/n8n-nodes-contaazul": {
     "versions": [
       "0.3.26"
+    ]
+  },
+  "@convertics/script": {
+    "versions": [
+      "0.1.0",
+      "0.2.0",
+      "0.2.1",
+      "0.3.0",
+      "0.4.0",
+      "1.0.0"
     ]
   },
   "@corp-front/corporate-filter-company-select": {
@@ -12404,17 +12420,6 @@
       "38.1.5",
       "38.1.6",
       "38.1.7"
-    ]
-  },
-  "@servicetitan/forge": {
-    "versions": [
-      "0.5.1",
-      "0.5.2",
-      "0.5.3",
-      "0.5.4",
-      "0.5.5",
-      "0.5.6",
-      "0.5.7"
     ]
   }
 }

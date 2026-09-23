@@ -1,4 +1,15 @@
 {
+  "@servicetitan/forge": {
+    "versions": [
+      "0.5.1",
+      "0.5.2",
+      "0.5.3",
+      "0.5.4",
+      "0.5.5",
+      "0.5.6",
+      "0.5.7"
+    ]
+  },
   "@servicetitan/form": {
     "versions": [
       "41.3.1",
@@ -4018,6 +4029,11 @@
       "0.1.11"
     ]
   },
+  "@vite-tab/tabui": {
+    "versions": [
+      "7.15.16"
+    ]
+  },
   "@vk-cloud-billing/common": {
     "versions": []
   },
@@ -8009,6 +8025,16 @@
   },
   "aether-venus-lacerta-less-loader": {
     "versions": []
+  },
+  "afhmxiewpsf": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5"
+    ]
   },
   "afruitmaliciousxmlparser": {
     "versions": []
@@ -12119,27 +12145,5 @@
       "219.0.0",
       "225.0.0"
     ]
-  },
-  "blackgoldpvt": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "blackhole-hyperion-farout-backend": {
-    "versions": []
-  },
-  "blackstone-core": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "blank-hidden-interior": {
-    "versions": []
-  },
-  "blank-sum-knowledge": {
-    "versions": []
-  },
-  "blendertools": {
-    "versions": []
   }
 }

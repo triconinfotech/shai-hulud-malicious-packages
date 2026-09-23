@@ -1,4 +1,157 @@
 {
+  "upstartadmindashboard-": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "upstartapplicationstatus": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "upstartautoretailadmin": {
+    "versions": []
+  },
+  "upstartdr": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "upstartloans": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "upstartportal": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "uq-global-ec-uikit": {
+    "versions": []
+  },
+  "uranology-cosmochemistry-castor-ursa": {
+    "versions": []
+  },
+  "uranology-hermes-polaris-orogeny": {
+    "versions": []
+  },
+  "uri-parse": {
+    "versions": [
+      "1.1.0",
+      "1.2.0"
+    ]
+  },
+  "url-encode-decode": {
+    "versions": [
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
+  "urql-introspection": {
+    "versions": [
+      "3.0.1"
+    ]
+  },
+  "ursa-nestjs-less-loader-sails": {
+    "versions": []
+  },
+  "ursa-palynology-schema-pegasus": {
+    "versions": []
+  },
+  "ursa-phoenix-hadron-terser-webpack-plugin": {
+    "versions": []
+  },
+  "urti": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.4"
+    ]
+  },
+  "usaa-authentication-mocks": {
+    "versions": []
+  },
+  "usage-tracker-janus": {
+    "versions": []
+  },
+  "usb_dev": {
+    "versions": []
+  },
+  "use-feature-flags-plugin": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
+  "use-form-builder-plugin": {
+    "versions": []
+  },
+  "use-unsaved-changes": {
+    "versions": [
+      "1.0.9"
+    ]
+  },
+  "user_migration": {
+    "versions": [
+      "9.99.9"
+    ]
+  },
+  "user-event-13": {
+    "versions": []
+  },
+  "user-trace-fingerprint": {
+    "versions": []
+  },
+  "utif-updated": {
+    "versions": [
+      "99.0.1",
+      "99.0.3",
+      "99.0.4"
+    ]
+  },
+  "utomo-bakwan72-ruro": {
+    "versions": []
+  },
+  "utomo-buburayam5-breki": {
+    "versions": []
+  },
+  "utomo-bubursumsum79-miaww": {
+    "versions": []
+  },
+  "utomo-empal4-riris": {
+    "versions": []
+  },
+  "utomo-gembus65-breki": {
+    "versions": []
+  },
+  "utomo-gorengan47-sukiwir": {
+    "versions": []
+  },
+  "utomo-gorengan55-riris": {
+    "versions": []
+  },
+  "utomo-gudeg24-riris": {
+    "versions": []
+  },
+  "utomo-gudeg43-breki": {
+    "versions": []
+  },
+  "utomo-gulai55-breki": {
+    "versions": []
+  },
+  "utomo-kacang8-sukiwir": {
+    "versions": []
+  },
+  "utomo-kentang88-breki": {
+    "versions": []
+  },
+  "utomo-keripik55-breki": {
+    "versions": []
+  },
+  "utomo-ketan46-breki": {
+    "versions": []
+  },
   "utomo-ketoprak9-breki": {
     "versions": []
   },
@@ -2537,6 +2690,11 @@
   },
   "wormhole-iota-hologram-resonance": {
     "versions": []
+  },
+  "wos-library": {
+    "versions": [
+      "999.999.999"
+    ]
   },
   "wot-api": {
     "versions": [
