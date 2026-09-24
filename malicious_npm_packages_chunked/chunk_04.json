@@ -1,4 +1,33 @@
 {
+  "next-circular-dependency": {
+    "versions": [
+      "1.0.2",
+      "1.0.3"
+    ]
+  },
+  "next-optimized-image": {
+    "versions": []
+  },
+  "next-rwa": {
+    "versions": []
+  },
+  "next-simple-google-analytics": {
+    "versions": [
+      "1.1.1",
+      "1.1.2"
+    ]
+  },
+  "next-styled-nprogress": {
+    "versions": [
+      "1.0.4",
+      "1.0.5"
+    ]
+  },
+  "nextiva-dot-com": {
+    "versions": [
+      "1.1.2"
+    ]
+  },
   "nextjs-chat-with-ai-service": {
     "versions": [
       "99.9.9"
@@ -12300,26 +12329,6 @@
     "versions": []
   },
   "unlimited-free-coin-master-spins-link-fkelf": {
-    "versions": []
-  },
-  "unlimited-free-coin-master-spins-march-2023-efkefr": {
-    "versions": []
-  },
-  "unlimiteed-coin-master-free-spins-link-sfkzele": {
-    "versions": []
-  },
-  "unlimiteed-coin-master-free-spins-links-yikhtr": {
-    "versions": []
-  },
-  "unplugin-vue-component": {
-    "versions": []
-  },
-  "unsearch": {
-    "versions": [
-      "0.0.3"
-    ]
-  },
-  "unuk-bioinformatics-wezen-webdriver-mocha": {
     "versions": []
   }
 }

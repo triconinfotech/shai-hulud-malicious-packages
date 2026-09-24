@@ -651,31 +651,58 @@
     ]
   },
   "epic-games-footer": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-games-nav": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-google-maps-tools": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-graphql-schema": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-graphql-types": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-gtm-url-checker": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-gulp-utils": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-hooks": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-http-proxy": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-i18n": {
     "versions": []
@@ -12055,34 +12082,5 @@
   },
   "newspaper-club-sentence": {
     "versions": []
-  },
-  "next-circular-dependency": {
-    "versions": [
-      "1.0.2",
-      "1.0.3"
-    ]
-  },
-  "next-optimized-image": {
-    "versions": []
-  },
-  "next-rwa": {
-    "versions": []
-  },
-  "next-simple-google-analytics": {
-    "versions": [
-      "1.1.1",
-      "1.1.2"
-    ]
-  },
-  "next-styled-nprogress": {
-    "versions": [
-      "1.0.4",
-      "1.0.5"
-    ]
-  },
-  "nextiva-dot-com": {
-    "versions": [
-      "1.1.2"
-    ]
   }
 }
