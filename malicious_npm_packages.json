@@ -37103,34 +37103,64 @@
     ]
   },
   "epic-dynamo-utils": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-env-utils": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-eula": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-eula-service": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-file-upload": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-fortnite-build": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-fortnite-react": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-fortnite-server": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-fortnite-styles": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-freight": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-games-footer": {
     "versions": []

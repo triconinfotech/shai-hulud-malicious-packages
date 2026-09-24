@@ -591,34 +591,64 @@
     ]
   },
   "epic-dynamo-utils": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-env-utils": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-eula": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-eula-service": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-file-upload": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-fortnite-build": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-fortnite-react": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-fortnite-server": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-fortnite-styles": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-freight": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-games-footer": {
     "versions": []
@@ -12053,32 +12083,6 @@
   "nextiva-dot-com": {
     "versions": [
       "1.1.2"
-    ]
-  },
-  "nextjs-chat-with-ai-service": {
-    "versions": [
-      "99.9.9"
-    ]
-  },
-  "nextjs-default": {
-    "versions": [
-      "1.1.1",
-      "1.3.5",
-      "100.11.1337"
-    ]
-  },
-  "nextmove-mcp": {
-    "versions": [
-      "0.1.3",
-      "0.1.4",
-      "0.1.5",
-      "0.1.6",
-      "0.1.7"
-    ]
-  },
-  "nexus-ai-frontend": {
-    "versions": [
-      "7.7.8"
     ]
   }
 }

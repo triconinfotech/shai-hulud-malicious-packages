@@ -1,4 +1,27 @@
 {
+  "up2-daemon": {
+    "versions": []
+  },
+  "update-browserslist": {
+    "versions": [
+      "99.1.1"
+    ]
+  },
+  "update-db": {
+    "versions": [
+      "99.1.0",
+      "99.1.1"
+    ]
+  },
+  "update-local-deneb-spawn": {
+    "versions": []
+  },
+  "updated-tricks-roblox-robux-generator-dkzskzk": {
+    "versions": []
+  },
+  "upgrade-firebase-event-telesto": {
+    "versions": []
+  },
   "upgrade-grus-publish-aether": {
     "versions": []
   },
