@@ -705,34 +705,170 @@
     ]
   },
   "epic-i18n": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-js-error-reporting": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-launchdarkly": {
     "versions": []
   },
+  "epic-launcher-integration": {
+    "versions": [
+      "0.0.1-security.0",
+      "0.0.1-security",
+      "0.0.0",
+      "0.0.1",
+      "0.1.0",
+      "0.2.0",
+      "0.3.0",
+      "0.4.0",
+      "0.5.0",
+      "0.6.0",
+      "0.7.0",
+      "0.8.0",
+      "0.9.0",
+      "1.0.0",
+      "1.1.0",
+      "1.2.0",
+      "1.3.0",
+      "1.4.0",
+      "1.5.0",
+      "1.6.0",
+      "1.7.0",
+      "1.8.0",
+      "1.9.0",
+      "2.0.0",
+      "2.1.0",
+      "2.2.0",
+      "2.3.0",
+      "2.4.0",
+      "2.5.0",
+      "2.6.0",
+      "2.7.0",
+      "2.8.0",
+      "2.9.0",
+      "3.0.0",
+      "3.1.0",
+      "3.2.0",
+      "3.3.0",
+      "3.4.0",
+      "3.5.0",
+      "3.6.0",
+      "3.7.0",
+      "3.8.0",
+      "3.9.0",
+      "4.0.0",
+      "4.1.0",
+      "4.2.0",
+      "4.3.0",
+      "4.4.0",
+      "4.5.0",
+      "4.6.0",
+      "4.7.0",
+      "4.8.0",
+      "4.9.0",
+      "5.0.0",
+      "5.1.0",
+      "5.2.0",
+      "5.3.0",
+      "5.4.0",
+      "5.5.0",
+      "5.6.0",
+      "5.7.0",
+      "5.8.0",
+      "5.9.0",
+      "6.0.0",
+      "6.1.0",
+      "6.2.0",
+      "6.3.0",
+      "6.4.0",
+      "6.5.0",
+      "6.6.0",
+      "6.7.0",
+      "6.8.0",
+      "6.9.0",
+      "7.0.0",
+      "7.1.0",
+      "7.2.0",
+      "7.3.0",
+      "7.4.0",
+      "7.5.0",
+      "7.6.0",
+      "7.7.0",
+      "7.8.0",
+      "7.9.0",
+      "8.0.0",
+      "8.1.0",
+      "8.2.0",
+      "8.3.0",
+      "8.4.0",
+      "8.5.0",
+      "8.6.0",
+      "8.7.0",
+      "8.8.0",
+      "8.9.0",
+      "9.0.0",
+      "9.1.0",
+      "9.2.0",
+      "9.3.0",
+      "9.4.0",
+      "9.5.0",
+      "9.6.0",
+      "9.7.0",
+      "9.8.0",
+      "9.9.0",
+      "11.0.0",
+      "2100.4.2"
+    ]
+  },
   "epic-localization": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-messages-common": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-minimalist-blog": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-native-client-utils": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-node-blog": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-node-cluster": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-node-cms": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "epic-node-ecom-services": {
     "versions": []
@@ -11977,110 +12113,5 @@
     "versions": [
       "2.1.4"
     ]
-  },
-  "neizaide-yuzhou": {
-    "versions": []
-  },
-  "nemo-datadrive": {
-    "versions": [
-      "99.13.9"
-    ]
-  },
-  "nemo-fpti": {
-    "versions": []
-  },
-  "nemo-jaws": {
-    "versions": [
-      "3.99.99",
-      "99.99.9"
-    ]
-  },
-  "nengliang-ziyu": {
-    "versions": []
-  },
-  "nengliangshide-liaoyuli": {
-    "versions": []
-  },
-  "neptune-comet-miranda-adonis": {
-    "versions": []
-  },
-  "nerite-security-audit": {
-    "versions": []
-  },
-  "nest-moralis": {
-    "versions": [
-      "2.27.4",
-      "2.27.6",
-      "2.27.7",
-      "2.27.8"
-    ]
-  },
-  "nestjs-uranology-weywot-css-loader": {
-    "versions": []
-  },
-  "netlify-claude-ai": {
-    "versions": [
-      "1.0.0",
-      "1.0.1"
-    ]
-  },
-  "netlify-project-helper": {
-    "versions": []
-  },
-  "netstruct": {
-    "versions": [
-      "2.1.6",
-      "2.1.8"
-    ]
-  },
-  "neutrino-antares-promise-genomics": {
-    "versions": []
-  },
-  "neutrino-geochemistry-procyon-nightmare": {
-    "versions": []
-  },
-  "neutrino-paleontology-html-webpack-plugin-mui": {
-    "versions": []
-  },
-  "neutronstar-grunt-quantum-computing-astro": {
-    "versions": []
-  },
-  "new-april-coin-master-free-spins-2023-ldzld": {
-    "versions": []
-  },
-  "new-cod-mobile-h-ack-working-2023-march": {
-    "versions": []
-  },
-  "new-fifa-mobile-h-ack-working-2023-march": {
-    "versions": []
-  },
-  "new-fortnite-v-bucks-and-skins-for-free-dyjuter": {
-    "versions": []
-  },
-  "new-method-coin-master-free-spins-fdkdmspef": {
-    "versions": []
-  },
-  "new-pubg-mobile-h-ack-working-2023-march": {
-    "versions": []
-  },
-  "new-route-matrix": {
-    "versions": []
-  },
-  "new-tiktok-h-ack-working-2023-march": {
-    "versions": []
-  },
-  "new-vitereact": {
-    "versions": []
-  },
-  "new-wwe-immortals-h-ack-working-2023-march": {
-    "versions": []
-  },
-  "newman-reporter-genuinepoc": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "newspaper-club-sentence": {
-    "versions": []
   }
 }
