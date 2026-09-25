@@ -1,4 +1,61 @@
 {
+  "umi-sasag2-miaww": {
+    "versions": []
+  },
+  "umi-sate45-sukiwir": {
+    "versions": []
+  },
+  "umi-semur20-sluey": {
+    "versions": []
+  },
+  "umi-semur39-miaww": {
+    "versions": []
+  },
+  "umi-semur60-breki": {
+    "versions": []
+  },
+  "umi-semur74-miaww": {
+    "versions": []
+  },
+  "umi-serabi51-ruro": {
+    "versions": []
+  },
+  "umi-soto29-breki": {
+    "versions": []
+  },
+  "umi-soto95-sluey": {
+    "versions": []
+  },
+  "umi-teh45-ruro": {
+    "versions": []
+  },
+  "umi-tek22-breki": {
+    "versions": []
+  },
+  "umi-tomat13-pore": {
+    "versions": []
+  },
+  "umi-tumis17-miaww": {
+    "versions": []
+  },
+  "umi-wajit28-ruro": {
+    "versions": []
+  },
+  "un112": {
+    "versions": [
+      "1.0.2",
+      "1.0.3",
+      "1.0.5",
+      "1.0.18",
+      "1.0.24",
+      "1.0.28",
+      "1.0.29",
+      "1.0.31",
+      "1.0.32",
+      "1.0.36",
+      "1.0.38"
+    ]
+  },
   "unadapter": {
     "versions": [
       "0.1.3"
