@@ -1,4 +1,41 @@
 {
+  "native-frontend-orb": {
+    "versions": [
+      "1.1.4",
+      "1.1.5",
+      "1.1.6",
+      "1.1.7",
+      "1.1.8",
+      "1.1.9",
+      "1.1.10",
+      "1.1.11",
+      "1.1.12",
+      "1.1.13",
+      "1.1.14",
+      "1.1.15",
+      "1.1.16",
+      "1.1.17",
+      "1.1.18",
+      "1.1.19"
+    ]
+  },
+  "native-integration": {
+    "versions": []
+  },
+  "naughty-package": {
+    "versions": [
+      "1.0.2",
+      "1.0.5",
+      "1.0.7",
+      "1.0.8"
+    ]
+  },
+  "nautilus-bamboo-nez184-project": {
+    "versions": []
+  },
+  "nautilus-mountain-vwf748-project": {
+    "versions": []
+  },
   "navi-design-system": {
     "versions": [
       "7.0.0",
@@ -12281,42 +12318,6 @@
     "versions": []
   },
   "umi-kue77-breki": {
-    "versions": []
-  },
-  "umi-lengko69-sluey": {
-    "versions": []
-  },
-  "umi-lupis28-breki": {
-    "versions": []
-  },
-  "umi-lutis64-riris": {
-    "versions": []
-  },
-  "umi-lutis73-breki": {
-    "versions": []
-  },
-  "umi-lutis77-riris": {
-    "versions": []
-  },
-  "umi-martabak49-sukiwir": {
-    "versions": []
-  },
-  "umi-martabak57-kyuki": {
-    "versions": []
-  },
-  "umi-menjes7-riris": {
-    "versions": []
-  },
-  "umi-menjes70-sumpek": {
-    "versions": []
-  },
-  "umi-menjes83-riris": {
-    "versions": []
-  },
-  "umi-mieayam67-sukiwir": {
-    "versions": []
-  },
-  "umi-naget43-miaww": {
     "versions": []
   }
 }
