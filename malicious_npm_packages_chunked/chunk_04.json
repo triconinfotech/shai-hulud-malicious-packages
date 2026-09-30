@@ -1,4 +1,7 @@
 {
+  "native-despina-version-kardashevscale": {
+    "versions": []
+  },
   "native-frontend-orb": {
     "versions": [
       "1.1.4",
@@ -12315,9 +12318,6 @@
     "versions": []
   },
   "umi-kue47-riris": {
-    "versions": []
-  },
-  "umi-kue77-breki": {
     "versions": []
   }
 }
