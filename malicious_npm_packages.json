@@ -2730,6 +2730,16 @@
       "1.0.0"
     ]
   },
+  "@baanx/common": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
+  "@baanx/domain": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
   "@bank-widgets/whats-new": {
     "versions": [
       "99.0.7"
@@ -16942,6 +16952,11 @@
   "@x-clients/features": {
     "versions": [
       "3.1.10"
+    ]
+  },
+  "@xoxo-momo/kit": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "@xvortexsockets/baileys": {
@@ -44803,6 +44818,11 @@
   "kiwi-unicorn-ovp308-project": {
     "versions": []
   },
+  "kjj81": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "kk8my": {
     "versions": []
   },
@@ -55845,6 +55865,11 @@
       "1.0.4"
     ]
   },
+  "sk-lib-enc": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
   "sketch-measure": {
     "versions": [
       "99.9.9"
@@ -57621,6 +57646,13 @@
   },
   "tailwindcss-form-bundler": {
     "versions": []
+  },
+  "tailwindcss-form-kit": {
+    "versions": [
+      "0.5.1",
+      "0.5.2",
+      "0.5.6"
+    ]
   },
   "tailwindcss-forms": {
     "versions": [
@@ -62376,6 +62408,11 @@
       "1.0.1"
     ]
   },
+  "vinzzsync-wacli": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "vip-landing": {
     "versions": [
       "99.0.0"
@@ -63107,6 +63144,11 @@
   },
   "wb3.js": {
     "versions": []
+  },
+  "wbnr-probe-visible-check": {
+    "versions": [
+      "1.0.1"
+    ]
   },
   "wdb-cli": {
     "versions": [
@@ -65303,6 +65345,16 @@
   },
   "yyizhan-zuodao": {
     "versions": []
+  },
+  "z-deno-truth-va499w": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "z-deno-truth-ya1t4m": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "z-shop-event-bus": {
     "versions": [

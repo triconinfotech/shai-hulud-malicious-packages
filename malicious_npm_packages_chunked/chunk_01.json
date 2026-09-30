@@ -1,4 +1,15 @@
 {
+  "@servicetitan/folder-lint": {
+    "versions": [
+      "38.1.1",
+      "38.1.2",
+      "38.1.3",
+      "38.1.4",
+      "38.1.5",
+      "38.1.6",
+      "38.1.7"
+    ]
+  },
   "@servicetitan/forge": {
     "versions": [
       "0.5.1",
@@ -4519,6 +4530,11 @@
   "@x-clients/features": {
     "versions": [
       "3.1.10"
+    ]
+  },
+  "@xoxo-momo/kit": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "@xvortexsockets/baileys": {
@@ -12133,8 +12149,5 @@
     "versions": [
       "1.0.0"
     ]
-  },
-  "blackbeard-navigator-ctf": {
-    "versions": []
   }
 }

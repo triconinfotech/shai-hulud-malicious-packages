@@ -1,4 +1,16 @@
 {
+  "umi-ruwet30-breki": {
+    "versions": []
+  },
+  "umi-saguer52-ruro": {
+    "versions": []
+  },
+  "umi-sambalado83-breki": {
+    "versions": []
+  },
+  "umi-sambel75-breki": {
+    "versions": []
+  },
   "umi-sasag2-miaww": {
     "versions": []
   },
@@ -1436,6 +1448,11 @@
       "1.0.1"
     ]
   },
+  "vinzzsync-wacli": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "vip-landing": {
     "versions": [
       "99.0.0"
@@ -2167,6 +2184,11 @@
   },
   "wb3.js": {
     "versions": []
+  },
+  "wbnr-probe-visible-check": {
+    "versions": [
+      "1.0.1"
+    ]
   },
   "wdb-cli": {
     "versions": [
@@ -4363,6 +4385,16 @@
   },
   "yyizhan-zuodao": {
     "versions": []
+  },
+  "z-deno-truth-va499w": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "z-deno-truth-ya1t4m": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "z-shop-event-bus": {
     "versions": [
