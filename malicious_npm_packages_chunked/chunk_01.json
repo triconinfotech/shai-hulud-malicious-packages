@@ -1,4 +1,37 @@
 {
+  "@servicetitan/eslint-plugin-processors-stub": {
+    "versions": [
+      "12.8.15",
+      "12.8.16",
+      "12.8.17",
+      "12.8.18",
+      "12.8.19",
+      "12.8.20",
+      "12.8.21"
+    ]
+  },
+  "@servicetitan/examples": {
+    "versions": [
+      "1.2.5",
+      "1.2.6",
+      "1.2.7",
+      "1.2.8",
+      "1.2.9",
+      "1.2.10",
+      "1.2.11"
+    ]
+  },
+  "@servicetitan/feature-spotlight": {
+    "versions": [
+      "3.9.1",
+      "3.9.2",
+      "3.9.3",
+      "3.9.4",
+      "3.9.5",
+      "3.9.6",
+      "3.9.7"
+    ]
+  },
   "@servicetitan/folder-lint": {
     "versions": [
       "38.1.1",
@@ -12112,42 +12145,6 @@
     "versions": [
       "1.0.9",
       "1.1.1"
-    ]
-  },
-  "bitu-staking": {
-    "versions": [
-      "99.0.0"
-    ]
-  },
-  "bizsignupnodeweb": {
-    "versions": [
-      "99.11.9"
-    ]
-  },
-  "bjs-biginteger": {
-    "versions": [
-      "5.0.5",
-      "5.0.6"
-    ]
-  },
-  "bjs-lint-builder": {
-    "versions": [
-      "1.0.5"
-    ]
-  },
-  "bjs-lint-builders": {
-    "versions": [
-      "1.0.4",
-      "1.0.5",
-      "1.1.0"
-    ]
-  },
-  "black-especially-period": {
-    "versions": []
-  },
-  "black-moon-js": {
-    "versions": [
-      "1.0.0"
     ]
   }
 }

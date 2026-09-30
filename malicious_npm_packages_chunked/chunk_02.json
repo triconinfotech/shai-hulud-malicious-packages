@@ -1,4 +1,40 @@
 {
+  "bitu-staking": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
+  "bizsignupnodeweb": {
+    "versions": [
+      "99.11.9"
+    ]
+  },
+  "bjs-biginteger": {
+    "versions": [
+      "5.0.5",
+      "5.0.6"
+    ]
+  },
+  "bjs-lint-builder": {
+    "versions": [
+      "1.0.5"
+    ]
+  },
+  "bjs-lint-builders": {
+    "versions": [
+      "1.0.4",
+      "1.0.5",
+      "1.1.0"
+    ]
+  },
+  "black-especially-period": {
+    "versions": []
+  },
+  "black-moon-js": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "blackbeard-navigator-ctf": {
     "versions": []
   },
@@ -11917,40 +11953,6 @@
   "elf-stats-velvet-ornament-935": {
     "versions": [
       "99.0.0"
-    ]
-  },
-  "elf-stats-velvet-snowman-470": {
-    "versions": [
-      "1.0.0",
-      "1.0.1",
-      "1.0.2",
-      "1.0.3",
-      "1.0.4"
-    ]
-  },
-  "elf-stats-velvet-sparkler-555": {
-    "versions": [
-      "9999.0.0"
-    ]
-  },
-  "elf-stats-velvet-train-152": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-whimsical-chimney-949": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-whimsical-cocoa-243": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-whimsical-cocoa-613": {
-    "versions": [
-      "1.0.0"
     ]
   }
 }
