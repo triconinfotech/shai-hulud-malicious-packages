@@ -1,4 +1,80 @@
 {
+  "udin-rangi66-ruro": {
+    "versions": []
+  },
+  "udin-rangi79-breki": {
+    "versions": []
+  },
+  "udin-rawon74-breki": {
+    "versions": []
+  },
+  "udin-saguer93-sukiwir": {
+    "versions": []
+  },
+  "udin-sambel42-breki": {
+    "versions": []
+  },
+  "udin-sambel46-apidev": {
+    "versions": []
+  },
+  "udin-sate14-miaww": {
+    "versions": []
+  },
+  "udin-semur41-breki": {
+    "versions": []
+  },
+  "udin-soto50-wekto": {
+    "versions": []
+  },
+  "udin-sroto16-breki": {
+    "versions": []
+  },
+  "udin-teh28-sluey": {
+    "versions": []
+  },
+  "udin-teh52-ruro": {
+    "versions": []
+  },
+  "udin-tek47-miaww": {
+    "versions": []
+  },
+  "udin-tek8-breki": {
+    "versions": []
+  },
+  "udin-tempe25-sukiwir": {
+    "versions": []
+  },
+  "udin-tempe43-kyuki": {
+    "versions": []
+  },
+  "udin-tempe62-breki": {
+    "versions": []
+  },
+  "ugc-kit": {
+    "versions": [
+      "99.99.99"
+    ]
+  },
+  "uglify-js-forever-equinox-nodejs": {
+    "versions": []
+  },
+  "uglify-js-prosthetics-typeorm-magnetosphere": {
+    "versions": []
+  },
+  "ui-2": {
+    "versions": []
+  },
+  "ui-cluster-driver-otccce": {
+    "versions": []
+  },
+  "ui-core_mal": {
+    "versions": [
+      "9.849.9"
+    ]
+  },
+  "ui-library_mercadolibre": {
+    "versions": []
+  },
   "ui-utils-udhay-alerts": {
     "versions": [
       "1.0.0",
@@ -3506,6 +3582,11 @@
   },
   "xenos-configstore-arcturus-cosmiconfig": {
     "versions": []
+  },
+  "xeprews": {
+    "versions": [
+      "5.2.1"
+    ]
   },
   "xerxes-writable-nightwatch-pavo": {
     "versions": []

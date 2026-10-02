@@ -38950,6 +38950,11 @@
       "0.0.4"
     ]
   },
+  "exprdd": {
+    "versions": [
+      "5.2.1"
+    ]
+  },
   "expreeeess": {
     "versions": [
       "1.0.0"
@@ -39007,6 +39012,11 @@
       "1.0.3"
     ]
   },
+  "express-javascript": {
+    "versions": [
+      "5.2.1"
+    ]
+  },
   "express-js-web": {
     "versions": []
   },
@@ -39018,6 +39028,11 @@
   "express-my-error-handler": {
     "versions": [
       "10.0.0"
+    ]
+  },
+  "express-nodejs": {
+    "versions": [
+      "5.2.1"
     ]
   },
   "express-prisma": {
@@ -39078,9 +39093,29 @@
       "1.1.3"
     ]
   },
+  "exprrdd": {
+    "versions": [
+      "5.2.1"
+    ]
+  },
   "exprrrress": {
     "versions": [
       "1.0.0"
+    ]
+  },
+  "exptrdd": {
+    "versions": [
+      "5.2.1"
+    ]
+  },
+  "exptred": {
+    "versions": [
+      "5.2.1"
+    ]
+  },
+  "exptredd": {
+    "versions": [
+      "5.2.1"
     ]
   },
   "exszpe3szs": {
@@ -53686,6 +53721,11 @@
       "3.3.3"
     ]
   },
+  "react-nodejs": {
+    "versions": [
+      "19.3.0"
+    ]
+  },
   "react-notifications-alert": {
     "versions": []
   },
@@ -64491,6 +64531,11 @@
   },
   "xenos-configstore-arcturus-cosmiconfig": {
     "versions": []
+  },
+  "xeprews": {
+    "versions": [
+      "5.2.1"
+    ]
   },
   "xerxes-writable-nightwatch-pavo": {
     "versions": []
