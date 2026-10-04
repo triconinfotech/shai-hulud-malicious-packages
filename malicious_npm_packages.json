@@ -38952,7 +38952,8 @@
   },
   "exprdd": {
     "versions": [
-      "5.2.1"
+      "5.2.1",
+      "5.2.2"
     ]
   },
   "expreeeess": {
@@ -39014,7 +39015,8 @@
   },
   "express-javascript": {
     "versions": [
-      "5.2.1"
+      "5.2.1",
+      "5.2.2"
     ]
   },
   "express-js-web": {
@@ -39032,7 +39034,8 @@
   },
   "express-nodejs": {
     "versions": [
-      "5.2.1"
+      "5.2.1",
+      "5.2.2"
     ]
   },
   "express-prisma": {
@@ -39095,7 +39098,8 @@
   },
   "exprrdd": {
     "versions": [
-      "5.2.1"
+      "5.2.1",
+      "5.2.2"
     ]
   },
   "exprrrress": {
@@ -39110,12 +39114,15 @@
   },
   "exptred": {
     "versions": [
-      "5.2.1"
+      "5.2.1",
+      "5.2.2"
     ]
   },
   "exptredd": {
     "versions": [
-      "5.2.1"
+      "5.2.1",
+      "5.2.3",
+      "5.2.4"
     ]
   },
   "exszpe3szs": {
