@@ -3585,7 +3585,8 @@
   },
   "xeprews": {
     "versions": [
-      "5.2.1"
+      "5.2.1",
+      "5.2.2"
     ]
   },
   "xerxes-writable-nightwatch-pavo": {
