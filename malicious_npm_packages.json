@@ -56895,7 +56895,10 @@
     "versions": []
   },
   "store-webpack-config": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "storm-he-cassandra-shishi-fenxi": {
     "versions": []
@@ -64085,7 +64088,10 @@
     "versions": []
   },
   "windows_registry_editor": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "windows-sdks": {
     "versions": [

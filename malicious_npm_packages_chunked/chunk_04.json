@@ -8261,7 +8261,10 @@
     "versions": []
   },
   "store-webpack-config": {
-    "versions": []
+    "versions": [
+      "0.0.1-security",
+      "1.0.0"
+    ]
   },
   "storm-he-cassandra-shishi-fenxi": {
     "versions": []
@@ -12316,9 +12319,6 @@
     "versions": []
   },
   "udin-peyek62-sluey": {
-    "versions": []
-  },
-  "udin-rangi52-breki": {
     "versions": []
   }
 }
