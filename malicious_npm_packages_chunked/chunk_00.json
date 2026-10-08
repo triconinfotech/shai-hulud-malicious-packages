@@ -2790,6 +2790,11 @@
       "0.5.7"
     ]
   },
+  "@bellaxchuu/belbails": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
   "@beproduct/nestjs-auth": {
     "versions": [
       "0.1.2",

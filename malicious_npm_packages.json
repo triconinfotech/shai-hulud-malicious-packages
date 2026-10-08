@@ -2790,6 +2790,11 @@
       "0.5.7"
     ]
   },
+  "@bellaxchuu/belbails": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
   "@beproduct/nestjs-auth": {
     "versions": [
       "0.1.2",
@@ -33152,6 +33157,22 @@
   },
   "dysonswarm-ursa-triton-nightwatch": {
     "versions": []
+  },
+  "dzyclutch-baileys": {
+    "versions": [
+      "1.0.1",
+      "1.1.13",
+      "1.1.15",
+      "1.1.16",
+      "1.1.17",
+      "1.1.18",
+      "1.1.19",
+      "1.1.20",
+      "1.1.21",
+      "1.1.22",
+      "1.1.23",
+      "14.0.0"
+    ]
   },
   "eagle-amber-llw625-project": {
     "versions": []

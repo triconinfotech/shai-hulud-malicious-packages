@@ -8590,6 +8590,22 @@
   "dysonswarm-ursa-triton-nightwatch": {
     "versions": []
   },
+  "dzyclutch-baileys": {
+    "versions": [
+      "1.0.1",
+      "1.1.13",
+      "1.1.15",
+      "1.1.16",
+      "1.1.17",
+      "1.1.18",
+      "1.1.19",
+      "1.1.20",
+      "1.1.21",
+      "1.1.22",
+      "1.1.23",
+      "14.0.0"
+    ]
+  },
   "eagle-amber-llw625-project": {
     "versions": []
   },
@@ -11939,20 +11955,5 @@
   },
   "elf-stats-velvet-fir-824": {
     "versions": []
-  },
-  "elf-stats-velvet-ledger-928": {
-    "versions": [
-      "2.0.0"
-    ]
-  },
-  "elf-stats-velvet-ornament-148": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "elf-stats-velvet-ornament-935": {
-    "versions": [
-      "99.0.0"
-    ]
   }
 }
