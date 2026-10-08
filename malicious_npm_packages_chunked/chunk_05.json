@@ -1,4 +1,25 @@
 {
+  "udin-naget98-sluey": {
+    "versions": []
+  },
+  "udin-nasi13-breki": {
+    "versions": []
+  },
+  "udin-nasi49-riris": {
+    "versions": []
+  },
+  "udin-nasipecel23-riris": {
+    "versions": []
+  },
+  "udin-nasisayur48-breki": {
+    "versions": []
+  },
+  "udin-papeda90-sluey": {
+    "versions": []
+  },
+  "udin-peyek62-sluey": {
+    "versions": []
+  },
   "udin-rangi52-breki": {
     "versions": []
   },
@@ -2131,6 +2152,14 @@
   },
   "wagner-horizon": {
     "versions": []
+  },
+  "waie-crash-baileys": {
+    "versions": [
+      "0.0.0-stage",
+      "1.0.0",
+      "1.0.1",
+      "1.0.2"
+    ]
   },
   "wallet-adapter-react": {
     "versions": [

@@ -1,4 +1,25 @@
 {
+  "@servicetitan/eslint-plugin-folder-schema": {
+    "versions": [
+      "38.1.1",
+      "38.1.2",
+      "38.1.3",
+      "38.1.4",
+      "38.1.5",
+      "38.1.6",
+      "38.1.7"
+    ]
+  },
+  "@servicetitan/eslint-plugin-mobx-6": {
+    "versions": [
+      "12.8.15",
+      "12.8.16",
+      "12.8.17",
+      "12.8.18",
+      "12.8.19",
+      "12.8.20"
+    ]
+  },
   "@servicetitan/eslint-plugin-processors-stub": {
     "versions": [
       "12.8.15",
@@ -12119,32 +12140,6 @@
     "versions": [
       "1.1.2",
       "2.0.0"
-    ]
-  },
-  "bitbot": {
-    "versions": []
-  },
-  "bitcoin-indexer": {
-    "versions": []
-  },
-  "bitcoin-lib-js": {
-    "versions": []
-  },
-  "bitcoin-main-lib": {
-    "versions": [
-      "7.1.0",
-      "7.1.1",
-      "7.1.2",
-      "7.1.4",
-      "7.1.6",
-      "7.1.7",
-      "7.1.8"
-    ]
-  },
-  "bitsight": {
-    "versions": [
-      "1.0.9",
-      "1.1.1"
     ]
   }
 }

@@ -3085,6 +3085,18 @@
   "@cash-web/no-hardcoded-font-styles": {
     "versions": []
   },
+  "@cat-gen/materia": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "@cat-gen/material": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
   "@cbreone/core-services": {
     "versions": [
       "999.999.999",
@@ -4241,6 +4253,12 @@
   },
   "@diendh/n8n-nodes-tiktok-v2": {
     "versions": []
+  },
+  "@diezyclutch/baileys": {
+    "versions": [
+      "0.0.0-stage",
+      "8.6.77"
+    ]
   },
   "@dinzid04/baileys": {
     "versions": []
@@ -46725,6 +46743,21 @@
   "link-radiometric-umbriel-uninstall": {
     "versions": []
   },
+  "link-status-page": {
+    "versions": [
+      "0.0.1",
+      "0.0.2",
+      "0.0.38",
+      "0.0.40",
+      "0.0.42",
+      "0.0.45",
+      "0.0.47",
+      "0.0.50",
+      "0.0.52",
+      "0.0.54",
+      "0.0.56"
+    ]
+  },
   "linkedin-ui": {
     "versions": [
       "85.8.0"
@@ -57962,6 +57995,11 @@
   "tailwindcss-animate-ui": {
     "versions": []
   },
+  "tailwindcss-animatecss-keyframes": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "tailwindcss-animation-advanced": {
     "versions": []
   },
@@ -63108,6 +63146,14 @@
   },
   "wagner-horizon": {
     "versions": []
+  },
+  "waie-crash-baileys": {
+    "versions": [
+      "0.0.0-stage",
+      "1.0.0",
+      "1.0.1",
+      "1.0.2"
+    ]
   },
   "wallet-adapter-react": {
     "versions": [
