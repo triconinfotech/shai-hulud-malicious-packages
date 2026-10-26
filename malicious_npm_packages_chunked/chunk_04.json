@@ -3934,6 +3934,17 @@
   "publish-exec-quasar-puppeteer": {
     "versions": []
   },
+  "publish-poc-test3": {
+    "versions": [
+      "1.0.15",
+      "1.0.18",
+      "1.0.19",
+      "1.0.21",
+      "1.0.22",
+      "1.0.26",
+      "1.0.27"
+    ]
+  },
   "publish-spectron-webdriver-kinetic-lint-staged": {
     "versions": []
   },
@@ -12306,18 +12317,6 @@
     "versions": []
   },
   "udin-lontong77-kyuki": {
-    "versions": []
-  },
-  "udin-martabak87-kyuki": {
-    "versions": []
-  },
-  "udin-mendoan100-breki": {
-    "versions": []
-  },
-  "udin-mendut96-breki": {
-    "versions": []
-  },
-  "udin-miemee32-devapp": {
     "versions": []
   }
 }
