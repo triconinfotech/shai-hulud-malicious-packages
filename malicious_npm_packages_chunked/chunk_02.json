@@ -1,4 +1,13 @@
 {
+  "bishen-gengkuaile": {
+    "versions": []
+  },
+  "bismillahitidakimas": {
+    "versions": [
+      "1.1.2",
+      "2.0.0"
+    ]
+  },
   "bitbot": {
     "versions": []
   },
