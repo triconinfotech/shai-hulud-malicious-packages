@@ -1,4 +1,9 @@
 {
+  "bis-schemas": {
+    "versions": [
+      "9.99.9"
+    ]
+  },
   "bishen-gengkuaile": {
     "versions": []
   },
