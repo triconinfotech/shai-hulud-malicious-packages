@@ -1,4 +1,9 @@
 {
+  "bip40": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "bis-schemas": {
     "versions": [
       "9.99.9"
@@ -11956,11 +11961,6 @@
   "elf-stats-twinkling-ribbon-344": {
     "versions": [
       "2.1.1"
-    ]
-  },
-  "elf-stats-twinkling-sled-276": {
-    "versions": [
-      "1.0.0"
     ]
   }
 }

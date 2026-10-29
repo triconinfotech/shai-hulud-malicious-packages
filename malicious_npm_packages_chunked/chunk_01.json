@@ -8046,6 +8046,12 @@
   "adonis-robotics-cordelia-higgs": {
     "versions": []
   },
+  "adorn": {
+    "versions": [
+      "0.1.0",
+      "0.1.1"
+    ]
+  },
   "adril7123": {
     "versions": []
   },
@@ -12133,10 +12139,5 @@
   },
   "biosignature-miranda-impulse-paleoecology": {
     "versions": []
-  },
-  "bip40": {
-    "versions": [
-      "1.0.0"
-    ]
   }
 }

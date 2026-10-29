@@ -1,4 +1,9 @@
 {
+  "elf-stats-twinkling-sled-276": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-twinkling-wishlist-283": {
     "versions": [
       "9.9.9",
@@ -12157,9 +12162,6 @@
     "versions": []
   },
   "myth-rose-mqm027-project": {
-    "versions": []
-  },
-  "myth-zebra-lhu326-project": {
     "versions": []
   }
 }
