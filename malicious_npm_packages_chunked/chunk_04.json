@@ -6986,7 +6986,8 @@
   },
   "server-hemera-mongo": {
     "versions": [
-      "0.0.12"
+      "0.0.12",
+      "0.0.16"
     ]
   },
   "server-parket": {
