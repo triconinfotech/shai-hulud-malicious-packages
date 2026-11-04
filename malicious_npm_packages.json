@@ -29130,6 +29130,11 @@
   "colorwizgamess": {
     "versions": []
   },
+  "colossal_wallaby_pink-87": {
+    "versions": [
+      "1.2.1"
+    ]
+  },
   "column-car-vast": {
     "versions": []
   },
@@ -42824,6 +42829,11 @@
       "1.7.0-alpha.1.0.canary.11765"
     ]
   },
+  "hollow_wildebeest_silver-94": {
+    "versions": [
+      "1.1.2"
+    ]
+  },
   "hollow-iceberg-uif020-project": {
     "versions": []
   },
@@ -43070,6 +43080,11 @@
   },
   "hush_ix0lp_ohi9t_utopia": {
     "versions": []
+  },
+  "hushed_zebra_green-81": {
+    "versions": [
+      "2.4.2"
+    ]
   },
   "husky-logger": {
     "versions": []
@@ -43359,6 +43374,11 @@
   },
   "importmap-polyfil": {
     "versions": []
+  },
+  "inadequate_earwig_magenta-66": {
+    "versions": [
+      "3.4.3"
+    ]
   },
   "incode-kyc-backend": {
     "versions": [
@@ -43727,6 +43747,11 @@
   "internationalized": {
     "versions": []
   },
+  "intimate_ostrich_amethyst-45": {
+    "versions": [
+      "3.1.4"
+    ]
+  },
   "intl-tel-input-utils": {
     "versions": [
       "99.99.99",
@@ -43884,6 +43909,11 @@
   },
   "issueprocessor": {
     "versions": []
+  },
+  "itchy_gecko_magenta-98": {
+    "versions": [
+      "2.3.4"
+    ]
   },
   "item-box": {
     "versions": []
@@ -48448,6 +48478,11 @@
   "motionflow": {
     "versions": []
   },
+  "motionless_mandrill_blush-51": {
+    "versions": [
+      "2.2.3"
+    ]
+  },
   "mountain-nest-range": {
     "versions": []
   },
@@ -52710,6 +52745,11 @@
   "purchasetesterexpo": {
     "versions": []
   },
+  "pure_opossum_amaranth-54": {
+    "versions": [
+      "2.3.2"
+    ]
+  },
   "purple-npm": {
     "versions": []
   },
@@ -56407,6 +56447,11 @@
       "1.0.0"
     ]
   },
+  "smooth_angelfish_emerald-54": {
+    "versions": [
+      "2.2.2"
+    ]
+  },
   "sn-listbox": {
     "versions": [
       "0.3.3"
@@ -56651,6 +56696,11 @@
   "sos-models": {
     "versions": []
   },
+  "sound_deer_apricot-15": {
+    "versions": [
+      "2.1.4"
+    ]
+  },
   "source-analyzer": {
     "versions": [
       "0.5.7",
@@ -56661,6 +56711,11 @@
   "south-african-id-info": {
     "versions": [
       "1.0.2"
+    ]
+  },
+  "southern_duck_tan-16": {
+    "versions": [
+      "2.4.3"
     ]
   },
   "soxhob-client": {
@@ -56712,6 +56767,11 @@
   },
   "species-value-none": {
     "versions": []
+  },
+  "specific_sheep_violet-22": {
+    "versions": [
+      "2.4.1"
+    ]
   },
   "spectral-corsair-my-backdoor": {
     "versions": [
@@ -58760,6 +58820,11 @@
     "versions": [
       "1.0.2",
       "1.0.3"
+    ]
+  },
+  "temporary_smelt_lavender-81": {
+    "versions": [
+      "3.3.1"
     ]
   },
   "tenacious-fetch": {
@@ -61498,6 +61563,11 @@
       "0.5.0"
     ]
   },
+  "unfortunate_crawdad_emerald-79": {
+    "versions": [
+      "3.3.1"
+    ]
+  },
   "unhandledrejection1": {
     "versions": [
       "1.0.2"
@@ -62009,6 +62079,11 @@
       "13.15.16",
       "13.15.17",
       "13.15.18"
+    ]
+  },
+  "valid_antlion_amber-50": {
+    "versions": [
+      "4.1.3"
     ]
   },
   "valid-ip-check": {
@@ -64652,6 +64727,11 @@
     "versions": [
       "6.1.9",
       "6.2.0"
+    ]
+  },
+  "xenacious_kangaroo_blush-47": {
+    "versions": [
+      "4.3.3"
     ]
   },
   "xenobiology-nashira-gulp-bootes": {
