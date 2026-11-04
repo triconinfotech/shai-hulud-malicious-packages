@@ -3510,6 +3510,36 @@
       "1.15.1"
     ]
   },
+  "@ubedsockets/baileys": {
+    "versions": [
+      "1.0.0",
+      "1.1.0",
+      "1.2.0",
+      "1.3.0",
+      "1.4.0",
+      "1.5.0",
+      "1.6.1",
+      "1.6.2",
+      "1.6.3",
+      "1.6.4",
+      "1.6.5",
+      "1.6.6",
+      "1.6.7",
+      "1.6.8",
+      "1.6.9",
+      "1.7.0",
+      "1.7.1",
+      "1.7.2",
+      "1.7.3",
+      "1.7.5",
+      "1.7.6",
+      "1.7.7",
+      "1.7.9",
+      "1.7.10",
+      "1.7.11",
+      "1.7.12"
+    ]
+  },
   "@uc-platform/advertisement-service-client": {
     "versions": [
       "99.99.9"
@@ -12117,27 +12147,6 @@
     ]
   },
   "bingo-log": {
-    "versions": []
-  },
-  "biogeochemistry-ursa-grunt-vuepress": {
-    "versions": []
-  },
-  "biohacking-epimetheus-bellatrix-genomics": {
-    "versions": []
-  },
-  "biohacking-lacerta-redgiant-sync": {
-    "versions": []
-  },
-  "bioinformatics-procyon-command-writable": {
-    "versions": []
-  },
-  "bioinformatics-quantum-apex-nextjs": {
-    "versions": []
-  },
-  "bionics-astro-prompts-meteor": {
-    "versions": []
-  },
-  "biosignature-miranda-impulse-paleoecology": {
     "versions": []
   }
 }

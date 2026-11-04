@@ -1,4 +1,36 @@
 {
+  "my-test-module-first-vespero1017-santiago": {
+    "versions": []
+  },
+  "myads-layout": {
+    "versions": [
+      "6.5.5"
+    ]
+  },
+  "mybibilabu": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "mycli123": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
+  "mypeopledoc": {
+    "versions": [
+      "9999.0.0"
+    ]
+  },
+  "mysql2.js": {
+    "versions": []
+  },
+  "mystealer": {
+    "versions": []
+  },
+  "myth-rose-mqm027-project": {
+    "versions": []
+  },
   "myth-zebra-lhu326-project": {
     "versions": []
   },
@@ -12290,33 +12322,6 @@
     "versions": []
   },
   "udin-keripik28-sukiwir": {
-    "versions": []
-  },
-  "udin-keripik51-riris": {
-    "versions": []
-  },
-  "udin-klentik45-sukiwir": {
-    "versions": []
-  },
-  "udin-kue17-riris": {
-    "versions": []
-  },
-  "udin-kue73-breki": {
-    "versions": []
-  },
-  "udin-kue87-pore": {
-    "versions": []
-  },
-  "udin-kue87-sukiwir": {
-    "versions": []
-  },
-  "udin-lepet98-miaww": {
-    "versions": []
-  },
-  "udin-liwet37-breki": {
-    "versions": []
-  },
-  "udin-lontong47-breki": {
     "versions": []
   }
 }
