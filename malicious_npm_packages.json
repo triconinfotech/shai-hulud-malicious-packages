@@ -30609,6 +30609,11 @@
   "dependencies-backend-mutation-string": {
     "versions": []
   },
+  "dependent-final": {
+    "versions": [
+      "1.0.3"
+    ]
+  },
   "depenve": {
     "versions": []
   },
@@ -32433,6 +32438,11 @@
   },
   "dian-pecel96-sluey": {
     "versions": []
+  },
+  "dian-peyek23-miaww": {
+    "versions": [
+      "1.1.3"
+    ]
   },
   "dian-ragi32-sukiwir": {
     "versions": []
@@ -47120,6 +47130,11 @@
   "lovable-loggers": {
     "versions": []
   },
+  "low_hummingbird_replicate_automation": {
+    "versions": [
+      "2.2.1"
+    ]
+  },
   "lowerx-package": {
     "versions": []
   },
@@ -47378,6 +47393,11 @@
   },
   "mail-lesson-tank": {
     "versions": []
+  },
+  "maila-talijah-alpha-128": {
+    "versions": [
+      "1.1.11"
+    ]
   },
   "mailcraftjs": {
     "versions": []
@@ -51702,6 +51722,16 @@
   "pearpass-utils-password-check": {
     "versions": []
   },
+  "pearx93qja-notthedevs": {
+    "versions": [
+      "1.1.8"
+    ]
+  },
+  "peas-tea-curut": {
+    "versions": [
+      "3.2.2"
+    ]
+  },
   "peer-deps-external": {
     "versions": [
       "6.9.1"
@@ -53147,6 +53177,11 @@
       "1.0.67"
     ]
   },
+  "quiche-tea-curut": {
+    "versions": [
+      "4.3.4"
+    ]
+  },
   "quick-start_onnxruntime-node": {
     "versions": [
       "1.1.1",
@@ -54266,6 +54301,11 @@
   },
   "rehype-phoenix-apollo-ceres": {
     "versions": []
+  },
+  "related_blackbird-toolteadev": {
+    "versions": [
+      "2.1.1"
+    ]
   },
   "relationship.js": {
     "versions": [
@@ -61564,6 +61604,11 @@
       "0.5.0"
     ]
   },
+  "unemployed_xerinae-toolteadev": {
+    "versions": [
+      "1.4.4"
+    ]
+  },
   "unfortunate_crawdad_emerald-79": {
     "versions": [
       "3.3.1"
@@ -63984,6 +64029,11 @@
   "werufgugweuiguiwergqui": {
     "versions": [
       "2.3.9"
+    ]
+  },
+  "wet_rat_replicate_automation": {
+    "versions": [
+      "2.3.1"
     ]
   },
   "weywot-kinetic-aether-pm2": {

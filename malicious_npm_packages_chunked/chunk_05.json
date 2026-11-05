@@ -1,4 +1,52 @@
 {
+  "typescript-validation-schema": {
+    "versions": [
+      "0.18.1"
+    ]
+  },
+  "typescript-vue-apollo-smart-ops": {
+    "versions": [
+      "3.0.1"
+    ]
+  },
+  "typespec-validation": {
+    "versions": []
+  },
+  "typo-crypto": {
+    "versions": [
+      "4.3.0"
+    ]
+  },
+  "typoriem": {
+    "versions": []
+  },
+  "u8ymp15aglfp7y": {
+    "versions": [
+      "0.0.1"
+    ]
+  },
+  "uba-plugins": {
+    "versions": [
+      "999.0.0"
+    ]
+  },
+  "uber-ui": {
+    "versions": [
+      "95.6.0"
+    ]
+  },
+  "ucbuzz-web-common": {
+    "versions": []
+  },
+  "udin-bika32-riris": {
+    "versions": []
+  },
+  "udin-bika78-riris": {
+    "versions": []
+  },
+  "udin-brongkos71-sukiwir": {
+    "versions": []
+  },
   "udin-dodol22-miaww": {
     "versions": []
   },
@@ -538,6 +586,11 @@
     "versions": [
       "0.3.1",
       "0.5.0"
+    ]
+  },
+  "unemployed_xerinae-toolteadev": {
+    "versions": [
+      "1.4.4"
     ]
   },
   "unfortunate_crawdad_emerald-79": {
@@ -2960,6 +3013,11 @@
   "werufgugweuiguiwergqui": {
     "versions": [
       "2.3.9"
+    ]
+  },
+  "wet_rat_replicate_automation": {
+    "versions": [
+      "2.3.1"
     ]
   },
   "weywot-kinetic-aether-pm2": {

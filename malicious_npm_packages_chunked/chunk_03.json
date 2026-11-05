@@ -1,4 +1,14 @@
 {
+  "elf-stats-tinsel-sparkler-289": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-tinsel-train-397": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-twinkling-bell-867": {
     "versions": [
       "1.0.0"
@@ -10592,6 +10602,11 @@
   "lovable-loggers": {
     "versions": []
   },
+  "low_hummingbird_replicate_automation": {
+    "versions": [
+      "2.2.1"
+    ]
+  },
   "lowerx-package": {
     "versions": []
   },
@@ -10850,6 +10865,11 @@
   },
   "mail-lesson-tank": {
     "versions": []
+  },
+  "maila-talijah-alpha-128": {
+    "versions": [
+      "1.1.11"
+    ]
   },
   "mailcraftjs": {
     "versions": []
@@ -12129,31 +12149,6 @@
     "versions": []
   },
   "muxflux": {
-    "versions": []
-  },
-  "mvn-runtime": {
-    "versions": [
-      "1.0.0",
-      "1.0.1"
-    ]
-  },
-  "mw-filesystem-events-nodream": {
-    "versions": [
-      "0.0.32"
-    ]
-  },
-  "mw-frontend-utils": {
-    "versions": []
-  },
-  "mw-proto-models": {
-    "versions": []
-  },
-  "mw-proto-ts": {
-    "versions": [
-      "99.99.1"
-    ]
-  },
-  "mw-shared-utils": {
     "versions": []
   }
 }
