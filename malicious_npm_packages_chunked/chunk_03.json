@@ -1,4 +1,14 @@
 {
+  "elf-stats-tinsel-pantry-856": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-tinsel-sleigh-669": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-tinsel-sparkler-289": {
     "versions": [
       "1.0.0"
@@ -12140,15 +12150,6 @@
     "versions": []
   },
   "mutation-fork-cressida-carpo": {
-    "versions": []
-  },
-  "mutation-nodemon-semantic-release-barnard": {
-    "versions": []
-  },
-  "mutual-ssl": {
-    "versions": []
-  },
-  "muxflux": {
     "versions": []
   }
 }

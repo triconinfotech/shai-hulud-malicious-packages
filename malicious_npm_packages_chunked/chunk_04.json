@@ -1,4 +1,13 @@
 {
+  "mutation-nodemon-semantic-release-barnard": {
+    "versions": []
+  },
+  "mutual-ssl": {
+    "versions": []
+  },
+  "muxflux": {
+    "versions": []
+  },
   "mvn-runtime": {
     "versions": [
       "1.0.0",
@@ -12323,16 +12332,6 @@
   "typescript-rtk-query": {
     "versions": [
       "3.1.2"
-    ]
-  },
-  "typescript-type-graphql": {
-    "versions": [
-      "3.0.1"
-    ]
-  },
-  "typescript-urql": {
-    "versions": [
-      "8.0.0"
     ]
   }
 }

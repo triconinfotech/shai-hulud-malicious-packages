@@ -1,4 +1,14 @@
 {
+  "typescript-type-graphql": {
+    "versions": [
+      "3.0.1"
+    ]
+  },
+  "typescript-urql": {
+    "versions": [
+      "8.0.0"
+    ]
+  },
   "typescript-validation-schema": {
     "versions": [
       "0.18.1"
