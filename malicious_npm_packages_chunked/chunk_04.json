@@ -1,4 +1,7 @@
 {
+  "mutation-fork-cressida-carpo": {
+    "versions": []
+  },
   "mutation-nodemon-semantic-release-barnard": {
     "versions": []
   },
@@ -12327,11 +12330,6 @@
   "typescript-resolvers": {
     "versions": [
       "5.1.5"
-    ]
-  },
-  "typescript-rtk-query": {
-    "versions": [
-      "3.1.2"
     ]
   }
 }

@@ -4654,7 +4654,10 @@
     ]
   },
   "commerce-utils": {
-    "versions": []
+    "versions": [
+      "0.0.1",
+      "0.0.2"
+    ]
   },
   "commitizen-fomalhaut-slidev-mocha": {
     "versions": []
@@ -11952,11 +11955,6 @@
     ]
   },
   "elf-stats-tinsel-giftbox-192": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-tinsel-muffin-395": {
     "versions": [
       "1.0.0"
     ]
