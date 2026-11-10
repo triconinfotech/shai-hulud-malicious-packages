@@ -5961,6 +5961,12 @@
   "@zalastax/nolb-passport-d": {
     "versions": []
   },
+  "@zanxiky/baileys": {
+    "versions": [
+      "0.0.0-stage",
+      "1.1.0"
+    ]
+  },
   "@zapier/ai-actions": {
     "versions": [
       "0.1.18",
@@ -12143,11 +12149,6 @@
     "versions": [
       "1.0.0",
       "1.0.1"
-    ]
-  },
-  "bignumx": {
-    "versions": [
-      "1.0.0"
     ]
   }
 }

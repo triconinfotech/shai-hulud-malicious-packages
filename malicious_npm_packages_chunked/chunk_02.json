@@ -1,4 +1,9 @@
 {
+  "bignumx": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "billing-paywidget": {
     "versions": [
       "99.0.0"
