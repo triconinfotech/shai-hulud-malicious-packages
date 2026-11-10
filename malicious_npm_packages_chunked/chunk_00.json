@@ -3150,6 +3150,12 @@
       "9.9.99"
     ]
   },
+  "@chatbridgeworld/baileys": {
+    "versions": [
+      "0.0.0-stage",
+      "1.0.0"
+    ]
+  },
   "@chatclub/claude-code": {
     "versions": [
       "0.0.1",
