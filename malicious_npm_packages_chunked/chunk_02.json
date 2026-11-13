@@ -1,4 +1,10 @@
 {
+  "bignumex": {
+    "versions": [
+      "1.0.0",
+      "1.0.1"
+    ]
+  },
   "bignumx": {
     "versions": [
       "1.0.0"
@@ -11952,11 +11958,6 @@
       "1.0.2",
       "1.0.3",
       "1.0.4"
-    ]
-  },
-  "elf-stats-tinsel-giftbox-192": {
-    "versions": [
-      "1.0.0"
     ]
   }
 }

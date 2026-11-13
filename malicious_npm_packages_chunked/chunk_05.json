@@ -1,4 +1,9 @@
 {
+  "typescript-resolvers": {
+    "versions": [
+      "5.1.5"
+    ]
+  },
   "typescript-rtk-query": {
     "versions": [
       "3.1.2"

@@ -1,4 +1,7 @@
 {
+  "mutation-fermion-holography-neuromorphic": {
+    "versions": []
+  },
   "mutation-fork-cressida-carpo": {
     "versions": []
   },
@@ -12325,11 +12328,6 @@
   "typescript-react-query": {
     "versions": [
       "6.1.1"
-    ]
-  },
-  "typescript-resolvers": {
-    "versions": [
-      "5.1.5"
     ]
   }
 }
